@@ -1,0 +1,281 @@
+
+          00:01
+          hello and welcome to the green pill. network podcast if you're just joining us we're building a coordination a network Society of thousands of hackers streamers and tourers focused on using crypto to bring positive sum digital systems to the world this podcast features the people who are doing it and uh if you want to learn more you can visit our website at Green pill. Network where you can download the green pill book for free join the Discord or become a member of your local green pill. Network chapter now on with the show all
+
+          
+          00:27
+          right this is part two of my special series with v Brer in about public goods funding at the end of 2025 in part one we talked about the Tal's Broadview of the design space as we go from 2024 to 2025 what are the things that Builders should be focused on and in part two of this two episode series we talk about deep funding. org which is a new experiment that the gitcoin ecosystem is building with vitalics Guidance the G I should say the gitcoin and general public goods funding ecosystem is building there's a bunch of us who are
+
+          
+          00:56
+          building part of this ecosystem and the amazing thing is the money Legos that have been produced that allows a bunch of teams to work together to implement vitalic Vision so in this episode we talk about vitalic vision for deep funding and uh a tldr for you before you get into the upod is that deep funding uses dependency graph in a market of AI or human allocators steered by a spot checking jury to pay a large number of Open Source contributors directly or indirectly Upstream of a project or outcome that a funder cares about okay
+
+          
+          01:25
+          so we're doing deep funding no more of this surface level funding that only if people know about it doesn't get funding we're looking at dependency graphs we're using AI agents in order to figure out which projects have dependencies in what ways on on other things so this is a really bold experiment in public H funding I'm so excited to be unveiling it today on the green pill podcast um so uh the next voice you will hear will be myself introducing Devon inel as my co-host for the episode and then we will
+
+          
+          01:54
+          get the conversation with vitalic about deep funding. org I think you're really going to enjoy this episode [Music] all right here we are uh Devon you want to start off with an intro of yourself and then stage all and then we will get into our questions for vitalic thanks for getting me on this my name is Devan and I work in arbitrium Dow governance and in general Dow governance and also public goods and um something I I was an investigative reporter by training and I think like the values of censorship
+
+          
+          02:26
+          resistance speaking truth to power really have a home in the blockchain space that's what got me into it first thanks Sean go ahead SEL hi I'm SEL and I work as grants Innovation specialist at gitcoin my work fly involves in sort of Designing the grand programs with the ecosystems and I led the first ezr pgf pilot with gitcoin with protocol Labs cell and pocket and really interested in exploring the different ways of uh Capital allocation well we are here today to talk about deep funding which is a new experiment that we've been
+
+          
+          02:58
+          cooking up and um I'm going to sit in the background as uh SEL and Devon ask vitalic about deep funding and the inspiration behind it so you all take the Reigns and I'll take them back in about 15 or 20 minutes as we're wrapping up go ahead okay yeah that's great I maybe start with the first question so vitalic this is like clearly something you've been thinking about for quite some time so I guess like what is the problem that caused you to start looking into it what is the uh kind of what is the mechanism itself and why deep uh fun
+
+          
+          03:30
+          the name yeah so to me deep funding has two core um insights that distinguish it from a lot of the previous like funding mechanisms right so one of them is deep in the sense of like a deep graph and the other is deep in the sense of deep learning right so we can get into both of these right so when you say the Deep graph right the core of the mechanism is basically that you have this dependency graph so this graph of projects and how much value each project provides to each other project and this graph can have multiple levels
+
+          
+          04:11
+          to it and the idea of moving from a frame of public goods funding to a frame of dependency graphs is something that I've observed in like Commons and like Public Funding discour especially over the last year right and to me the reason why like in intuitively it should work is or it should work better is that like public goods funding in general has this problem of being this like fairly far mode thing right it's like oh you don't know we're how much value does this thing provide to humanity right it's
+
+          
+          04:46
+          like how what is the dollar value that um you know the pi ECC piun Library provides to humanity or provides to theorum like how the hell do you even calculate that right um but the question of how how much credit does a deserve for b or how relatively speaking how much more valuable is a for B than C is for B those are questions that are somewhat more tractable right and uh if you break down the know relatively intractable thing into more tractable things uh then uh like you're going to be able to get higher quality answers
+
+          
+          05:24
+          right and there's like a lot of psychological research that shows that that you know we're much more irrational at relatively far mode things we're also more irrational about uh you know giving absolute numbers than at you know giving relative answers right it's like the famous you know scope and sensitivity question like if you ask people how many dollars they would pay to save 2,000 burds versus 200,000 burds versus two uh 20,000 burds it turns out the answer that they give is like $80 in all of
+
+          
+          05:53
+          those cases right and so you know you wants to avoid like that kind of thing right and sometimes like Public Funding has a bad name precisely because it gets attached to these uh know like very big challenges and even determining like what is a thousand times more valuable or a thousand times less valuable right so breaking into graphs the second part is uh like the debling part right so in my post on info Finance I have a section that's distilled human judgment and the section there basically suggests like
+
+          
+          06:27
+          hey you know we have these powerful AIS so how about we basically use AI as an accelerator right I basically think of it as that you know you have an existing mechanism that is expensive but that is credibly neutral and or at least that you can that has a lot of legitimacy and that you trust and then you use AI to try to get something that is almost as good as that mechanism but that can be extremely performant right and so think of it as like AIS being the uh engine and this human based mechanism being the
+
+          
+          07:03
+          steering wheel right and so the the way this would work is that you fill in this graph and then you would have a human mechanism that spot checks the graph in a few random places and it basically takes gives out a final answer that is based on the AI given answers in proportion to how closely they match to human preferences on the specific subsite that the humans actually check right and so you can structure this in different ways like you could structure it as a prediction Market where eyes are participating or
+
+          
+          07:37
+          you could create a somewhat a somewhat simpler structure you can make an analogy to rlf here right but like that's the the core idea right of like AI providing the scale but then the some human mechanism that is more expensive per query but where you make relatively few queries is the thing that is providing the direction yeah I'm curious if uh you know what are the some unintended consequences of deep funding yeah I mean I guess this is uh one of the things that we're going to find out right um because uh I think one of the
+
+          
+          08:14
+          new things that deep funding uh does is H it does introduce this like contest nature to it right where you have people using AIS that are providing and like these big uh like million uh number you know graph lightings that basically say you know like this is the percent allocation going from this to this and it's like a competitive mechanism right like people are competing to give answers that are the closest to what the human jury end up selecting and like if you do a better job on the competition
+
+          
+          08:48
+          then you know you like get a bigger prize yourself right and like I think competitions like that like very Str like structured competitions they could give a lot of value right and like I mean when I was in high school I participated fed in programming competitions quite a bit and like they were really fun and I enjoyed them right and like they they can be great for really focusing attention but at the same time like any kind of mechanism has adversarial incentives in it always has like unintended ways in which it's uh
+
+          
+          09:18
+          ends up uh breaking um so that's like one place where I would uh look for uned consequences like if you want to ask the question of like where if I was told a year from now that that the mechanism broke like where does it break I would say one of my answers would be well maybe it just turns out that even doing these like short range uh like spot checking answers uh questions of like how valuable is a for B like maybe even those answers are actually like very hard for human beings to answer reliably
+
+          
+          09:53
+          enough uh so that's a concern um or potentially maybe the problem of G becomes like just too hard to get past right and when you have AIS people are going to start gaining the AIS and of course there's like very basic like Noob level stuff that you can do like making 500 commits instead of five commits right but the the theory is of course that like human spot cheing judges are going to be able to cap to see that and take that into account and so that creates the incentive for people to make models that see it and that take into
+
+          
+          10:28
+          account right but then the question is like like is that whole balance actually going to work and like I don't know that's something I would look for I mean otherwise the that question is that you know it's it's definitely pretty open-ended so I mean I'd also be interested to hear from uh you know you3 like what what are areas in which you expect unintended consequences might come I think the biggest danger might be in how software development itself is done we've already seen maintainers come under a lot of stress after they tried
+
+          
+          10:58
+          sneaking in a back door vulnerability so I'm concerned that it might lead to people not including dependencies or like kind of changing up their internal Dynamics I feel that's the thing I'm most concerned about yeah I think this is what I can think of like you know um will they end up choosing which dependency to use which to not use and you know how will that play out so yeah I mean I think uh the like like if I had to robot the the standard robot it's like we're not comparing against Nirvana
+
+          
+          11:28
+          we're comparing against the Alternatives right and like in private markets uh you know there's definitely a phenomenon where you choose which software you use not just by the quality of the software by by you know what terms they offer and you know like whether or not like what their monetization strategy is so it's uh like get it like avoiding those kinds of uh interactions is definitely a crazy uh hard problem and I another area of course is that's to like M for possible you know like places where stuff can
+
+          
+          12:04
+          fail as like peerto peer or um academic peer review and citations and you know citation rings and that sort of thing um I think the next question is somewhat related which is that we've seen cases of the government using AI models and it's gone very wrong like to give two examples in Netherlands the Child Welfare Department used an algorithm and it denied benefits and asked for money back and the Prime Minister St down um so kind of I wonder if like how is this mechanism different from some of the
+
+          
+          12:35
+          existing initiatives that we've seen where governments are trying to use AI for filtering and eligibility and whatnot okay so so this uh this question is uh good because I think it it gets to the core of part of the answer just has to be not just the mechanism but also our expectations about the mechanism right and I think we generally yeah we have this political culture possibly in the west possibly globally where like private is equated with risk-taking and public is equated with uh providing
+
+          
+          13:12
+          guarantees and providing certainty and providing procedural fairness and like from a logical perspective like those two axes definitely do not have to uh be like coincide with each other right but like in our culture um you know if uh like Elon Musk um you know goes and does something and you know gives like $40,000 to one influencer not another influencer and you know we have no idea what kind of manipulation is happening in there then like this is accepted but then if a government you know denies
+
+          
+          13:45
+          instead of uh accepting then that's uh treated as a a bigger problem I mean I think welfare payments like specifically right are definitely something you want to be careful with because like the goal of welfare is definitely like fundamentally risk averse right because the goal is to like make sure that people have enough for you know Healthcare and food and basic expenses and like you don't want welfare to look like startup returns right but uh if we're thinking of uh public goods funding right then uh that's not a
+
+          
+          14:20
+          necessarily a thing where we even want to try to optimize for like maximum stability and I like maximum guarantee that like if you follow the rules then you're going to get things right and I think I know there's even an argument that like precisely the thing that our civilization is missing is the opposite right which is basically yeah you know this ability to potentially get really lucky and get like a lot of reward and recognition for doing something super valuable um and so I think one part of
+
+          
+          14:57
+          the answer is like we maybe we needs to just be culturally more willing to accept more risk in public goods funding and then another part of the answer of course uh is like the question of where we use it right and like there are people who want the form factor of getting like a stable tenure job and there are people who want the form factor of um you know go big go big or go home and like there's people who have those preferences for psychological reasons and then there's people who want that stability because they just you
+
+          
+          15:35
+          know are poor have big families or medical conditions and things outside their control and so I think like both preferences are valuable and there need to be things that serve both right and like we should also just accept that any individual mechanism should not is not meant to be this master mechanism that serves everybody right like if you think about protocol Guild right like protocol Guild feels much more tenure like right in protocol Guild is not going to just that go and suddenly deny your money
+
+          
+          16:03
+          because like a cosmic rate hit and a bit a bit flipped in an llm somewhere right and so I yeah like I believe in having a diversity of mechanisms I yeah believe in having different mechanisms for different goals and different groups of people and so the whole can be very like very diverse very balanced and very fair without like putting the responsibility of each on each individual part soci short that responsibility yeah Love It Go b or go home for sure I would love to know like what are some of the other use
+
+          
+          16:37
+          cases that you can see or think of for deep funding other than software and GitHub yeah okay so here we so far we've been talking about S software developments um one interesting use case could be art right um so I think especially in the age of AI art has very complicated dependency graphs and like if you probably yeah can do analysis to try to like at least probabilistically figure out like oh you know this piece of art was like actually 2.3% inspired by Game of Thrones that like somehow worked its way into some model and like
+
+          
+          17:16
+          total violation of copyright laws but whatever it's in there and you know I think realistically like you can't stop that right but if you can create a structure that does like an as good job as possible of like fig figuring out this incredibly complicated you know dependency and credit relationships in art and like trying to compensate people in different parts of that PIP plan as much as possible like I think that would be really cool then I mean like the research and idea space uh obviously I mean that's like an
+
+          
+          17:49
+          interesting one right because it's like somewhat more illegible um like if you think about the question of like who um you know invented amms right and I know if you go through the history there's like a piece of the contribution that Heiden made a piece of the contribution that I made a piece of the contribution that Bor people made a piece that Martin cman made and then ultimately a piece that Robin Hansen made right and then you know each of those characters also have their own influences but then you
+
+          
+          18:17
+          know we see that AI is like actually very good at making the illegible legible right yeah I famously have the example in my post earlier this year on uh the like draw a bitcoiner versus draw in ethereum and like the bitcoiner is this person who was like enjoying like floating in a sea of gold coins and the ethereum is like wearing these cyber goggles and you have like blue and you like can NE on lights and computers everywhere right so uh so yeah the idea generation as a a good uh space What even uh like what other media even are
+
+          
+          18:56
+          there eips are a challenging one right because it's like you want to be careful about funding specific eips because you know you don't want the sort of corrupt the neutrality of the protocol process and you don't wants to like give people incentives to just keep like pushing things in like I think the ones that I mentioned are probably the big ones I mean are there are there any others that you guys can think of yeah I think one of the things we've been talking about is Sciences dependency probably covered that like
+
+          
+          19:24
+          you know how we can you know trck that and have a citation graph and see what that would look like and if this is something that can be used for that we are super interested seeing if that can work out yep I think the biggest challenge is the structured data because GitHub has it very nicely organized and the rest of the world doesn't so I just think that's the challenge that's the hump need to get over in applying it anywhere else yeah I'll move on to the next question which is um how can people
+
+          
+          19:51
+          get involved in this pilot it's a very new mechanism so what are the different ways that people can start getting involved and actually contribute to making it a success yeah so the mechanism right as we've mentioned it has two parts right it has know the engine and the steering wheel and I think you know the steering wheel basically is a you know human judgment making decisions about some like random spot checks of particular questions and there's a lot of nuance in doing that steering wheel task well and uh you know
+
+          
+          20:23
+          like the details of how that works I'm sure we'll get figured out you know over the next one through two but this is the sort of thing that you know people that have been involved in like funding uh onchain and offchain before can totally get into and then the other side of things is the engine part right which is basically yeah like the problem you're solving is you're given a graph and your job is to basically fill the graph the edges of the graph in with numbers from zero to one such that the edges going
+
+          
+          20:54
+          into a particular node add up to a number that's less than one right it's you know mathematically one of those very simple problem statements right but then the the challenge is like how do you do that in a way that actually lines up with you know this ground truth signal that that you'll be getting from the yes spot checks and I mean to me it's like the the way to think of it is like it is a fun programming competition right it's that's basically yeah you know what it is right you're like writing a bot uh to play a game like
+
+          
+          21:26
+          that's you know I did that when I was 16 it was really fun um and basically try your hand that this'll figure out how much you can do so the prizes I me know get I'm sure that'll appear more in the dock right but one of the things is that like we'll split it into two categories where there's like a fairly programmatic prize for getting a high score and then there is a kind of softer prize for just making public submissions that are useful and including useful to to you know people interested in mechanism but
+
+          
+          21:59
+          also including useful to other contestants so open interpretable models um you know like data V visualizers uh like tools help people train um you know tools that help people gather other pieces of information like pretty much anything um and so there's uh like both sides of that like you know we definitely don't want this to be one of these sort of like fully opaque competition so trying to encourage some collaboration too yeah I do think that's one of the biggest differences with the example I gave of government where it's
+
+          
+          22:30
+          a fully opaque process only one person is developing a model and that's too much power and here it's like everyone is participating and even if we mess up we can be like hey sorry like we did our best please tell us where and make a GitHub commit to improve you know our process so like you're going to give more specific call to actions at Deep funding. RG and um we really hope that we get a lot of submissions in the model and like vitalik has been very generous as well in uh kind of being the gardener
+
+          
+          22:58
+          who actually the ground and makes the soil fertile for this to happen so we're really grateful to have your brain thinking on these issues there's going to be a telegram group link on the website so please join the telegram and also refer people if you know people in your community if you know academics whoever who can submit models so please refer to them and they can also participate so maybe a last fun question before we go do you have a favorite Underdog public goods project that deep funding can uncover and support I mean
+
+          
+          23:28
+          one um example that I keep coming back to is that in one of the optimism retal funding rounds we funded ketak right so like literally the developers who actually invented the hash function that all of eum sits uh on top of in the uses today and that's something that is like Beyond uh you know the cryptocurrency world though it's uh obviously part of cryptography right and and it's something that is you know very critical right but like I think you know people doing that kind of you know cryptography
+
+          
+          24:07
+          that's like so Bas level like even stretches uh far beyond the cryptocurrency world and value like they need to be funded to and uh I think it was amazing that we were able to right I mean one of the things that I think you sent me Devon was know the the famous internet meme of like software being this like very big tower of very different blocks where there's like one little piece that's maintained by some random guy in Nebraska right uh so I think uh you know things in that category are the kinds of things that I
+
+          
+          24:40
+          would be excited about unearthing and supporting walk do you have any question just want to end by thanking you all for being uh my rer die group of mechanism designers and um pilot designers here so really excited about the program um and I want to thank ballic for being on the episode so one thing that I've personally felt while being part of this pilot you know theyan and have discussed this like the pace at which this is happening right so this is the speed that you know we have the speed that we
+
+          
+          25:08
+          have experienced is is incredible so what do you suggest like how we can you know do this more right with other mechanisms because that is something that you know we all recognize is needed right so would love to know your thoughts there yeah me I think uh like what we need is I mean one is definitely like some Financial Resources like I think in addition to you know like funding rounds that where your goal is to fund a particular space like we should just have more resources that go into funding experimental rounds where a
+
+          
+          25:47
+          bigger part of the purpose is uh like just getting experience around a particular rounds but in addition to that I think another piece is like really yeah getting more intellectual Capital involved like actually creating things that people can be excited about and that once to participate in and that can and contribute Awards and uh that's something where like I think this is what theoretically one of the benefits of some of these like more democratic and participatory mechanisms right it's like if you give a lever for to a whole
+
+          
+          26:23
+          bunch of people to participate then like that gets done involved and uh you know that's a also uh they end up being involved in you know some of the other parts and in like the meta of improving the mechanism as well right so I think on top of just encouraging that I think ecosystem wide really talking more about funding as a first class thing is something that I want to be doing more of in 2025 as well amazing all right this is going to be my second attempt to bring the episode to a close vitalic
+
+          
+          26:58
+          thank you thank you for joining us SEL Deon thank you for being my ride or die friends working on this pilot together very excited about public goods funding into 2025 uh thanks everyone for your time and we we will see you at Deep funding. org Welcome to our outro after the show with vitalic buin where we introduced deep funding. org SEL Devon what did you all think of the episode with metallic I think like he covered such a breath of topics that it's like you it's like oh W this was only 15 minutes like can't understand like how
+
+          
+          27:29
+          we covered like things from how the mechanism Works which he broke down as dependency grafts as being one element and the second element was the spot checks uh and I think that was useful and then he moved on to how its applications to government uh and different mechanisms and art and Industry so I think like it's a pretty exciting new way and I I like his reframing of public goods funding to dependency crafts because I a lot of people have felt that public goods funding is overused so I think it's a
+
+          
+          27:57
+          new it's it's an exciting new direction to move into yeah I think for me I um definitely love the direction I'm most excited about tapping into other communities which are just not web3 so the AI communities right so I think that intersection is we've already talked so much about it we seeing that wave in web 3 but you know bringing those that crowd in is something that I'm really looking forward to and making it so open right like it's such an open market thing and the content test like anybody can come
+
+          
+          28:29
+          and um you know submit the model without any gatekeeping that is something that I'm you know also really looking forward to and I'll be interested to explore like how he said you know we should uh discuss funding as a first class in ecosystems in next year so definitely want to you know with some of the work we're doing in Alo and I want to see how we can uh you know continue doing that and um yeah those are few things that I'm really looking forward to one of the things that's that's kind of struck me
+
+          
+          29:00
+          that I just think is really cool uh I've been in this game for seven years and um what I see when I look back in time is an increase in velocity of mechanism design going to Market and you know I actually I asked vitalic to do this podcast about two weeks ago um and originally I was just going to interview him do my annual yearly interview with vitalik about what should public goods Builders focus on and I think within that two weeks this deep funding. org experiment has come together and really
+
+          
+          29:29
+          taken shape and now we're announcing it and uh it's it's going to happen and it's this lean pilot and I think the speed to Market is is the thing that is is sort of exciting to me about this here if we can pull together something like this you know taking balic mechanism design and like getcoins resources for going to Market I think we're going to explore the design space in a really exciting way so um you know deep funding itself is is exciting but I also want the audience to see the increasing pace of experimentation in
+
+          
+          29:58
+          the web 3 design space I think we're we're starting to move a lock step towards figuring out how to allocate public goods funding and that's really exciting to me yeah and I think one thing I do want to mention that I've experienced like this network first approach that you know we are exploring like working with Devan and even Oso PSE and all our other uh you know Partners the way all of this has come together is incredible and this speed can only be achieved you know when we have this approach so I just want to encourage
+
+          
+          30:29
+          everyone who has any idea who wants to do anything like we want to collaborate with you and we want to make it happen so yeah just so the audience audience might not know what network first uh means but basically at getcoin we've been talking about how do we partner with our network of Builder and mechanism designers to assemble resources on demand in order to manifest the pilot uh as opposed to um working with a centralized Dev team that can only do one thing and has to sequence things in a road map so
+
+          
+          30:59
+          uh the network first approach to building I think allows more fluidity in experiments that come together and if you're an ecosystem that wants to that has a crazy idea kind of like you know vitalic idea for deep funding then getcoin is here to work for you uh into with you in in rolling out that mechanism so just a little bit more color on that Network first direction that get coin's moving in in 2025 yeah just to add to that I think like what's being great about this is we've been able to work with organizations who
+
+          
+          31:27
+          spent their entire just thinking about this problem so for example gitcoin has been thinking about mechanisms for a very long time so they were like a great partner to build it with and SEL has been amazing at that uh open source Observer has been looking at taking GitHub data and analyzing it and dependency graphs between code repos so we've been able to work with them on the data layer we've had like you know we're hosting the competition on kaggle which is like a data science platform so again
+
+          
+          31:53
+          like they have the natural home for it and they have the entire infrar ready pairwise has been looking at comparison and voting which we need for the spot check so they've like already made so many mistakes which we don't need to repeat if we want to build it from scratch uh and finally drips like how do we get funding to people who are working on GitHub if they don't have wallets and they can and like drips has managed to crack that you know they can claim it whenever they want so I think the advantage of a network first approach is
+
+          
+          32:18
+          really that you're working with people who've already spent their entire kind of work life thinking about that problem and that has a lot of advantages in not repeating mistakes that have already happened um I think that one of the things that vitalic dropped in the podcast that I recorded with him the part one uh was talking about this idea of public good Legos um this idea that quadratic funding and the Cil resistance upon it which depends and then retr funding and then futur Archy and then things like
+
+          
+          32:45
+          Oso that provide data um are all money Legos but like they're public goods money Legos and it's in the permutations of combining all of these things together I should mentioned radical drips since you just said it super fluid giveth I can't name drop everyone but uh you know who you are out there um it's in the permutations of all the different things that you can assemble with these Legos that I think is going to support the build the accelerating pace of building in this space uh because there's going to be so much off the
+
+          
+          33:13
+          shelf that you can do that you've never been able to do before and I think that um this ecosystem because of the Legos that we can take off the shelf if there's end Legos there's nend squared permutations of ways that you can put them together and this means that if you're a hacker that wants to work on public goods funding in web 3 you can build more in a weekend than a centralized government is was able to do with $100 million and you know an army of of a thousand uh C Civic software Engineers 10 years ago and so it's the
+
+          
+          33:41
+          accelerating Pace uh the exponential pace of of innovation enabled by these Legos that I think it's really exciting and and pair that with a network first approach I think that's how deep funding is going to come together and hopefully be a successful pilot and um and hopefully we're going to accelerate our PL list exploration of this design space in 2025 so it's need to come together and I think that I'm just so thankful to vitalic for providing the vision uh and then also you know the some of the
+
+          
+          34:08
+          funding for for Pilots like this to boldly move the space forward well uh we've only got a couple more minutes left should we talk at the object level about deep funding. org uh and direct the audience's attention there so deep funding. org is the pilot experiment and uh do we have do we have dates for it yet do we know uh do we know what uh people can see on the landing page now and what they will see when the pilot launches yeah I'm happy to take a first crack at the Timeline that we worked on
+
+          
+          34:35
+          with SEL um so we're going to be having the competition open on December 12th and basically what you have on December 12th is the is the dependency graph without the weights so you have 40,000 connections between different repos that make ethereum what it is so you have that graph and you have some data which drips has got on the waiting of a subset of these uh of this graph so you have something to get started and you have to like fill in the blanks you know that's your challenge and that's your prompt
+
+          
+          35:05
+          which you have to build a model on on Jan 20th we'll be giving you some data from the jwy if you building a deep learning solution for filling in the weights you can use this data which was released on Jan 20th to actually train your model and on Feb 20th you'll be closing submissions so and and and then we'll use the jury data between Jan 20th and Feb 20th that data is going to uh determine the winner so that's kind of a rough timeline and hope to announce the winners at shelling point in Denver so
+
+          
+          35:34
+          that's going to be an exciting announcement there yeah um and one more thing that I want to add that we are also launching a primer series um the first session is on December 17th which is going to be on shapley values so the idea is you know we start getting into some of the academic papers which complement this pilot because we also need a very strong foundation in depth of what what we are building and what we are doing that is going to come from this so you know when you join the telegram group link through the website
+
+          
+          36:04
+          you will have you'll get all the details about this primer Series so yeah lots happening and lots coming up so looking forward to having all of you uh in the group and working together all right call to action time uh if you are interested in getting involved in the Deep funding ecosystem go to deep funding. org and check it out today and if you interested in having a custom mechanism built for your ecosystem get in touch with myself SEL or Devon and then any other call to actions as we're wrapping come point in Denver come to
+
+          
+          36:36
+          shelling point in Denver yep uh shelling point. getcoin doco is where you can go to learn more about that well Devon SEL uh thank you again for being my ride or die homies on this and excited for the pilot I am here for deep funding. org and um uh we will see you after the episode Peace [Music] he
+
+          

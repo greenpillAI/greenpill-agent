@@ -1,0 +1,269 @@
+
+          00:00
+          welcome to the green pill. network podcast in September green pill will be hosted by the cartographers a high context community of individuals and teams dedicated to advancing the web3 grants ecosystem they'll explore the web 3 grants ecosystem with topics ranging from novel funding mechanisms Grant councils and governance to emerging trends like Ai and direct to contract incentives this series seeks to bridge theory and practice by examining real world examples and featuring discussions with those who are closest to the action
+
+          
+          00:31
+          the next voice you hear will be Sav who contributes at getcoin and founded the cartographers sav will be hosting this entire season and I think that it's going to be a great season because Sav brings deep experience in web 3 grants and capital allocation I'm excited for you to hear some of the perspectives from him and his guests without further Ado the next voice you'll hear is Sav enjoy hey coordination welcome to the next episode of the green pill podcast I am joined today by Jay one of the founders of Royo and excited to have him
+
+          
+          01:05
+          here this episode focuses around intents and incentives um as you've heard from me in previous episodes we're starting to talk about you know how ecosystems are looking at uh taking incentives down to a lower layer you know getting away from more subjective human decision-making and I think that when you look at incent intense uh and the way that incentives can map to that there's some really interesting stuff that uh could be coming down the pipeline so we'll jump into some introductions and kind of go into the
+
+          
+          01:32
+          discussion so Jay I'll uh turn the floor over to you to give a quick intro awesome well first of all thanks for for having me this is very exciting I'm Jay I'll give my quick like crypto origin story uh got into crypto back in 2016 at the time I was working at a software normal software company and my boss told me hey you should put all your money into ethereum and I thought I thought it was a scam um a few weeks later read on Hacker News this post by vitalic and the 10 % I understood had me sold so bought a bunch of eth it went up
+
+          
+          02:04
+          and I was sold on going all in on eth played all of the icos through 2017 and everybody wanted to participate in those so built a mobile wallet and mobile app that made it super easy to Fiat on ramp get crypto assets like eth and then it had simple Dex Integrations into places like ether Delta where you could go and buy all these altcoins cuz at the time coinbase had what three assets and binance wasn't even live back then this application was then acquired by my crypto in the following year we were
+
+          
+          02:35
+          spending a lot of time just thinking about Defi and it was in the earliest of stages back when it was called open finance back then um and spent a lot of time thinking about what would the future of open finance be fast forward a couple years we had a ton of Integrations of all these defi applications inside the mobile app into the my crypto stack my crypto was then later acquired by metamask but at the start of 2020 I was a senior in high school and I said wow we're going to have a lot of time on our hands because
+
+          
+          03:05
+          of this covid thing let's go and do our own thing so then at the start of 2020 with two of my really good friends we started a company called Rari Capital started as a simple yield aggregator and then pivoted to a lending and borrowing platform where the most lending and borrowing platforms at the time they they said hey here's the 10 assets you can lend and borrow and it was a centralized group of planners their their token hold relatively who were deciding what assets you can borrow and lend against and setting all those rules
+
+          
+          03:34
+          so we at the time said hey that's unfair you should be able to borrow and lend everything and the market should decide all those rates and all those parameters and that's how fuse was born we grew fuse to about $1.5 billion in tvl um and then it was acquired by another Dow called the tribe da at which point I really stepped back spent a lot of time thinking okay what do I want to do next and about just under two years ago started waymont in in the way of FTX falling and all these all these folks
+
+          
+          04:03
+          losing their money we said hey let's go solve this problem of crypto custody right and let's go and help these crypto whales secure their Assets in a more efficient more safe manner where they don't need to be constantly stressing and that's that's the company we set out to build two years ago so today I'm still co-founder and CEO of of waymont and most recently what Way's been working on is basically contributing to to the Roy Co protocol one of one of the really cool things about this royco protocol is like yes in that origin
+
+          
+          04:34
+          story but there's so many different teams now working on the royco protocol across wide variety of different pieces of the stack it's it's really exciting so yeah that's that's kind of the quick background nice we came into the space at the same time I have fond memories of my Mew wallet and all those things super cool to to hear that you know I didn't farewell at iOS but I learned a lot through that process I guess we'll keep it at that um so when we jump into the Crux of the episode you know we really
+
+          
+          05:02
+          want to take a look at traditional web 3 incentive programs which I think there's been a lot of progress made around incentives and grants over the last few years but there's still a lot of work to be done a big part of the opportunity that crypto really presents for us is the fact that we can have verifiable impact we can have these things on chain we can really start to look at you know how we can build systems on top of each other that better interoperate and there's all kinds of interesting you
+
+          
+          05:26
+          know applications around reputation and things that can kind of feed into that process of just making grants and incentives more efficient some of the big challenges that I see faced by Grant programs today are definitely that they just waste a lot of time I think Builders waste a lot of time too and so if I'm a builder looking for the right program for me that can be challenging I have different experiences and um ultimately I might not be able to put my skills to good use because I get caught
+
+          
+          05:52
+          up in the process and I don't really find a great place to apply myself and so it's a big reason I wanted to have you on the show today I'm super excited to kind of talk about how intense um could feed into that so maybe we'll jump into it around when you think about kind of like this concept of directed contract incentives right for the audience really what that's all about is how do you encode those incentives at like a smart contract layer and take human decision- making out of the process that way you know Jay when you
+
+          
+          06:19
+          think about kind of like royco and I know some of the previous conversations that we've had you start to see like opportunities for granty markets like matchmaking markets like things like that that could occur through you know Royo and and you know these types of systems maybe walk us through like what your vision for that could be and we'll go into it from there yeah totally so maybe I can quickly explain how we got to royco and then from there it will kind of become clear on what we're thinking for in terms of these grants so
+
+          
+          06:47
+          how we got to Royo was basically we were seeing and participating in a lot of these offchain liquidity deals right so historical context 2020 was the most amazing time were defying for crypto right there were yields flying everywhere it was insane to be in crypto in 2020 right and then what happened in this period of 2021 to 2024 where we are today is these incentive programs right they were moved offchain they were given to Elite institutions Wales etc etc who had access why did that happen it was just
+
+          
+          07:25
+          purely because it was more efficient right they could go and collect all of this liquidity they could could say and have guarantees that they'd have $50 million in their Network on day one right why would you go run a public program where you're launching a token you're putting yourself at risk you're doing all these things when you could just go do it offchain and with a few calls you could instantly go and acquire 50 100 even more million dollars uh pre pre-launch right um this was a really interesting um basically Market Force it
+
+          
+          07:55
+          seemed like there was no way of of basically turning back and putting it all back on chain unless we could develop a more efficient mechanism for doing this and that's essentially what royco is right so the basic idea behind Royo is can we develop the most efficient way to distribute incentives to do anything so for example let's say you're a liquidity farm right and you want to think about liquidity and you want to basically Garner liquidity into your platform you could go run an incentive campaign that says hey I'm
+
+          
+          08:26
+          Distributing 200 tokens per day and then maybe an LP could come and say hey I'll deposit a billion dollars if you give 205 tokens per day right or maybe you see hey look I won't leave my liquidity or I won't withdraw until you hit 100 tokens per day right now here's the really cool thing about these decisions is now that the incentive provider can see wow if we increase our token spend by five tokens per day we'll unlock a billion dollars more in liquidity or maybe they'll see W we're spending 200
+
+          
+          08:58
+          tokens per day but this guy is not going to leave until it hits 100 tokens per day why don't we just decrease it to 101 save 99 tokens per day and that's going to have crazy impacts on our spending the issue here is that most Dows most spending most liquidity incentives these teams aren't thinking about it because there's no systematic way to run these processes even if they go so far as to AB test right and say hey let's try 200 tokens per day for this week let's try 400 tokens per day the next week let's
+
+          
+          09:29
+          see what effect that has on our liquidity it doesn't work because the market conditions are constantly changing right so what you have today in terms of people quoting people entering and leaving isn't going to be true tomorrow hell it might not be true in the next 10 minutes right so you need a system that's Dynamic where people can express via intent hey look I'm going to deposit a billion dollars if the rate is going to give me this and this enables these incentive providers to have much more efficient spending now at the root
+
+          
+          09:58
+          of all of this what what you'll notice is you have this theme of hey look the incentive provider the person who's actually paying they're only paying on an outcome happens right they're only paying in this case when liquidity is brought into a pool that's where we see Grant making going where you're incentivizing for a specific as you said in the start of this call in the start of this episode verifiable outcome right instead of going in incentivizing hey let's give $100,000 to this team to bootstrap them elves right it's much
+
+          
+          10:31
+          more effective to take that $100,000 throw it into liquidity incentives that will help them grow their platform and they can do so in the most efficient way right does this make sense so far absolutely yeah and I can definitely see where you know today a lot of Grant programs like when they're first getting started a lot of their work is you know there's a lot of l2s and a lot of treasuries being created from those and how do we get basic infrastructure set up on our Network dexas oracles Etc so
+
+          
+          10:59
+          funding those types of projects but once that critical infrastructure is deployed and then once they really start to focus on how do I drive the right kind of impact you know for my protocol if I'm def5 focused or whatever it might be then you start to see these incentive programs pop up that ultimately don't get at necessarily they're not they're not tied directly to those outcomes right they're I'm incentivizing Builders and hopefully those Builders contribute in some ways that it kind of um gives me
+
+          
+          11:28
+          these outcomes and really what you're talking about is you short circuit that a little bit where you can directly tie the incentives to the outcomes and then kind of Monitor and manage to that over time exactly what we've been talking about is liquidity so far right that's just because it's easiest to understand liquidity in this concept but I think where the whole protocol gets the most exciting it's kind of when you leave this liquidity hemisphere right so there's two different types of markets
+
+          
+          11:55
+          inside of Royo um and the one that's way more interesting is called recipe markets and with a recipe Market we basically built this you can think of it as a transaction Builder right and with this transaction Builder you can incentivize and create a market for anything so I can come into this transaction Builder and say hey look here's a transaction to go vote on this governance proposal or I could say here's a transaction to go and go along on some coin or here's a transaction that will basically end it in somebody
+
+          
+          12:28
+          going and giv a grant on gitcoin right and then with this transaction built I can go into the marketplace right and say hey I'll give you 200 tokens to do this now somebody can say wow that's cool I'll do it for 100 tokens they they aren't talking to each other right this is all happening via Smart contracts they're just placing these offers now they'll do it for 100 tokens now maybe the person who's providing those incentives says yeah 100 tokens is good now they take that order they fill it they give 100 tokens and the user's
+
+          
+          13:01
+          assets whatever assets were committed right the transaction happens with them so maybe it's hey for that 100 tokens now they're going to go and execute a gitcoin grant maybe they're going to go and vote on some governance proposal whatever and it's really cool because what you get here is an order book where you can see hey look I can pay 100 tokens in exchange for 100 eth on on this gitcoin grant but maybe somebody else says hey I'll do it for for 99 tokens for 100 eth on the skit coin Grant and what you unlock in doing all
+
+          
+          13:35
+          of this on a publicly accessible order book that's publicly accessible by anybody who can connect to ethereum is you get this amazing price Discovery because it's happening on chain you're going to get executed at likely the best price because you have this competition that's happening on chain yeah no I can totally see that right what are your thoughts when you think about like things like liquidity like you pointed out those are pretty like quantitative metrics right like either tvls going up
+
+          
+          14:03
+          or not you know daily active users like some of these things I don't want to say they can be gamed but they are metrics that you can kind of like manage to right or maybe like like even Bots you know could could affect some of these when you think about more qualitative things right so I'm a grantee and I could definitely see grantee markets you know occurring I someone I place an order you know someone places an order for my services or the work that I do and I fulfill on that how do you view that kind of you know over time the
+
+          
+          14:33
+          opportunities around reputation and kind of like proving that type of impact because you can facilitate the markets but how do you make sure that they stay efficient you know totally totally so I would say generally royco does not go in that direction at all it's going to stay on the very quantitative things the things that it can prove the executed transactions where the transactions are all already built on chain there should be no room for question marks the reason for this is just generally that's how
+
+          
+          15:03
+          you build the most efficient system right and and when you kind of look at some of these more subjective Grant programs and stuff right there are ways that you can distill most of them down to quantitative things right maybe it's not easy but we we think that there are ways that you can distill them down to quantitative things that can then go and operate on Royo and because it's quantitative you get that extreme efficiency now the second thing I'll say on this is a lot of the times people kind of have a bad notion of incentives
+
+          
+          15:36
+          right um for for the reasons that you described hey look there's all these Bots taking them there's all of this taking them um this is unfair U for for whatever reason and I would say generally the way the way that we think about this is we are building for the most efficient state right and given that the the market will operate in the most efficient State possible so I I'll give a good example of this is you think about something like Bond holders right and maybe in in crypto if you were to build a billion doll deposit program
+
+          
+          16:07
+          with incentives and then people leave after the incentive program is gone they'll say wow your users have no loyalty that is wrong right why did those users in reality leave is because it's the most rational profit seeking thing to go and do right this is something that's commonly understood in trafy right again you're not paying out your bond holders your bond holders aren't sticking around with their Assets in the bond after the bond has expired and after the coupon has come right like that just doesn't make any sense so I
+
+          
+          16:36
+          think that we're going to slowly and hopefully royco will play a part in this is moved to this like extreme rational and efficient market environment where we kind of rid ourselves of these Notions of hey look Bots are bad non-efficiency is bad yeah no I could totally see that maybe walk us through you know royo's current implementation right like you mentioned ethereum what does that implementation look like and May if you think about that through the lens of like I'm a grant manager a program manager someone that cares about
+
+          
+          17:05
+          incentives you know what I in an ideal state for you what does that experience look like for them totally so Royo is probably going to be live in the next couple weeks here um in terms of what it what it's going to look like is it's going to live on ethereum it's going to live on arbitrum and then maybe a couple other chains soon after in terms of hey what does it actually look like for somebody to come and build a grant program for example via Royo there's so many different ways you could go and
+
+          
+          17:38
+          build it depending again on that outcome that you're optimizing for right so let's walk through maybe a couple examples here let's say that I'm a gitcoin right and I want to incentivize people to come in and basically participate in these gitcoin grants right you could go and create markets for all of these gitcoin grants and you can basically operate these markets as a as a rebate right you could say hey look come in and participate in this market you get some amount of gitcoin back right and that can basically drive up
+
+          
+          18:11
+          Market activity we've seen how great rebates are in our in the real world why not use a market efficient Discovery mechanism where you could say hey look if somebody deposits a million dollars into this Market they get a greater rebate than somebody who just deposits $100 into this market and you can basically develop a in like a depth chart fashion that's just how I visualize it a really great way to go and do rebates in a market efficient manner that's one way for like if you wanted to throw it on top of gitcoin um
+
+          
+          18:40
+          now let's talk about like hey look I'm I'm an arbitrum Foundation type figure and and what I really care about is basically making my sequencer money how does my sequencer make money well it's going to make money by basically trading and by these defi activities hey I'm going to go and find which defi activity makes the most amount of money to for my sequencer on chain maybe that's probably some sort of trading um and then I'm going to go and throw incentives onto the royco market that will incentivize
+
+          
+          19:10
+          people to come in and trade maybe because I'm optimizing for my sequencer revenues I'm actually op like I'm actually just paying out per transaction and I'm just adding a little bit of a rebate or something to basically drive up the volumes there's going to be so many different ways that people use royco and it really is going to come down to just like what exactly that that group is optimizing for and so the way you describe it I definitely feel like Roy it's kind of that coordination layer it's composable you can kind of build so
+
+          
+          19:40
+          you know I'm familiar with some of the transaction builders that have been out there before and it sounds like it takes this to a whole another level right um what are the pieces that you see kind of like feeding in to royco the reason I asked that is when I think about intense today you know the the common um protocols and pro and teams that are building around that are mostly around kind of interoperability bridging Etc right so does royco become a coordination layer that then those systems tie into is that how you
+
+          
+          20:08
+          envision it yeah that's a it's a great question with V1 we took a pretty like I don't want to say ignorant approach but a pretty quick approach to like designing the protocol albeit it took a six months plus to design the protocol in its current state but we didn't think much about bridging cross chain really intent infrastru ructure today the only reason we used intent in the protocol as it exists today is cu well it was the best way to build what we needed to build in terms of the future and where
+
+          
+          20:39
+          where we want to take this I think you're hitting it spoton right for the notes document of all of the things that we would like to see in like a V2 version of royco and a lot of this intent infrastructure being able to do things cross chain is going to be massively valuable for Royo right think about this today in royco you can say hey look I'll deposit into this Farm if it hits 30% I'll deposit into this Farm if it hits 20% um and while that's all happening I'll sit inside of this pool earning 10% right that's great and all
+
+          
+          21:12
+          but it's confined to one chain or one layer or anything we're going to work with a bunch of chain Partners or rather Bridge Partners on making it so you can deposit from any chain into that what we're missing is the ability to create orders across chain right where you're on ethereum earning whatever you are in your Athena pool um but you can say hey look if Compound on arbitrum hits this rate yeah I want to bridge and then move up there that's so powerful and like the downstream effects of that are going to be crazy but just
+
+          
+          21:47
+          in terms of our infrastructure today we're not there yet but we're extremely excited about the work that all these other intent folks are working on because we think we'll end up working with one of them to go and help devel that be too totally yeah it seems like that would be a lot of connective tissue that could really feed into this in terms of the royco experience is this something that I as an enduser I'm going to be interacting with and then I as a program would interact with or what is that experience look like like is it
+
+          
+          22:16
+          going to help me as an enduser discover these opportunities right in the same way it helps programs to provide them yeah great question so I guess you have a few different pieces here right you have the core Royo protocol which we imagine in incentive providers coming in and using and we imagine some subset of users coming in and using right then how are they going to access that protocol right they aren't going to go and interact with it on ether scan realistically I mean some of them might they're going to have a bunch of
+
+          
+          22:44
+          interfaces so one of the really cool things that we're working on is getting a wide variety of interfaces basically up and running you should be able to have royco inside of every one of your wallets inside of every one of your exchanges showing you for every asset hey here are the applicable royco markets where you can go and effectively deploy your liquidity um or deploy your assets at at this rate to do X Y and Z right in addition to that the ecosystem is kind of working on spinning up a bunch of front ends for different
+
+          
+          23:15
+          purposes now finally these end users right despite being able to explore via your wallet via whatever just directly with the protocol we do imagine there will be layers of abstraction built on top of royon right it's it's going to be a lot of work actively moving between different markets doing this setting limit orders whatever with a layer of abstraction you could imagine basically automating all of that so we're also um basically again in the early stages of building this ecosystem there are a few
+
+          
+          23:44
+          folks who are exploring building these layers of abstraction that sit at a level on top of R and then for you know the the getcoins of the world with Alo protocol I think about open Zepplin and kind of like their contracts Library do you view those as things that could ultimately plug into this to provide those Lego blocks that you can then build the transactions with like because that's something you're actively looking at those Partners exactly exactly so it's to kind of dive deeper into the transaction Builder you might be
+
+          
+          24:11
+          familiar and everybody in the ethereum developer crowd is pretty familiar with like multic call right where you're able to call functions back to back to back on chain now the big limitation of multic call is how can you use the output of one transaction into the input of the next transaction this is massively Valu for a lot of Def transactions but also a lot of non-financial transactions to be able to use the output of one transaction to inform the input of the next transaction so this was a big thing that we were
+
+          
+          24:40
+          blocked on for a while like crap how can we go and incentivize these markets if we can't use multi call and we discovered this uh programming language it's an entire functional scripting language developed by Nick Johnson and Dean igen men and basically they develop this functional scripting language so you can script transactions together really beautifully and really nicely right so we saw this and it was a pretty primitive language right but it was exactly what we needed so we built a ton of tooling around this it's called way
+
+          
+          25:11
+          roll that basically makes it super easy to come in and build these so you you mentioned you're familiar with transaction Builders if you think of something like a nosis transaction Builder that's pretty much what we've built but it uses way roll this language underneath the hood so then it's not only that that Builder that you see in that first screen but once you go and build that transaction like in nosis you have this next screen where you can configure the inputs and outputs of each parameter and you can use the results of
+
+          
+          25:40
+          your prior transactions to inform the later one so we think that this is going to be pretty huge in terms of what developers are able to leverage in terms of these building blocks that you mentioned because they can pull in any contract whether it's in open Zeppelin or whatever developed by whoever gitcoin for example and they just pull these in type in that contract address specify what functions they want to call and they're Off to the Races when you think about you know kind of like solving the
+
+          
+          26:08
+          long-standing issues that Grant programs kind of see you know moving forward it definitely sounds like creating these markets both for Builders and for the types of incentives that grants want to give out and the impact that they want to drive right is that something that as Royo launches I mean you're you're going to be addressing kind of day one or maybe walk us through you know if this thing's coming out here in the next few weeks what are some of the early use cases that you're already working on and
+
+          
+          26:32
+          what might that look like at launch long story short we're going to be working on a lot of different use cases because we want to see what happens essentially right so we're going to try basically doing one of everything has been our like internal memo on this right of hey let's go try and do like one grant program let's go and try and do one of these let's go and try and do one of that right and to try and also spark the imagination of the community right right it's it's been a long time since the
+
+          
+          27:00
+          community has seen a new primitive right and we want to go and get everybody excited about this and show them the full breadth of what can be done right because as I mentioned with way roll and these recipes you have so much power at anybody's fingertips you don't even need to be a developer completely to go into write one of these markets so we're we're pretty excited about that and you can imagine a whole wide range of what can be done so certainly all the examples that we've discuss uh another
+
+          
+          27:29
+          one that that that we were just talking about the other day is coinbase has doing has been doing a lot of advocacy right a lot of advocacy work on on in in in DC and such they're running all these events uh at these events they give out this nft right obviously what does coinbase want to do at the end of the day they want more people to be at these events right why do they want more people to be at the events hopefully it turns out it comes to a better crypto vote at the end of the day now what
+
+          
+          27:57
+          would happen if if you developed a royco market which anybody could incentivize to go and mint that coinbase nft but the issue is you need to be at that event to go and Min that nft now imagine a world where there is an incentive of $100 per nft to go andm that right now what's going to happen is everybody near that event is going to want $100 just to show up to some event because it's been trustless you've aggregated the capital of all of these onchain folks everybody's going to want to go to that
+
+          
+          28:30
+          event to claim their $100 they're going to go mint that nft and hopefully that will lead to a greater crypto the reason I say this is just because of the flexibility of Royo right you've just taken minting and nft something so simple into hopefully being able to change the outcomes of of Elections and we we think that like the possibilities are are really exciting yeah you know hearing you talk um something that it remind Rems me of that isn't necessarily completely related but it's Dune right when I think
+
+          
+          29:02
+          about Dune and the organic Community that's been built around that and all sorts of people that are building their own views you know doing dashboards these types of things it sounds like it's not that far of a stretch to kind of say that Roo could develop a similar type of community but instead of it's these analytics views it's these different ways that users have kind of put together these intense markets right um and that could even be something that could be proposed as a grant like if I'm
+
+          
+          29:28
+          a creative you know recipe Builder a chef which I'm hoping that when you talk about recipes is that kind of like a you know a tribute to you know the the golden days of 2020 defi that you mentioned before right as that cook as that Chef would I be able to create you know these different um types of intense markets and then even propose those to protocols and grants programs in ways that I'm creative I can kind of like propose that up and it's not always on the program it's like a community could
+
+          
+          29:57
+          Foster that right yeah that like to be honest nothing would make me happier than seeing a future where that exactly occurs right and you have like a full community of folks maybe they're even making full-blown businesses just helping other folks build their I haven't said the word this entire time but IM AMS or incentivized action markets right like to have a full-blown industry Community whatever we want to call it helping construct these That's so exciting so I guess um the last couple questions I have is like you
+
+          
+          30:30
+          mentioned earlier in this call that you're a contributor to Roy Co so who are the contributors today what does like building out the royco protocol look like you know today yeah so royco is entirely open source and it has been open source where anybody could come along and just make a contribution to it and that's been like a really cool development cycle I remember the other day I woke up and just found somebody had fixed one of the bugs that was in the code base and that's that's something you just
+
+          
+          31:00
+          don't get anywhere else they weren't doing it because they were profit motivated they weren't doing it for any one reason other than they were excited about the codebase and they were excited about royco so when when you ask me today what what does that process look like is there isn't a strict process right it's a community of decentralized developers who are excited about what Roo is going to do maybe some of them have um profit motivations they work at a company that's going to be using royco
+
+          
+          31:30
+          they work at company that's built just to help contribute to royco whatever the case may be it's been really amazing to just see all of the bright Minds come together and contribute so maybe last question if I'm one of those potentially bright Minds how do I find out more information on royco where can I go to to dive in and learn more yeah honestly just go go to the GitHub and and start exploring you can check out the core protocol code base um it's being audited as we speak which has been a great
+
+          
+          32:00
+          process and then the other thing is if you don't want to work on the core protocol work as that nears its end here or depending on when this episode comes out the protocol might be live um start playing with building recipes and trying to go and build amazing recipes and then finally there's going to be an entire ecosystem of applications that get built around orico whether it be those layers of abstraction that help uh passive users basically allocate between markets and the most efficient manner what
+
+          
+          32:29
+          whatever it is we actually have an entire request for Builder section inside of our GitHub that I'd suggest Builders take a look at and see see if anything Sparks their interest awesome well Jay I really appreciate your time this was an insightful episode I think the audience is really going to dig it um so yeah you know everyone check the show notes you'll find some links there where you can find out more about royco and uh we're excited to see the launch thanks again awesome thanks for having
+
+          
+          32:54
+          me he
+
+          

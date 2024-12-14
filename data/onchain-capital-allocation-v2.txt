@@ -1,0 +1,5460 @@
+Everytime you make a decision about how to spend money, you are allocating capital. At
+scale, VCs and grant administrators are allocating billions of $$ of capital.
+
+BY KEVIN OWOCKI
+
+CAPITAL ALLOCATION
+THE NEXT FRONTIER
+
+Onchain Capital Allocation: Explorer Edition invites you on an exhilarating journey
+through the frontier of resource allocation. This is your roadmap to the future of finance,
+where traditional wisdom meets blockchain innovation in a dazzling dance of possibilities.
+
+BY KEVIN OWOCKI
+
+ONCHAIN CAPITAL ALLOCATION
+HANDBOOK
+
+Imagine a world where capital flows as freely as ideas, where transparency isn’t just a
+buzzword but a foundational principle, and where communities shape their financial destinies. That world is no longer a distant dream—it’s unfolding right before our eyes, and
+you’re about to become a part of it.
+Inside, you’ll discover:
+•
+•
+
+•
+
+This book is more than information—it’s an invitation to join a vibrant community shaping
+the future of finance. Whether you’re a developer, academic, or believer in innovation’s
+power for good, this revolution has a place for you.
+The future is calling, Explorer. It’s time to answer.
+
+AN APPROACHABLE GUIDE TO FUNDING WHAT MATTERS IN THE 21ST CENTURY
+
+ONCHAIN CAPITAL ALLOCATION HANDBOOK
+
+•
+
+A treasure trove of funding mechanisms, from Participatory Budgeting to AutoPGF,
+that transform how we raise and allocate resources.
+Decentralized governance models that make democracy more accessible, alongside contribution metrics that recognize value in new ways.
+Cooperative approaches like digital-age ROSCAs and innovative revshare models,
+breathing life into community-driven economics.
+Real-world examples from pioneers like Artizen, Hypercerts, and Optimism, turning
+theory into practice in onchain allocation.
+
+EXPLORERS
+EDITION
+
+1
+
+2
+
+AUTHOR
+
+Kevin Owocki
+EDITORS
+
+Feems
+(Developmental Editor)
+
+Mathilda DV
+(Publication Editor)
+
+Riley Blackwell
+(Copy Editor)
+
+WRITERS
+
+Sarah Smith
+(Lead Writer)
+
+Matt Strachman
+Trinity Morphy
+Feems
+RESEARCHERS
+
+Sejal Rekhan
+Izzy Lawrence
+Ornella Vallana
+Matt Strachman
+DESIGN
+
+Anya Biarozka
+
+3
+
+ONCHAIN CAPITAL ALLOCATION
+HANDBOOK
+
+EXPLORERS
+EDITION
+
+4
+
+FOR THE ETHEREUM
+ECOSYSTEM CIRCA GITCOIN 2.2
+
+5
+
+...UNTIL IT ALL LOOKS OBVIOUS WITH HINDSIGHT.
+
+...AND THEN ALL AT ONCE...
+
+...SLOWLY...
+
+...PAINFULLY...
+MAY WE FUND WHAT MATTERS...
+
+TA B L E O F C O N T E N T S
+
+6
+
+TABLE OF
+CONTENTS
+Introduction
+Introduction
+
+8
+
+Why Onchain Capital Allocation?
+
+10
+
+Funding Mechanisms
+Funding Mechanisms
+
+14
+
+Participatory Budgetinging
+
+16
+
+Bounties
+
+24
+
+Block Rewards Funding
+
+32
+
+EIP 6969
+
+40
+
+AutoPGF
+
+46
+
+Quadratic Accelerator
+
+54
+
+BuidlGuidl Streams
+
+62
+
+Investment DAOs
+
+70
+
+LottoPGF
+
+78
+
+DAO ICOs
+
+86
+
+Social Impact Bonds (SIBs)
+
+94
+
+Harberger Taxes
+
+102
+
+Roundabout Production
+
+110
+
+Governance Mechanisms
+Governance Mechanisms
+
+118
+
+Gnosis Multi-Signature Wallet
+
+120
+
+STAR Voting
+
+128
+
+TA B L E O F C O N T E N T S
+
+7
+
+Ranked Choice Voting
+
+136
+
+Sourcecred
+
+144
+
+Octant GLM Locking Mechanism
+
+152
+
+Bonding Curves
+
+160
+
+Revnets
+
+168
+
+Cooperative Models
+Cooperative Models
+
+176
+
+Rotating Savings and Credit Associations
+(ROSCA)
+
+178
+
+Base Paint - Pixel Artist Revshare
+
+186
+
+Breadchain - Onchain Crowd Staking
+Mechanism
+
+194
+
+Applied Use Cases
+Applied Use Cases
+
+202
+
+Artizen: Artifacts
+
+204
+
+Time-Locked Content Release: Pleasr
+
+212
+
+Impact Certificates: Hypercerts
+
+220
+
+Social Funding Mechanism: Degen
+
+226
+
+Impact Based Funding: Optimism RPGF
+
+234
+
+Conclusion
+Conclusion
+
+242
+
+Glossary
+Funding Mechanisms
+
+246
+
+Glossary of Term
+
+250
+
+INTRO D U CTI O N
+
+8
+
+INTRODUCTION
+Welcome to the second edition of “Onchain Capital
+Allocation HandBook,”. This book is an accessible
+exploration of the rapidly evolving landscape of
+resource distribution in both traditional and blockchain-based systems. Our goal is to empower the
+creators of systems aimed at collective impact and
+to assist organizations in selecting the most suitable
+models by offering real-world implementations and
+adaptations.
+This book builds on its predecessor, offering a
+more interconnected view of capital allocation with
+diverse themes and models. In addition to funding
+mechanisms, it includes governance and cooperative
+strategies. Governance tools like multi-signature
+wallets and voting systems ensure fair management
+of decentralized organizations, while cooperative
+mechanisms provide frameworks for shared ownership and equitable capital flows. These pages offer
+valuable insights for developers, grant operators, and
+anyone intrigued by the future of capital allocation.
+We’ve curated a rich tapestry of capital allocation
+methods, from time-tested traditional models to
+cutting-edge blockchain innovations, offering a comprehensive look at how resources can be distributed
+more effectively and transparently in both conventional and onchain systems.
+
+INTRO D U CTI O N
+
+9
+
+INSIDE, YOU’LL
+DISCOVER
+
+Funding mechanisms
+
+A diverse array of funding mechanisms, from AutoPGF to Harberger Taxes.
+
+Governance structures
+
+Governance structures underpinning effective resource management in decentralized systems.
+
+Cooperative models
+
+Cooperative models breathe new life into collaborative economic
+approaches.
+
+Real-world applications
+
+Real-world applications showcasing these concepts in action.
+
+Are you ready to embark on this journey of discovery? Let’s dive in and explore the fascinating world of
+onchain capital allocation together. As we progressively elaborate this infinite garden, we are discovering a future where a plurality of capital allocation
+mechanisms coexist and thrive.
+
+allobook.gitcoin.co
+
+For more tools and resources to explore onchain
+capital allocation, visit https://allobook.gitcoin.co/.
+There, you’ll find innovative solutions to help implement secure, efficient, and transparent capital
+distribution systems, empowering you to bring the
+strategies in this book to life.
+
+INTRO D U CTI O N
+
+10
+
+WHY ONCHAIN
+CAPITAL ALLOCATION?
+Every time you make a decision about how to spend
+money, you are allocating capital. At scale, venture
+capitalists and grant administrators allocate billions
+of dollars in capital yearly.
+The internet transformed how information is routed
+in society, fundamentally altering everything that
+relies on information (such as news, entertainment,
+and social media). Now, with the advent of blockchains, there is an opportunity to transform how
+society routes value, which could fundamentally
+change how we allocate capital. Now that we can
+program our values into our money, can we build
+resource allocation networks that better serve their
+constituents?
+Onchain capital allocation represents a transformative shift from traditional, centralized methods of
+resource distribution. This shift is crucial because
+it breaks down long-standing barriers to capital
+access, empowering communities to take charge of
+resource allocation and aligning incentives toward
+collective, positive social outcomes. By embracing
+decentralized mechanisms, we enter an era where
+financial decisions are no longer confined to gatekeepers, and resource distribution becomes more
+democratic and equitable.
+Innovations in the onchain era, including many men-
+
+INTRO D U CTI O N
+
+11
+
+tioned in this book, are poised to revolutionize how
+public goods and regenerative projects are funded.
+These mechanisms leverage blockchain’s trustless,
+transparent nature to bring a new level of efficiency
+and fairness to capital allocation.
+For example, Quadratic Funding allows small individual donations to have a large impact by amplifying
+the collective contributions of many, while Retro
+Funding rewards impactful work after it has been
+demonstrated, ensuring that the best ideas receive
+resources based on widespread perceptions that
+they provide value. Onchain approaches to capital
+allocation enable communities to collectively decide
+where resources are most needed.
+The opportunity size of onchain capital allocation
+cannot be overstated. Traditional capital allocation systems route $trillions, yet often suffer from
+inefficiencies, opaque decision-making processes,
+and limited access to capital for those outside elite
+decision making networks. By leveraging blockchain
+technology, decentralized systems enable a more
+inclusive and community-driven process. They align
+financial incentives with positive social outcomes,
+creating resilient ecosystems where resources are
+directed toward public goods that benefit the many,
+not just the few. By empowering communities to
+take ownership of capital distribution, these systems foster innovation, collaboration, and long-term
+sustainability.
+This book focuses on practical, real-world mechanisms for implementing decentralized capital allocation. It delves into the design space of emerging
+mechanisms like Buidl Guild Streams, LottoPGF, and
+other innovative models, offering a comprehensive
+guide for individuals and organizations looking to ex-
+
+INTRO D U CTI O N
+
+12
+
+plore and experiment with these tools. By providing
+a hands-on approach, the book encourages readers
+to actively engage with these mechanisms, experimenting and contributing to the broader decentralized movement. It serves as both a guide and a call
+to action, inviting readers to become part of the next
+frontier in capital allocation—one where transparency,
+fairness, and community empowerment are at the
+core.
+As you explore the concepts and case studies in
+this book, you are invited to contribute to a growing
+ecosystem of hackers, dreamers, and doers that seek
+to reimagine how capital can be distributed better in
+the onchain era. This is more than just a theoretical
+exploration; it’s a movement focused on making tangible, lasting change through onchain capital allocation.
+Together, we’ll uncover the next horizon of capital allocation, sharing our findings and effectively traversing
+this new landscape.
+To get learn more or to get involved, checkout this
+books companion sites at https://allobook.gitcoin.co/
+and https://allo.expert/.
+
+INTRO D U CTI O N
+
+13
+
+FUNDING
+MECHANISMS
+
+14
+
+FUNDIN G MECHANISMS
+
+15
+
+This section presents a range of methods for distributing resources and capital, both within and outside
+blockchain environments. From novel blockchain-native approaches like AutoPGF and LottoPGF to adaptations of traditional models such as Social Impact
+Bonds and Participatory Budgeting, these mechanisms offer diverse strategies for capital allocation.
+By exploring these varied approaches, readers can
+gain a broad understanding of funding possibilities in
+the evolving landscape of onchain and decentralized
+systems, informing potential applications in their
+own projects or research.
+
+16
+
+FUNDING MECHANISM
+
+PARTICIPATORY
+BUDGETING
+
+01
+
+Benefits
+1. Transparency
+2. Wider Inclusion
+3. Accountability
+
+Limitations
+1. Budgetary Challenges
+2. Avoiding capture
+3. Complex long-term planning
+
+PA R T I C I PAT O R Y B U D G E T I N G
+
+17
+
+TL;DR
+PIONEERED BY PORTO ALEGRE’S
+WORKERS’ PARTY
+
+Participatory Budgeting serves as a capital allocation funding mechanism by enabling community
+members to directly decide how a portion of public
+funds is distributed.
+
+View on Allo.Expert
+
+This process was pioneered in 1989 when Porto
+Alegre’s Workers’ Party introduced a democratic
+process that empowered residents to actively participate in the allocation of public funds, particularly focusing on supporting disadvantaged neighborhoods.
+
+PA R T I C I PAT O R Y B U D G E T I N G
+
+18
+
+PA R T I C I PAT O R Y B U D G E T I N G
+
+19
+
+WHO SHOULD USE IT?
+Participatory Budgeting is best suited for municipalities, communities, and organizations that want
+to empower their members in the decision-making
+process regarding public spending.
+
+FUNDING STRATEGY
+The participatory budgeting funding strategy
+focuses on allocating a specific portion of a public
+or organizational budget directly to the community
+for decision-making. This method allows community
+members to propose and vote on projects they believe will enhance their neighborhoods, ensuring that
+funding aligns with local interests.
+
+PA R T I C I PAT O R Y B U D G E T I N G
+
+20
+
+HOW DOES IT WORK?
+The participatory budgeting process starts by allocating funds, usually from municipal or organizational
+budgets, and inviting community members to submit
+their ideas. This process involves several stages.
+First, community members propose projects they
+believe will address local needs. These proposals
+are then assessed for feasibility by experts or city
+officials to ensure realistic implementation. After
+refinement, the projects are presented to the public
+for voting. Residents vote on the proposals, and the
+most favored ones receive funding. This approach
+ensures that public spending reflects community
+priorities, promoting transparency and active civic
+engagement. It not only democratizes the budgeting
+process but also builds transparency and trust by
+allowing citizens to directly influence how funds are
+allocated.
+
+PA R T I C I PAT O R Y B U D G E T I N G
+
+Design the process
+and set aside
+budget
+
+21
+
+Community
+members submit
+ideas
+
+Experts assess
+proposals
+
+Favored proposal(s)
+funded
+
+Short list goes up
+for vote
+
+PARTICIPATORY BUDGETING
+
+PA R T I C I PAT O R Y B U D G E T I N G
+
+22
+
+PA R T I C I PAT O R Y B U D G E T I N G
+
+23
+
+WHAT SETS IT
+APART?
+
+Community-Driven
+Decision Making
+
+Participatory budgeting gives residents direct power to propose
+and vote on how public funds are allocated, ensuring the process
+reflects local needs and priorities.
+
+Transparency and
+Accountability
+
+The entire budgeting process is open, allowing citizens to track
+the progress of proposals, vote outcomes, and how funds are
+spent, fostering trust between the community and governing
+bodies.
+
+Inclusive Civic
+Engagement
+
+By involving all community groups in the decision-making process, participatory budgeting promotes active participation and
+ensures that diverse voices are heard in shaping the allocation of
+public resources.
+
+24
+
+FUNDING MECHANISM
+
+BOUNTIES
+
+02
+
+Benefits
+1. Lowering costs
+2. Quick deliverables
+3. Attracting talent
+
+Limitations
+1. Long-term commitment
+2. Quality control challenges
+3. Management overhead
+
+BOUNTIES
+
+25
+
+TL;DR
+POPULARIZED BY HUNTER AND READY,
+NETSCAPE COMMUNICATIONS
+CORPORATION
+
+Bounties function as a capital allocation mechanism
+by offering rewards for completing specific project
+tasks, facilitating decentralized crowdsourcing and
+efficient resource allocation.
+
+View on Allo.Expert
+
+Notable early adopters include Hunter and Ready,
+who launched the first known bug bounty initiative
+in 1983. Netscape Communications Corporation
+followed in 1995 with a widely recognized bug
+bounty program​. This program set a precedent for
+using bounties to improve software security and
+quality. Since then, bounties have evolved and are
+now widely adopted by web3 projects, open-source
+initiatives, and decentralized organizations to incentivize contributions across various fields, including
+development, marketing, and governance.
+
+BOUNTIES
+
+26
+
+BOUNTIES
+
+27
+
+WHO SHOULD USE IT?
+This mechanism is particularly beneficial for software developers, open-source projects, and various protocols. Widely adopted in open-source
+development and illustrated by prominent web3
+projects, this model effectively channels resources
+into solving specific issues and constructing project
+infrastructure.
+
+FUNDING STRATEGY
+Bounties are reward-based mechanisms designed to
+incentivize the completion of specific project tasks,
+with funding released upon the approval of deliverables. While commonly associated with hackathons,
+bounties also operate independently, offering flexibility in capital allocation and engagement across a
+wide range of projects.
+
+BOUNTIES
+
+28
+
+HOW DOES IT WORK?
+Bounties are created when a project identifies
+specific tasks and issues Requests for Proposals
+(RFPs) for their completion. Participants complete
+these tasks, known as bounties, and receive compensation upon approval. Common types include
+bug bounties, which focus on fixing vulnerabilities,
+and general bounties, which encourage new features
+or contributions. This approach allows projects to allocate resources efficiently, ensuring that funds are
+directed toward specific outcomes and contributors
+are compensated only after successfully delivering
+on tasks.
+
+BOUNTIES
+
+29
+
+Bounty
+created
+
+You build thing or
+fix bug
+
+Approval
+
+You receive the
+rewards
+
+BOUNTIES
+
+BOUNTIES
+
+30
+
+BOUNTIES
+
+31
+
+WHAT SETS IT
+APART?
+
+Crowdsourcing Talent
+
+These models allow valuable contributors and sought-after talent
+to engage with projects and protocols without the need for longterm commitments.
+
+Efficient Budget
+Allocation
+
+The format enables precise, task-specific funding rather than fixed
+salaries, directing resources to project vulnerabilities.
+
+Reduced Overhead
+
+The combination lowers project costs and minimizes unnecessary
+spending by streamlining resource allocation.
+
+32
+
+FUNDING MECHANISM
+
+BLOCK
+REWARDS
+
+03
+
+Benefits
+1. Rewarding validators
+2. Network growth
+3. Sustainable flywheel
+
+Limitations
+1. Contributor’s barrier to entry
+2. Energy consumption (in PoW)
+3. Potential centralization
+
+B LO C K R E WA R D S
+
+33
+
+TL;DR
+ORIGINATED BY SATOSHI NAKAMOTO
+
+Block rewards function as a funding mechanism by
+incentivizing network participants, like miners, with
+tokens for validating transactions and securing the
+blockchain.
+
+View on Allo.Expert
+
+Introduced by Satoshi Nakamoto in 2009 for Proofof-Work (PoW) systems, block rewards give miners
+transferable tokens as compensation for validating
+transactions and securing the blockchain. This
+mechanism, now also used in Proof-of-Stake (PoS)
+systems, helps sustain ecosystem growth and fosters community-driven engagement.
+
+B LO C K R E WA R D S
+
+34
+
+B LO C K R E WA R D S
+
+35
+
+WHO SHOULD USE IT?
+This mechanism is ideal for developers building
+decentralized protocols, those overseeing mining
+or staking systems, and node stakers seeking to
+earn rewards by supporting network security and
+validation. It’s particularly suited for decentralized
+networks aiming to maintain security and incentivize
+participation.
+
+FUNDING STRATEGY
+In the block reward mechanism, cryptocurrencies
+are allocated to miners or validators based on their
+contribution to block validation. The first to validate
+a block receives the reward, incentivizing swift and
+accurate network participation.
+
+B LO C K R E WA R D S
+
+36
+
+HOW DOES IT WORK?
+In blockchain networks, transactions are grouped
+into blocks. In Proof-of-Work (PoW) systems, miners
+use computational power to solve complex mathematical problems that validate and secure these
+transactions. Proof-of-Stake (PoS) networks, like
+Ethereum 2.0, Polkadot, and Cosmos, use token staking instead of computational power for validation.
+The first miner or validator to successfully validate
+a block is rewarded with cryptocurrency. Block
+rewards typically decrease over time through “halving” events, reducing inflation. Some networks, like
+Ethereum post-EIP-1559, implement more complex
+models combining fee burning, staking, and reduced
+issuance.
+In Proof-of-Stake (PoS) systems, rewards extend beyond block validation to include transaction fees and
+newly minted tokens. These rewards are sometimes
+divided between validators and a community treasury, which funds ecosystem development. Governance mechanisms, sometimes involving token-holder voting, oversee the allocation of treasury funds.
+
+B LO C K R E WA R D S
+
+Block
+is added
+
+Block Chain
+
+37
+
+Validation of
+Block & Solution for
+next block
+
+Block Rewards
+
+BLOCK REWARDS
+
+Miners perform
+their job
+
+Protocols
+send the incentives
+
+Miners
+
+B LO C K R E WA R D S
+
+38
+
+B LO C K R E WA R D S
+
+39
+
+WHAT SETS IT
+APART?
+
+Automated Incentive
+Structure
+
+This mechanism automatically incentivizes network maintenance
+and security through built-in rewards.
+
+Early Contributor
+Incentives
+
+Higher initial rewards encourage early participation, highlighting
+the value of early contributors.
+
+Adaptive Reward
+Model
+
+Rewards typically decrease over time, promoting long-term sustainability and aligning with network maturity.
+
+40
+
+FUNDING MECHANISM
+
+EIP
+6969
+
+04
+
+Benefits
+1. Sustainable Developer Compensation
+2. Automated and Transparent
+3. Encourages Infrastructure
+Development
+
+Limitations
+1. Reliance on Contract Usage
+2. Complex Implementation on
+Layer 2
+3. Limited to Developer Contributions
+4. Goodharts Law
+
+EIP 6969
+
+41
+
+TL;DR
+INTRODUCED BY KEVIN OWOCKI AND
+ZAK COLE
+
+EIP-6969 incentivizes continuous development
+and maintenance of decentralized infrastructure by
+rewarding smart contract deployers on L2 networks
+with revenue when their contracts are used.
+
+View on Allo.Expert
+
+First introduced by Kevin Owocki and Zak Cole and
+proposed in May 2023, the mechanism was inspired
+by the Contract-Secured Revenue (CSR) model used
+on the Canto blockchain.
+
+EIP 6969
+
+42
+
+EIP 6969
+
+43
+
+WHO SHOULD USE IT?
+EIP-6969 is ideal for Ethereum-based projects,
+DAOs, and Layer 2 protocols. By offering a transparent and continuous compensation model, it ensures
+developers are rewarded for their contributions to
+infrastructure, making it a valuable tool for incentivizing long-term development and maintenance.
+
+FUNDING STRATEGY
+EIP-6969 introduces a smart contract-based revenue-sharing mechanism, allowing developers to
+receive a portion of gas fees generated through
+interactions with their contracts. This approach
+directs resources toward infrastructure growth, compensating developers based on real usage rather
+than speculative funding models.
+
+EIP 6969
+
+44
+
+HOW DOES IT WORK?
+Upon deploying a smart contract, a developer’s
+address is linked to it. Each time a user interacts with
+the contract, a percentage of the gas fees is automatically allocated to the developer, proportional to
+the execution time spent within the contract. This
+system encourages ongoing infrastructure improvements while reducing administrative complexity. In
+more advanced constructions, the revenue rights
+can be tokenized and then traded or split between
+multiple developers.
+
+WHAT SETS IT
+APART?
+On-chain Transparency
+
+EIP-6969 utilizes Ethereum’s blockchain to guarantee transparency in revenue distribution, ensuring developers are compensated
+based on actual contract usage.
+
+Standardization
+
+It offers a unified framework for rewarding developers across
+Layer 2 projects, promoting sustainable development practices.
+
+Automated Payouts
+
+Gas fee distribution is handled by smart contracts, streamlining
+payouts and minimizing administrative overhead, while ensuring
+developers are paid promptly.
+
+EIP 6969
+
+45
+
+Before EIP 6969
+
+User
+
+Transaction
+
+Contract
+Deployer
+
+Validators MEV bots
+L2 treasuries
+
+After EIP 6969
+
+User
+
+Transaction
+
+Validators MEV bots
+L2 treasuries
+
+EIP 6969
+
+Contract
+Deployer
+
+46
+
+FUNDING MECHANISM
+
+AUTO PGF
+
+05
+
+Benefits
+1. No-cost funding
+2. Low effort
+3. Novel funding source
+
+Limitations
+1. Limited returns for funders
+2. Dependency on protocol
+success
+3. Complex implementation
+
+AUTO PGF
+
+47
+
+TL;DR
+PIONNERED BY MAREK OLSZEWSKI,
+GLO DOLLAR
+
+AutoPGF (Automated Public Goods Funding) is a set
+of mechanisms that fund public goods automatically,
+such as through yields generated from protocol or
+token interactions.
+Coined by Marek Olszewski in 2024, AutoPGF simply means automatic public goods funding. AutoPGF
+utilizes revenue from network activities to support
+ecosystem development. The idea gained traction
+as projects like Glo Dollar (a stablecoin that uses its
+yield to fund public goods) or Octant (a group of ETH
+stakers that distribute their funding to public goods)
+began to appear and grow.
+
+View on Allo.Expert
+
+AutoPGF creates a funding flywheel where protocol
+usage directly supports public goods, aiming to address sustainable funding challenges in blockchain
+ecosystems. It enables users to indirectly contribute
+to ecosystem growth through their regular onchain
+activities.
+
+AUTO PGF
+
+48
+
+AUTO PGF
+
+49
+
+WHO SHOULD USE IT?
+This mechanism is ideal for blockchain protocols
+and decentralized applications (dApps) that want to
+contribute to ecosystem growth and sustainability.
+It’s particularly suited for protocols with consistent
+user activity and revenue generation.
+
+FUNDING STRATEGY
+AutoPGF channels a portion of protocol revenue directly to public goods projects. This revenue comes
+from normal user activities. The key idea is creating a
+feedback loop: as public goods improve the ecosystem, more users engage with the protocol, generating more funding for public goods.
+
+AUTO PGF
+
+50
+
+HOW DOES IT WORK?
+AutoPGF generates revenue through fees or yields
+as users interact with the protocol (trading, staking,
+etc.). Instead of becoming profit, a portion of this
+revenue goes into a treasury for ecosystem public
+goods funding.
+How is this capital then allocated? While this varies,
+a common construction is that the community, often
+token holders, votes on which projects to fund. This
+process happens automatically, creating a link between protocol usage and ecosystem development.
+Users support public goods simply by using the protocol, without additional costs. The system aims to
+create a sustainable funding cycle: more usage leads
+to more funding for public goods, potentially driving
+further protocol adoption.
+
+AUTO PGF
+
+51
+
+Revenue
+
+Treasury
+
+Token holders vote
+on what projects
+to fund
+
+Winning projects get
+distribution
+
+AN EXAMPLE AUTOPGF MECHANISM
+
+AUTO PGF
+
+52
+
+AUTO PGF
+
+53
+
+WHAT SETS IT
+APART?
+
+Automated Yield
+Allocation
+
+AutoPGF automatically directs a portion of protocol yields or
+fees to public goods funding, eliminating the need for manual
+donations.
+
+Usage-Driven Funding
+
+The amount of funding for public goods scales directly with
+protocol usage, creating a self-reinforcing ecosystem growth
+mechanism.
+
+Governance-Enabled
+Distribution
+
+Token holders or community members can participate in deciding
+which projects receive funding, aligning resource allocation with
+ecosystem needs.
+
+54
+
+FUNDING MECHANISM
+
+QUADRATIC
+ACCELERATOR
+
+06
+
+Benefits
+1. Guaranteed liquidity
+2. Anti-rug pull measures
+3. Sybil resistance
+
+Limitations
+1. Limited to pre-token projects
+2. Regulatory uncertainty
+3. Complexity for new users
+
+Q U A D R AT I C A C C E L E R AT O R
+
+55
+
+TL;DR
+DEVELOPED BY JUSTICE CONDER,
+TAMARA HELENIUS, AND GRIFF GREEN
+THROUGH GIVETH AND COMMONS STACK
+COLLABORATION
+
+Quadratic Accelerator (Q/ACC) functions as a capital
+allocation mechanism by combining Quadratic Funding (QF) and Augmented Bonding Curves (ABC).
+- QF allows small individual donations to have a large
+impact by amplifying the collective contributions.
+- A bonding curve is a mathematical formula that
+determines the price of a token based on its supply,
+typically increasing the price as more tokens are
+issued or purchased.
+
+View on Allo.Expert
+
+Q/ACC was developed in 2024 to address challenges in securing chain commitment and fair token
+distribution. The combination of QF and ABC creates
+token launches with built-in liquidity, passive revenue
+streams, and default token utility.
+
+Q U A D R AT I C A C C E L E R AT O R
+
+56
+
+Q U A D R AT I C A C C E L E R AT O R
+
+57
+
+WHO SHOULD USE IT?
+Web3 projects see fair, sustainable token launches
+without VC dependence. This strategy is ideal for
+teams wanting to avoid high tokenization costs,
+focus on development, and prioritize transparent,
+community-focused growth with equitable token
+distribution.
+
+FUNDING STRATEGY
+The Q/ACC funding strategy uses Augmented
+Bonding Curves to create initial liquidity and stabilize
+token prices from the start. It then leverages Quadratic Funding rounds to emphasize broad participation rather than concentrating funds from a few large
+investors.
+
+Q U A D R AT I C A C C E L E R AT O R
+
+58
+
+HOW DOES IT WORK?
+The Augmented Bonding Curve (ABC) provides
+initial liquidity by locking funds into a curve that sets
+token prices based on supply, ensuring price stability
+in the early stages. This is followed by QF rounds,
+where community donations are matched, prioritizing broad participation over total funds raised. This
+ensures that resources are broadly distributed to
+projects with strong community backing.
+In addition to facilitating fair token distribution, the
+Q/ACC model generates passive revenue streams
+through continuous market interactions. It aligns the
+interests of the project and its supporters, encouraging long-term commitment and sustainable growth.
+This mechanism is ideal for web3 projects focused
+on building equitable, community-driven growth with
+a sustainable financial foundation.
+
+Q U A D R AT I C A C C E L E R AT O R
+
+Up to 10 projects are
+selected
+
+59
+
+Project
+tokenization
+
+QF round
+
+Projects give donors
+tokens
+
+Donations
++ QF matching
+sent to the
+project
+
+QUADRATIC ACCELERATOR
+
+Q U A D R AT I C A C C E L E R AT O R
+
+60
+
+Q U A D R AT I C A C C E L E R AT O R
+
+61
+
+WHAT SETS IT
+APART?
+
+Built-in Liquidity
+
+Unlike other funding mechanisms, Q/ACC integrates Augmented
+Bonding Curves (ABC), creating immediate liquidity for tokens
+while establishing a price floor and ensuring stability from the
+start of the project.
+
+Community-Centric
+Funding
+
+By leveraging Quadratic Funding (QF), Q/ACC emphasizes
+broad-based community participation. This ensures that projects
+with more individual backers receive greater support, promoting
+fairness over capital concentration.
+
+Long-Term Growth
+Alignment
+
+Q/ACC aligns the incentives of the project team and the community, encouraging ongoing engagement and support, which
+contrasts with mechanisms focusing on short-term gains.
+
+62
+
+FUNDING MECHANISM
+
+BUIDLGUIDL
+STREAMS
+
+07
+
+Benefits
+1. Transparency
+2. Verification
+3. Recognition
+
+Limitations
+1. Capped Withdrawals
+2. Users or forks end metrics
+too open-ended
+3. Trust-based system
+
+B U I D LG U I D L STR E A M S
+
+63
+
+TL;DR
+PIONEERED BY AUSTIN GRIFFITH
+
+BuidlGuidl Streams provide Ethereum builders with
+a funding stream that allows for flexible withdrawals
+based on their contributions.
+Originating from Austin Griffith’s initiative to support
+impactful projects, BuidlGuidl Streams ensures
+consistent financial backing for builders creating
+products, prototypes, and tutorials in the web3 ecosystem. The mechanism emphasizes trust and flexibility, requiring builders very little to start a receiving
+a stream, but to state their reasons for withdrawals,
+creating more of a barrier to claiming it.
+
+View on Allo.Expert
+
+Streams are augmented with weekly calls to
+showcase notable contributions, helping identify
+projects with significant potential in the Ethereum
+community. Influenced by the core philosophy of the
+Ethereum ecosystem and leaders like Vitalik Buterin,
+BuidlGuidl Streams fosters a bias towards action
+that can lead to innovation.
+
+B U I D LG U I D L STR E A M S
+
+64
+
+B U I D LG U I D L STR E A M S
+
+65
+
+WHO SHOULD USE IT?
+BuidlGuidl Streams are ideal for Ethereum developers who enjoy contributing to the ecosystem and
+working on innovative projects without the constraint of predefined job descriptions.
+
+FUNDING STRATEGY
+BuidlGuidl Streams allow builders to work on their
+projects independently, with financial support being
+allocated based on their efforts. It promotes ongoing
+development within the Ethereum space and helps
+builders focus on learning and creating innovative
+solutions. The contributor streams ensure transparency in salary and contribution and allow contributors to return to the same stream for repeated
+withdrawals.
+
+B U I D LG U I D L STR E A M S
+
+66
+
+HOW DOES IT WORK?
+BuidlGuidl Streams provide a sustainable way for
+builders to receive continuous funding while allowing them to explore diverse project ideas. First,
+builders are identified during Austins Weekly Friday
+calls, where the core team recognizes individuals
+making valuable contributions to the Ethereum ecosystem. For each selected builder, a smart contract
+is deployed that starts fully funded, allowing for immediate access to resources rather than dispensing
+funds gradually. Each contract permits a maximum
+withdrawal amount over a 30-day period—typically
+around 1.5 ETH.
+As builders complete their work, they can withdraw
+funds from their stream, with the “meter” only running when funds are actually withdrawn.
+When withdrawing funds via the website, builders
+must provide a reason for their withdrawal, detailing the work they have accomplished. The core
+team periodically refills these streams based on
+the builders’ contributions and withdrawal patterns.
+As long as they continue to actively contribute to
+the ecosystem, builders can repeatedly access the
+same stream for additional withdrawals. In this way,
+contributors are dynamically funded based on their
+ongoing contributions.
+
+B U I D LG U I D L STR E A M S
+
+Identify promising
+builder
+
+67
+
+Deploy smart
+contract
+
+Builder works on
+project
+
+Usually 1.5 ETH
+
+Identify work
+completed
+
+Go to dApp
+
+Complete work
+
++ Withdraw
+
+Core team
+periodically refills
+the streams
+
+Receive funds
+
+BUIDLGUIDL STREAMS
+
+B U I D LG U I D L STR E A M S
+
+68
+
+B U I D LG U I D L STR E A M S
+
+69
+
+WHAT SETS IT
+APART?
+
+Continuous and Flexible
+Funding
+
+The mechanism enables ongoing financial support, allowing
+builders to work at their own pace on projects that benefit the
+community.
+
+Autonomous Project
+Selection
+
+There are no rigid project stages; builders have the freedom to
+self-select the projects they wish to pursue, promoting a highly
+independent and creative process.
+
+70
+
+FUNDING MECHANISM
+
+INVESTMENT
+DAOS
+
+08
+
+Benefits
+1. Transparent Governance
+2. Decentralized Decision-Making
+3. Profit Sharing
+
+Limitations
+1. Regulatory Uncertainty
+2. Potential for Inefficient
+Investments
+
+INVESTMENT DAOS
+
+71
+
+TL;DR
+POPULARIZED BY METACARTEL
+VENTURES, SEED CLUB, AND
+ORANGE DAO
+
+Investment DAOs function as a funding mechanism
+by decentralizing venture capital, allowing community members to collectively make investment decisions.
+
+View on Allo.Expert
+
+They were popularized by Metacartel Ventures,
+Seed Club, and Orange DAO, which adopted a community-centric approach. This model democratizes
+venture capital by spreading decision-making power
+across a larger group and shifting power away from
+traditional centralized investors.
+
+INVESTMENT DAOS
+
+72
+
+INVESTMENT DAOS
+
+73
+
+WHO SHOULD USE IT?
+This model is ideal for groups or individuals seeking
+flexible and community-driven funding.
+Small investors, who may not meet the capital
+requirements of conventional investments, can participate through governance tokens, gaining decision-making power and sharing in profits.
+Additionally, communities looking to pool resources
+while retaining democratic control over fund allocation can ensure that all participants have a say in
+capital decisions.
+
+FUNDING STRATEGY
+Building on traditional VC frameworks, investment
+DAOs incorporate features of crowdsourcing,
+crowdfunding, and cooperative models to support
+collective funding through community voting and enhanced investor engagement. These collectives pool
+resources and may target investments in venture
+capital, real estate, intellectual property, or various
+other asset classes.
+
+INVESTMENT DAOS
+
+74
+
+HOW DOES IT WORK?
+Investors contribute to a DAO-controlled treasury by
+purchasing governance tokens, which grant them
+voting rights to influence investment decisions.
+Some investment DAOs also generate funds through
+mechanisms like staking to ensure ongoing capital
+availability for future investments. Funds are allocated based on votes cast by token holders, with each
+member’s voting power proportional to the number
+of governance tokens they hold. Additionally, some
+DAOs match funds to amplify the impact of community contributions.
+The disbursement of funds can occur either upfront
+as a lump sum or be tied to specific milestones, depending on the project and DAO’s structure. Projects
+must submit a proposal detailing their vision, roadmap, and funding needs, which are reviewed and
+voted upon. The funding process generally includes
+three stages: Proposal Submission - where propsective investments pitch. Voting - where a go/no-go
+decision is made. And finally, investment execution
+- where tokens are exchanged.
+Funding rounds can be either fixed or rolling. DAOs
+like Hydra Ventures have fixed funding cycles such
+as quarterly or biannual rounds, during which investment decisions are made collectively. Others, like
+Seed Club, operate on a rolling basis, making funding
+decisions continuously as long as capital is available.
+
+INVESTMENT DAOS
+
+75
+
+Pool Creation
+DAO Treasury
+
+Investment
+Execution
+
+Proposal
+Submission
+
+Governance and
+Voting
+
+Profit or Returns
+
+INVESTMENT DAOS
+
+INVESTMENT DAOS
+
+76
+
+WHAT SETS IT
+APART?
+
+Decentralized
+Governance
+
+Traditional VC ecosystems concentrate decision-making power
+among a few individuals or firms, while investment DAOs allow all
+token holders to engage in voting, rather than by a small group of
+partners​.
+
+Profit Sharing
+
+Profits from successful investments are distributed among all token holders, aligning community incentives and enabling broader
+financial benefits​.
+
+Transparency
+
+VCs often lack transparency and inclusivity, focusing on capital
+control by a central governing body. Investment DAOs have a
+public and immutable record of all decisions and transactions,
+ensuring transparency throughout the investment process​.
+
+Flexibility
+
+Investment DAOs can take different forms, from directly funding
+projects to investing in other DAOs, allowing for diverse approaches to supporting innovation​.
+
+INVESTMENT DAOS
+
+77
+
+EXAMPLES
+
+Hydra Ventures
+Hydra Ventures operates as a
+“fund of funds,” aggregating
+capital to invest in other DAOs.
+They believe participants within their ecosystem possess
+greater expertise in evaluating
+investment opportunities than
+traditional venture capital
+firms.
+
+Orange DAO
+Orange DAO is composed of
+more than 1,000 Y Combinator
+alumni and is designed to back
+and invest in web3 startups.
+With $80 million in raised
+capital, Orange DAO leverages
+the expertise and networks
+of its members to source and
+evaluate early-stage crypto
+and blockchain ventures.
+
+Seed Club Ventures
+Seed Club Ventures is the
+investment arm of Seed Club.
+They have launched a $25 million fund to invest in projects
+that build DAO infrastructure,
+web3 applications, and decentralized communities.
+
+78
+
+FUNDING MECHANISM
+
+LOTTO
+PGF
+
+09
+
+Benefits
+1. Community building
+2. Effective crowdsourcing
+3. Engagement / Gamification
+
+Limitations
+1. Risk of perverse Incentives
+2. Requires a strong sense of
+community
+3. Fairness
+
+LOT TO P G F
+
+79
+
+TL;DR
+DESIGNED BY OTTODAO
+
+LottoPGF functions as a capital formation mechanism that allows anyone to launch customizable, fully
+onchain “Lottos” to fund causes they care about.
+These lotteries are secured on Ethereum, featuring
+verifiable randomness and unbiased winner selection. By bringing the traditional lottery system onchain, LottoPGF aims to address the transparency,
+fairness, and verifiability challenges commonly found
+in conventional lotteries.
+OttoDAO, the team behind LottoPGF, has already
+launched early versions of the protocol. As of
+October 2024, LottoPGF has attracted over 16,000
+unique addresses who have played more than
+40,000 tickets across five different blockchain
+networks.
+
+View on Allo.Expert
+
+In the web3 public goods funding space, where most
+mechanisms focus on resource allocation, LottoPGF shifts attention to capital formation. It does this
+by incentivizing retail donations, reducing reliance
+on large sponsors, and enhancing neutrality. This
+approach aims to make public goods funding more
+accessible, engaging, and community-driven.
+
+LOT TO P G F
+
+80
+
+LOT TO P G F
+
+81
+
+WHO SHOULD USE IT?
+This mechanism is well-suited for communities with
+strong commitment and vision, groups wanting to incentivize donations, charities, and emerging nations
+like network states or pop-up cities, as it enhances
+transparency and community involvement.
+
+FUNDING STRATEGY
+LottoPGF allows anyone to create customizable, permissionless lotteries to fund public goods. Powered
+by verifiable random functions (VRFs), which generate cryptographic randomness for fairness, lotteries
+can be single or recurring, with flexible options for
+fund disbursement and prize redistribution.
+
+LOT TO P G F
+
+82
+
+HOW DOES IT WORK?
+LottoPGF rounds begin with configuration options
+such as the ticket price, token (like an ERC-20), and
+determining how funds are split between the prize
+pool and the public good. Ticket buyers can choose
+to support one or multiple causes. Organizers can
+also adjust the odds of winning and customize the
+frequency of draws, whether recurring or a single
+round. In single-round lotteries, if no winner is found,
+the prize pool is evenly distributed among all participants.
+The way funds are allocated can vary, from direct
+support to creating a matching pool. Depending
+on the setup, disbursements are either from direct
+support or milestone-based. The entire system is
+permissionless, meaning anyone can deploy the
+protocol without needing approval.
+
+LOT TO P G F
+
+83
+
+Sponsor
+
+Lottery’s Prize
+in ETH or any token
+
+Priz
+e
+
+poo
+
+l ge
+
+ts 5
+
+0%
+
+Seeds initial jackpot
+
+Buy
+
+50%
+
+Ticket
+
+n to
+
+give
+uy
+sur
+trea
+se’s
+cau
+
+Players
+
+Public Good
+
+LOTTO PGF
+
+LOT TO P G F
+
+84
+
+LOT TO P G F
+
+85
+
+WHAT SETS IT
+APART?
+
+Capital Formation
+Focus
+
+LottoPGF shifts the focus from traditional capital allocation to
+capital formation, allowing communities to raise funds for their
+LootPGF campaigns.
+
+Integration with Other
+Mechanisms
+
+It can be used in combination with capital allocation mechanisms
+like Quadratic Funding (QF) or RetroPGF, replacing the need for a
+a sponsor.
+
+Engaging and Fun
+
+The onchain lottery format introduces a fun, dynamic element for
+communities, making fundraising more interactive and exciting for
+participants.
+
+86
+
+FUNDING MECHANISM
+
+DAO
+ICOS
+
+10
+
+Good at
+1. Investor control and
+protection
+2. Transparency
+3. Decentralization
+
+Not good at
+1. Complexity
+2. Adoption
+3. Volatility
+
+DAO ICOS
+
+87
+
+TL;DR
+PIONEERED BY VITALIK BUTERIN
+
+DAO ICOs function as a capital allocation mechanism by integrating elements of DAOs to allow investors to vote on fund releases, enhancing transparency and governance.
+
+View on Allo.Expert
+
+Vitalik Buterin proposed them as a conceptual model
+that leverages Ethereum’s smart contracts to create
+a secure and democratic decentralized fundraising
+method. They give investors more control over fund
+management, addressing fraud and mismanagement
+risks that have plagued traditional ICOs.
+
+DAO ICOS
+
+88
+
+DAO ICOS
+
+89
+
+WHO SHOULD USE IT?
+DAO ICOs are ideal for blockchain projects and
+decentralized organizations that need continuous
+community involvement and oversight. They are
+particularly suited for projects that benefit from increased investor control over fund release, improved
+transparency through smart contracts, and fraud
+prevention by limiting upfront access to funds and
+tying disbursements to project milestones.
+
+FUNDING STRATEGY
+A DAO ICO is a hybrid fundraising model that combines elements of ICOs and DAOs. It gives contributors the power to vote on the release of funds after
+the fundraising stage.
+
+DAO ICOS
+
+90
+
+HOW DOES IT WORK?
+During a contribution period, investors purchase
+governance tokens using ETH/DAI. The funds
+raised are securely stored in a DAOICO treasury.
+After the contribution period, a voting process is
+established where investors can decide how much
+of the funds are released at each stage of the
+project’s development. This control mechanism,
+often referred to as the “tap,” allows the amount
+of funding to be increased or decreased based on
+the project’s progress and performance.
+Additionally, if the project fails or underperforms,
+investors have the option to vote for a refund,
+enabling them to retrieve any remaining funds.
+
+WHAT SETS IT
+APART?
+More Investor
+Control
+
+Unlike traditional ICOs, DAO ICOs grant investors continuous
+control over fund distribution. This allows them to monitor the
+project’s progress and ensure that funds are used appropriately.
+
+DAO ICOS
+
+91
+
+1. Contribution Mode
+
+Sale Type:
+Capped Sales
+
+Uncapped Sales
+
+ICO
+
+KYC’d sale
+
+or other mechanism
+
+$$$
+
+User
+
+Tokens
+
+DAOICO Treasury
+
+2. Launched Mode
+
+Token Holder
+
+Devs
+
+vote on tap speed
+
+self-destruct
+
+withdraw
+
+DAOICO Treasury
+
+DAO ICOS
+
+$$$ (limited by tap speed
+* time)
+
+DAO ICOS
+
+92
+
+DAO ICOS
+
+93
+
+EXAMPLES
+
+Fluidity
+
+Fluidity was an experiment focused on financial products that
+leveraged DAICO principles, including decentralized voting to
+manage funds and control over the ongoing allocation of resources, based on milestones and project performance.
+
+The Abyss DAICO
+
+The Abyss was one of the first projects to experiment with a
+DAICO-like approach. It introduced a system where token holders
+could vote on whether to continue funding the project or refund
+the remaining funds if progress was unsatisfactory.
+
+The Raiden Network
+
+While Raiden itself wasn’t a full DAICO, its ICO integrated some
+elements of governance and accountability. They utilized a model
+in which certain milestones needed to be hit before more funds
+could be unlocked, which aligns with DAICO principles of better
+managing capital release.
+
+94
+
+FUNDING MECHANISM
+
+SOCIAL IMPACT BOND
+(SIB)
+
+Benefits
+1. New Capital
+2. Collaboration
+3. Outcome Focus
+
+Limitations
+1. Risk Transfer
+2. Complexity
+3. High Costs
+
+11
+
+S O C I A L I M PA C T B O N D (S I B)
+
+95
+
+TL;DR
+DESIGNED BY SOCIAL FINANCE LTD
+
+Social Impact Bonds (SIBs) function as a funding
+mechanism by allowing private investors to fund
+public social programs, with returns dependent on
+achieving specific social outcomes.
+
+View on Allo.Expert
+
+SIBs were first introduced by Social Finance Ltd. in
+2010. They transfer the risk of program failure from
+the public sector to private investors, ensuring that
+government payments are only made if the program
+successfully achieves its goals. This model supports
+collaboration between governments, non-profits, and
+investors, aligning financial returns with meaningful
+social impact while promoting accountability and
+performance-driven outcomes.
+
+S O C I A L I M PA C T B O N D (S I B)
+
+96
+
+S O C I A L I M PA C T B O N D (S I B)
+
+97
+
+WHO SHOULD USE IT?
+This mechanism is ideal for governments, impact
+investors, and non-profits looking to tackle social
+issues with a focus on long-term impact without
+risking taxpayers’ money. SIBs are particularly
+attractive for organizations looking to implement
+evidence-based, performance-driven programs that
+address complex social challenges.
+
+FUNDING STRATEGY
+The SIB funding strategy is based on legal agreements in which investors fund social programs and
+are repaid by the government with interest if the
+programs meet predetermined success metrics.
+
+S O C I A L I M PA C T B O N D (S I B)
+
+98
+
+HOW DOES IT WORK?
+Government agencies, non-profit organizations, or
+community leaders identify a pressing social issue,
+which could be anything from reducing homelessness to improving educational outcomes for at-risk
+youth. Once the need is identified, experts design a
+program to address the issue(s).
+After the program is designed, private investors step
+in to provide the necessary funding. Once funding
+is secured, experienced non-profit organizations are
+brought in to provide services and support to the
+target population as outlined in the program design.
+Post-execution, an independent third-party evaluator
+is brought in to assess the program’s performance.
+This evaluator collects and analyzes data throughout the program’s duration to measure its progress
+against the predetermined success metrics.
+If the evaluation shows that the program has
+achieved its goals, the government fulfills its commitment to repay the investors. This repayment
+includes the initial investment plus an agreed-upon
+return, which serves as a reward for the investors’
+risk-taking and an incentive for future investments
+in social programs. If the program fails to meet its
+predetermined success metrics, investors may lose
+part or all of their initial investment.
+
+S O C I A L I M PA C T B O N D (S I B)
+
+Nonprofit identify
+social problem
+
+99
+
+Experts design
+programs
+
+Investor pays for
+program
+
+to address issue
+
+Independent
+review
+
+Service provider
+runs program
+
+Successful
+
+Not
+Successful
+
+If successful, money
+and agreed upon additional payment goes to
+investor.
+
+If not successful, investor receives a part or
+none of the investment
+back.
+
+SOCIAL IMPACT BOND (SIB)
+
+S O C I A L I M PA C T B O N D (S I B)
+
+100
+
+S O C I A L I M PA C T B O N D (S I B)
+
+101
+
+WHAT SETS IT
+APART?
+
+Aligns financial returns
+with social impact
+
+Creates a system where economic gains are tied directly to
+achieving positive social outcomes, incentivizing investors to
+support programs that drive meaningful change rather than just
+financial profit.
+
+Encourages innovation in
+social service delivery
+
+Provides flexibility in designing programs, allowing non-profits to
+experiment with new approaches to longstanding social problems.
+
+Promotes evidence
+-based policymaking
+
+With SIBs, the government and other stakeholders rely on data
+and measurable impact to determine program success, which
+helps inform decision-making and policy development.
+
+102
+
+FUNDING MECHANISM
+
+HARBERGER
+TAXES
+
+12
+
+Benefits
+1. Market liquidity
+2. Fair pricing and access
+3. Increases asset and resource productivity
+
+Limitations
+1. Owner uncertainty
+2. Consistent re-valuation
+3. Tax burdens
+
+H A R B E R G E R TA X E S
+
+103
+
+TL;DR
+DESIGNED BY ARNOLD HARBERGER
+POPULARIZED BY GLEN WEYL AND ERIC
+POSNER
+
+Harberger Taxes function as a funding mechanism
+by taxing assets based on self-assessed values,
+encouraging efficient use and benefiting societal
+welfare.
+
+View on Allo.Expert
+
+Harberger Taxes, introduced by economist Arnold
+Harberger in the 1960s, are typically applied to land
+and real estate but can also be used for intellectual
+property and digital assets, including NFT marketplaces. The idea has gained traction through the
+works of economists Glen Weyl and Eric Posner.
+
+H A R B E R G E R TA X E S
+
+104
+
+H A R B E R G E R TA X E S
+
+105
+
+WHO SHOULD USE IT?
+This funding strategy is beneficial for any community aiming to enhance resource allocation, curb
+monopolies, and generate revenue for public goods.
+Communities can utilize these taxes to fund operations, expand their treasuries, or redistribute funds
+among members. This mechanism can also support
+sustainable resource use while ensuring that value
+creation is effectively rewarded without the need for
+traditional taxation.
+
+FUNDING STRATEGY
+Harberger Taxes create a new kind of “partial common ownership” somewhere between private and
+common ownership. The goal is to reduce inefficiencies from hoarding and speculative behavior. Under
+this system, assets remain available for sale at the
+owner’s declared value, creating a balance between
+ownership desire and tax obligations.
+
+H A R B E R G E R TA X E S
+
+106
+
+HOW DOES IT WORK?
+Harberger Taxes can be implemented onchain,
+where smart contracts handle the key processes:
+setting the sale price, collecting taxes, managing
+continuous market interactions, and reassessing
+ownership. The processes in this mechanism are
+highly customizable. To begin, owners must self-assess the value of their assets, such as land, intellectual property, or other valuable resources, and be
+willing to sell at that declared price. Then, a set percentage of this self-assessed value is taxed regularly,
+with the rate and frequency predefined.
+Setting the right tax rate is crucial. If the rate is too
+high, it may discourage ownership, while a rate that’s
+too low might not motivate efficient resource use.
+There are also modified versions of Harberger Taxes
+aimed at reducing owner uncertainty. One option is a
+transition period that lets owners retain possession
+after a sale, allowing them to reclaim the asset by
+paying a percentage of the buyer’s declared value.
+Another approach ties the owner’s tax rate to the
+highest bid, giving them the choice to sell when they
+want as long as taxes are paid. These adjustments
+ensure owners, not buyers, control the sale.
+
+H A R B E R G E R TA X E S
+
+107
+
+Asset Valuation
+The owner publicly declares the value of their asset,
+which determines their tax liability.
+
+Tax Payment
+The owner pays a regular tax based on the declared value,
+typically a percentage of it.
+
+Always for Sale
+The asset is always available for purchase at the declared
+price. If someone pays that price, they can immediately
+buy the asset.
+
+Transfer of Ownership
+Once purchased, the new owner declares a new value
+and begins paying taxes, while the asset remains available
+for sale under the same rules.
+
+HARBERGER TAXES
+
+H A R B E R G E R TA X E S
+
+108
+
+WHAT SETS IT
+APART?
+
+Continuous Market
+Interaction
+
+Harberger Taxes maintain a constant market environment where
+assets are always for sale. This keeps resources circulating,
+ensuring they end up with those who value them most and are
+willing to pay for them.
+
+Taxation as an Incentive
+for Efficiency
+
+Owners are regularly taxed based on their self-declared asset
+value, pushing them to assess the true worth of their property
+accurately. If they overvalue it, they pay higher taxes, which encourages more efficient and productive use of the resource.
+
+Dynamic Asset
+Allocation
+
+The constant possibility of sale and the tax on ownership can curb
+monopolies and lead to a more equitable distribution of assets.
+
+H A R B E R G E R TA X E S
+
+109
+
+EXAMPLE
+GeoWeb
+GeoWeb is an open geospatial information network
+that fosters augmented, shared reality through the
+use of digital land registry smart contracts and partial common ownership. In this system, landholders
+must publicly declare a sale price for each of their
+land parcels using ETHx, a wrapped version of ETH
+that facilitates streaming payments. Landholders
+are required to pay a license fee to the network to
+maintain their parcel license. This fee is set at 10%
+of their declared sale price annually. They must also
+authorize a payment stream and keep ETHx in their
+wallet. Any market participant has the ability to
+initiate the transfer of a parcel by paying the current
+landholder their declared sale price.
+
+110
+
+FUNDING MECHANISM
+
+ROUNDABOUT
+PRODUCTION
+
+13
+
+Benefits
+1. Future-proofing
+2. Resilient infrastructure
+3. Scalability and efficiency
+
+Limitations
+1. Quick solutions
+2. Immediate liquidity
+3. Resource intensive
+
+RO UNDABO UT PRO D U CTI O N
+
+TL;DR
+FORMALIZED BY EUGEN VON
+BÖHM-BAWERK
+
+Roundabout production is when get more of something by first producing something else - For example, youd cut down more trees if you produce axes
+beforehand.
+Roundabout production functions as a funding
+mechanism by investing in intermediate stages or
+foundational technologies to enhance productivity
+and support long-term profitability.
+
+View on Allo.Expert
+
+The concept of ‘roundabout production’ traces
+back to the Austrian School of Economics, particularly through the works of Carl Menger, Eugen
+von Böhm-Bawerk, and later, Ludwig von Mises
+and Friedrich Hayek. It was formally introduced in
+Böhm-Bawerk’s 1891 book “The Positive Theory of
+Capital.” Today, it is being used in web3 contexts to
+support projects with longer timelines for realizing
+sustainable profits.
+
+111
+
+RO UNDABO UT PRO D U CTI O N
+
+112
+
+RO UNDABO UT PRO D U CTI O N
+
+113
+
+WHO SHOULD USE IT?
+This mechanism is best suited for projects or DAOs
+focused on building core blockchain infrastructure or
+scalable governance systems. It’s ideal for organizations willing to make long-term investments in
+research and development rather than looking for
+immediate returns.
+
+FUNDING STRATEGY
+The roundabout production funding strategy
+involves investing in projects with complex, high-resource needs (e.g., Ethereum Layer 2 solutions,
+cross-chain bridges, decentralized storage). It
+emphasizes the core principle that a more strategic,
+long-term path ultimately optimizes processes and
+maximizes output over time, aligning well with the
+infrastructure needs in web3.
+
+RO UNDABO UT PRO D U CTI O N
+
+114
+
+HOW DOES IT WORK?
+The roundabout production process generally
+begins identifying long-term objectives (eg increase
+adoption of our product). Then the community sets
+out to find high leverage projects to meet these
+objectives.
+Fund allocation for roundabout production is direct
+and disbursement varies. Often, funds are provided on a milestone basis to ensure projects receive
+funds after achieving specific benchmarks. An
+additional option is for some funds to be distributed
+while others are locked in staking mechanisms to
+encourage long-term commitment.
+In roundabout production, funding is first allocated
+to the identification, creation, and implementation
+of anything needed to improve the projects objectives. Next, these ideas are applied to more tangible
+outputs that can receive funding.
+One example of roundabout production looks like in
+web3 is Ethereum’s transition to Proof of Stake (PoS)
+in Ethereum 2.0. While this transition was lengthy
+and complex, it was crucial for enhancing scalability,
+energy efficiency, and security—foundational elements for the future growth of DeFi, NFTs, and other
+decentralized applications.
+
+RO UNDABO UT PRO D U CTI O N
+
+115
+
+Fund allocation and
+milestone based disbursement established
+
+Long term efficiency
+improvement project
+approved for
+funding
+
+Milestone 1
+completed
+
+3rd party
+validates
+
+Funds
+distributed
+
+REPEAT THIS PROCESS FOR ADDITIONAL MILESTONES
+
+ROUNDABOUT PRODUCTION
+
+RO UNDABO UT PRO D U CTI O N
+
+116
+
+RO UNDABO UT PRO D U CTI O N
+
+117
+
+WHAT SETS IT
+APART?
+
+Focuses on Resilience
+
+This mechanism focuses on long-term scalability over immediate
+gains. It requires patience and considerable upfront resources
+but paves the way for building resilient, future-proof infrastructure within the blockchain ecosystem. This long-term approach
+differentiates it from the typical short-term strategies of many
+mechanisms.
+
+Flexibility
+
+It is adaptable to various contexts, which allows it to be applied
+effectively across different industries and ecosystems.
+
+Ecosystem-Centric
+Approach
+
+Roundabout production often focuses on solutions that enhance
+the broader ecosystem rather than just individual projects. This
+ecosystem-centric perspective drives collective growth and innovation, benefiting all participants over time.
+
+GOVERNANCE
+MECHANISMS
+
+118
+
+GOVERNAN CE MECHANISMS
+
+119
+
+This section explores various tools and concepts
+that can be applied or adapted to influence how
+decisions are made and how value is distributed
+in onchain systems. While not all were originally
+designed for blockchain environments, each offers
+unique insights into challenges faced in onchain
+capital allocation. From economic models to voting
+systems and contribution metrics, these mechanisms provide a toolkit for addressing the complex
+issues of resource management, governance, and
+value distribution in decentralized contexts.
+
+120
+
+GOVERNANCE MECHANISM
+
+GNOSIS’
+MULTI-SIGNATURE
+WALLETS
+
+14
+
+Benefits
+1. Enhanced Security
+2. Flexibility
+3. Transparency
+
+Limitations
+1. Operational Delays
+2. Complexity for New Users
+3. Higher Transaction Costs
+
+G N O S I S ’ M U LT I - S I G N A T U R E W A L L E T S
+
+121
+
+TL;DR
+DESIGNED BY SAFE (FORMERLY GNOSIS)
+
+The Gnosis multi-signature wallet, now known as
+Safe, originated from Gnosis, a blockchain company
+founded in 2015 by Martin Köppelmann and Stefan
+George. Initially focused on prediction markets, Gnosis developed the Gnosis Safe in 2017 to address the
+need for secure digital asset management.
+The Gnosis Safe started as a multi-signature wallet,
+requiring multiple approvals for transactions, which
+made it ideal for decentralized organizations (DAOs)
+and teams. Its security features and flexibility quickly
+made it a standard tool across the Ethereum network, widely adopted by DAOs, DeFi projects, and
+institutional investors.
+
+View on Allo.Expert
+
+In 2022, recognizing the Safe’s broader potential,
+Gnosis spun it off as an independent entity, rebranding it as simply “Safe”. Today, Safe supports over
+7 million smart accounts, secures more than $100
+billion in assets, and continues to evolve as a crucial
+infrastructure for decentralized asset management
+and governance in the crypto ecosystem.
+
+G N O S I S ’ M U LT I - S I G N A T U R E W A L L E T S
+
+122
+
+G N O S I S ’ M U LT I - S I G N A T U R E W A L L E T S
+
+123
+
+WHO SHOULD USE IT?
+This governance mechanism effectively supports
+DAOs in overseeing treasuries, funding proposals,
+and investment decisions. Enterprises can use Safe
+to manage corporate digital assets among various
+stakeholders, while public goods projects can adopt
+this tool for transparent and accountable fund allocation.
+
+STRATEGY
+By default, Safe Wallet operates using a multi-signature mechanism where funds are held in a smart
+contract, and any transaction requires a predefined
+number of signatures to proceed. Members submit proposals for transactions or fund allocations,
+and each signer must approve before the action is
+executed.
+Alongside the multisig entrypoint, Safe is also a
+modular and extensible account standard that can
+be adopted to many different use-cases, allowing
+users to evolve their account over time to accommodate changing needs.
+
+G N O S I S ’ M U LT I - S I G N A T U R E W A L L E T S
+
+124
+
+HOW DOES IT WORK?
+Safe Wallet operates as a secure, multi-signature
+asset management tool built on Safe Smart Accounts. Users start by deploying a multi-signature
+smart contract on a blockchain like Ethereum. They
+then configure the wallet by setting a threshold of
+required signers for transaction approvals, ensuring
+no single user can act unilaterally.
+Once configured, users or organizations deposit
+funds into the Safe Wallet. When a transaction
+needs to occur, a member submits a proposal, which
+is then visible to all designated signers. Each signer
+reviews the transaction, and if they approve, they
+provide their digital signature. Only when the predefined number of signatures is collected does the
+smart contract execute the transaction.
+Safe Wallet also offers features like gasless transactions, where relayers cover gas fees, and transaction
+batching, allowing multiple transactions to be bundled into one for efficiency. All actions are recorded
+onchain, providing full transparency and accountability for secure fund management.
+
+G N O S I S ’ M U LT I - S I G N A T U R E W A L L E T S
+
+125
+
+1. Deploy Smart
+Contract
+
+2. Configure
+Wallet
+
+3. Deposit
+Funds
+
+Users deploy multi-sig
+contract on blockchain
+
+Set threshold and
+designate signers
+
+Users deposit funds into
+Safe Wallet
+
+6. Sign
+Transaction
+
+5. Review
+Transaction
+
+4. Propose
+Transaction
+
+Signers provide their digital
+signatures
+
+Designated signers review
+the proposal
+
+Member submits a
+transaction proposal
+
+7 / Execute
+Transaction
+
+Smart contract executes
+when threshold is met
+
+GNOSIS’ MULTI-SIGNATURE WALLETS
+
+G N O S I S ’ M U LT I - S I G N A T U R E W A L L E T S
+
+126
+
+G N O S I S ’ M U LT I - S I G N A T U R E W A L L E T S
+
+127
+
+WHAT SETS IT
+APART?
+
+Robust Security
+Features
+
+Advanced cryptographic protocols ensure high levels of security.
+
+Customization
+
+Flexible threshold settings and signer configurations to fit diverse
+organizational needs. Organizations can define the number of
+required signatures (e.g., 2-of-3, 3-of-5, 5-of-7). Organizations can
+also leverage a large open source library of modular extensions to
+enhance their safe’s capacity.
+
+Seamless Integration
+
+Compatible with various blockchain networks and dApps, enhancing usability.
+
+User-Friendly Interface
+
+Intuitive design facilitates ease of use for both technical and
+non-technical users.
+
+Comprehensive
+Auditing
+
+Provides detailed onchain records for transparency and accountability.
+
+128
+
+GOVERNANCE MECHANISM
+
+STAR VOTING
+
+15
+
+Benefits
+1. Voter expressiveness
+2. Reducing strategic voting
+3. Minimizes wasted votes
+
+Limitations
+1. Implementation costs
+2. Transition complexity
+3. Potential for voter fatigue
+
+S TA R V O T I N G
+
+129
+
+TL;DR
+DEVELOPED BY MARK FROHNMAYER AND
+THE EQUAL VOTE COALITION
+
+STAR Voting functions as a governance mechanism
+by reflecting voter preferences through a scoring
+and runoff process, ensuring fair and representative
+decision-making.
+
+View on Allo.Expert
+
+Created in 2014 by Mark Frohnmayer, STAR Voting
+aims to enhance electoral systems. It can be integrated into DAOs for decision-making and funding
+distribution. This helps ensure all voter preferences
+are accounted for in both phases.
+
+S TA R V O T I N G
+
+130
+
+S TA R V O T I N G
+
+131
+
+WHO SHOULD USE IT?
+This governance mechanism is ideal for DAOs managing elections with multiple candidates or proposals. It minimizes vote-splitting and increases voter
+satisfaction through nuanced preference expression,
+often resulting in broadly supported winners. It is
+also helpful for communities looking to enhance trust
+and participation.
+
+STRATEGY
+STAR Voting is a system where voters score each
+candidate on a scale from 0 to 5 stars. The two
+highest-scoring candidates proceed to an automatic
+runoff, in which the candidate preferred by more
+voters wins. It is simple, expressive, and designed to
+reflect the will of the majority without the complications of Ranked-Choice Voting (RCV).
+
+S TA R V O T I N G
+
+132
+
+HOW DOES IT WORK?
+Under the STAR system, voters give their favorite
+candidate five stars and can leave their least favorite
+blank or assign zero stars. They can rate the remaining candidates between 1 and 4 stars according
+to their preference and can give equal ratings to
+multiple candidates.
+Next, the counting process begins and follows the
+Score Then Automatic Runoff (STAR) method. In this
+phase, the two highest-scoring candidates move
+on as finalists. Each voter’s ballot then reflects their
+preferences, with their vote automatically assigned
+to their preferred finalist. The finalist with the most
+votes is ultimately declared the winner.
+
+S TA R V O T I N G
+
+133
+
+1 / Star Voting
+
+2 / Scoring Round
+
+Give your favorite(s) 5 stars, your last choice(s) 0 stars,
+and vote your conscience.
+
+The two highest-scoring candidates
+are finalists.
+
+Alex
+
+0
+
+1
+
+2
+
+3
+
+4
+
+0
+
+1
+
+2
+
+3
+
+4
+
+1
+
+2
+
+3
+
+4
+
+Max
+
+5
+
+5
+
+Marina
+
+0
+
+1
+
+2
+
+3
+
+5
+
+Carla
+
+0
+
+1
+
+2
+
+3
+
+5
+
+Ana
+
+0
+
+2
+
+3
+
+4
+
+5
+
+Alex and Max advance to the next
+round.
+
+3 / Automatic Runoff
+
+4 / Results
+
+In the runoff, your ballot counts as one vote for
+the finalist you prefer.
+
+Max
+Alex
+
+0
+
+1
+
+2
+
+3
+
+1
+
+2
+
+3
+
+4
+
+Alex
+58%
+
+5
+
+Max
+35%
+
+5
+
+The finalist with the most votes wins!
+This vote goes to Alex because he was scored
+higher than Max.
+
+STAR VOTING
+
+S TA R V O T I N G
+
+134
+
+S TA R V O T I N G
+
+135
+
+WHAT SETS IT
+APART?
+
+Automatic Runoff
+
+The system is designed to provide a clear and decisive outcome,
+similar to traditional runoff elections.
+
+Equal Representation
+Principles
+
+STAR Voting ensures that each voter’s preferences are equally
+considered, resulting in outcomes that reflect broad support.
+
+Expressive and Decisive
+
+It combines the expressiveness of score voting with the decisiveness of runoff while avoiding the complexity typically associated
+with ranked-choice voting systems.
+
+136
+
+GOVERNANCE MECHANISM
+
+RANKED CHOICE
+VOTING
+
+16
+
+Benefits
+1. Encourages consensus
+2. Increased voter satisfaction
+3. Diverse representation
+
+Limitations
+1. Complexity
+2. Implementation costs
+
+RANKED CHO I CE VOTIN G
+
+137
+
+TL;DR
+POPULARIZED BY FAIRVOTE AND
+ELECTORAL REFORM ADVOCACY GROUPS
+
+Ranked Choice Voting (RCV) functions as a governance mechanism by ensuring elected candidates
+reflect majority preferences, allowing voters to rank
+their choices for more representative outcomes.
+
+View on Allo.Expert
+
+Originating in the 1850s as a proportional representation system, RCV was adapted for single-winner
+elections by William Ware in the 1870s. A more contemporary movement for RCV emerged in the early
+2000s, addressing the limitations of plurality voting,
+with support from grassroots initiatives and organizations like FairVote, a nonpartisan group focused on
+voting reforms that aim to enhance electoral fairness
+and reduce polarization.
+
+RANKED CHO I CE VOTIN G
+
+138
+
+RANKED CHO I CE VOTIN G
+
+139
+
+WHO SHOULD USE IT?
+This governance mechanism is ideal for elections,
+organizational decision-making, and competitive contexts like funding allocation in DAOs. It enhances fair
+representation and community engagement, making
+it suitable for any entity seeking to foster trust and
+encourage active participation in governance.
+
+STRATEGY
+RCV allows voters to rank candidates by preference
+and can also function as a funding mechanism,
+enabling community members to rank proposals for
+funding allocation. This approach is influenced by
+traditional runoff elections, which seek a more efficient winner-determination process without separate
+runoffs; social choice theory, which addresses the
+fair aggregation of collective preferences; and voter
+behavior research, which highlights the strategic
+voting tendencies in plurality systems and the demand for more expressive voting options.
+
+RANKED CHO I CE VOTIN G
+
+140
+
+HOW DOES IT WORK?
+The RCV process begins with voters ranking candidates or proposals in order of preference on their
+ballots.
+Here is a RCV Ballot:
+
+Each column represents a different ranking position,
+while the rows correspond to specific candidates
+or options. Voters must make only one choice per
+column and cannot skip columns.
+Once the ballots are cast, the first-choice votes for
+each candidate are counted. If a candidate receives
+more than half of the votes, they win the election.
+However, if no candidate secures a majority of
+first-choice votes, the candidate with the fewest
+votes is eliminated, and their votes are redistributed
+based on voters’ next preferences until a candidate
+achieves a majority. This elimination and redistribution process continues until a candidate receives a
+majority of the votes and is declared the winner.
+
+RANKED CHO I CE VOTIN G
+
+Voters rank candidates
+in order of preference
+on the ballot
+
+141
+
+Voters’ first choices
+are counted
+
+No
+
+Re-tally totals
+
+Votes from the eliminated
+candidate are redistributed
+
+Does one candidate have an
+absolute majority?
+
+Candidate with the least amount of
+votes in eliminated
+
+RANKED CHOICE VOTING
+
+Yes
+
+Winner
+
+RANKED CHO I CE VOTIN G
+
+142
+
+RANKED CHO I CE VOTIN G
+
+143
+
+WHAT SETS IT
+APART?
+
+Accommodates Multiple
+Preferences
+
+RCV allows for a nuanced distribution of funding in DAOs and
+blockchain-based decision-making processes. It promotes inclusivity by reflecting a wider range of voter preferences.
+
+Eliminates the Spoiler
+Effect
+
+Voters can express true preferences without fear of “wasting”
+their votes.
+
+Encourages Consensus
+Candidates
+
+Studies indicate that RCV leads to increased voter satisfaction
+due to more representative outcomes. It fosters the election of
+candidates who appeal to a broader electorate.
+
+144
+
+GOVERNANCE MECHANISM
+
+SOURCECRED
+
+17
+
+Benefits
+1. Quantifying contribution
+value
+2. Sybil resistance
+3. Transparent and traceable
+reward allocation
+
+Limitations
+1. Preventing subjective
+weighting
+2. Setup and maintenance
+complexity
+3. Potential for gaming the
+system
+
+SOURCECRED
+
+145
+
+TL;DR
+DESIGNED BY DANDELION MANE
+
+SourceCred functions as a governance mechanism
+by assessing individual contributions and distributing rewards based on the effort, complexity, and
+impact of those contributions.
+
+View on Allo.Expert
+
+It was conceptualized in 2017 and introduced in
+August of 2019 during an initiative called the CredSperiment, which aimed to provide a trial run of the
+technology to see if it could provide transparent
+and relational tracking of contributions based on
+intersubjective quality rather than quantity. Today,
+SourceCred is a series of plugins to measure contributions and allocate rewards.
+
+SOURCECRED
+
+146
+
+SOURCECRED
+
+147
+
+WHO SHOULD USE IT?
+This mechanism is ideal for DAOs, community
+managers, and project managers seeking to directly
+reward contributions based on their impact on the
+underlying project. It’s additionally beneficial for
+those concerned with Sybil resistance, as it employs
+multiple strategies focused on transparency and
+easy community oversight.
+
+STRATEGY
+The SourceCred strategy involves distributing Grain,
+a tradeable community token, to contributors based
+on the number of non-transferrable Cred tokens their
+contributions have earned. This is done using a neutral framework that assigns scores and distributes
+tokens accordingly.
+
+SOURCECRED
+
+148
+
+HOW DOES IT WORK?
+SourceCred uses an algorithm to determine the value a contributor adds to a project. This algorithm includes customizable plugins for community-specific
+moderation, and it operates transparently on publicly
+accessible data without storing community information. When a contribution is made, SourceCred
+attests to it and assigns an amount of “cred” based
+on its value to the project. This cred flows from the
+contribution to all the people and other contributions
+that supported it.
+In the SourceCred mechanism, a project is represented as a node graph of contributions and people. The nodes are connected to allow Cred flow
+between them based on the support relationships
+between different contributions. The more connections a contribution has to other contributions in
+the project, the more opportunities it has to receive
+Cred. This structure provides a visual and measurable representation, known as the Cred Score,
+showing which contributions are foundational and
+which support future work within the project.
+The SourceCred algorithm also uses “weights,” a
+set of rules that determine how much Cred different
+types of contributions are worth. Each community
+can decide the weights for its Cred distribution,
+allowing it to define what it values most and which
+actions reflect those values.
+Since Cred is non-transferable, it cannot be bought
+or sold, preserving its integrity as a measure of contribution. However, Grain, a community currency tied
+directly to one’s Cred, can be exchanged. Grain is
+minted and distributed to contributors based on the
+Cred they have earned, allowing it to be transferred
+both within and outside the project.
+
+SOURCECRED
+
+Alice
+
+149
+
+make
+PR
+
+GitHub
+Bob
+
+Bob
+
+review
+
+GitHub
+plugin
+
+PR
+
+Contribution
+Graph
+
+make
+post
+Discourse
+
+Discourse
+Bob
+
+plugin
+
+like
+post
+
+SOURCECRED
+
+CredRank
+
+Cred
+Scores
+
+SOURCECRED
+
+150
+
+SOURCECRED
+
+151
+
+WHAT SETS IT
+APART?
+
+Visual analysis of
+captured value
+
+The SourceCred system visually represents value capture within
+a project, allowing stakeholders to see what, where, and how
+value is generated.
+
+Efficient resource
+allocation
+
+By highlighting where the most value is generated, SourceCred
+can inform decisions about resource allocation within a project
+by directing efforts and support to areas and contributors that
+demonstrably create the most value.
+
+Contribution-based
+assessment
+
+Tracking and analyzing individual contributions for their impact
+offers stakeholders a straightforward understanding of how each
+input contributes to the project’s overall success and progress.
+
+152
+
+GOVERNANCE MECHANISM
+
+OCTANT GLM
+LOCKING MECHANISM
+
+18
+
+Benefits
+1. Users maintain control of
+their assets
+2. Locking incentives
+3. Encourages long-term
+engagement
+
+Limitations
+1. Sybil and collusion resistance - requires protection
+measures
+2. Reliance on ETH stake yield
+3. Potential for whale dominance
+
+O C TA N T G L M L O C K I N G M E C H A N I S M
+
+153
+
+TL;DR
+INVENTED BY THE GOLEM FOUNDATION
+
+Octant functions as a governance mechanism by allowing token holders to lock tokens, gain governance
+rights, and influence funding decisions in decentralized systems.
+Launched on the Ethereum mainnet on August 8,
+2023, it is best known as a platform for participatory public goods funding, developed by the Golem
+Foundation and created to experiment with decentralized governance and sustainable PGF models.
+Leveraging 100,000 ETH staked, Octant funds
+recurring rounds where GLM holders lock tokens to
+earn rewards and governance rights while donations
+are boosted by matched funding.
+View on Allo.Expert
+
+O C TA N T G L M L O C K I N G M E C H A N I S M
+
+154
+
+O C TA N T G L M L O C K I N G M E C H A N I S M
+
+155
+
+WHO SHOULD USE IT?
+This type of mechanism is best suited for those who
+aim to attract long-term participation from those
+committed to the growth of their ecosystem. It
+engages public goods supporters who favor direct
+project funding, with subtle gamification offering the
+chance for substantial rewards without any risk to
+their original contributions.
+
+STRATEGY
+Octant’s operates through 90-day Epochs. The
+Golem Foundation stakes 100,000 ETH and allocates part of the staking returns to fund Octant,
+distributing the funds between User Rewards and
+Matched Rewards. Users lock GLM to partake in
+these rewards, which are calculated based on a
+time-weighted average.
+
+O C TA N T G L M L O C K I N G M E C H A N I S M
+
+156
+
+HOW DOES IT WORK?
+Users are required to lock a minimum of 100 GLM
+tokens into a smart contract for a 90-day epoch. The
+more GLM that is locked, and the longer it remains
+locked, the greater the rewards and voting power
+assigned to the participant. This design incentivizes
+sustained engagement while allowing users to maintain full control of their assets.
+The mechanism is non-custodial, meaning users retain complete control over their GLM tokens and can
+unlock them at any time. However, optimal participation and maximum rewards are achieved by maintaining the lock for the full duration of the epoch.
+The reward structure operates on a time-weighted
+average, ensuring that extended and substantial
+locks yield proportionally higher returns.
+Voting power in governance decisions is directly
+proportional to the amount of GLM locked.
+From Epoch Two onward, Octant has implemented
+a “minimal value strategy,” whereby voting power is
+determined by the smallest amount of GLM held in
+the lock during the epoch. This approach promotes
+consistency in locking behavior, as any reduction
+in the locked amount diminishes the participant’s
+influence and rewards.
+When an epoch ends, participants enter an allocation window during which they can choose to
+either claim their rewards or donate them to public
+goods projects. Donations are enhanced through a
+matched rewards pool, increasing their impact. This
+model not only rewards individual engagement but
+also reinforces community-driven funding, aligning
+participant incentives with broader public goods
+support.
+
+O C TA N T G L M L O C K I N G M E C H A N I S M
+
+Golem
+Foundation
+
+User
+Wallets
+
+Wit
+
+hdr
+aw
+
+Pays Rewards
+
+Ethereum
+Staking
+
+157
+
+Rewards ETH
+
+Lock GLM
+
+Octant
+Users
+
+ate
+Don
+
+Octant
+App
+
+Donations Fund Matched
+
+Recipient
+Projects
+
+OCTANT GLM LOCKING MECHANISM
+
+O C TA N T G L M L O C K I N G M E C H A N I S M
+
+158
+
+O C TA N T G L M L O C K I N G M E C H A N I S M
+
+159
+
+WHAT SETS IT
+APART?
+
+Non-Custodial
+Design
+
+Unlike many staking models that pool assets or require custodianship, Octant’s mechanism ensures that users maintain full control
+of their GLM tokens at all times and allows flexibility in unlocking
+funds without penalties.
+
+Time-Weighted
+Rewards
+
+While many mechanisms reward solely based on the total amount
+staked, Octant uses time-weighted averages to calculate rewards,
+which encourages longer-term engagement.
+
+Minimal Value
+Strategy
+
+Many web3 platforms incentivize short-term, large stakes. In contrast, Octant calculates voting power based on the minimum GLM
+locked (starting from epoch 2), encouraging consistent participation and deterring short-term locking and unlocking strategies.
+
+Interactive Allocation
+Process
+
+By incorporating an allocation window, Octant introduces gamification, enabling users to adjust their funding strategies according
+to real-time community behavior. Few web3 mechanisms integrate
+this level of interactivity and flexibility in governance, making
+Octant’s process both participatory and responsive.
+
+GOVERNANCE MECHANISM
+
+160
+
+BONDING
+CURVES
+
+19
+
+Benefits
+1. Flexible fundraising
+2. Transparent pricing
+3. Automatic liquidity
+
+Limitations
+1. Complex implementation
+2. Market manipulation susceptibility
+3. Price volatility
+
+BO ND IN G CURVES
+
+161
+
+TL;DR
+POPULARIZED BY SLAVA BALASANOV
+(BANCOR), SIMON DE LA ROUVIERE,
+ABRAHAM OTHMAN
+
+Bonding Curves act as a funding and pricing mechanism by using smart contracts to automatically
+adjust token prices based on supply, allowing continuous minting, burning, and price discovery.
+
+View on Allo.Expert
+
+Key contributors include Slava Balasanov (Bancor),
+Simon de la Rouviere, and Abraham Othman, who
+helped popularize the concept within decentralized
+finance (DeFi). Bonding Curves were first effectively
+implemented in Ethereum projects, enabling decentralized markets without centralized exchanges.
+
+BO ND IN G CURVES
+
+162
+
+BO ND IN G CURVES
+
+163
+
+WHO SHOULD USE IT?
+Bonding Curves will benefit projects seeking to solve
+liquidity challenges and implement a more dynamic
+token economy. They are ideal for teams looking to
+raise continuous funding without relying on centralized exchanges and investors who want a transparent and predictable mechanism for token acquisition
+and liquidation. Bonding Curves are also increasingly
+integrated into DeFi protocols and experimented
+with for non-financial use cases, offering versatile
+applications beyond simple token issuance.
+
+STRATEGY
+Bonding Curves allow projects to sell tokens at
+prices that increase as more tokens are minted, incentivizing early adoption. Conversely, tokens can be
+sold back to the contract at prices determined by the
+same curve, providing liquidity for token holders.
+
+BO ND IN G CURVES
+
+164
+
+HOW DOES IT WORK?
+A project begins by deploying a smart contract with
+a predefined bonding curve formula, setting initial
+parameters such as the starting price and reserve
+ratio.
+When users purchase tokens, they send funds (e.g.,
+ETH) to the contract, which calculates the number
+of tokens to mint based on the current supply and
+curve formula. These newly minted tokens are sent
+to the user, while the received funds are added to
+the reserve pool. When users wish to sell tokens,
+they send them back to the contract, which calculates the amount of reserve currency to return using
+the bonding curve. The tokens are then burned, and
+the user receives the corresponding amount from
+the reserve pool.
+This process continues indefinitely, with the price
+adjusting automatically as tokens are minted or
+burned. Key features include automated market-making, built-in incentives for early adopters, and a
+transparent, predictable pricing system. Additionally,
+customizable curve shapes allow projects to tailor
+the model to their specific needs.
+
+BO ND IN G CURVES
+
+165
+
+Price per token
+
+Price per token
+
+*some of the many possible examples
+
+Current Supply of Tokens
+
+Price per token
+
+Price per token
+
+Current Supply of Tokens
+
+Current Supply of Tokens
+
+Reserve
+
+Current Supply of Tokens
+
+Sends Reserve Currency
+
+Mint
+Bonding Curve Contract
+
+Receives Reserve Currency
+
+Receives Asset Token
+
+Burn
+Sends Asset Token
+
+BONDING CURVES
+
+BO ND IN G CURVES
+
+166
+
+BO ND IN G CURVES
+
+167
+
+WHAT SETS IT
+APART?
+
+Continuous Funding
+
+Unlike traditional fundraising methods, bonding curves allow projects to raise funds continuously throughout their lifecycle.
+
+Automatic Liquidity
+
+The mechanism ensures that liquidity is available for token
+holders.
+
+Price Discovery
+
+The curve provides a clear and transparent method for price
+discovery based on supply and demand.
+
+Customizable
+Tokenomics
+
+Different curve shapes can be used to create various economic
+incentives and token distribution patterns.
+
+GOVERNANCE MECHANISM
+
+168
+
+REVNETS
+
+20
+
+Benefits
+1. Long-term engagement
+2. Versatility
+3. Self-sustaining ecosystems
+
+Limitations
+1. Complexity
+2. Inflexibility after launch
+3. Non-EVM compatibility
+
+REVNETS
+
+169
+
+TL;DR
+INVENTED BY JUICEBOX
+
+Revnets function as a governance mechanism by
+using an onchain cap table to enable transparent,
+decentralized participation and revenue generation
+without governance or management overhead.
+
+View on Allo.Expert
+
+Invented by Jango and other Juicebox contributors
+(Robert Leonhard, JohnnyD, Wraith, Nowonder),
+revnets are built on the Juicebox v4 protocol—a
+crypto fundraising and DAO management platform.
+Structured as a Delaware-based LLC that invests in
+$REV tokens, this open-source mechanism focuses
+on providing a transparent and cost-efficient funding
+model that enables broad participation and revenue
+generation that can be used to address monetization, competitive advantage, and dependency
+dilemmas.
+
+REVNETS
+
+170
+
+REVNETS
+
+171
+
+WHO SHOULD USE IT?
+This mechanism is a good fit for leaders, creators,
+and investors looking to bootstrap and sustain
+projects without the burdens of active oversight. According to Jango, it serves as a hands-free, all-in-one
+growth engine which resolves the tension between
+open source productivity and private value capture.
+
+STRATEGY
+Revnets currently operate on Ethereum mainnet,
+Optimism, Arbitrum, and Base, offering a clear model
+for productive wealth creation and distribution within decentralized ecosystems. They act like a “digital
+vending machine” that accepts funds and issues
+unique tokens ($TOKENs). To access revnet funds,
+participants must return their $TOKENs, which
+incentivizes long-term engagement and creates a
+self-sustaining ecosystem. Since the cash-out value
+of each $TOKEN can never decrease, they also
+support loans.
+
+REVNETS
+
+172
+
+HOW DOES IT WORK?
+Revnets enforce three main rules that are preset and
+can change over time. First, there is always a set
+price at which the revnet issues new $TOKENs. If an
+Automated Market Maker (AMM) offers a better rate
+than the issuance price, incoming funds are redirected to the AMM. This rate can also be adjusted
+over time. The second rule concerns the $TOKEN
+split, allowing a percentage of purchased tokens to
+be allocated to a privileged account, with the split
+percentage customizable at set intervals. The final
+rule allows $TOKENs to be returned to the revnet
+for a share of its revenue, with a tax that increases
+the value of future cash-outs and rewards long-term
+holders.
+Additionally, users can leverage $TOKENs as collateral to access loans, which can be repaid over time
+to regain the tokens. If the loan is not repaid, the
+collateral is liquidated by the provider. Repayment
+can last up to 10 years, and borrowers can choose
+different options, such as paying over time, pre-paying at half the cost, or a combination. Each loan from
+revnets incurs a 2.5% $NANA fee and a 0.5% $REV
+fee, which are used to fund the revnets issuance or
+buyback of $TOKENs.
+
+REVNETS
+
+173
+
+1
+
+A revnet can be paid in ETH, and/or other tokens (shown below as dollar bills).
+
+2
+
+The payments from (1) generate its own tokens at a given price, say 1 ETH buys 1,000 $TOKEN or NFT artifact (shown as
+circles).
+
+3
+
+4
+
+A revnet can have a split in place that automatically sends a percentage of these new $TOKENs to a set of
+pre-established entities, say 20% split so that 100 $TOKEN goes to each of two builders and 80% goes to the
+payer of the 1 ETH.
+The ETH stay in the vending machine.
+
+4
+
+1
+3
+2
+
+5
+
+6
+
+5
+
+In order to get the 1 ETH back out, a $TOKEN holder has to cash out, which incurs a tax.
+
+6
+
+This means if one of the builders wanted to cash out their 100 $TOKENs right away, they would get less than the
+proportional 0.1 ETH if a tax was in place, leaving revenue on the table for those who cash out later.
+
+REVENTS
+
+REVNETS
+
+174
+
+REVNETS
+
+175
+
+WHAT SETS IT
+APART?
+
+Governance-free
+
+Apart from the initial parameter settings, there is no governance
+interference, alleviating the risk of associated inefficiencies and
+funding take-overs.
+
+Liquid
+
+Open markets boost liquidity and minimize opportunities for
+market manipulation. Utilizing automated market makers ensures
+efficient management of this liquidity.
+
+Omni-chain
+
+Revnets operate across various EVM-compatible networks, allowing token transfer between chains. They can also grow to accept
+money on new EVM compatible networks.
+
+COOPERATIVE
+MODELS
+
+176
+
+C O O P E R AT I V E M O D E L S
+
+View on Allo.Expert
+
+177
+
+This section explores various tools and concepts
+that can be applied or adapted to influence how
+decisions are made and how value is distributed
+in onchain systems. While not all were originally
+designed for blockchain environments, each offers
+unique insights into challenges faced in onchain
+capital allocation. From economic models to voting
+systems and contribution metrics, these mechanisms provide a toolkit for addressing the complex
+issues of resource management, governance, and
+value distribution in decentralized contexts.
+
+178
+
+COOPERATIVE MODEL
+
+21
+ROTATING SAVING AND
+CREDIT ASSOCIATIONS
+(ROSCA)
+
+Benefits
+1. Quick lump sums
+2. Disciplined savings
+3. Community bonds
+
+Limitations
+1. Scaling up
+2. Default protection
+3. Returns not guaranteed
+
+R O TAT I N G S AV I N G S A N D C R E D I T A S S O C I AT I O N S ( R O S C A )
+
+179
+
+TL;DR
+
+Rotating Savings and Credit Associations (ROSCAs)
+function as a cooperative model by enabling individuals to pool capital collectively.
+
+View on Allo.Expert
+
+Emerging around 200 B.C. in China, ROSCAs are
+informal financial systems in which individuals agree
+to cooperatively pool capital. These systems operate outside formal banking and adapt to different
+cultural contexts. They provide participants a way to
+access lump sums for significant expenses, such as
+weddings, medical bills, or business investments.
+
+R O TAT I N G S AV I N G S A N D C R E D I T A S S O C I AT I O N S ( R O S C A )
+
+180
+
+R O TAT I N G S AV I N G S A N D C R E D I T A S S O C I AT I O N S ( R O S C A )
+
+181
+
+WHO SHOULD USE IT?
+This mechanism is best for tight-knit, trust-based
+groups with shared goals. It provides a simple,
+low-barrier financial solution for communities. While
+it’s often used by resource-constrained groups
+without access to formal financial services, it also
+works well for inclusive communities focused on fair
+resource distribution.
+
+STRATEGY
+ROSCAs are comparable to DAO treasuries, but
+participants are guaranteed a return. While not
+inherently onchain, they can be transitioned using
+smart contracts and enhancing transparency with all
+activities recorded on the blockchain. This system
+enables individuals to bypass traditional credit or
+banking institutions and operates with an interest-free structure.
+
+R O TAT I N G S AV I N G S A N D C R E D I T A S S O C I AT I O N S ( R O S C A )
+
+182
+
+HOW DOES IT WORK?
+ROSCAs are contingent on all participants agreeing
+to contribute a fixed amount of money at regular intervals, such as weekly or monthly. The total amount
+is given to one member at a time, and the order of
+distribution can be predetermined, randomly selected, or decided by need or bidding.
+Members take turns receiving the pot, ensuring each
+person benefits once during the cycle. After everyone has received the pot, the group starts a new
+cycle, adjusting the terms as needed. While adapted
+differently across regions, the core principles remain
+consistent, with variations in meeting frequency,
+contribution amounts, and fund distribution rules.
+
+R O TAT I N G S AV I N G S A N D C R E D I T A S S O C I AT I O N S ( R O S C A )
+
+Month 1
+
+Linda
+John
+
+Carol
+Mark
+
+Month 2
+
+Linda
+Mark
+
+Carol
+John
+
+Month 3
+
+John
+Linda
+
+Carol
+Mark
+
+Month 4
+
+Linda
+Carol
+
+John
+Mark
+
+ROTATING SAVINGS AND CREDIT ASSOCIATIONS (ROSCA)
+
+183
+
+R O TAT I N G S AV I N G S A N D C R E D I T A S S O C I AT I O N S ( R O S C A )
+
+184
+
+WHAT SETS IT
+APART?
+
+Simple Structure
+
+Operates with a straightforward design, requiring only regular
+contributions and trust among members.
+
+Trust-Based Regulation
+
+Relies entirely on social ties and mutual trust, making it self-regulating without formal contracts.
+
+Fair Distribution
+
+Every participant has an equal opportunity to receive the pot once
+per cycle, ensuring fairness.
+
+Flexible Adaptation
+
+Can be tailored to different needs, with flexible options for how
+and when funds are distributed.
+
+R O TAT I N G S AV I N G S A N D C R E D I T A S S O C I AT I O N S ( R O S C A )
+
+185
+
+EXAMPLES
+
+Kiva
+Kiva uses a similar community-based lending model
+to provide microloans to
+underserved communities
+worldwide. By leveraging
+technology, Kiva allows individuals to lend small amounts to
+entrepreneurs and individuals
+globally, offering a modern
+spin on the ROSCA concept
+but with broader reach and
+transparency.
+
+Worldcoin Savings
+Circles
+Worldcoin has explored
+creating digital savings circles,
+where users form small groups
+to contribute and withdraw
+funds in a decentralized way,
+bringing the communal aspect
+of ROSCAs into the digital
+world using cryptocurrency.
+
+Chamasoft
+A Kenyan startup digitizes
+traditional ROSCAs (called
+“Chamas” in East Africa) by
+offering a platform that manages the group’s contributions,
+expenses, and payouts, showing how the practice can be
+updated with modern financial
+technology.
+
+186
+
+COOPERATIVE MODEL
+
+BASE PAINT
+- PIXEL ARTIST
+REVSHARE
+
+22
+
+Benefits
+1. Community-driven collaboration
+2. Revenue-sharing for artists
+3. Quadratic voting for theme
+selection
+
+Limitations
+1. Complexity for new users
+2. Potential for pixel vandalism
+3. Limited control over brush
+upgrades/downgrades
+
+B A S E PA I N T - P I X E L A R T I S T R E V S H A R E
+
+187
+
+TL;DR
+DEVELOPED BY ZACH HERRING AND
+W1NT3R.ETH
+
+BasePaint is an example of a cooperative mechanism
+as it allows decentralized collaboration through a
+pixel art revenue-sharing system, where participants
+collectively create and share in the economic value
+generated. BasePaint offers a decentralized, shared
+pixel canvas that enables artists to create and mint
+digital artwork as NFTs collaboratively.
+
+View on Allo.Expert
+
+Pixel artist revenue sharing has emerged as a solution to make digital artwork creation and distribution
+more community-driven. By allowing a collective of
+artists to contribute to shared canvases and mint
+their work as NFTs, BasePaint provides a decentralized and open platform for digital creativity.
+
+B A S E PA I N T - P I X E L A R T I S T R E V S H A R E
+
+188
+
+B A S E PA I N T - P I X E L A R T I S T R E V S H A R E
+
+189
+
+WHO SHOULD USE IT?
+This mechanism is well-suited for digital artists,
+NFT enthusiasts, and communities interested in
+decentralized art creation, curation, and ownership.
+This methodology is for revenue sharing and artist
+collaboration.
+
+STRATEGY
+BasePaint operates through daily open-edition NFT
+sales, with the profits distributed among contributors based on the number of pixels they paint.
+Collectors buy the art NFT, and artists receive 90%
+of the profits, while 10% goes to the protocol.
+
+B A S E PA I N T - P I X E L A R T I S T R E V S H A R E
+
+190
+
+HOW DOES IT WORK?
+Artists mint a brush to contribute to a shared canvas.
+The community creates artwork collaboratively over
+24 hours. When time is up, the canvas locks. Open
+edition NFTs of the completed artwork are then
+minted. Profits from the open-edition sale are distributed among the contributing artists based on the
+number of pixels painted relative to the total number
+of pixels contributed.
+
+B A S E PA I N T - P I X E L A R T I S T R E V S H A R E
+
+Artists mint a brush
+to contribute to shared
+canvas
+
+Artwork ready for
+sale
+
+191
+
+The community collaboratively participates
+in artwork creation for
+24 hours
+
+After 24h, the canvas
+locks
+
+BASE PAINT - PIXEL ARTIST REVSHARE
+
+PIXEL ARTIST REVSHARE
+
+192
+
+PIXEL ARTIST REVSHARE
+
+193
+
+WHAT SETS IT
+APART?
+
+Onchain
+Collaborative Art
+
+BasePaint allows multiple artists to contribute to a single digital
+canvas, resulting in a collaborative artwork that is then minted as
+an NFT. This collective approach to digital art creation is distinctive in the NFT space.
+
+Transparent Onchain
+Revenue Sharing
+
+The platform uses smart contracts to distribute 90% of the profits
+from NFT sales directly to the contributing artists based on their
+pixel contributions. This transparent and fair revenue-sharing
+model is built directly into the blockchain mechanism.
+
+Quadratic Voting for
+Theme Selection
+
+BasePaint employs Quadratic Voting to allow the community to
+select daily themes and color palettes. This democratic approach
+to decision-making ensures that the community determines
+creative direction in a way that prevents domination by a few large
+stakeholders.
+
+Artwork is stored
+Onchain and is CC0
+
+Anyone can recreate any BasePaint canvas from the onchain
+data and use the artwork in whatever way they see fit. Multiple
+derivative art projects have been made, passing revenue back to
+the original artists.
+
+194
+
+COOPERATIVE MODEL
+
+BREADCHAIN - ONCHAIN
+CROWDSTAKING
+MECHANISM
+
+23
+
+Benefits
+1. Economic resilience
+2. Community participation
+3. Equitable distribution of
+resources
+
+Challenges
+1. Human Scalability issues
+2. Regulatory hurdles
+3. Balance between centralization and decentralization
+
+B R E A D C H A I N - O N C H A I N C R O W D S TA K I N G M E C H A N I S M
+
+195
+
+TL;DR
+
+Breadchain functions as a cooperative model by
+advancing post-capitalist values through a decentralized funding approach that fosters solidarity and
+equitable resource distribution.
+
+View on Allo.Expert
+
+Breadchain emerged as a decentralized cooperative
+with an onchain crowdstaking application that allows
+users to stake DAI in exchange for BREAD tokens,
+representing their contribution to the cooperative.
+The yield generated from staking is distributed democratically through a voting process every 30 days.
+This mechanism enhances transparency, empowers
+members, and directs resources toward projects that
+align with cooperative principles and mutual support.
+
+B R E A D C H A I N - O N C H A I N C R O W D S TA K I N G M E C H A N I S M
+
+196
+
+B R E A D C H A I N - O N C H A I N C R O W D S TA K I N G M E C H A N I S M
+
+197
+
+WHO SHOULD USE IT?
+Breadchain is perfect for individuals and communities seeking to build decentralized collectives that
+emphasize shared, mutual benefits over profit-driven
+objectives. Web3 communities exploring innovative
+economic models that focus on community well-being and transparent governance will find Breadchain
+a powerful tool. It encourages collaboration between
+projects and demonstrates how blockchain technology can be leveraged to foster social good beyond
+mere financial speculation, driving collective action
+and equitable resource distribution within a cooperative framework. It can also serve as an alternative
+to traditional investment options like venture capital,
+as it offers a form of bootstrapping to support their
+growth.
+
+STRATEGY
+The strategy of Breadchain’s cooperative model
+revolves around pooling resources from its members
+through the Crowdstaking Protocol, where participants stake xDAI in exchange for BREAD tokens.
+
+B R E A D C H A I N - O N C H A I N C R O W D S TA K I N G M E C H A N I S M
+
+198
+
+HOW DOES IT WORK?
+In the Breadchain crowdstaking model, users participate by converting xDai into BREAD tokens, which
+serve as their stake in the cooperative. To get started, users connect their wallets to the Breadchain
+Crowdstaking App and convert xDai into BREAD
+tokens at a 1:1 ratio. The staked xDai generates yield,
+which is pooled to fund cooperative projects. Every
+30 days, members use their BREAD tokens to vote
+on how this generated yield is allocated to different
+community-endorsed projects, ensuring democratic
+decision-making.
+Participants have flexibility as they can “burn” their
+BREAD tokens at any time to reclaim their original
+xDai investment. This process maintains engagement while allowing members to exit when needed,
+making it a flexible and community-driven approach
+to decentralized funding.
+
+B R E A D C H A I N - O N C H A I N C R O W D S TA K I N G M E C H A N I S M
+
+199
+
+Project 1
+Project 2
+
+Stake DAI
+Yield
+BREAD
+
+Breadchain DAO
+
+Vote
+
+Project 3
+
+User
+
+Project 4
+
+BREADCHAIN - ONCHAIN CROWDSTAKING MECHANISM
+
+B R E A D C H A I N - O N C H A I N C R O W D S TA K I N G M E C H A N I S M
+
+200
+
+B R E A D C H A I N - O N C H A I N C R O W D S TA K I N G M E C H A N I S M
+
+201
+
+WHAT SETS IT
+APART?
+
+Democratic Decision
+-Making
+
+Members vote on how pooled resources are allocated, ensuring a
+community-driven governance model.
+
+Flexibility
+
+Users can burn BREAD tokens to retrieve their xDai at any time,
+offering flexibility and control over their funds.
+
+Decentralized Funding
+
+Breadchain focuses on supporting post-capitalist projects, using
+blockchain technology to promote transparency and equitable
+resource distribution.
+
+APPLIED
+USE CASES
+
+202
+
+APPLIED USE CASES
+
+203
+
+This section explores various tools and concepts
+that can be applied or adapted to influence how
+decisions are made and how value is distributed
+in onchain systems. While not all were originally
+designed for blockchain environments, each offers
+unique insights into challenges faced in onchain
+capital allocation. From economic models to voting
+systems and contribution metrics, these mechanisms provide a toolkit for addressing the complex
+issues of resource management, governance, and
+value distribution in decentralized contexts.
+
+204
+
+APPLIED USE CASES
+
+ARTIZEN:
+ARTIFACTS
+
+24
+
+Benefits
+1. Democratizing creator
+funding
+2. Fair distribution
+3. Decentralized community
+curation
+
+Limitations
+1. Technical barriers
+2. Community dependency
+3. Volatility of NFT market
+
+A R T I Z E N : A R T I FA C T S
+
+205
+
+TL;DR
+DESIGNED BY RENÉ PINNELL
+
+View on Allo.Expert
+
+Artizen’s Artifacts use case aims to reduce biased,
+bureaucratic, and inefficient funding systems for
+creators of digital goods through its transparent,
+community-driven platform. Designed by René Pinnell, Artizen has rewarded $1,662,228 through the
+sale of Artifacts as of 10/2024.
+
+A R T I Z E N : A R T I FA C T S
+
+206
+
+A R T I Z E N : A R T I FA C T S
+
+207
+
+WHO SHOULD USE IT?
+This type of mechanism is ideal for creators in the
+fields of art, science, technology, and culture who
+aim to keep their communities fully involved in
+funding decisions. It encourages projects to prioritize
+their fanbase, often resulting in community growth.
+This approach attracts mission-driven brands and
+sponsors interested in contributing matching funds,
+as well as supporters ready to invest in their favorite
+projects through collectible purchases.
+
+FUNDING STRATEGY
+Artizen’s funding strategy relies on projects selling cultural artifacts. By selling digital artifacts as
+NFTs, Artizen unlocks additional match funds, giving
+creators and supporters a stake in each project’s
+success. Sponsors pool and match the funds based
+on artifact sales, using a logarithmic formula to distribute match funding fairly.
+
+A R T I Z E N : A R T I FA C T S
+
+208
+
+HOW DOES IT WORK?
+Artizen established curation guidelines that each
+project must meet for eligibility. Only creators with a
+project that meet these and qualify for at least one
+of their sponsors can submit to the Artizen Fund.
+Creators first submit their projects to the Artizen
+Fund, where the community votes on all entries. The
+Artizen community then votes on the projects submitted, and the top 30% are curated to compete in
+the season for match funding and the Artizen prize.
+Artizen community members gain voting power by
+executing net positive actions on the platform, such
+as owning an artifact, sponsoring match funds, submitting projects, etc.
+Curated projects compete by selling their artifacts,
+usually for 0.01 ETH or US$25. For each artifact sold,
+10% goes to the community treasury to maintain the
+platform, and 90% goes to the project’s creator.
+The more artifacts a project sells, the more match
+funding it unlocks. The project that sells the most
+artifacts in a Season wins a cash prize equal to 10%
+of the total pooled matching funds. At the end of the
+season, matching funds are distributed to qualified
+projects using a logarithmic match funding formula
+to ensure fair distribution.
+
+A R T I Z E N : A R T I FA C T S
+
+209
+
+Creators submit
+projects
+
+Submissions for
+vote
+
+The top 30%
+
+Finalists
+
+are curated to compete
+in the season for match
+funding
+
+Compete in the season
+for match funding and the
+Artizen prize
+
+Sell Artifacts
+
+Season winner
+Artist who sells
+most artifacts that
+season
+
+Artizen Grant
+A cash prize equal to 10%
+of the total pooled match
+funding
+
+90%
+
+10%
+
+Creator wallet
+
+Artizen treasury
+
+ARTIZEN: ARTIFACTS
+
+A R T I Z E N : A R T I FA C T S
+
+210
+
+A R T I Z E N : A R T I FA C T S
+
+211
+
+WHAT SETS IT
+APART?
+
+Equitable Funding
+
+Artizen’s logarithmic match funding formula ensures that all projects, regardless of popularity or fanbase size, receive substantial
+matched funds, promoting a fair funding process.
+
+Transparency
+
+Artizen promotes transparency in its funding process by involving
+the community in project curation. Additionally, the public nature
+of the artifact purchasing process and the matching fund formula
+allows the community to track artifact purchases and verify how
+funds are distributed independently.
+
+212
+
+APPLIED USE CASES
+
+TIME-LOCKED CONTENT
+RELEASE: PLEASR
+
+25
+
+Benefits
+1. Decentralized ownership of
+rare assets
+2. Active community engagement
+3. Incentivized participation
+
+Limitations
+1. Sustaining long-term engagement
+2. Complex reward structures
+3. Balancing accessibility and
+exclusivity
+
+TI M E-LO C K ED C O NTENT R ELE AS E: P LE AS R
+
+213
+
+TL;DR
+ORIGINATED BY PLEASR
+
+Pleasr DAO’s time-locked content release is a use
+case that illustrates an innovative model that exemplifies the potential of decentralized ownership and
+engagement in reshaping how valuable physical and
+digital art is distributed.
+
+View on Allo.Expert
+
+Created by Wu-Tang Clan in 2014 as a protest
+against the devaluation of music, the album “Once
+Upon a Time in Shaolin” was sold to Martin Shkreli
+in 2015 for $2 million. After being seized by the U.S.
+government, PleasrDAO acquired the album in 2021
+for $4 million. They then developed the time-locked
+release mechanism to allow participants to accelerate the album’s release through $1 purchases, each
+reducing the timeline.
+
+TI M E-LO C K ED C O NTENT R ELE AS E: P LE AS R
+
+214
+
+TI M E-LO C K ED C O NTENT R ELE AS E: P LE AS R
+
+215
+
+WHO SHOULD USE IT?
+This mechanism is ideal for DAOs, artists, and organizations seeking decentralized ownership and community engagement for rare assets. It suits projects
+looking to democratize access to exclusive content
+while maintaining its rarity. The approach allows
+even small participants to influence the release of
+valuable cultural works, making it particularly useful
+for projects with devoted fan bases or communities.
+
+RELEASE STRATEGY
+The Time-Locked Content Release uses token
+purchases to accelerate the album’s release date.
+Engagement is driven by a points system where
+users earn Wu Points via quests or token purchases (1 point per 0.01 ETH). These points determine
+a user’s Wu Rank on the leaderboard. Top-ranked
+participants gain increased voting power in PleasrDAO proposals. This approach balances accessibility
+and exclusivity, allowing broad participation while
+maintaining the album’s scarcity.
+
+TI M E-LO C K ED C O NTENT R ELE AS E: P LE AS R
+
+216
+
+HOW DOES IT WORK?
+The Time-Locked Content Release mechanism
+begins with the album locked for an extended
+period of 88 years from its original sale date in
+2015, setting the initial release for 2103. Fans can
+purchase encrypted digital copies for $1 each, with
+each purchase shortening the release timeline by 88
+seconds. Buyers receive tradable $ALBUM tokens
+representing their digital copies. Tokens can be acquired through direct purchases, gameplay rewards,
+or community contributions.
+To boost participation, the developers included additional engagement layers in the system. Participants
+can mint commemorative items and earn points (Wu
+Scores) based on their contributions. Top contributors receive extra benefits, such as private event
+access. The initial release timeline was backfilled
+to account for the time that has passed since the
+asset’s original sale in 2015.
+As community involvement increases, the release
+timeline shortens. When the timeline finally reaches
+zero, the content is released to all token holders,
+completing the decentralized unlocking process.
+This creates a dynamic where the community’s
+actions directly reflect the perceived value of the
+music, transforming a passive waiting period into an
+active, community-driven experience.
+
+TI M E-LO C K ED C O NTENT R ELE AS E: P LE AS R
+
+217
+
+Time
+
+Passes
+
+No
+
+Release Time
+Reached?
+Content Creator
+
+1. Uploads content and sets
+release time
+
+User
+
+3. Discovers upcoming
+content
+
+Pleasr Platform
+
+6. Accesses newly
+available content
+
+5. Notifies
+
+Content Unlocked
+
+Creator wallet
+
+Locked Content
+
+TIME-LOCKED CONTENT RELEASE: PLEASR
+
+Yes
+
+TI M E-LO C K ED C O NTENT R ELE AS E: P LE AS R
+
+218
+
+TI M E-LO C K ED C O NTENT R ELE AS E: P LE AS R
+
+219
+
+WHAT SETS IT
+APART?
+
+Community-Driven
+Release
+
+Unlike traditional time-locked releases, this mechanism allows the
+community to actively influence the release timeline.
+
+Fractional Ownership of
+Rare Assets
+
+It enables partial ownership of valuable physical artifacts through
+digital tokens.
+
+Balancing Accessibility
+and Exclusivity
+
+The mechanism respects the original intent of limited access
+while allowing broader participation.
+
+Value Demonstration
+
+Community actions directly reflect the perceived value of the content, creating a dynamic interplay between accessibility and rarity.
+
+Modernizing Artistic
+Intent
+
+It updates the concept of limited-access art for the digital age,
+addressing modern discussions about the value of creative works.
+
+220
+
+APPLIED USE CASES
+
+IMPACT CERTIFICATES:
+HYPERCERTS
+
+26
+
+Benefits
+1. Transparency
+2. Incentivization
+3. Interoperability
+
+Limitations
+1. Complexity
+2. Technological Familiarity
+3. Market Saturation
+
+I M PA C T C E R T I F I C AT E S : H Y P E R C E R T S
+
+221
+
+TL;DR
+ORIGINATED BY PROTOCOL LABS
+
+Hypercerts is a use case that ensures onchain
+recording of contributions to facilitate transparent
+verification and auditing of impact-driven projects.
+This enhances efficiency in funding and evaluation
+processes.
+
+View on Allo.Expert
+
+Hypercerts, an innovative implementation of Impact
+Certificates, was created in December 2022 by
+Protocol Labs and the Hypercerts Foundation. These
+Ethereum-based smart contracts are semi-fungible
+tokens representing impactful work and its outcomes, using NFTs to encode information about
+contributors, work performed, and resulting impact.
+
+I M PA C T C E R T I F I C AT E S : H Y P E R C E R T S
+
+222
+
+I M PA C T C E R T I F I C AT E S : H Y P E R C E R T S
+
+223
+
+WHO SHOULD USE IT?
+Hypercerts serve a diverse group in the impact
+ecosystem. Impact creators use them to claim and
+monetize work. Donors and funders track contribution effectiveness. Investors support and monitor
+impactful projects. Evaluators and researchers gain a
+standardized impact assessment format. Beneficiaries share their perspectives. Grant managers verify
+funded projects. Impact markets utilize them as an
+accounting unit.
+
+HOW DOES IT WORK?
+Hypercerts utilize ERC-1155 semi-fungible tokens,
+storing data on IPFS. They offer two issuance methods: retroactive and proactive. Retroactively, tasks
+are completed, and then certificates are minted
+to represent the work. Funders purchase these,
+acknowledging the existing impact. Proactively,
+funders issue RFPs and allocate funds upfront. Upon
+task completion, certificates are minted for funders,
+recognizing their initiative. This dual approach allows
+Hypercerts to adapt to various funding scenarios,
+supporting both completed work and future impact
+investments.
+
+I M PA C T C E R T I F I C AT E S : H Y P E R C E R T S
+
+224
+
+WHAT SETS IT
+APART?
+
+Standardized Impact
+Representation
+
+Uses ERC-1155 tokens to create a universal format for impact
+claims.
+
+Flexible Issuance
+
+Supports both retroactive and proactive funding approaches,
+adapting to various project timelines.
+
+Decentralized
+Evaluation
+
+Enables multiple stakeholders to assess and verify impact claims
+independently.
+
+I M PA C T C E R T I F I C AT E S : H Y P E R C E R T S
+
+225
+
+Funders
+(pro- & retrospective)
+
+ll
+se
+
+sigals
+
+cr
+ea
+te
+&
+
+y&
+
+bu
+
+se
+ll
+
+Creators
+
+Hypercerts: Impact
+claims
+
+Public goods
+
+im
+pa
+ct
+is
+
+produce
+
+an
+tic
+ipa
+te
+
+db
+y
+
+Impact
+evaluation
+
+create
+
+Evaluators
+
+produces
+
+is observed by
+
+IMPACT CERTIFICATES: HYPERCERTS
+
+Impact
+
+226
+
+APPLIED USE CASES
+
+SOCIAL FUNDING
+MECHANISM: DEGEN
+
+27
+
+Benefits
+1. Non-dilutive tipping
+2. Enhanced community
+engagement
+3. Integration of social and
+financial activities
+
+Limitations
+1. Reliance on token distribution methods
+2. Potential for limited liquidity
+3. Speculative
+
+SO CIAL FUNDIN G MECHANISM: DEGEN
+
+227
+
+TL;DR
+PIONNERED BY JACEK TROCIŃSKI
+
+The DEGEN use case is an onchain social funding
+mechanism within the Farcaster ecosystem, incentivizing user participation through various reward
+systems like airdrops, liquidity mining, and an active
+presence on the Degen Chain.
+
+View on Allo.Expert
+
+Launched in January 2024 by Jacek Trociński, DEGEN is an ERC- 20 token that gained fast popularity
+by March 31, 2024 the $DEGEN token surged to a
+$780 million market cap.
+
+SO CIAL FUNDIN G MECHANISM: DEGEN
+
+228
+
+SO CIAL FUNDIN G MECHANISM: DEGEN
+
+229
+
+WHO SHOULD USE IT?
+This mechanism is ideal for content creators, influencers, and network builders looking to monetize
+their online presence through community tips and
+tech-savvy users interested in exploring innovative
+web3 technologies. It not only supports content creators but also fosters a vibrant community dynamic
+where members are incentivized to contribute positively to the ecosystem, knowing that their contributions can be directly rewarded by their peers.
+
+FUNDING STRATEGY
+DEGEN’s funding strategy leverages community
+engagement and onchain liquidity mechanisms. It
+allocates 25% of its token supply to liquidity mining
+programs and pools on platforms like Uniswap and
+Aerodrome, incentivizing user participation and
+liquidity provision. This approach aims to create a
+sustainable ecosystem that rewards active community members while maintaining DEGEN’s primary
+function as a social funding mechanism on Farcaster.
+
+SO CIAL FUNDIN G MECHANISM: DEGEN
+
+230
+
+HOW DOES IT WORK?
+To participate, users must hold at least 10,000 DEGEN tokens and make three casts (posts) on Farcaster. This qualifies them for daily tip allowances, which
+reset at 8am UTC. Users can tip others for quality
+content without reducing their DEGEN balance,
+fostering community engagement. Accumulated tips
+are distributed through monthly airdrops, rewarding
+active participants.
+To get started, users can bridge ETH to Base using
+Coinbase Wallet, then swap for DEGEN using the
+contract address 0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed. Tipping is as simple as
+replying to a cast with the desired DEGEN amount.
+Tips received accumulate for the next airdrop event,
+where users can claim their rewards.
+
+SO CIAL FUNDIN G MECHANISM: DEGEN
+
+231
+
+1. Initial Distribution
+
+Degen Airdrop
+
+Farcaster Users who were active in
+/degen channel
+
+2. Post Distribution
+
+Tip $DEGEN
+
+Farcaster User
+
+Farcaster User
+
+Access
+
+$DEGEN holder
+
+Exclusive Content or
+Features
+
+SOCIAL FUNDING MECHANISM: DEGEN
+
+SO CIAL FUNDIN G MECHANISM: DEGEN
+
+232
+
+SO CIAL FUNDIN G MECHANISM: DEGEN
+
+233
+
+WHAT SETS IT
+APART?
+
+Onchain Governance
+
+Unlike traditional funding methods, DEGEN token holders can
+directly influence funding decisions through onchain voting
+mechanisms.
+
+Community-Driven
+
+The success of the token and the funded projects are directly tied
+to community engagement and growth.
+
+Liquidity Incentives
+
+By being listed on decentralized exchanges like Uniswap, DEGEN
+creates liquidity incentives for supporters.
+
+234
+
+APPLIED USE CASES
+
+IMPACT BASED FUNDING:
+OPTIMISM RPGF
+
+28
+
+Benefits
+1. Data-driven decision making
+2. Alignment with ecosystem
+goals
+3. Transparent resource
+allocation
+
+Limitations
+1. Complexity in metric design
+2. Potential for gaming the
+system
+3. Challenges in measuring
+intangible impact
+
+I M PA C T B A S E D F U N D I N G : O P T I M I S M R P G F
+
+235
+
+TL;DR
+POPULARIZED BY OPTIMISM
+
+Optimism’s Retroactive Public Goods Funding functions as a capital allocation mechanism by rewarding
+projects based on their demonstrated value through
+Impact-Based Metrics (IBM), which evaluate contributions using clear, measurable criteria.
+
+View on Allo.Expert
+
+This approach emphasizes assessing past contributions rather than predicting future needs, fostering a
+data-driven method for funding public goods. In collaboration with Gitcoin and Open Source Observer,
+Optimism developed IBM to assess and reward projects based on their demonstrated impact, ensuring
+that public goods builders are fairly compensated for
+their work within the ecosystem. This model ensures
+that resource allocation is transparent, equitable,
+and directly aligned with long-term ecosystem
+growth.
+
+I M PA C T B A S E D F U N D I N G : O P T I M I S M R P G F
+
+236
+
+I M PA C T B A S E D F U N D I N G : O P T I M I S M R P G F
+
+237
+
+WHO SHOULD USE IT?
+This approach is ideal for grant managers, program
+managers, and community leaders in web3 ecosystems who want to distribute resources based on
+clear, measurable impacts rather than speculative
+future promises.
+
+FUNDING STRATEGY
+Optimism’s Retro Funding is centered around Impact-Based Metrics (IBM) to evaluate and reward
+projects based on value already created. Resources
+are distributed based on measurable past impact,
+incentivizing projects to deliver meaningful value
+without relying on speculative predictions.
+
+I M PA C T B A S E D F U N D I N G : O P T I M I S M R P G F
+
+238
+
+HOW DOES IT WORK?
+Optimism’s Retro Funding involves aligning projects
+with Optimism’s roadmap, establishing specific onchain criteria, and implementing a User Trust Model
+to ensure credibility.
+Projects must meet specific onchain criteria, such
+as active usage and the deployment of contracts
+on the Superchain. To ensure consistent, verifiable,
+and transparent evaluations, impact metrics are
+standardized. Funding is then allocated based on the
+project rankings according to their meassurement of
+impact metrics.
+To choose which impact metrics to fund, badgeholders (participants with voting power) are given the
+choice of which impact metrics they want to reward.
+They can preview which projects would receive
+funding for each impact metric. Then when their
+decision is made, they submit their ballots.
+At the end of the round, ballots are then tallied,
+and funds are distributed according to the ballots
+preferences.
+
+I M PA C T B A S E D F U N D I N G : O P T I M I S M R P G F
+
+239
+
+Demand for OP
+blockspace
+
+Value to users and
+builders
+
+Sequencer generates
+revenue
+
+Retro Funding
+rewards
+
+THE OPTIMISM RETRO FUNDING FLYWHEEL
+
+I M PA C T B A S E D F U N D I N G : O P T I M I S M R P G F
+
+240
+
+I M PA C T B A S E D F U N D I N G : O P T I M I S M R P G F
+
+241
+
+WHAT SETS IT
+APART?
+
+Data-Driven Impact
+
+Uses onchain data to measure the impact of projects over time,
+minimizing bias and subjectivity.
+
+Ecosystem Alignment
+
+Metrics are designed to reward projects that contribute directly
+to Optimism’s strategic goals, ensuring that incentives align with
+broader ecosystem success.
+
+Transparent Evaluation
+
+Clear, measurable criteria allow for transparent assessments of
+each project’s contributions, fostering accountability within the
+system.
+
+Retroactive Focus
+
+By rewarding projects for value already created, the system
+encourages long-term contributions, promoting sustainable development and ecosystem growth.
+
+C O N C LU S I O N
+
+242
+
+CONCLUSION
+Throughout this book, we’ve explored innovative
+funding models designed to create a more transparent, democratic, and efficient system for capital
+allocation. These models, already making a significant impact within decentralized ecosystems like
+Gitcoin and Ethereum, demonstrate the potential
+of Decentralized Finance (DeFi) to solve traditional
+inefficiencies in funding public goods and collective
+action initiatives.
+We stand at the frontier of what’s possible. We have
+a once-in-a-generation opportunity to reshape the
+way resources are distributed across industries and
+communities. Hopefully this book serves to stimulate progress, both in the minds of its readers and
+the ecosystem as a whole.
+
+REFLECTION ON KEY
+CONCEPTS
+At the heart of this exploration is the recognition
+that onchain capital allocation can overcome the
+entrenched limitations of traditional systems, including gatekeeping, rivalrous decision-making, and
+opaque governance structures. Mechanisms like
+Artizen Artifacts combat biased, bureaucratic, and
+inefficient funding systems for digital goods creators
+with their transparent, community-driven approach.
+At the same time, onchain social funding tools such
+as DEGEN utilize social media’s built-in attention
+to enhance support and engagement, showcasing
+the versatility of decentralized strategies in tackling
+various collective challenges—from environmental
+sustainability to technological progress.
+
+C O N C LU S I O N
+
+243
+
+FUTURE OUTLOOK
+As onchain capital allocation mechanisms continue
+to evolve, their applications will likely extend beyond
+blockchain. The rise of Decentralized Autonomous
+Organizations (DAOs) and token-based ecosystems
+offers exciting opportunities to disrupt conventional
+industries such as real estate, scientific research,
+and even government services. The challenge will
+be scaling these models to accommodate diverse
+sectors while maintaining their core principles of
+transparency and inclusion. In particular, challenges
+like ensuring robust governance, preventing collusion, and adapting to new regulatory frameworks
+must be addressed to sustain long-term growth.
+
+VISION FOR THE FUTURE
+Looking ahead, onchain capital allocation can
+become a powerful tool for addressing large-scale
+challenges like climate change, poverty, and wealth
+inequality. These models enable communities to
+allocate resources according to their unique needs
+and values, creating a world where funding decisions
+are no longer dictated by centralized institutions but
+by collective wisdom and real-time feedback loops.
+The future holds the promise of a decentralized,
+pluralistic ecosystem where resources are distributed efficiently, fairly, and in alignment with the public
+good.
+In sum, onchain capital allocation is not just a novel
+idea but a pathway toward progress - locally and
+globally. As we continue to build and refine these
+systems, we have the opportunity to create a future
+where capital flows freely to the causes that matter
+
+C O N C LU S I O N
+
+244
+
+most, driven by collective action, innovation, and the
+desire for positive impact. Let this be a call for all of
+us to participate, innovate, and push the boundaries of what decentralized ecosystems can achieve.
+Together, we can fund what truly matters and build a
+more just and prosperous world.
+To explore tools and resources for onchain capital allocation, head to https://allobook.gitcoin.co/, where
+you’ll find insights for implementing secure, efficient,
+and transparent capital distribution systems that
+bring the strategies in this book to life.
+
+CALL TO ACTION
+The path forward requires active experimentation
+and participation from a global community. As
+onchain funding models expand, their success will
+depend on continued testing, refinement, and adaptation to different contexts. We encourage readers
+not only to implement these mechanisms but also
+to contribute to their evolution. Whether you’re a
+developer, researcher, or an everyday participant,
+your involvement is key to creating more equitable,
+sustainable systems for resource allocation.
+
+C O N C LU S I O N
+
+245
+
+Collective Action
+
+Hoping to create
+impact here
+
+Human Coordination
+... and here.
+
+Capital Allocation
+
+By doing work
+here.
+
+Tokenization
+
+And standing on
+the shoulders of
+these giants.
+...
+...
+...
+...
+...
+...
+
+Smart Contracts
+
+Ethereum
+
+Stakers
+
+u and ur bags
+
+G LO S SA RY
+
+246
+
+FUNDING MECHANISMS
+AutoPGF (Automated
+Public Goods Funding)
+
+AutoPGF (Automated Public Goods Funding) is a mechanism that
+funds public goods through yields generated from protocol or
+token interactions.
+
+Quadratic Accelerator
+(Q/ACC)
+
+Q/ACC combines Augmented Bonding Curves for liquidity with
+Quadratic Funding rounds to match community donations, driving
+long-term engagement by aligning incentives between protocol,
+project, and community.
+
+Investment DAOs
+
+Expanding on traditional venture capital, Investment DAOs pool
+funds and make collective investment choices, with governance
+rights proportional to staked tokens and profits distributed based
+on time-weighted participation.
+
+Social Impact Bonds
+(SIBs)
+
+Private investors fund social programs, with government repayment based on meeting success metrics. If these targets are hit,
+investors get their capital back plus a return, calculated using
+time-weighted performance to incentivize long-term impact.
+
+Roundabout Production
+
+This mechanism focuses on long-term, strategic project invest´with incremental resource allocation. Rewards are distributed based on resource commitment duration and project success,
+encouraging sustained support for complex initiatives.
+
+Participatory Budgeting
+
+Participatory Budgeting is a democratic process where community members decide how to allocate a portion of public or
+organizational funds.
+
+Bounties
+
+Rewards offered for completing specific tasks, with payouts
+structured to incentivize timely and effective contributions. Bounties are calculated based on task complexity and solution value,
+driving targeted problem-solving and innovation.
+
+Harberger Taxes
+
+A property ownership model where owners self-assess their
+asset’s value, pay taxes on that value, and must sell to any buyer
+
+G LO S SA RY
+
+247
+
+offering that price. This mechanism aims to balance efficient
+resource allocation with fair taxation and use.
+
+Block Rewards Fundings
+
+Block rewards are incentives given to miners or validators for
+successfully adding a new block to the blockchain. These rewards
+usually come in the form of newly created cryptocurrency and
+transaction fees, encouraging participants to secure and maintain
+the network.
+
+Impact-Based Metrics:
+Optimism RPGF
+
+Optimism RPGF (Retroactive Public Goods Funding) is an
+impact-based funding model that rewards projects based on
+their proven impact, rather than upfront promises, incentivizing
+impactful contributions to the ecosystem.
+
+LottoPGF
+
+LottoPGF is an onchain capital formation mechanism that lets
+anyone create customizable “Lottos” to fund causes. Secured
+on Ethereum, it ensures transparency, fairness, and verifiable
+randomness, addressing the issues of traditional lotteries.
+
+DAO ICOs
+
+DAO ICOs are token sales conducted by Decentralized Autonomous Organizations (DAOs) to raise funds for projects. These
+sales allow communities to directly participate in the funding and
+governance of the project through token ownership.
+
+EIP 6969
+
+EIP-6969 introduces a smart contract-based revenue-sharing
+mechanism, allowing developers to receive a portion of gas fees
+generated through interactions with their contracts.
+
+Octant GLM Locking
+Mechanism
+
+Participants lock GLM tokens for 90-day funding epochs, gaining
+governance rights and rewards. Rewards are calculated using
+time-weighted metrics based on locking duration, with donations
+boosted by matched funding to incentivize long-term support.
+
+STAR Voting
+
+Voters rank candidates or options, with the two top-ranked choices entering a runoff. Votes are redistributed based on preferences, ensuring outcomes reflect long-term community consensus
+while minimizing strategic voting manipulation.
+
+Sourcecred
+
+Sourcecred is a reputation and contribution-tracking system that
+
+G LO S SA RY
+
+248
+
+rewards community members based on their contributions to a
+project. It assigns “cred” to individuals for their work, enabling
+fairer recognition and compensation within decentralized communities.
+
+Gnosis Multi-Signature
+Wallet
+
+The Gnosis multi-signature wallet (now Safe) is a secure asset
+management tool that requires multiple approvals before executing transactions, providing decentralized control and enhanced
+security.
+
+Bonding Curves
+
+Bonding Curves act as a funding and pricing mechanism by using
+smart contracts to automatically adjust token prices based on
+supply, allowing continuous minting, burning, and price discovery.
+
+Revnets
+
+Operates as an onchain cap table and incentive machine without
+governance overhead. Acts like “digital vending machines,” issuing
+$TOKENs when funds are provided. $TOKENs can be collateralized for loans, creating a flexible capital allocation system.
+
+Ranked Choice Voting
+(RCV)
+
+Ranked Choice Voting (RCV) is a voting system where voters
+rank candidates by preference rather than choosing just one. If
+no candidate wins a majority, the lowest-ranked candidates are
+eliminated, and their votes are redistributed until one candidate
+secures a majority, promoting more consensus-driven outcomes.
+
+Base Paint - Pixel Artist
+Revshare
+
+A collaborative pixel art platform where artists contribute to
+collective artwork and share generated revenue. Rewards are distributed based on contribution time and consistency, encouraging
+ongoing participation and creativity.
+
+Buidl Guidl Streams
+
+BuidlGuidl Streams functions as a cooperative model by providing
+Ethereum builders with a fully funded smart contract that allows
+for flexible withdrawals based on their contributions.
+
+Rotating Savings and
+Credit Associations
+(ROSCA)
+
+Participants contribute to a collective savings pool, taking turns
+to withdraw funds. This system provides a simple, interest-free
+alternative to traditional banking, helping members fund major
+expenses.
+
+G LO S SA RY
+
+249
+
+Breadchain - Onchain
+crowd staking mechanism
+
+Decentralized funding model where participants receive tokens
+representing their staked assets which grant them voting power
+over how funds are distributed to community-driven projects.
+
+Artizen (Artifacts)
+
+Digital artifacts representing artistic contributions are tokenized.
+Rewards are distributed to creators over time based on their
+work’s sales and match funding, creating a sustainable ecosystem
+for digital artists.
+
+Pleasr - Time-Locked
+Content Release
+
+Content creators release digital works with time-locked contracts,
+unlocking when predetermined milestones or funding levels are
+reached. Rewards are distributed based on how early and consistently supporters back the project.
+
+Hypercerts Impact
+Certificates
+
+Hypercerts are tokenized certificates that record contributions to
+impact-driven projects using semi-fungible tokens. They enable
+verification, auditing, and funding of impactful work.
+
+Social Funding
+Mechanism
+
+Originating from the web3 social platform Farcaster, DEGEN
+supports community signaling, reputation building, marketing, free
+minting, voting, and project endorsement. It creates a dynamic
+funding ecosystem by leveraging social media’s built-in engagement.
+
+G LO S SA RY
+
+250
+
+GLOSSARY OF TERMS
+1. Augmented Bonding Curve
+A mechanism combining bonding curves and continuous funding
+for efficient resource allocation and token price discovery.
+2. Automatic Runoff
+A voting method eliminating lowest-ranked choices and redistributing votes until a majority is achieved.
+
+3. Automated Market Maker (AMM)
+A decentralized trading mechanism where liquidity pools are used
+to automatically execute trades, instead of traditional order books.
+
+4. Bonding Curve
+A mathematical curve defining the relationship between token
+price and supply, ensuring price responsiveness to demand.
+5. Bounty
+A reward for completing specific tasks, often in software development, encouraging open participation.
+
+6. Bug Bounty
+A specific bounty for finding and fixing software vulnerabilities or
+bugs.
+7. Capital Allocation
+The process of distributing financial resources efficiently to
+achieve desired outcomes.
+8. Capital Formation
+The process of creating or accumulating capital assets for future
+wealth generation.
+
+9. Cross-Chain Bridge
+Technology enabling token or data transfer across different block
+chain networks.
+
+G LO S SA RY
+
+251
+
+10. Crowdsourcing
+Obtaining input, ideas, or funding from a large group, typically via
+the internet.
+11. Custodial Wallet
+A digital wallet where a third party controls the user’s private keys.
+12. DAO (Decentralized Autonomous Organization)
+A self-governing organization run by smart contracts with collective decision-making.
+
+13. Decentralization
+Distribution of control away from central authorities to increase
+security, transparency, and autonomy.
+14. Decentralized Finance (DeFi)
+A blockchain-based financial ecosystem providing traditional
+services without intermediaries.
+
+15. Decentralized Storage
+Data storage across multiple nodes on a blockchain or distributed
+network.
+16. Flywheel
+A business model where momentum builds as more users or
+activities increase system effectiveness.
+17. Gamification
+Use of game-like elements in non-game contexts to increase
+engagement and motivation.
+18. Gasless Transactions
+Blockchain transactions where the sender doesn’t directly pay the
+gas fee.
+19. Hackathon
+An event for intensive collaboration on technical challenges within
+
+G LO S SA RY
+
+252
+
+a set timeframe.
+
+20. Impact Bonds
+Financial instruments paying returns based on achieving specific
+outcomes.
+
+21. Impact Investing
+Investments aiming for both financial returns and measurable
+positive social/environmental impact.
+
+22. Initial Coin Offering (ICO)
+A fundraising method selling new cryptocurrencies or tokens to
+investors.
+23. Liquidity
+An asset’s ability to be quickly converted into cash without affecting its market price.
+
+24. Logarithmic Formula
+A mathematical function used in blockchain mechanisms for
+managing token supply and pricing.
+25. Market Making
+Process of providing liquidity to ensure smooth trading and price
+stability.
+26. Miner
+Blockchain network participant validating transactions and earning rewards.
+
+27. Minimal Viable Strategy
+A strategy using minimal resources to achieve a working solution
+or product launch.
+28. Multi-Signature Wallet (Multi-Sig)
+A digital wallet requiring multiple signatures to authorize transactions.
+
+G LO S SA RY
+
+253
+
+29. Multi-Sig Signer
+A participant holding one of the keys required for multi-signature
+wallet transactions.
+30. Non-Custodial Wallet
+A wallet where the user controls their private keys and funds.
+31. Non-Transferable Tokens
+Tokens that cannot be transferred or sold once issued.
+32. Nodes
+Computers or devices connected to a blockchain network for
+transaction validation and security.
+33. Onchain
+Actions or processes occurring directly on the blockchain with
+permanent public records.
+
+34. Permissionless
+A system allowing participation without central authority approval.
+35. Price Volatility
+The degree of variation in an asset’s price over time.
+36. Proof of Stake (PoS)
+A consensus mechanism selecting validators based on their
+staked tokens.
+37. Proof of Work (PoW)
+A consensus mechanism where miners solve puzzles to validate
+transactions and create new blocks.
+38. Public Goods
+Resources or services benefiting all, often underfunded due to
+their non-excludable nature.
+
+G LO S SA RY
+
+254
+
+39. Quadratic Funding
+A funding mechanism distributing matching funds based on the
+square root of individual contributions.
+40. Semi-fungible Token
+A digital asset that can initially be traded as a fungible token
+(interchangeable with others of the same kind) but later becomes
+non-fungible when its context changes.
+
+41. Social Impact
+The effect of an activity on society or the community.
+
+42. Staking
+Locking up cryptocurrency tokens to support network operations
+and earn rewards.
+
+43. Sybil Resistance
+Mechanisms preventing single entities from creating multiple fake
+identities in decentralized systems.
+44. Time Lock
+A smart contract feature restricting access to funds or actions
+until a specified period has passed.
+45. Time-Weighted
+A method of calculating values or rewards based on time spent in
+a specific state.
+46. Token Burn
+Permanently removing tokens from circulation to reduce supply
+and increase scarcity.
+47. Token Lock
+Temporarily restricting tokens from being sold or transferred.
+48. Token Mint
+The process of creating new tokens within a blockchain ecosystem.
+
+G LO S SA RY
+
+255
+
+49. Tokenizing
+Converting an asset or right into a digital token on a blockchain.
+50. Transferable Tokens
+Tokens that can be freely transferred or traded between users.
+51. Trust Model
+The framework defining how blockchain participants interact and
+establish security without central authority.
+
+52. Validators
+Participants in Proof of Stake systems who validate transactions
+and secure the network.
+53. Verifiable Random Functions (VRF)
+Cryptographic algorithms generating verifiable random values for
+fairness and security.
+54. Vote-Splitting
+A voting strategy allowing voters to distribute votes across multiple options or candidates.
+
+256
+
+

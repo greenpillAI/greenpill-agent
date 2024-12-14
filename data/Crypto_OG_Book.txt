@@ -1,0 +1,1991 @@
+
+Why a book about what crypto OGs know?
+
+We want to empower you to be successful on your crypto
+journey.
+
+We are crypto ogs that have seen a few things. We made
+mistakes our first cycle. We want to help you avoid those
+mistakes. We want to equip you with the knowledge you
+need to survive and thrive in web3.
+CONTRIBUTORS
+
+arachaelp1z aoctanaiv a@owocki atrustlessstate
+
+=
+
+SN
+SS
+
+.>
+
+a@OXD2_ETH a@DEATH_AND_TXS
+
+a@sassal0x
+
+ablasteasy a@nixorokish aabbey_titcomb
+
+arheger7 a@spengrah a@irinamarinescu akbw
+
+a@meta_dreamer @connorodayO agkimbwala a@you?
+CONTRIBUTE
+
+Want to meet other crypto people? Want
+to help plan the 2024 edition of this book?
+Join the telegram group.
+
+[=
+
+ORs
+
+Not financial, legal or tax advice. This book is strictly
+educational and is not investment advice, legal advice or a
+solicitation to buy or sell any assets or to make any financial
+decisions. This book is not tax advice. Talk to your accountant
+and/or lawyer. Do your own research.
+
+This book is licensed CC BY 4.0 (full code available here:
+https://creativecommons.org/licenses/by/4.0/legalcode).
+You may permissionlessly fork this book, make changes, and
+republish them with attribution as long as proceeds go to the
+public good or charitable causes.
+
+
+| first got into the crypto industry in 2013 when it was very nascent and Bitcoin
+was the only real game in town. | was young and relatively strapped for cash at
+the time - around 21 years of age with not more than a couple thousand dollars
+to my name - but | decided to put around half of my money into BTC. Of
+course, | then proceeded to make the mistake that most “first cyclers” make - |
+tried to trade my way to more BTC and in the process lost around 90% of what
+| originally put in. Due to this, and due to the crash of BTC after Mt. Gox
+collapsed, | decided to cut my losses and exit the crypto industry altogether in
+early-mid 2014.
+
+It wasn’t until early 2017 that | discovered Ethereum and became absolutely
+obsessed with it for 2 reasons - Proof of Stake was incredibly fascinating to me
+and the ability to actually build novel decentralized applications spoke to the
+technologist within me. But those 3 years that | wasn’t around for cost me
+dearly since | missed out on things like the Ethereum ICO and missed out on
+being part of the earliest days of the Ethereum experiment - something that |
+still regret to this day even in the face of all the success I’ve had.
+
+The biggest takeaway from my journey in crypto so far has been that sticking
+around in a bear market is the single best thing you can do. All the
+opportunities lie in the bear market because all the “tourists” of the bull market
+have disappeared and what's left are the real builders producing real value.
+With this comes the opportunity to invest both time and capital into the things
+being built which can pay off greatly once the tourists return. My own
+experience here is a testament to this since sticking around in the 2018/2019
+bear market was the single best decision of my entire life. Though in saying
+that, the only reason | was able to make the decision to stick around was
+because | learned from my mistakes in 2014 and was determined to not repeat
+them.
+
+Advice from my past self from a crypto OG.
+
+One thing to know is that it’s going to be a wild ride and you'll love almost every
+second of it! You get to work with people that you admire and coordinate on
+solving some of the most interesting problems through the use of blockchain
+technology. It might seem that it's all about cryptocurrency but when you dive
+deeper you realize that there is so much more than that. It’s about the true
+power of decentralization.
+
+There's a lot to learn and many uncharted territories. You are going to feel like
+you should know everything before you can contribute but the beauty of the
+space is that you can contribute from what you know and continue to grow
+from there. Sooner or later you will find a community that resonates with you
+and when you do the best thing you can do is Knowledge share together and
+explore the possibilities.
+
+Buidl quick, fail forward and learn while you go. Always be buidling, not your
+keys not your crypto, and always run your own node!
+
+agkimbwala
+
+441
+12
+
+gm 18-year-old Connor - believe it or not, I'm future you (long story) (also “gm” is cool now). That
+weird Bitcoin thing you discovered is about to take you down a deep rabbit hole, so let me help you
+speed-run learnings from a decade and 3 market cycles in “crypto”. To begin, your 1st cycle (the
+tradooor). So you're a dorm room trader eh? Well, not a good one. It’s a dark forest out there and
+the market will eat you for lunch. Have you heard about leverage? I'd say stay away, but sometimes
+pain is the greatest teacher. You'll trade the market all the way up and back down, but eventually,
+realize you're playing someone else’s game and were better off holding (not to mention the tax
+headache). Mt. Gox implodes, | guess the “not your keys” people were right, I'm sure we won't
+make that mistake again. Crypto is dead, but your first bear is the best time to learn - the quality of
+information improves as mainstream interest declines.
+
+2nd cycle (the holdooor): You bought a mining rig eh? You could’ve made more if you bought ETH
+not GPUs, but the real value is actually participating in a network (and you can’t panic sell
+knowledge). You've held conviction through the bear and learned to self-custody, use 2FA, and
+ignore the paid Youtube shills. You trust, but verify. Congrats, you are officially a hodler, and... “this
+time it's different” ...right? Look at this “adoption” and the institutions coming (soonTM). You
+passed on the Eth presale, but you won't miss the next big thing so you buy all the hot ICOs. That
+“number go up” on the screen could be life changing, but 2x more is all you need, so you chase a
+moving target. Regardless you're a true believer, so you keep hodling, all way up! And all the way
+back down...
+
+3rd cycle (the buildooor): Down bad but in it for the tech eh? You didn’t invest more than you can
+afford to lose, but you lost more than you can afford to stomach. You realize your ATH was never
+real unrealized. You recognize market emotions, accumulate when fearful, divest when greedy.
+Checking prices doesn’t cross your mind for days. This bear you're not just learning you're building.
+The market flushed out the tourists, so you find like-minded friends and interesting projects to
+explore. You focus on adding value, positive sum games. Ignoring the shills, maxis, grifters,
+memecoins, fads. You experiment with new things, and you're rewarded with airdrops. You take
+healthy profits, separating emotions from finances, and keep building. It took 3 cycles, but you feel
+like you've made it, not always financially, but emotionally. You uplift family, friends, and colleagues
+with you. The true number-go-up was the friends you made along the way. The wild volatility
+cycles may dampen but ups and downs are inevitable - the “bull/bear cycle” is really a “fear/greed”
+cycle. All experiences are different, but if | were you (and | am) | would aim to skip my mistakes of
+the first 2 cycles. GLHF WAGMI!
+
+aconnoroday0
+
+Welcome, and hold on - it's going to be a wild ride with incredible people,
+grifters, profits and losses. As you begin to explore this new world of crypto,
+start by really trying to define your truths. Why are you here? What does
+success of your time here mean to you? There is no wrong answer, just
+knowing thyself will matter immensely as you move forward through the bear
+and bull cycles. Write it down and reference it.
+
+The communities that you will find pride in joining are often the most quiet
+when inviting people and talking about what they do. Find the good people,
+and offer support where you can. Ignore the hype and ignore the shifting sand.
+When you look back, the people and times together are what you will
+remember; bags full or empty the memories will last the longest.
+
+-Kyle | kow.eth
+
+os a@kbw
+P.S. Keep track of transactions in a spreadsheet
+
+to make your taxes easier.
+
+18
+14
+
+Hi 2018 Bear Market Abbey,
+
+If you're reading this, it's probably December 2018, and you just purchased a
+Cryptopunk for $65 as a Christmas present for your Aunt.
+
+You DEFINITELY should buy more.You don’t know it yet, but your life is going to
+completely change over the course of the next couple of years. You'll quit your job
+in a couple of months and buy a one-way ticket to follow some new friends you
+met at DevCon in Prague (don’t worry, that was the last conference you'll go to
+without knowing anybody). Those people, among others, will become your
+absolute best friends. You'll travel the world with them, building, hacking, and
+growing together.
+
+After the last year, | know you're feeling uncertain. It’s an intimidating to be in —
+especially when it seems like nobody understands what's going on. Be confident in
+your experience and your knowledge. While you might feel like a noob now, you're
+actually not. You don’t realize how much your time and effort will pay off. Some
+people would even say you're an OG now. Just keep learning as much as you can.
+
+Ignore the FUD, the pumps, and the dumps. Don’t get caught up in the noise —
+and watch out for the people who do. The ones in it for the money will crash and
+burn (bringing others down with them), but the ones who are driven to build a
+
+better world will be there, quietly building in the background. Keep following them.
+
+Most importantly, touch some grass. There's no rush — we're in it for the long run.
+
+2023 Bear Market Abbey
+
+) a») a@abbey_titcomb
+nN
+Ah, so you've found yourself falling down the crypto rabbit hole!
+
+Congratulations! It's truly a once-in-a-lifetime experience. The crypto
+rabbit hole is a bit like college. You only get to do it once, and it’s over
+before you know it.
+
+Crypto makes psych majors care about finance, and makes finance bros
+understand community and culture. Crypto will reveal things about
+yourself to you, and illuminate the world around you in ways you didn’t
+know was possible. Crypto is a lens for viewing truth in the world.
+
+Crypto spoils the polymaths. Those who can identify patterns across
+disciplines tend to navigate the rabbit hole better than those whose
+knowledge is siloed.
+
+The progression down the crypto rabbit hole is not linear. It forks, splits,
+and twists. It diverges, and then reconverts. It's a chose-your-own
+adventure that always seems to loop back around to the beginning.
+Eventually you'll have explored it all, and you will be a changed person for
+it. Or perhaps you do not experience the same magic that I’ve found down
+here, and that’s okay. Eventually, crypto will make something for you that
+you enjoy, Crypto has something for everyone ©
+
+atrustlessstate
+
+'
+
+15
+16
+
+KEV.eth
+@owocki
+
+If you could go back in time to when you first entered
+crypto and tell your past self a few words of wisdom,
+what would you tell them?
+
+12:31 PM - Jan 17, 2023 - 55.1K Views
+
+14 Retweets 11 Quote Tweets 131 Likes
+
+Laura Helen Winn @LauraHelenWinn - Jan 17
+Replying to @owocki
+
+ignore the hype and find the people doing real work
+
+©) vd G1 il 545 A,
+
+mysselium @mysselium - Jan 17
+Replying to @owocki
+
+“this time” is never different
+
+oO vd @ 2 ht 218 4
+
+(2) Eduardo Tovar @theguacpapi - Jan 17
+Replying to @owocki
+
+There's a colossal difference between knowing
+and understanding.
+
+oe) ty oO: hi s2
+
+nix @nixorokish - Jan 17
+
+Replying to @owocki
+engage with the community, you'll learn a lot
+more than you'll learn on your own
+
+QO ty @; hy 136 a
+
+PG_CDG @PG_CDG - Jan 17
+Replying to @owocki
+
+Get the difference between:
+
+- CEXs vs DEXs
+
+- Bitcoin and Ethereum
+
+- Custodial vs non-custodial
+
+- It’s all about cypherpunks
+
+ps: don’t buy jpegs.
+
+oe) tt Gs i335
+
+A -  superphiz.eth @superphiz - Jan 17
+ye, Replying to @owocki
+
+Be more willing to make a leap into full time crypto.
+| was so scared. | held on to my previous job way
+too long because | thrive on stability and | didn't
+know how to handle health insurance.
+
+.) ty . hy 62 AL
+
+Igor Yuzo @igoryuzo - Jan 17
+Replying to @owocki
+
+1) Learn solidity
+
+2) Build a small EVM dapp
+
+3) Invest to learn risk management
+
+4) Learn how to tweet to engage w. community
+
+
+WELCOME TO THE FRONTIER.
+
+Crypto is a frontier of the metaverse.
+
+Surviving and thriving on this frontier requires knowledge of computers,
+psychology, economics, game theory, legal, geopolitics, memes, and more.
+You will be challenged on this frontier, even if you're a total polymath.
+
+This is a frontier where new purpose can be found, new friends can be made,
+new skills developed, where riches are gained and lost. Know yourself. What
+are you here for?
+
+We recommend that the frontiersperson take it slow & manage their risk. Don’t
+invest more than you can afford to lose. Inch in slowly, especially with your
+precious resources (usually time, reputation, & money), and only increase
+investment after careful thought.
+
+To gain a knowledge of this frontier, you may want to enter an OODA Loop
+where you discover the frontier in increments:
+
+1. Observe
+
+2. Orient
+
+3. Decide
+
+4. Act
+
+OODA Loops can be big or large. You can simultaneously iterate through
+multiple daily, weekly, monthly, quarterly, or yearly OODA Loops.
+
+It is prudent to manage your risk aggressively, especially until you’ve been
+through a few larger OODA Loops.
+22
+
+THE DUNNING KRUGER EFFECT
+
+H
+I
+G
+H | know everything
+Trust me,
+C it's complicated
+fe) There's more to
+N this than | thought
+F
+I
+D .
+E It’s starting
+N I'm never going to make sense
+c to understand this
+6
+W Huh?
+
+LOW KNOWLEDGE IN FIELD HIGH
+BEWARE THE DUNNING KRUGER EFFECT
+
+There is a lot to learn about crypto and it’s adjacent fields. As you gain
+knowledge of computers, psychology, economics, game theory, legal,
+geopolitics, memes, and more, it is important to know what you don’t know.
+
+Crypto is cyclical. From 2010 to 2023, it has moved in cycles with 10-50x
+gains and 5x - 20x losses. One of the most common stories of loss and
+hardship in the crypto frontier is someone joining during a bull market, making
+some gains, thinking “I know everything” and then going all in - only to be
+disappointed when it turns out you weren't knowledgeable, just full of hubris..
+
+It is important to know what you do not know. The market is a fickle beast, and
+as John Maynard Keynes once famously noted, it can stay irrational longer than
+you can stay solvent.
+
+23
+24
+
+HARD EARNED KNOWLEDGE
+
+If we told you not to touch a hot stove, would you listen? Or would you
+have to make the mistake yourself + only then would you learn?
+
+Here are is some hard earned knowledge of crypto ogs.
+
+1. Don’t be someone else's exit liquidity. If you're following an influencer
+who recommends a token to you, is it because it’s a good token, or
+because they have bags of it they want to dump on you?
+
+2. Don’t trade on leverage. Leverage = borrowed money. The easiest way
+to blow up your stack of tokens is to trade on borrowed money and get
+liquidated.
+
+3. Don’t invest more than you can afford to lose. It sounds like common
+sense. And itis. But when number go up, you might forget it.
+
+4. Never ever ever ever share your private keys or seed phrase. Once
+someone has your private key or seed phrase, they can take all of your
+assets. So don’t share it. Protect it!
+
+5. Don’t recommend your friends or family buy crypto. Many a crypto og
+has had relationships with friends and family gone wrong after providing
+investment advice to a future unhappy bagholder.
+
+6. Pay your taxes. Maintain a spreadsheet of your transactions through the
+year. It’s not that hard, it just requires organization. And it'll avoid
+future pain.
+
+7. DYOR - Do your own Research. By doing your own research, you learn
+to understand the market cycle, dynamics, and you become a more anti-
+fragile economic actor.
+26
+
+NOT YOUR KEYS,
+NOT YOUR CRYPTO
+
+Crypto is built with blockchains. Your private keys unlock your
+crypto. If you can unlock data on the blockchain, you own that data.
+
+You hold your keys
+Protecting them is your responsibility.
+You own your crypto
+
+1 SeHES HES HT
+
+GHB HS ~~ HH
+IES -#EX- 3 #%%=
+=#HE -%H% - RGHES -
+=i YOU 1%#% SMEREREES + ,
+* #HS= ESE SRE aK,
+a on ToT 1G HH Hae
+FHERE HEELS YS sae te ae — 1eSHH= eK
+“£5858 Cleese ! FEE,
+"hE ae S SHES
+"#%E% DoEEHEl GHG,
+-=l s#H%e! -KERESEE SESE SAY ,
+HER MHEES EL MERETS 1 SHES =
+eH" HERE +54 NOA =%5atH
++e tee ye: %#% : a=
+a te a %#% - ###=
+=%%% * -«4#- | ON. «x0
+-HHEH+ —— -=#%HE"
+
+—FHGHHEGERE :
+
+oydAI9 NOAA uMO Ady
+“shay INOA 199]0/d 0] Way? IsNJ} NOA
+“shay JNOA spjoy yueq oO dAID Vv
+DON’T GET GOX’*D
+
+Mtgox was a Bitcoin exchange based in Japan that launched in 2010 and blew
+up in 2014.
+
+FTX was a crypto exchange based in the Bahamas that launched in 2019 and
+blew up in 2022.
+
+What do users of MtGox and FTX have in common? They left their tokens on
+an exchange, meaning they let someone else custody their keys. During the
+fallout from the collapses of Mtgox and FTX, users were left without access to
+their tokens for years. If they had only held their own keys, they wouldn't be
+waiting in line for years in bankruptcy court competing with other creditors to
+get theri money back.
+
+In 2014, ogs learned the value of self-custody of their crypto assets. In 2022,
+a new wave of future-ogs learned the same lesson of self-custody.
+
+Self-custody of one’s keys means that you don’t have to trust anyone to
+manage your tokens. This means less fragility with your financial life. This
+book recommends learning about how to self-custody your keys. This means
+learning how to:
+
+1. Back up a seed phrase somewhere offline & safe. Keep your keys private.
+2. Setup a hardware wallet (we recommend the GridPlus Lattice) if you need
+to sign or send transactions.
+
+27
+28
+
+CRYPTO OG OPSEC GUIDE
+
+HOT WALLETS AND PUBLIC IDENTITY
+
+Create a new Gnosis Safe and add your hot wallets as signers
+
+Create new seed phrases for each wallet app you use
+
+Use the Safe iOS / Android mobile apps to create mobile signers and interact with your
+safe on the go
+
+Use Frame.sh and its browser extension on desktop with a hardware wallet and/or
+WalletConnect instead of keeping your seed phrase in a browser extension like
+MetaMask
+
+Point your main ENS to your Safe address
+
+IMPORTANT: Ensure you create the Safe across multiple chains with the same address !!!
+This ensures that people can send you stuff on any chain and it wont get lost.
+
+Don't use Windows devices to store your hot wallets in case of malware. Prefer hardware
+wallets or WalletConnect.
+
+COLD STORAGE / SAVINGS
+
+Keep cold storage funds in a Gnosis Safe secured by one or more hardware wallets as
+signers on that safe.
+
+Don't share the same seed phrase between multiple signers.
+
+Require at least 2/X signers to execute.
+
+When travelling abroad, never have more than one signer wallet on your person at any
+time to mitigate wrench attacks.
+
+Optionally add transaction guards for time-delayed transactions.
+
+Optionally add spending limits for hot wallets or family members to be able to spend
+from the Safe.
+
+Don't store funds in the wallets, only use them as signers for the Safe.
+
+Use WalletConnect to use Dapps with your Safe.
+
+If a seed phrase gets lost or compromised, just use another signer you have to remove /
+replace the lost wallet as a signer on the Safe. Seed phrases should be seen as fungible,
+shouldn't be afraid to lose it.
+
+Don't store or copy your seed phrase backup on any device that is connected to the
+internet.
+To create a tamper-proof physical backups of your seed phrase, write it in archival ink on
+a thick piece of paper, fold it up, and laminate it. Store them safely in multiple locations,
+ideally in something fire/waterproof. You can print something on the outside of the paper
+before laminating as a decoy so no one knows there's a seed phrase inside.
+
+PRIVACY AND SECURITY
+
+Use Mullvad as a Privacy VPN and pay for it with cash / crypto to disassociate it with
+your identity
+Use physical 2FA devices like Yubikeys
+Use a pseudonym to create a layer of separation between your physical identity and
+your online public identity
+Store passwords in a password manager. The most trusted and foolproof is Ipassword.
+Bitwarden is a good self-hosted opensource alternative for more technical people.
+Buy or build a NAS to keep your important documents / files / backups safe long term
+and reduce your reliance on cloud storage / services.
+e Synology is a good off the shelf option with the best UX and most functionality.
+e Truenas is a good open-source option for power users who like to tinker and build
+their own high end storage servers
+e Unraid is a good option for people who want to use their own hardware but want
+something more user-friendly
+Use Tailscale to remotely connect to your local devices / NAS and self hosted services
+without having to open ports in your firewall.
+Upgrade your home router / firewall to something more robust. Ubiquiti's line of products
+is a great user-friendly option. OPNSense is a good open source but more technical
+option
+e Create a separate VLAN for all loT / Smart devices in your home network. Only have
+trusted devices on your main VLAN
+¢ Turn on threat detection and prevention
+¢ Create a honeypot VLAN to get visibility into potential attackers
+¢ Create a separate Guest network for visitors / untrusted devices, will block access to
+your trusted device
+Install security cameras in your home that you can access remotely. Opt for local-only
+devices without a cloud subscription. Unifi Protect is a good user friendly option. Frigate
+is a good open source self-hosted option.
+
+29
+28
+
+WHY IS CRYPTO SO FULL OF SCAMS?
+
+Crypto does have some scams in it.
+
+But look closer and you will see that there are many different subsegments of the crypto
+community, who are building for very different reasons.
+
+In the center of the crypto ecosystem is the core devs -the true believers who are building this
+industry from first principles. They understand how cryptography and decentralization can help
+bring positive influence to them, and are building the applications that could revolutionize the
+internet of finance.
+
+Examples: Vitalik Buterin, Satoshi Nakamoto.
+
+The next outer ring is the crypto believers. These are the crypto power users. They believe in
+the same future as the core devs, and are living on top of those foundations build by the core
+devs. This circle is not just users, its application developers, dao members, comipanies, who are
+building on top of the protocols created by the core devs.
+
+This circle is filled with settlers not tourists.
+
+Examples: Apps like Uniswap, Aave, Maker, Gitcoin, or DAQs like BanklessDAO, PleasrDAO, or
+ConstitutionDAO.
+
+The next outer ring is the crypto grifters - They make it difficult to hear the signal from the true
+spearhead of the industry. Crypto Grifters are loud, self promoting and grandious. They employ
+polarizing tactics and styles to extract wealth from people. Crypto Grifters are why crypto has a
+bad name. Crypto Grifters knowingly build malicious products meant to trap the nearest naive
+crypto noobies.
+
+Examples: SBF, Do Kwon, etc
+Rest of the World
+
+Crypto Grifters
+
+Crypto Believers
+
+Core Devs
+
+Do we have to live with the grifters?
+
+In some ways yes, in some ways no. Access for everyone is a core value, blockchains are
+permission less and can be accessed by anyone.
+
+But at the social layer, we can build systems that make it easy to tell the crypto grifers from the
+true beliers, the people who do evil to those who do good. Crypto is only 10 years old, and as
+
+it evolves an immune system from these grifters, it will become safer for the median noobie.
+
+Read more @ https://www.bankless.com/why-is-crypto-full-of-scams
+
+
+HOW IT ALL STARTED
+
+The primary innovation behind Bitcoin, Ethereum & other cryptoassets is
+the ability to have a decentralized ledger.
+
+On this decentralized ledger, each actor does not need to have to trust
+each other. Instead, there are cryptographic operations that allow each
+actor to easily verify the state of the ledger.
+
+These cryptographic operations were how Satoshi Nakamoto, the author of
+the Bitcoin whitepaper, solved the Byzantine Generals Problem. By solving
+this game theoretic coordination problem with something called “Proof of
+Work", Satoshi was able to to create something called Byzantine Fault
+Tolerance - basically the ability for a system to be dependable with
+potentially unreliable actors.
+
+You can (and should) be skeptical that any specific token has any value.
+But you can still appreciate that solving game theoretic coordination
+problems is valuable.
+BYZANTINE GENERALS PROBLEM
+
+THE PROBLEM
+
+u SS?
+SY
+
+If all generals are loyal, the result If one general is disloyal, result
+is coordination and victory is discoordination and defeat!
+
+FAULTS EMERGE
+
+Generals can be bribed or otherwise disloyal.
+Message, channel or messenger can be corrupted, lost or destroyed.
+Poor decision making for some other reason.
+
+SOLVING FAULTS WITH CRYPTOGRAPHY
+
+Satoshi found a way to use cryptography to solve the Byzantine generals
+problem on computer networks. Satoshi used hashing & public key
+encryption to prevent data tampering & identify actors in the system. Each
+transaction on a blockchain is secured in a block, which is hashed to provide
+easy verifiability of its contents. These blocks are then chained together to
+create an easily verifiable chain of knowledge.
+
+BYZANTINE FAULT TOLERANCE
+
+Describes the dependability of a system to reach accurate
+consensus with potentially unreliable actors.
+
+35
+34
+
+BITCOIN (2009)
+
+Bitcoin is the first decentralized cryptoasset. It’s primary innovation was
+the deployment of a highly available, public, decentralized ledger. Using
+public-key encryption, users can update the ledger, sending Bitcoin (BTC),
+from one address or another.
+
+Bitcoin transactions are verified by Proof of Work consensus mechanism. A
+network of miners race to find the next block of Bitcoin of transactions by
+solving 1000s of cryptographic puzzles. A Bitcoin block is minted once
+every ~10 minutes .
+
+ETHEREUM (2015)
+
+Ethereum is a 2nd generation decentralized ledger, invented by Russian-
+Canadian programmer Vitalik Buterin. Its primary innovation was that it
+extended the decentralized ledger with smart contracts.
+
+By using smart contracts, programmers can build dApps (decentralized
+applications) that coordinate the movement of tokens based on a set of
+predefined rules, and without custody risk. Because of Ethereum’s
+programmability & extensibility, an ecosystem of dApps has developed on
+top of it.
+
+Ethereum transactions are verified by Proof of Stake consensus
+mechanism. A network of validators with staked ETH attached to them are
+the foundation of the Ethereum network, validating each new valid
+transaction.
+DEVELOPMENT
+
+DEVELOPMENT
+
+UPGRADES AND CONTINUED DEVELOPMENT
+
+TIMELINE OF ETHEREUM
+
+NOV | 20135
+Vitalik Buterin publishes a white
+paper describing a way to build Gavin Wood's Yellow Paper is
+decentralized applications, and released, providing a technical
+Ethereum is announced definition of Ethereum
+i Ether public crowd sale
+The Ethereum Foundation JuL| 2015 p
+(EF) is founded.
+First NFT deployed
+Launch Frontier: the first release of the
+Ethereum network to the general public. war] 2016 TheDAO Hack
+$150m crowd sale by TheDAO
+MolochDAO
+Virgil Griffith arrest
+OCT} 2020
+Introduction of staking to
+Beacon Chain launches after the Ethereum ecosystem
+16,284 deposits of 32 staked ETH
+Virgil Griffith pleads guilty
+NOV} 2021
+Ether all time high
+_ , Record high NFT sale
+ConstitutionDAO bids on a
+copy of the U.S. Constitution
+Paris Upgrade: The Merge,
+Proof of Work upgraded to
+Proof of Stake
+DEC} 2022
+
+FTX collapse and SBF arrest
+
+35
+36
+
+DEFI (2017+)
+
+DeFi is short for Decentralized Finance. By leveraging the programmability
+of the Ethereum blockchain and its smart contract functionalities, dApps
+can be built that create more sophisticated financial functionality.
+
+e Some examples: MakerDAO has created a stablecoin called DAI that is
+designed to be stable where 1 DAI = 1 USD.
+
+e AAVE is a trustless borrowing & lending protocol, allowing for users to
+borrow assets, earn interest, and build applications that leverage
+borrowing.
+
+e Uniswap is a trustless trading platform, which allows users to swap 1
+token for another token.
+
+NFTS (2047+)
+
+An asset is fungible if it is replaceable by another identical item. For
+example, 1 USD is fungible with another 1 USD. In contrast, a baseball card
+of Player A is not fungible with another baseball card of Player B.
+
+Non-fungible tokens (NFTs) are a standard way of managing non-fungible
+assets. Some popular NFT projects:
+
+« Cryptokitties - one of the first NFT projects to gain adoption
+
+e OpenSea - popular NFT marketplace
+
+¢ cryptopunks - popular og NFT
+
+e Nouns - popular NFT DAO
+DAOS (2020+)
+
+A Decentralized Autonomous Organization (DAO) is a form of organization
+facilitated by the blockchain instead of by a nation-state legal system.
+
+Definitions vary but one way to think about a DAO is like a group chat with
+shared control over its assets.
+
+More advanced DAOs take advantage of the benefits of decentralization to
+
+build networks that do not resemble off-chain forms of organization.
+
+1. Decentralization for making better decisions in democratic
+environments.
+
+2. Decentralization for censorship resistance
+
+3. Decentralization as credible neutrality
+
+WEBS REPUTATION (2022+)
+
+What is possible with all of the data emissions coming out of crypto
+networks? What kinds of new reputation systems will be built on top of
+web3?
+
+A very rudimentary example of web3 reputation: Airdrops. A very common
+token distribution mechanism is to give tokens to people who have a
+specific set of attributes (they used your dApp, contributed to your Gitcoin
+Grant, etc)
+
+Web3 reputation has high upside insofar as it can help incentivize more
+positive sum games with more known counter-parties. Much of our
+financial lives & our credit system is built on repetitional infrastructure. But
+without privacy & sovereignty built into the foundation of web3 reputation,
+it is also a honeypot for incentive misalignment.
+
+37
+38
+
+WEBS IS
+EVOLVING.
+
+Natural ecosystems are evolutionary & powered by natural selection.
+Similarly, Web3 is an evolutionary ecosystem powered by market selection.
+
+In times of abundance, 1000s of new species blossom. In times of scarcity,
+many projects will fail. The survivors will be the dominant species of next
+boom. And so on, ad infinitum. Innovate, iterate, evolve, repeat. Survival of
+the fittest is a simple yet powerful mechanism enabling the web3
+ecosystem to fit the preferences of market-selection.
+
+If we speed run this ecosystem evolution, we see the degenerative species
+(which by definition are short term greedy, but over long term tend to self-
+terminate) collapse, and we see the regenerative species (which are long
+term greedy, resistant to shock, and grow over time) grow. Cast the dice
+1000 times, the results will be the same each time!
+
+Keystone species hold together the complex web of relationships in an
+ecosystem. What are the web3 keystone species? What are the web3-
+analogues to dolphins, humans, or mycelial networks? One strategy for
+choosing which projects are worth focusing on is finding & supporting
+regenerative species & keystone species of web3.
+
+FEAST & FAMINE
+
+Because Bitcoin is the first cryptoasset, it is historically the primary asset
+people get when they enter the crypto ecosystem.
+
+This is changing with the creation of other blue-chip assets like ETH, SOL,
+ATOM, etc, but historically the crypto market-cycles hasve been driven by
+Bitcoin.
+
+Because Bitcoin is very volatile, this has meant the crypto cycle goes through
+alternative feast or famine moments. In the bull run times, the ecosystem is
+expanding, capital is cheap, and everyone is richer (at least on paper). In bear
+times, the ecosystem contracts, people/projects leave the ecosystem, and
+everyone is poorer (at least on paper).
+
+The legend is that this cycle is driven by the Bitcoin halvening (a supply
+issuance reduction every 4 years), which reduces supply. Assuming constant
+or increasing demand for BTC, this could cause an supply/demand imbalance,
+which causes an upward swing in the price of Bitcoin. It has many times in the
+past. Past performance is not a predictor of future results, and “constant or
+increasing demand for BTC” is not something that we can bet will always be
+true.
+
+Over time, the supercycle may evolve into several subcycles, and different
+corners of the crypto ecosystem will oscillate between bull & bear at different
+times from one another.
+
+41
+PRICE
+
+42
+
+APP/INFRASTRUCTURE CYCLES
+
+APPS
+
+INFRASTRUCTURE STACK
+
+As the cycle of bull & bear ebbs & flows, capital becomes cheap or
+becomes scarce. During the this cycle, investment flows into applications &
+also to infrastructure that serves those applications.
+
+The cycle is typically
+
+1. There is a breakout app.
+
+2. That breakout app inspires new infrastructure that makes it easier to
+build similar apps.
+
+3. This enables new applications with broader adoption.
+
+4. (repeat)
+PRICE
+
+This cycle has played out a number of times in the crypto ecosystem thus
+far, starting with the first breakout app (BTC). This cycle of app &
+infrastructure growth is displayed in the graph below.
+
+Read more on the USV blog: https://www.usv.com/writing/2018/10/the-
+myth-of-the-infrastructure-phase/
+
+APPS
+2017 MakerDAO
+2020 Compound
+
+APPS 2021 OpenSea
+
+2011 Silk Road
+2016 Tokens
+2017 CryptoKitties
+
+INFRASTRUCTURE
+
+APPS
+2008 BTC 2020 Las
+INFRASTRUCTURE 2022 Proof of Stake
+2016 Infura 2022 GridPlus Lattice
+INFRASTRUCTURE 2017 Web3js
+2008 Bitcoin 2017 OpenZeppelin
+2012 Coinbase 2018 ERC721
+
+2015 Ethereum
+2015 Metamask
+2015 ERC20
+
+43
+44
+
+WYCKOFF CYCLES
+
+Richard Wyckoff (1873-1934) was an early pioneer in the technical analysis to
+studying the stock market. He founded & edited The Magazine of Wall Street
+for 20 years.
+
+Wyckoff observed the market activities and campaigns of the legendary stock
+operators of his time, including JP Morgan & Jesse Livermore. From his
+interviews with those big-time traders, Wyckoff codified their best practices
+and learned the “real rules of the game”.
+
+From his position, Mr. Wyckoff observed numerous retail investors being
+repeatedly fleeced. Consequently, he dedicated himself to educating the public
+about “the real rules of the game” as played by the large monied interests, or
+“smart money.”
+
+In the 1930s, he founded a school which would later become the Stock Market
+Institute. The school’s main offering was a course that integrated the concepts
+that Wyckoff had learned about how to identify large operators’ accumulation &
+distribution with how to take positions that take advantage of the positions of
+large players. Wyckoff's methods are fundamental as financial markets, and they
+are relevant today in the crypto market.
+
+Read more: https://school.stockcharts.com/doku.php?
+id=market_analysis:the_wyckoff_method
+PRICE
+
+Wyckoff cycles are foundational to financial markets. The Wyckoff market
+cycle reflects Wyckoff’s theory of what drives a asset price movement. The
+four phases of the market cycle are accumulation, markup, distribution, and
+markdown.
+
+Typically during the accumulation phase, Smart Money is buying & “dumb”
+money is selling. Once there is no more supply to purchase, the asset price
+accumulates. Conversely, during the distribution phase, the smart money is
+selling & the dumb money is buying. Once there is no more supply to
+distribute, the asset price depreciates.
+
+DISTRIBUTION AREA
+
+OVERBOUGHT
+
+Smart Money is selling
+Dumb money is buying
+
+Smart Money is buying
+Dumb money is selling
+
+Vv
+
+OVERSOLD Markup Markdown
+
+ACCUMULATION AREA
+
+45
+46
+
+GARTNER HYPE CYCLE
+
+Hype Cycles are a tool that allow people to get educated on the promise of an up & coming
+technology.
+
+Each Hype Cycle has five phases:
+
+1. Innovation Trigger - A technological breakthrough happens + kicks off innovation.
+
+2. Peak of Inflated Expectations - Early interest in the innovation trigger produces a number of
+success stories.
+
+3. Trough of Disillusionment - Interest wanes as experiments fail to deliver. Producers of the
+technology fail.
+
+4. Slope of enlightenment - More instances of how the technology can benefit the enterprise
+start to crystallize and become more widely understood.
+
+5. Plateau of Productivity - Mainstream adoption starts to take off. It is easier to assess actual
+viability of each technology.
+
+You can read more about Hype Cycles @ hitps://blogs.gartner.com/
+
+REFLEXIVITY
+
+Reflexivity means that price of an asset can influence the perceived value of that asset. This can
+create a feedback loop, where price increases lead to increased speculation and further price
+increases. The same thing can happen on the downslope, as price decreases shake confidence
+and cause more decreases.
+
+This price reflexivity tracks pretty closely with the Gartner Hype Cycle. Some products never
+recover, others continue to innovate and repeat the hype cycle multiple times.
+
+A good example is ETH - check out the prices on January 15th of each of the fallowing years:
+2017: $9
+
+2018: $1276
+
+2019: $120
+
+2020: $166
+
+2021: $1170
+
+2022: $3328
+
+2023 (Jan Sth): $1250
+PRICE
+
+REFLEXIVITY IN A HYPE CYCLE
+
+INFLATED EXPECTATIONS
+
+4 4 4 Innovative team
+restarts the cycle
+
+PRODUCTIVITY
+
+PLATEAU
+
+DISILLUSIONMENT
+Rugs
+Scams
+
+INNOVATION TRIGGER Weak Projects
+
+TIME
+
+47
+48
+
+THE PRISONERS* DILEMMA
+
+The Prisoners Dilemma is a category of coordination game where the incentives of players
+diverge - and without a mechanism for coordination between players, a rational player will
+choose their own benefit at expense of other players (and the expense of everyone in the
+game).
+
+Here’s how it works: Imagine two members of a criminal organization are arrested and
+imprisoned. Each prisoner has no means of communicating with the other.
+
+Suppose the prosecutors lack sufficient evidence to convict the pair on the primary charge,
+but they have enough to convict both on a secondary charge.
+
+Simultaneously, the prosecutors offer each prisoner a bargain. Each prisoner is given the
+opportunity either to betray the other by supply evidence that the other committed the
+crime, or to cooperate with the other by remaining silent. The possible outcomes are:
+
+If player A and player B each betray the other, each of them serves 3 years in prison
+
+If player A betrays player B but player B remains silent, player A will be set free and player
+B will serve 5 years in prison
+
+If player A remains silent but player B betrays player A, player A will serve 5 years in
+prison and player B will be set free
+
+If player A and player B both remain silent, both of them will serve only 1 year in prison (on
+the lesser charge).
+
+As betraying the other player offers a greater reward than cooperating with them, all purely
+rational self-interested prisoners without the ability to coordinate will betray the other. Only
+mutual cooperation would yield greater reward - but with no way to coordinate towards that,
+it is not likely to happen.
+THE PAYOFF MATRIX
+
+Defect Cooperate SETUP
+
+Defect
+
+STRATEGIES AVAILABLE TO EACH PRISONER
+Confess (DEFECT!)
+
+a. other prisoner confesses as well, we'll both get 3 years
+b. if the other prisoner remains silent, i'll get off while they'll
+get 5 years.
+
+Remain silent (COOPERATE!)
+
+a. Other prisoner confesses, | get 5 years
+
+b. Other prisoner silent as well, we'll both only get 1 year
+
+Cooperate
+
+THE DOMINANT STRATEGY WITHOUT COORDINATION
+
+To the individual, the dominant strategy would seem to be to confess to avoid maximum 5
+years for themselves, and try for highest reward of 0 years, at the cost of the other. Worse
+case is 3 years if the other confesses as well.
+
+From the collective perspective, cooperating by both remaining silent ensures lowest
+average punishment for both. But if the other doesn’t cooperate as well, there is risk of
+receiving the maximum punishment.
+
+THE DOMINANT STRATEGY WITH COORDINATION
+
+The prisoners cannot communicate and cannot trust each other to remain silent. But if the
+prisoners dilemma was reconstructed to be on chain, decentralized blockchain and
+govemance can help agents coordinate with a transparent & trustlessness coordination
+layer.
+
+Your prisoners are interrogated in separate rooms for a crime.
+
+49
+50
+
+You
+
+THE PUMP & DUMP
+
+SETUP
+
+Blockchain Influencer SHILL_Lambo42069 has an audience of 420k followers, who follow them for
+entertaining & informative market analysis of web3.
+
+@SHILL_Lambo42069 STRATEGIES AVAILABLE
+SHILL_Lambo42069
+Provide value (Cooperate!)
+
+Defect Cooperate
+
+| 0% You could do a lengthy analysis of what tokens have
+
+2 fundamental value & write a comprehensive report of what
+its value proposition is
+
+2
+
+3 Pump and Dump (DEFECT!)
+
+8 You pick up a bag of $FOO token and you use your influence
+
+° to get your followers to pile in after you. When the price has
+appreciated, you dump your tokens for a nice 10x profit.
+
+You
+
+You are one of SHILL_Lambo42069's 420k followers, so it does not really matter what you do.
+
+ShillLambo42069
+@SHILL_Lambo42069
+
+The token $FOO is a sure thing. I’m buying this before
+it goes TO THE MOON! 4471 #
+
+3:00 PM - March 17, 2022 - 420.1K Views
+
+69 Retweets 69 Quote Tweets 420 Likes
+
+CRYPTO OG LESSON
+
+This scam is the prisoners dilemma in practice. To avoid being an influencers exit liquidity,
+do your own research on the viability of each token before you get involved into it. Anytime
+you get advice, ask yourself if the advisor has diverging incentives from your own.
+You
+
+THE PHISHING ATTACK
+
+SETUP
+
+Hacker Group LAZARUS has figured out they can install malware on peoples computers and steal
+
+their private keys.
+
+LAZARUS
+
+Defect Cooperate
+
+Defect
+
+Cooperate
+
+CRYPTO OG LESSON
+
+STRATEGIES AVAILABLE
+LAZARUS
+Do Nothing (Cooperate!)
+
+Phishing Attack (DEFECT!)
+Trick an unwitting crypto user into clicking on a malware link,
+and then use it to steal their tokens.
+
+Beware that there are attackers out there that will try to get you to run software on your computer.
+Be discerning about any links you open. Never enter your private keys into any internet connected
+device. Do not store your private keys on a device connected to the internet.
+
+THE FAKE PROJECT
+
+SETUP
+
+Software engineer NeoSatoshi has an idea for a new token and is doing a pre-sale for investors.
+
+LAZARUS
+
+Defect Cooperate
+
+You
+
+CRYPTO OG LESSON
+
+STRATEGIES AVAILABLE
+
+NeoSatoshi
+
+Build a legitimate project (Cooperate!)
+
+Identify a real need in the market, assemble the team, capital,
+and network that is needed to create value. Grind for years.
+
+Dump (DEFECT!)
+Mint a bunch of tokens for yourself and dump them on
+market as soon as your project gets hot.
+
+There are a lot of fakes out there. Look for a real market opportunity & actual momentum and
+legitimate purpose/community being built before getting involved in a project.
+
+51
+
+ATTRIBUTES OF DAOS
+
+BLOCKCHAIN BASED
+technology is used to operate critical
+business functions, e.g tokenized
+
+shares, crypto payments, payroll, etc.
+
+“Blockchain-enhanced”
+traditional business
+
+Crypto Companies
+
+INTERNET
+
+NATIVE COMMUNITY OWNED
+created and operated ownership is in the hands
+entirely on the of a large community who
+
+governs and captures value
+produced by the business
+
+internet-a physical
+entity is not relevant
+to define its business
+
+source
+
+‘oot Traditional co-ops
+projects
+
+(centralized)
+
+Pure internet
+communities
+
+Traditional co-ops
+(decentralized)
+
+DECENTRALIZED
+
+No core/decision-making team or
+governing body, all participants
+share common goals, critical
+
+decisions are made bottoms-up
+
+TYPES OF DAOS
+
+: Types of DAOs Types of DAOs
+B Public Goods Investment
+E Social Service Provider
+cS) .
+
+Collectives
+
+Na, Impassable Chasm
+
+PROFITABILITY
+
+A DAO can focus on non-financial benefits - like providing public
+goods or making a fun social crew. Or it can focus on making profits
+by providing services or managing investments.
+
+It’s basically impossible to switch from one to the other because the
+transition irreparably changes the vibes.
+
+Even vibes-oriented DAOs need some source of revenue to
+compensate contributors, so think about this when you're forming.
+Look for grants, partnerships, or even profit-oriented sub-DAO to
+make it possible.
+
+55
+56
+
+DAO HUMAN ACTION TRILEMNA
+
+The most commonly referenced trilemma in crypto is the scalability trilemma. Just
+as it's hard for a blockchain to be secure, decentralized, AND scalable, it's hard for
+DAOs to achieve action, agreement, AND shared content. This is the DAO Human
+Action Trilemma.
+
+MISDIRECTED ACTION - For DAOs, shared context generally means that every
+contributor Knows what the DAO's goals are, what work is happening, who is
+working on what, and how to contribute. Making this happen is a major challenge
+for onboarding and retaining talent. Ignoring it can save time but it creates some
+risks, namely that people will leave because they don't know how to participate or
+they work on things that don't align with the DAO’ overall goals.
+
+LEGITIMATE INACTION - While it sounds great to make ensure everyone has
+shared context and agrees on a way forward, both these things are biased against
+action. A DAO risks falling behind the market or failing to do anything at all.
+
+ILLEGITIMATE ACTION - Getting everyone to agree on every decision is a real
+challenge. Your DAO can help overcome it by defaulting to "yes" on contributor
+proposals, reducing the threshold for approval, or delegating authority up front.
+Still, without actively soliciting feedback, contributors can lose trust in the DAO's
+direction of the DAO and potentially fork it, creating a new DAO with their
+preferred focus.
+
+57
+58
+
+THE HOWEY TEST
+
+If you're going to contribute to crypto companies and DAOs, it is useful to
+understand The Howey Test.
+
+The Howey Test is the framework set by the U.S. Supreme Court to determine
+whether a transaction qualifies as an “investment contract” and therefore be
+considered a security. There’s uncertainty on how it applies to crypto.
+
+It's important to note that the Howey Test is applied at a moment in time rather
+than universally. Let's go through an example of a fake cryptocurrency called
+Capuchin Coin and apply the Howey Test to it.
+
+Howey Test (Must Meet All Four)
+
+* A party invests money
+
+¢ Ina common enterprise
+
+¢ With the expectation of profiting
+
+¢ Based on the efforts of a third party
+GROUP OF FRIENDS LAUNCH
+CAPUCHIN COIN AS A JOKE
+
+Verdict: Probably Not a Security
+
+Assuming no third party buys the memo coin, and given it
+was launched as a joke among friends, there's no value
+exchange and so no expectation of profit.
+
+FRIENDS REALIZE THEY HAVE TRACTION
+AND DO AN INVESTMENT ROUND
+
+Verdict: Probably a Security
+
+A party is investing in the team with the expectation that they'll
+do work that'll drive profit. Assuming the meme coin itself
+represents the contract, it's likely a security.
+
+AFTER BUILDING CAPUCHIN PROTOCOL,
+TEAM PLANS TO DECENTRALIZE CONTROL
+BY DISTRIBUTING CAPUCHIN COIN TO
+USERS TO USE FOR GOVERNANCE
+
+Verdict: Probably Not a Security
+
+This one is the least clear-cut but it's likely not a security
+distribution as long as no value is being provided to the team
+by the users upfront, and the users could not conceivably have
+any expectation of a profit that depends on the team’s actions
+
+59
+60
+
+LAYER HUMAN
+
+With Ethereum we can build an infinite machine of interoperable ecosystems. Each cog in
+
+this system has the opportunity to push this machine forward and by proxy all other
+ecosystems.
+
+TYPES OF PROJECTS
+
+SSROMORSS
+
+The Frontender The Storyteller
+The Rogue The Coordinator
+The Artist The Backend Dev
+
+Ecosystems can be viewed as an unique collection of roles, characters, memelords.
+They need each other to flourish.
+DECENTRALIZATION
+REQUIRES PARTICIPATION
+
+Build your character and join the party. If you don't, we're building shiny new tools for the
+managers of the past.
+
+Technical
+Organized Social
+Lone
+Wolf Innovative
+Creative
+THE STORYTELLER === THE FRONTENDER === THE COORDINATOR
+THE BACKEND DEV ==<<= THE ARTIST === THE ROGUE
+
+61
+62
+
+7 ESSENTIAL DAO SKILLS
+
+BASIC KNOWLEDGE OF BLOCKCHAIN -DAOs are organizations that base their
+operations on the blockchain. You will not be able to understand the power of
+DAOs if you do not first understand the basics of blockchain
+
+FAST LEARNING - The ecosystem is constantly changing. Learning must be
+continuous. Learn by doing, learn by consuming information, learn by socializing.
+
+TIME MANAGEMENT - The freedom offered by DAOs has it’s advantages and
+disadvantages. One of the disadvantages is that you must learn to manage your
+time to be effective.
+
+COMMUNICATION - Communication in web3 is critical. Most web3 organizations
+are remote organizations, which present their own communication challegnes.
+Subject matter in web3 is highly contextual and sometimes technical, which also
+presents communication challenges.
+
+PROBLEM-SOLVING - Decentralized governance is an unsolved problem, and
+coordination is sometimes inefficient. Technical problems can be deep
+rabbitholes. A decisive and skilled problem solved will be successful in any DAO.
+
+TEAMWORK - The ability to work in a team will help you become a great contributor.
+DAO work is often divided into subDAOs or workstreams. Since there is less
+hierarchy in DAOs than in a corporation, everyone must take on the
+communication burden of being a leader.
+
+AUTONOMY - In a DAO you must be autonomous, proactive, and biased towards
+action. Autonomy comes with great power and great responsibility.
+
+Read More on bankless: https://banklessdao.substack.com/p/7-essential-skills-
+to-thrive-in-daos
+WEBS REPUTATION
+
+“The most important scarce resource is legitimacy.” Vitalik Buterin
+
+As you grow your web3 reputation, you will accrue more legitimacy
+
+
+
+LIVE PLAYER VS DEAD PLAYER
+
+New skill 3
+
+New skill 2
+
+New habit 2
+New habit 1
+
+New skill 1
+
+Dead player
+trendline
+
+TIME
+
+LIVE PLAYER - A person or well-coordinated group of people that is able
+to do things they have not done before.
+
+DEAD PLAYER - A person or group of people that is working off a script,
+incapable of doing new things
+
+EXAMPLE - Without a concerted effort to become a live player, people will
+keep working off the same script instead of doing new things.
+
+If an ecosystem has enough live players, innovation can build on innovation
+in a virtuous cycle, like we see with Ethereum. This keeps ecosystems
+alive, vibrant, and anti-fragile
+BE A LIVE PLAYER, ANON.
+
+
+
+Decentralized a chains (BTC, ETH) Secure
+
+The blockchain scalability trilemma is a term used to describe the trade-offs that
+exist between three key properties of blockchain networks:
+
+> scalability, security, and decentralization.
+
+The blockchain scalability trilemma posits that it is difficult to optimize for all three
+of these properties simultaneously. For example, a highly scalable blockchain
+network may sacrifice some degree of security or decentralization in order to
+achieve its high transaction throughput.
+
+As a result, it is important to find solutions that can balance these trade-offs and
+enable blockchain networks to achieve a good level of scalability, security, and
+decentralization.
+The Dilemma:
+
+Scalability, security, and decentralization are often in conflict with each other in a
+blockchain system because they can have opposing effects on the performance of the
+network.
+
+For example, increasing the scalability of a blockchain network by allowing it to process
+more transactions per second may require the network to sacrifice some degree of
+security, by using less secure consensus mechanisms or by reducing the number of
+nodes that are required to validate transactions. Similarly, increasing the security of a
+blockchain network by using more robust consensus mechanisms or by requiring more
+nodes to validate transactions can reduce the network's scalability, as it may take
+longer for transactions to be processed and confirmed.
+
+Finally, increasing the decentralization of a blockchain network by allowing more nodes
+to participate in the validation of transactions can also have positive effects on the
+network's security. For example, a more decentralized network is less susceptible to
+51% attacks, as it would require a much larger number of nodes to control a majority of
+the network's mining power or computational resources. However, increasing
+decentralization can also have negative effects on the network's scalability, as it may
+require more resources to reach consensus and process transactions.
+
+Can we have it all?
+
+It is not clear whether it is possible to completely solve the scalability trilemma in
+blockchain technology. The scalability trilemma describes the trade-offs that exist
+between the three key properties of scalability, security, and decentralization, and
+these trade-offs may be inherent to the nature of blockchain networks. As a result, it
+may be necessary to constantly optimize and balance these properties in order to
+achieve a good level of performance in a blockchain network. However, it is also
+possible that new breakthroughs and innovations in blockchain technology may lead to
+solutions that can more effectively address the scalability trilemma and enable
+blockchain networks to achieve higher levels of scalability, security, and
+decentralization simultaneously.
+
+Layer 2 technologies like zk-rollups and optimistic rollups can help solve the scalability
+trilemma by increasing the scalability of blockchain networks without sacrificing too
+much in terms of security or decentralization.
+
+69
+70
+
+HARDNESS=CERTAINTY
+
+Human civilization depends in part on our ability to make the future more certain
+in specific ways. Fixed, hard points across time that let us make the world more
+predictable.
+
+Before blockchains, we did not have hardness in digital form. In web2, you are
+just a serf in Zuckerberg’s kingdom. You have no property rights, and your web2
+account can be taken from you at any time without any due process.
+
+Blockchains enable digital hardness, which allows participants in the metaverse
+to have faith that their assets wont be taken away from them over time. This
+certainty enables digital economies to flourish, similar to how the introduction of
+property rights into legal systems enabled economic growth centuries ago.
+
+Read more about Atoms, Institutions, Blockchains, on Josh Starks’ medium:
+https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhIWxGqjulrlpyYi0
+SOURCES OF
+
+ATOMS
+
+AGE
+
+13.8 billion years ago (used by
+humans for 100k+ years)
+
+EXAMPLES
+
+There’s only a limited amount
+of gold available on Earth.
+Because of this physical
+truth, it's expensive or very
+hard to change the supply.
+
+APPLICATIONS
+
+The supply of gold is atom-hard,
+making it a good money & store
+of value.
+
+HARDNESS
+
+a
+
+INSTITUTIONS
+
+AGE
+
+Thousands of years
+
+EXAMPLES
+
+If you break a law, groups of
+people like police & legal
+systems will work together to
+punish you.
+
+These groups have existed for
+100s of years and are likely to
+continue acting this way.
+
+APPLICATIONS
+
+We can create rules (laws) that
+are institution-hard.
+
+Individuals can create their own
+custom rules (contracts) that
+bootstrap off a common source
+of institutional hardness.
+
+-
+
+NLA
+
+BLOCKCHAINS
+
+AGE
+
+12 years
+
+EXAMPLES
+
+Falsely editing a blockchain's
+state is expensive or
+impossible due to economic
+security and cryptography.
+
+APPLICATIONS
+
+We can create very hard
+guarantees about the supply
+of a digital asset or an
+economic contract.
+
+Anyone can use a blockchain
+to create digital objects &
+rules that are blockchain-hard.
+
+71
+SUPERMODULARITY IS A SUPERPOWER
+
+MODULARITY
+
+Modularity is what allows productive endeavors in ecosystems without centralized coordination
+
+© } } © © Contained Scope,
+Independent Operation,
+© ©} } © Interoparability
+
+EXAMPLE: THE UNIX PHILOSOPHY
+
+The Unix philosophy, originated by Ken Thompson, is a set of cultural norms
+
+and philosophical approaches to minimalist, modular software development.
+
+@ Write programs that do one thing well
+@ Write programs to work together
+@ Write programs to handle text streams, because that is a common interface
+
+BEFORE AFTER
+
+Competing monolthic & proprietary Software that does one thing + does it well, which
+software with undocumented scope can be composed into something that does a more
++ boundaries complex thing well (or many things well)
+
+SES 8888S
+SUPERMODULARITY
+
+Supermodular games are those characterized by “strategic complementarities”. In
+a supermodular ecosystem, one agent's decision improves the incentives of
+others. The amount of value created grows exponentially.
+
+Y Y Y Strategic Complemeniaries
+O(n*2)
+
+Shared Audience
+Partnerships
+
+XL
+
+EXAMPLE: THE WEBS ECOSYSTEM
+
+Web3 programs are supermodular, because:
+
+® Each protocol does one thing + does it well.
+
+* Via composability, the protocols can be built together.
+® There isa separation of concerns between modules.
+® There are strategic complementaries among modules.
+
+
+Because of the supermodularity of the web3 ecosystem, it
+is possible for a group of hackers to build in a weekend
+what it would have taken a bank 10 years + $25m to do.
+
+BEFORE AFTER
+
+Competing monolthic & proprietary Software that does one thing + does it well, which
+banking software with undocumented can be easily composed into something that does
+scope + privileged access. a more complex thing well (or many things well).
+
+PREPOSTEROUS
+POSSIBLE
+PLAUSIBLE
+PROBABLE
+PROJECTED
+
+THE FUTURE
+
+THE PRESENT CONTAINS MANY POSSIBLE FUTURES
+
+> How might we imagine projected, probable, or plausible futures that allow
+
+humanity to coordinate around aligned values?
+
+—> How might we articulate these common values? What do they consist of?
+—> When does a vision of the future transform into a radical social movement?
+—> How might such a social movement be facilitated and supported by network
+
+technologies?
+NOW
+UTOPIAN
+
+K PROTOPIAN
+
+DYSTOPIAN
+POTENTIAL
+
+> TIME
+
+NOT ALL FUTURES ARE CREATED EQUAL
+
+—> How do we imagine futures that foster a plurality of values?
+
+—> How might we cease in manifesting futures that exacerbate violent moral
+agendas and increase global existential risks?
+
+> How far ahead can we perceive? How might we sharpen our prognostication
+skills to avoid catastrophe?
+
+77
+78
+
+CRYPTO POLITICAL IDEOLOGIES
+
+CYPHERPUNK
+
+A  Cypherpunk is any_ individual advocating
+widespread use of strong cryptography and privacy-
+enhancing technologies as a route to social and
+political change.
+
+SOLARPUNK
+
+Solarpunk is a movement in speculative fiction, art,
+fashion, and activism that seeks to answer and
+embody the question “what does a sustainable
+civilization look like, and how can we get there?”
+
+Some have said the core tenents of Solarpunk are
+hope in transparency through on-chain verification
+towards a utopian vision
+
+LUNARPUNK
+
+Lunarpunk is regarded as the sibling aesthetic of
+Solarpunk. Lunarpunk, to its more _ universal
+properties, references witchcraft, futuristic design,
+nature, renewable energy, and the circle of life
+
+Some have said the core tenants of Lunarpunk are
+determinism in anonymity through on-chain
+encryption to avoid a dystopian solutionism.
+SYNTHETIC DEMOCRACY
+
+Al Singularity, automated luxury
+
+communism, Al abundance, Al maximalism,
+
+universam basic income, post-scarcity
+
+Shared central values:
+Universalism
+Economic efficiency/growth
+Meritocracy
+
+POLITICAL
+
+IDEOLOGIES
+FOR THE 24ST CENTURY
+
+CORPORATE
+LIBERTARIANISM
+
+Individual sovereignty, exitocracy,
+neoreaction (NRx), dark enlightenment,
+anarcho-capitalism, Bitcoin maximalism,
+crypto maximalism, cypherpunk, bronze
+age mindset, techno-libertarianism
+
+Shared central values:
+Economic equality
+Large-scale cooperation
+Mitigation of existential risk
+
+Shared central values:
+Decentralization
+Rights
+Freedom
+
+DIGITAL DEMOCRACY
+
+Plurality, digital pluralism, digital dignity,
+21st century participatory democracy, fork-
+and-merge government, wiki government
+
+79
+80
+
+THE METACRISIS
+
+HIGH
+
+2. DYSTOPIAS
+(authoritarian regimes)
+
+41. CATASTROPHIES
+(coordination failures)
+
+3. THIRD ATTRACTOR
+
+System Of Surveillance/Governance?
+
+Y Axis - How Corrupt Is The
+
+LOW X Axis - How Well Are We Solving For Catrasrophies Coordination Failures? HIGH
+
+The Meta-crisis is the tendency for human governed systems to be stuck between
+catastrophes (coordination failures like climate change, nuclear proliferation, Al
+risk) and dystopian authoritarian regimes.
+
+Humans who are uncoordinated cause coordination failures. Then there is a
+natural tendency to want to regulate those coordination failures. But once you've
+given someone the power to regulate you, how do you prevent them from abusing
+that power for their own gain.
+
+What if we could create a system of governance that cannot be captured, but also
+can solve coordination failures.
+
+Many of us think that crypto is this system of governance.
+
+What would need to be true for humanity to manifest a third attractor?
+« What would this third attractor consist of?
+
+How might we imagine a strategy for realizing this vision?
+
+How long will it take? How do we build it?
+THE SEPARATION OF MONEY AND STATE
+
+“Chancellor on the brink of 2nd bailout for banks”. ~ The London Times
+
+This phrase was famously embedded into the first transaction ever on the
+Bitcoin Blockchain in January 2009.
+
+Satoshi is said to have embedded this phrase into Bitcoin’s genesis block as a
+statement of criticism of the governments bailout of banks during the 2008
+financial crisis.
+
+For most of human history, money has had a natural resource cost (the cost of
+precious metals). Separation of money and state is the historic norm, even
+though the state stamps their ruler’s face on the coin.
+
+But in 1971, the United States left the gold standard, meaning its currency was
+no longer pegged to gold. Instead the USD became a fiat currency - ie backed
+by the trust in a government.
+
+Without their currencies being attached to a natural resource cost, Central
+Banks across the world began inflating their currencies to pay for expenditures
+they otherwise could not afford.
+
+By inflating their currencies, governments created spending money. But they
+also inflated the monetary supply, thereby reducing the value of everyone else's
+savings.
+
+In advocating for the return to a separation between money & state, blockchain
+enthusiasts are advocating for being able to store their wealth in a place where
+it cannot be inflated away, seized without due process, or monetized by a bank.
+Different blockchains have different approaches to monetary policy, some some
+sticking more closely to this principle than others.
+
+Many people advocate for such a change, and web3 technology makes it
+actually possible.
+
+81
+THE GREENPILL THESIS
+
+$10 Trillion Spent On Public Goods In 2021 In The U.S. Alone
+
+What if regen web3 could allocate this capital better?
+We could align impact with profit if we rotate attention,
+capital, talent, & resources towards regenerative web3.
+
+THE FOUNDATION
+
+Legacy institutions for supporting public good are:
+
+OPAQUE UNACCOUNTABLE INEFFICIENT OFTEN CENTRALIZED
+
+O O O O
+
+Web3 provides a better coordination substrate:
+
+TRANSPARENT UNCORRUPTABLE LAYER PROGRAMMABLE PERMISSIONLESS
+
+What if we could help NGOs, nonprofits, & even
+government agencies, to leverage web3 tech?
+
+An ImpactDAO = as any web3 Oo Open source = capture
+
+project that creates net positive QPo resistent (no more capture by
+
+externalities to the ecosystem oO big tech)
+
+around it.
+
+Proof of Impact > No Proof Of Pluralistic Why rely on one entity in your
+Impact (watt why HAVEN'T we community for public good, when you
+
+. . can leverage the power of many open
+2
+been demanding proof of impact?) source toolkits? Choose the right tool for
+the right job.
+
+82
+(
+CD
+
+THE OPPORTUNITY
+
+)
+
+4
+
+?¢ °
+QS OR
+
+Car,
+Not all websites are created With programmable money, We can use these tools to
+equal. Neither are all web3 We can now program our build many value-oriented
+projects. Focus our attention values into our money. economies (ImpactDAOs)
+on regenerative web3 projects. at webscale.
+
+A DIVERSE & THRIVING ECOSYSTEM
+OF IMPACTDAOS COULD MEAN:
+
+alk 2 5
+
+higher resolution more democratic better collective
+digital democracy capital allocation resource allocation
+
+Al 3)
+
+more funding to better funding
+localized economies of causes citizens
+actually care about
+

@@ -1,0 +1,5498 @@
+on-chain
+
+Impact networks
+
+How Crypto Is Being Used To
+
+Regenerate The World
+Revised Edition of IMPACTDAOs
+
+Culture
+
+Education is crucial in the blockchain ecosystem, as there is an initial technological and
+philosophical barrier to understanding even the basic concepts, let alone the intricacies
+and nuances. It can remain an inaccessible enigma without proper explanations, tools, and
+learning opportunities. Education-focused networks help bridge this knowledge gap,
+fostering greater diversity and inclusion within the ecosystem.
+
+
+
+To build a more positive-sum world, ensuring that as many people as possible can
+understand, access, and participate in its creation is essential. By providing educational
+resources, these networks empower individuals from all backgrounds globally to utilize
+blockchain in multifaceted ways.
+
+[On-Chain Impact Networks]
+How Crypto Is Being Used To 
+
+Regenerate The World
+
+A GreenPill Network Writer’s Guild Publication
+
+From the GreenPill Network
+
+GREEN
+PILL
+On-Chain Impact Networks is V2 of ImpactDAOs (read V1 at greenpill.network) that
+was published in April 2022. As the crypto ecosystem has evolved and shifted since
+then, we wanted to create an updated version, hoping that others will continue to
+update with V3, V4, and so on in the years to come. 
+
+
+We opted to use the word network over DAO, as it reflects the shifting landscape of
+the ecosystem, recognizing that not everything is a DAO and not all networks want to
+be. A network can be a DAO, a protocol, a group of people, and any combo of these.
+
+
+On-Chain Impact Networks was written, published, and designed by the GreenPill
+Networks writer’s guild. It is our first stab at writing a comprehensive book in a
+decentralized and open manner.
+
+
+This version includes those who are building, leveraging, exporting, and using crypto
+to help create impact in their fields of focus.  
+This isn’t an exhaustive list, but it was inspired by Perchy's (@TheFutureisDAO)
+Regentopia artwork. We acknowledge that we will have missed organizations doing
+impactful work. Think of this as a starting place to learn more about the impact
+networks that are forming and rippling out into the world rather than a definitive list.
+3
+
+We’re building a CoordiNation
+across Nations & Cultures.
+CoordiNation (noun): a network-society that exports regenerative digital infrastructure
+to the world.
+
+Editor: Riley Blackwell
+
+
+
+Writers and researchers: Sarah Smith, Kate Goheen, Ifeanyi Princewill, 
+
+Lana Dingwall, Trinity Morphy, Matt Strachman, Anthony Amio, Eunice Eyo,
+Rayne Leach, Cauê Tomaz 
+
+
+
+Designers: Anthony Luong, Ashna Srivastava, Sarah Smith
+
+
+
+Project leads: Lana Dingwall, Izzy Lawernce-Onwuzurike
+
+
+
+A special thank you to Kevin Owocki for encouraging us to write V2 and Sejal
+Rekhan for spearheading the GreenPill Network community's inception.
+
+
+
+
+
+
+David Ehrlichman's book, "Impact Networks," explores how networks can drive
+social change through collaboration and systemic impact. It provides practical
+insights on building and sustaining networks based on trust, shared purpose,
+and collective leadership. Impact Networks serves as a guide for leveraging
+network power to address complex challenges and create lasting change.
+
+
+
+Onchain Impact Networks is about the projects that are putting these insights
+to work in web3 as of 2024.
+greatly in scope.
+
+While the books may have similar titles, they differ
+
+We recommend readers check out David Ehrlichman's book,
+
+"Impact Networks," if they are building an Impact Network of their own. 
+
+
+
+- Kevin Owocki 
+
+
+
+
+4
+
+Table of Contents
+
+A note From The GreenPill Network Writer’s Guild   
+
+6
+
+On-chain Impact Networks
+ 
+
+9
+
+Blockchain
+
+
+
+11
+
+Decentralized Science 
+
+
+
+13
+
+Community Funding Protocols: UBI, Public Goods, Art, Non-Profits and Beyond
+
+
+
+23
+
+Regenerative Finance (ReFi)
+
+
+
+35
+
+Climate and Environmental REGENeration 
+
+
+
+45
+
+Culture 
+ 
+
+57
+
+Education 
+ 
+
+65
+
+Infrastructure 
+
+
+
+75
+
+Impact Measurement 
+
+
+
+85
+
+Closing Thoughts
+
+95
+
+This book contains networks that show how crypto can 
+
+help regenerate the world in their respective fields
+
+5
+
+A note From The GreenPill Network Writer’s Guild
+
+In
+
+an
+
+era
+
+where
+
+technology
+
+continues
+
+to
+
+reshape
+
+every
+
+facet
+
+of
+
+our
+
+lives
+
+at
+
+an
+
+increasing speed, the concept of an Impact Network stands out as an example of how
+we can use it for good.
+
+At its core, an Impact Network leverages the decentralized and
+
+accessible nature of blockchain technology to create systems that facilitate positive,
+tangible change in the world. This book is a small step in exploring the numerous
+ways blockchain has the potential to address some of the most pressing challenges of
+our
+
+time,
+
+ranging
+
+from
+
+scientific
+
+innovations
+
+to
+
+financial
+
+resource
+
+distribution
+
+to
+
+climate change and beyond.
+
+
+
+Our goal is to showcase tangible ways crypto is being used to create positive sum
+outcomes
+
+and
+
+the
+
+amazing
+
+networks
+
+of
+
+communities
+
+behind
+
+them.
+
+We
+
+explored
+
+some of the fastest-growing impact domains so that even if you’re new to any of
+these
+
+categories,
+
+important
+
+here
+
+is
+
+it’s
+
+clear
+
+that
+
+no
+
+there’s
+matter
+
+something
+
+how
+
+much
+
+for
+time
+
+everyone
+you
+
+can
+
+to
+
+dig
+
+dedicate
+
+into.
+
+What’s
+
+to
+
+hobby,
+
+a
+
+network, or research outlet, impact is possible and can also be fun.
+
+
+
+
+Blockchain is not just about cryptocurrencies; it has the potential to revolutionize
+many industries. - Vitalik Buterin
+
+6
+
+The categories you’ll find in this book are:
+
+
+Decentralized Science (DeSci) democratizes science by using blockchain to provide
+open access to research data and decentralized funding, fostering a more inclusive,
+human-forward scientific community.
+
+
+Community Funding Protocols empower communities to collectively fund initiatives
+that align with their values, from Universal Basic Income (UBI) schemes to public
+goods, art, open-source software, and more.
+
+
+Regenerative Finance (ReFi) prioritizes sustainability and positive environmental
+impact. ReFi utilizes blockchain to create financial models that regenerate natural
+ecosystems and promote long-term sustainability.
+
+
+The themes of Climate and Environmental REGENeration explore how blockchain is
+used to combat climate change and restore ecological balance. These include carbon
+credit trading platforms and decentralized conservation efforts, among many more.
+
+
+Blockchain’s potential for Culture and Education includes protecting cultural
+heritage, promoting artistic expression, and providing access to quality education for
+underserved communities.
+
+
+Infrastructure development benefits from blockchain-based solutions to build
+resilient and inclusive systems, such as decentralized energy grids or smart cities.
+
+
+Finally, Impact Measurement is essential for understanding the true impact of
+blockchain initiatives. While measuring impact is often a moving target, these tools
+and teams are on the right track to building more intuitive solutions.
+
+7
+
+When the writers of this book came together to showcase these varied networks, we
+asked them for things that have helped in their journey through the impact industry.
+Many agreed that finding notable events in the news or their local towns and cities
+needed some form of impact to help them relate their work in blockchain to tangible
+goings on in their lives. These have proven to be excellent conversation starters and
+ways to bring real needs into new, exciting web3 projects.
+
+
+On-Chain Impact Networks is a testament to the power of collective action and
+technological innovation. As you read through this book, we hope to inspire you to
+engage with the blockchain ecosystem, contribute to impactful projects, and explore
+how you can leverage this technology to create a more sustainable and equitable
+world. Whether you are a seasoned crypto enthusiast or new to the space, everyone
+has a role in this journey towards a positive-sum future.
+
+
+‘Blockchain is a tool for reimagining the future and building a more equitable
+society.’
+
+-Vitalik Buterin
+
+8
+
+On-chain Impact Networks
+On-chain Impact Networks are coordinating across nations, cultures, industries,
+languages, and beyond to create something meaningful in their zone of work. 
+
+
+The impact can be felt within the network’s community and ripples out into the world
+in significant ways.
+
+
+People’s definition of ‘impactful’ varies depending on their lens, so we wanted to
+compile a book that helps highlight varying types of impact because they matter and
+feed into each other whether we know it or not.
+
+9
+
+An impact DAO or impact network is a group of individuals coordinating to create
+systems change in alignment with pluralistic values and vision. - Ron Rivers
+
+
+A group of people whose work produces societal benefit that is greater than the cost
+incurred in achieving those outcomes - Devansh Mehta
+
+
+A project that generates a positive impact on society - Fabian Cripto
+
+
+Using web3 tech and specifically distributed consensus mechanisms to empower
+social infrastructure and positive impact in communities and societies as a whole Gareth Farry
+
+
+The question is, what is the meaningful impact, and for whom? I think people are
+addressing the societal issues closest to them from their perspectives (developers
+solving for funding OSS, etc), and that, from their very valid perspective, is a
+meaningful impact. - LauNaMu
+
+10
+
+Impact Networks
+Blockchain
+Blockchain itself is an impact network as it has allowed people to organize, connect,
+and share all kinds of resources in ways we haven’t been able to before. Like how the
+internet brought about a new wave of connection, building innovation and growth,
+blockchain is the next iteration.
+
+
+For those new to blockchain, also referred to as web3, crypto, or onchain, here is a look
+at how this technology is being used.
+
+
+Blockchain technology is reshaping how individuals and communities collaborate.
+This decentralization of decision-making paves the way for a more equitable, inclusive,
+and resilient future.
+
+
+Crypto-economic systems can be designed to incentivize positive-sum prosocial
+behavior with built-in transparency and a trustless environment of distributed public
+ledgers. These multi-disciplinary models align individual interests with the overall
+health of the community.
+
+9
+11
+
+For those new to Crypto 
+
+
+An impact DAO or impact network is a group of individuals coordinating to create
+systems change in alignment with pluralistic values and vision. - Ron Rivers
+
+
+ByA decentralizing
+decision-making,
+we cansocietal
+tap into
+the collective
+wisdom.
+Smart
+group of people
+whose work produces
+benefit
+that is greater
+than the
+cost
+contracts
+agreements
+the terms
+incurred-inself-executing
+achieving those
+outcomes -with
+Devansh
+Mehta
+
+defined in code - streamline
+complex processes and eliminate reliance on third-party intermediaries to maximize
+efficiency.
+and accountability
+are built
+combined
+A project Trust
+that generates
+a positive impact
+on among
+society -diverse
+Fabian participants,
+Cripto
+
+
+with the verifiability of on-chain coordination. In this emerging frontier, trust is
+redefined.
+It is not
+in a central authority
+butconsensus
+embeddedmechanisms
+within the system.
+
+
+Using web3
+techplaced
+and specifically
+distributed
+to empower
+social infrastructure and positive impact in communities and societies as a whole WeGareth
+are Farry
+
+
+rediscovering the cross-cultural mechanisms of pre-monetary resource
+allocation practices that have unified local communities for longer than the postindustrial
+revolution
+has isexisted.
+The success
+of these
+digital frontiers
+requiresare
+The question
+is, what
+the meaningful
+impact,
+andnew
+for whom?
+I think people
+wisdom
+in the
+intersecting
+life, art, and(developers
+society.
+addressing
+theobscured
+societal mathematical
+issues closest constants
+to them from
+their perspectives
+More
+concretely,
+we are OSS,
+building
+of the
+research
+American
+Nobelperspective,
+Prize-winning
+solving
+for funding
+etc),offand
+that,
+from of
+their
+very valid
+is a
+economist
+Elinor
+Ostrom
+on bottoms-up governance of the shared management of
+meaningful
+impact.
+- LauNaMu
+common-pool resources like forests, fisheries, and groundwater basins. Balanced and
+sustainable collaboration with the whole in mind is supercharged with decentralized
+technology and Impact Networks.
+
+10
+12
+
+Decentralized
+Science
+
+“The decentralized science (DeSci) movement is
+disrupting the traditional research economy by
+introducing novel coordination, incentivization,
+and
+
+verification
+
+mechanisms
+
+to
+
+sustain
+
+and
+
+disseminate open science.”  
+
+
+-Stephanie Dunbar
+
+
+“DeSci uses web3 technology to establish a
+secure, lasting record of scientific
+contributions that enables fair credit
+allocation, simplifies transactions, allows
+worldwide resource sharing, and overcomes
+economic barriers.” 
+
+
+- Vincent Weisser & Ella McCarthy-Page
+
+14
+
+Decentralized Science (DeSci)
+A central tenet of science—the spark of curiosity and discovery—has been
+unintentionally stifled by a systemic shift toward bureaucratic policies that favor
+established ideas over novelty. As a result, traditional science has become slow,
+unoriginal, competitive, and political. Conservative funding metrics and fear of
+plagiarism have promoted siloed research approaches and competition for patents.
+Decentralized science (DeSci) is a movement that incentivizes collaboration, risktaking, and creativity. It aims to transform how scientific research and funding work
+through several innovative mechanisms.
+
+ 
+
+Funding is often challenging in traditional research due to risk-averse funding
+parameters, lengthy application processes, and institutional bias. Institutions are
+incentivized to keep their discoveries private out of fear of data plagiarism. Grant
+agencies favor established researchers and push scientists to produce results
+continually. Additionally, there is pressure to produce significant results, often leaving
+insignificant findings unpublished, known as the file-drawer effect. This pressure leads
+researchers to design cautious experiments and hypotheses, stifling creativity and
+genuine experimentation.
+
+ 
+
+Blockchain technology makes research data available, accessible, and credited to the
+original source. It allows data to be read, shared, built upon, and easily replicated,
+eliminating traditional institutional and geographical barriers to collaboration.
+Researchers globally can access and contribute to a shared pool of knowledge,
+fostering diverse perspectives and accelerating innovation.
+
+15
+
+ 
+
+
+The DeSci movement aims to complement rather than replace existing systems, offering an
+alternative funding approach through crowdsourcing. Scientists can apply for grants for
+their ambitious ideas, or individuals from the general population can propose specific
+research avenues. DeSci uses governance processes through tokenized ownership to
+allocate funding via community consensus. 
+
+ 
+
+These processes promote a collaborative research approach, with scientists and laypeople
+advocating for potential research avenues in traditionally undervalued or highly
+experimental fields. Researchers can also obtain funding by selling fractional ownership of
+possible intellectual property to a wide range of investors, allowing investors and
+researchers to benefit directly from discoveries.
+
+ 
+
+DeSci aims to create a more efficient, transparent, and equitable scientific ecosystem.
+Below are some examples of how this movement has already started and ways in which
+anyone interested can join. Science should be accessible to everyone, whether you are the
+next Einstein or Marie Curie or simply a passionate supporter of a cause.
+
+16
+
+Bio.xyz
+
+
+
+Bio.xyz, a biotech DAO accelerator, and DeSci meta-governance
+layer
+
+provide
+
+funding
+
+decentralized  
+
+
+ science.
+
+and
+It
+
+support
+
+offers
+
+a
+
+to
+
+innovators
+
+launchpad,
+
+in
+
+resources,
+
+mentorship, a shared network, and a comprehensive suite of
+legal and smart contracts tailored for DeSci DAOs. Each
+accelerator program includes a USDC $100,000 grant and token
+
+ 
+
+
+
+
+
+
+launchpad. Each bio DAO can crowdfund its treasury by offering
+tokens to its communities in exchange for bids to fund research
+and development. The accelerator also provides 18 weeks of
+
+dedicated support, including consulting and strategic advisory in tokenomics, tech, regulatory,
+R&D, community, and operations.
+Since 2018, Bio.xyz has led in decentralized science, creating vital infrastructure such as the
+IP-NFT framework to manage intellectual property. Bio.xyz has successfully incubated and
+accelerated biotech DAOs like VitaDAO, PsyDAO, ValleyDAO, AthenaDAO, HairDAO, CryoDAO,
+and CerebrumDAO, collectively raising over $16.7 million.
+
+AthenaDAO
+AthenaDAO is a decentralized community of researchers, funders, and advocates dedicated to
+advancing women's health research, education, and funding. The organization sources, funds,
+and incubates translational research, supporting projects from discovery through licensing IP
+assets and creating spin-out companies. Researchers benefit from access to comprehensive
+legal, strategic, scientific, and market mentorship and support facilitated through the
+community-held $ATH tokens. These tokens allow holders to determine IP development,
+define support mechanisms, influence governance structures, and manage the AthenaDAO
+treasury.
+
+
+
+Since its inception in 2022, AthenaDAO has made significant
+strides in women's health research, funding projects such as
+targeting the cGAS-STING pathway to delay ovarian aging and
+enhancing ovarian follicle survival and growth by targeting
+the ISR. The organization has also contributed to publishing
+several volumes of the Reproductive Health Report.
+17
+
+PsyDAO
+PsyDAO aims to build a user-owned and operated psychedelic future, ensuring that
+psychedelic intellectual property is freely traded, collectively owned, and responsibly
+managed for the benefit of all humankind. Their goal is to redesign incentives and access
+from the bottom up, focusing on people—patients, recreational users, and spiritual
+communities—rather than centralizing ownership within organizations with misaligned
+incentives. The organization uses pseudonymity and privacy-preserving technologies to
+ensure that knowledge and research can be shared without revealing the identities of the
+sender or recipient. Founded in 2022, PsyDAO funds research and provides small grants for
+psychedelic innovations. With over 3,500 members, PsyDAO currently supports more than ten
+psychedelic research projects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HairDAO
+HairDAO is an open-source R&D network
+where patients and researchers collaborate to
+develop new treatments for hair loss. Users
+can anonymously log their treatment
+experiences in the HairDAO app, contribute to
+hair loss research, and earn HAIR tokens as a
+reward. The community decides which research
+projects receive funding, with academics and
+informed community members encouraged to
+propose projects. Voting on which projects to
+support is done through holding HAIR tokens.
+This democratic approach ensures diverse
+perspectives are considered, fostering an
+innovative research environment. Funded
+projects include research on Thyrotropinreleasing hormone, Dutasteride, Twist-1 and 2i,
+and YAP-1i. Patents submitted include T3
+Liothyronine and T4 Levothyroxine, which
+have shown measurable regrowth effects on
+human scalp and hair follicles ex vivo.
+
+VitaDAO
+VitaDAO is a community-owned
+collective that funds and supports
+longevity science. Holders of the VITA
+token choose which research projects to
+support and contribute to in the fight
+against age-related diseases. The
+organization
+primarily
+funds
+translational
+research
+and
+is
+particularly interested in “moonshot”
+projects that can potentially make
+revolutionary scientific contributions.
+VitaDAO also occasionally funds more
+“basic” research and other initiatives
+aligned with the interests of the
+LongBio community.
+
+As of 2024, VitaDAO has deployed over
+$4.6 million in funding, supported 23
+research projects, evaluated over 200
+projects, and currently has over $10
+million in liquid funds.
+18
+
+CryoDAO
+CryoDAO aims to advance cryopreservation research with high
+potential to improve the field's quality and capabilities.
+Cryopreservation has numerous applications, including organ
+and human preservation. Currently, 80% of donor-to-patient
+organs are wasted due to a lack of ability to preserve them.
+Despite growing interest in cryopreservation, the field needs
+more research projects with a high potential to increase the
+quality and capabilities of cryopreservation. The CRYO token is
+integral to funding and governing cryopreservation research. 
+
+
+
+
+
+
+
+
+
+Holders gain voting rights within the ecosystem, directly influencing funding decisions and
+strategic direction. In the first half of 2024, CryoDAO successfully closed a monumental
+~$2.8M fundraise (1,108 ETH) with projects funded including Molecular Profiling and
+Computational Modeling for Novel Cryoprotectants and high-viscosity solutions to mitigate
+perfusion impairment.
+
+ValleyDAO
+ValleyDAO addresses critical climate and food challenges by funding and incubating academic
+research and building a community in synthetic biology and industrial biotechnology. This
+field uses biological organisms to sustainably produce products like animal-free meat,
+nutrients, clothes, fuels, fertilizers, and medicine, essential for tackling climate change and
+food security.
+ValleyDAO enables community participation in assessing and voting on research projects.
+Approved projects receive funding and support, and their intellectual property is
+commercialized through startups or sub-licensing. Proceeds are shared with researchers and
+re
+reinvested by the DAO into future projects. Notable initiatives
+include producing oils and fats in yeast, sustainable biofluorination
+of molecules, and SynbioCAD software. In 2023, ValleyDAO secured
+over $1M in funding through the launch of the GROW token, hosted
+several events, funded its first project at Imperial College, and
+provided translational support to BioHalo, a spin-out from Denmark
+Technical University.
+
+19
+
+Cerebrum DAO
+
+
+
+
+
+
+
+
+
+
+Cerebrum DAO is an open global community dedicated to advancing brain health and
+preventing neurodegeneration, with a primary focus on Alzheimer's. This community funds
+"moonshots" in brain health—high-risk, high-reward projects with revolutionary potential.
+The key focus areas include neuroinflammation, metabolic alterations, reactive oxygen
+species, mitochondrial dysfunction, and the blood-brain barrier.
+
+
+Using the NEURON token, the community reaches a consensus on
+which projects to support. Funds are allocated to the most
+promising candidates to commercialize their research, and licensing
+proceeds are shared between the researchers and the DAO. In
+addition to funding research, Cerebrum DAO is forming product
+partnerships, starting with a brain assessment and support app.
+
+LabDAO
+LabDAO is an online life science research collective offering open tools and infrastructure
+for computational projects. Researchers can access BioML models, such as those for protein
+binder design and protein folding, without setting up models locally. This enables immediate
+experimentation with clearly defined input fields, access to all parameters, and the ability to
+run multiple jobs in parallel. LabDAO ensures results are tracked, easily explored, and
+downloadable. Each use of a computational biology tool on the Lab Exchange mints a token
+that tracks the owner and details of the result.
+The Lab Exchange, powered by Bacalhau and IPFS and inspired by the Common Workflow
+Language, has actively expanded its toolset since 2021 with the help of community
+contributions. Groups like UltraRare Bio leverage the platform to design small molecule
+inhibitors for rare diseases. Available tools include mechanistic small molecule docking,
+protein structure prediction, and small molecule language models.
+
+20
+
+Metagov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Metagov aims to enable better self-governance. Their vision is to work toward an empowered,
+interconnected, and accountable governance layer for the internet. Their activities are supported
+by the three mutually supporting pillars of Community, Research, and Operations to foster
+collaborations on widely accessible, cutting-edge research. They have also funded governance
+research through MetagovDAO, providing a platform for researchers and practitioners in online
+governance to discuss their work through the Metagov Seminar.
+Additionally, Metagov currently oversees various projects, including AI Palace (a residency for
+open-source AI), Calm Technology (a standards body for mindful use of technology), DAOstar (the
+standards body of the DAO ecosystem), Govbase Dataset (a set of research data sets in online
+governance), OSS Transitions (exploring OSS accountability systems), PolicyKit (an engine for
+building governance in online communities), Public AI (a new AI political economy), and Telescope
+(a Discord bot supporting digital ethnography).
+
+WaterLAB
+WaterLAB is a project redefining water management by classifying and measuring regenerative
+water attributes. Billions lack access to clean drinking water, and WaterLAB aims to bring
+transparency, sustainability, and regenerative practices to the water industry. These practices
+promote water neutrality and the transition to more sustainable, cost-efficient water supply
+systems.
+The project invests in water research and production projects using the RH2O token and a water
+credit classification system. This system incentivizes regenerative water projects and supports
+voluntary water markets within the WL global community. Since its inception in 2022, WaterLAB
+has funded several water research projects and received support from three Gitcoin Grant Rounds.
+It partners with organizations such as ReFiDAO, Gitcoin, and Regen Network.
+
+21
+
+Community
+Funding
+Protocols: UBI,
+Public Goods,
+Art, NonProfits and
+Beyond
+
+"The Protocol Guild is an experiment in public goods
+funding that aims to align the incentives of core
+protocol contributors with the continued stewardship of
+the ecosystem by allowing these contributors to share in
+the value created by their hard work." 
+
+
+- Alex Stokes
+
+"Now you have venture capital scale returns for
+nonprofit causes." 
+
+
+- Griff Green
+
+
+
+
+
+
+
+
+
+“Rewriting
+
+how
+
+capital
+
+flows
+
+through
+
+society
+
+is
+
+arguably the biggest unlock in crypto. As blockchains
+compete for market share, we’re begging to see rapid
+experimentation with novel forms of funding that grow
+impact ecosystems”
+
+
+- Sohpia Dew
+24
+
+Community Funding Protocols
+On-chain tooling is changing how networks use crypto to build new and experimental
+economic systems that support the well-being of many. These tools facilitate direct and
+democratic (community) participation in funding processes ranging from universal basic
+income to environmental conservation and open-source software development. By doing
+so, they empower communities worldwide, enabling broad and targeted impacts that
+address global inequalities and foster sustainable development. This is not just a technical
+revolution but a social one, where technology serves as a tool for real-world change.
+
+ 
+
+Traditionally, the responsibility for allocating funding and resources to public goods, social
+and environmental needs, crisis aid, and open-source technology has fallen on
+governments, charities, and non-profit organizations. This dependency often leaves many
+vital causes—considered public goods because they are non-excludable and non-rivalrous
+—at the mercy of political cycles, local economies, and fluctuating levels of individual or
+corporate donations. Despite the good intentions, many crucial and impactful initiatives
+remain underfunded or entirely unsupported. The advent of crypto introduces a significant
+shift, offering tools such as governance tokens, staking mechanisms, liquidity pools, social
+tokens, and memecoins. These DeFi instruments empower blockchains, protocols, DAOs,
+networks, and communities to support important global causes effectively.
+
+25
+
+Projects are building innovative tools and creating new methods to fund initiatives that
+deliver positive-sum benefits, fundamentally transforming our approach from a purely
+financial system to new regenerative economies. These platforms leverage the potential of
+DeFi for impact and profit vs just profit. Examples include staking Ethereum, LP yield,
+short-term lending and investing, and using this money to fund public goods. Additionally,
+creating memetokens and governance tokens provides a fresh funding source for projects
+aimed at ecological restoration and community support, transforming popular digital
+trends into tools for positive change. 
+
+ 
+
+These platforms emphasize transparency and encourage democratic participation, allowing
+community members to directly decide how funds are distributed, whether for artists who
+drive cultural innovation, developers building open-source software, crisis aid, UBI, or
+sustainable
+
+efforts
+
+focused
+
+on
+
+environmental
+
+conservation
+
+and
+
+regeneration.
+
+These
+
+systems and tools help expand the funding landscape and integrate crucial areas like the
+environment, public welfare, and the arts into a unified, financially regenerative ecosystem,
+demonstrating that financial systems can effectively support and enhance collective wellbeing.
+
+26
+
+GoodDollar
+GoodDollar
+
+is
+
+a
+
+protocol
+
+governed
+
+by its
+
+members
+
+to
+
+promote
+
+decentralized
+
+financial
+
+education and access for all. To address global inequality, GoodDollar tackles the issue of
+wealth
+
+concentration
+
+by leveraging
+
+free
+
+market
+
+forces, social
+
+investing
+
+principles, and
+
+decentralized finance (DeFi) tools. 
+
+
+
+
+
+
+
+
+
+The
+
+protocol
+
+accessible
+
+to
+
+is
+
+a
+
+digitally
+
+anyone
+
+native,
+
+worldwide
+
+peer-to-peer
+
+with
+
+a
+
+currency
+
+smartphone
+
+and
+
+internet connection, fostering a more inclusive digital economy.
+
+GoodDollar generates, funds, and distributes crypto Universal Basic Income (UBI) via its
+token, G$—an ERC-20 digital asset built on the Ethereum blockchain. Nearly half a million
+individuals from over 222 countries and territories have opened a GoodDollar digital wallet,
+participating in the digital UBI economy.
+
+Glo Dollar
+Glo Dollar is a US-regulated and fiat-backed stablecoin company developed by the Glo
+Foundation. Revenue is split between the Glo Foundation and its issuance partner, but the
+Foundation donates its share to public goods and charity. Embedding philanthropy into
+money means people can passively engage in charitable giving in the digital age. The project
+went live in 2023, and there are $2.4 million and growing Glo Dollars in circulation, which
+has enabled $1,393.77 in donations to GiveDirectly.
+
+The recent upgrade to Glo Dollar 2.0 allows users to
+vote
+
+within
+
+the
+
+Glo App
+
+where
+
+the
+
+generated yield
+
+should be allocated, which includes fighting extreme
+poverty,
+
+combating
+
+climate
+
+change,
+
+or
+
+web3
+
+public
+
+goods. They will be adding more charitable causes on a
+rolling basis, but currently, the options cover fighting
+extreme poverty, supporting Web3 open-source code,
+and addressing climate change. In an attempt to spur
+the proliferation of the Glo Dollar, the next major steps
+are a credit card collateralized with Glo Dollars and
+integrating with multiple payroll providers.
+
+27
+
+Octant
+Octant allows users to earn ETH rewards by funding public goods and projects they care
+about using Golem's native ERC-20 token, $GLM. Octant aims to be the first self-sustaining
+global public goods financing ecosystem, balancing the common good with individual
+financial empowerment.
+
+
+
+
+
+
+
+
+
+
+The development of Octant is
+dynamic and continuously seeks
+community input. At this stage, users
+can fund public goods projects
+through
+individual
+allocations,
+suggest
+eligibility criteria
+for
+recipients, submit potential recipients,
+and propose experimental designs
+and governance mechanisms. The
+Golem Foundation seeded Octant by
+staking 100K ETH from its treasury.
+Every 90 days, a portion of staking
+rewards gets allocated to the Octant
+reward pool, with the community
+determining the distribution of funds.
+
+Since launching in 2023, Octant has completed
+three allocation windows, donating over 840
+ETH to 30 high-impact public goods causes, with
+users claiming 418 ETH in rewards. A significant
+value is pledged toward developing public goods
+through Octant, with around 15% of the GLM
+token supply staked for the cause. The fourth
+Epoch's Allocation Window is scheduled to begin
+in mid-July 2024.
+
+ETH Evacuations
+The mission of EthEvacuations, run by Kat (katalunia.eth), is to fund evacuations from Gaza
+using ETH, tipping tokens like $DEGEN, $ENJOY, and funds raised through NFT mints. Each
+evacuation requires around 1.5 ETH (around $5,300 at the time of publishing) for an adult
+and approximately 0.6 ETH for a child. Donations in ETH allow families to cover
+coordination fees to evacuate via the Rafah crossing. Over the past 5.5 weeks (at the time of
+writing this), the initiative has raised over $250,000 and has enabled 45 adults and children
+to register for evacuation.
+
+28
+
+GITCOIN
+Gitcoin is an Ethereum-powered platform that is changing how open-source
+projects are created and funded. Such projects are community-driven initiatives
+where developers collaborate to build software, tools, and technologies that
+benefit everyone. Gitcoin's mission is to “grow open source” by enabling developers
+to contribute, earn rewards, and fund beneficial projects.
+
+Gitcoin distributes funding primarily through Quadratic Funding, a mechanism
+ensuring fair and inclusive resource allocation via algorithms and matching funds,
+maximizing the impact of small contributions from many members. To reduce sybil
+attacks, Gitcoin introduced the Gitcoin Passport in June 2022. This digital ID verifies
+genuine contributors by requiring "stamps" from various authenticators like Bright
+ID, Proof of Humanity, Twitter, and Google, ensuring only real individuals receive
+rewards. The Gitcoin Grants Program allows developers to submit ideas and receive
+community funding.
+
+Since 2017, Gitcoin has helped over 3,700 projects raise more than 60 million USD,
+excluding 4.2 million USD in unique donations. Providing a platform for opensource contributions and community-driven funding, Gitcoin is already empowering
+developers to create/utilize innovative solutions that benefit everyone. As the
+platform grows, it continues to shape the future of open-source development and
+community funding, making it a key player in the blockchain industry.
+29
+
+Artizen is a community-funded platform for art, science, and public goods. It seeks to rebuild
+trust in philanthropy through a transparent and community-driven funding approach. Unlike
+traditional philanthropic organizations marred by bias and bureaucracy, Artizen empowers
+its members to support causes and projects aligned with their values, encouraging a more
+decentralized
+Artizen
+
+has
+
+approach
+
+fueled
+
+to
+
+funding
+
+the
+
+community's
+
+innovation, enabling
+
+creators
+
+choice. Through
+
+and
+
+researchers
+
+to
+
+community
+pursue
+
+funding,
+
+projects
+
+that
+
+may otherwise lack financial support, empowering communities to address local needs and
+improve
+
+quality
+
+of
+
+life,
+
+and
+
+supporting
+
+projects
+
+in
+
+the
+
+arts,
+
+thereby
+
+nurturing
+
+cultural
+
+enrichment. Since its establishment in 2021, Artizen has remained active, recently awarding
+131.22 ETH (approx. US$410k) to projects with the highest community support in the third
+season of its funding cycle.
+
+
+
+
+
+
+
+
+
+ 
+
+HumanDAO
+
+HumanDAO is a community-funded social impact DAO dedicated to onboarding people from
+low-income or underserved backgrounds into crypto and Web3. The DAO leverages various
+onchain
+
+technologies
+
+such
+
+as
+
+NFTs,
+
+P2E
+
+(Play-to-Earn),
+
+and
+
+L2
+
+(Layer
+
+2)
+
+solutions.
+
+HumanDAO aims to improve the lives of marginalized communities.
+
+
+
+HumanDAO enables individuals to earn through different opportunities by connecting them
+to
+
+decentralized
+
+digital
+
+opportunities, and asset
+
+economies.
+
+The
+
+DAO
+
+offers
+
+its
+
+members
+
+learning,
+
+career
+
+lending. HumanDAO generates revenue by renting or selling assets
+and
+
+collaborating
+
+with
+
+on-chain
+
+gaming
+
+projects.
+
+
+
+Through
+
+its
+
+partnership
+
+with
+
+Food
+
+For
+
+Life Global, HumanDAO has supplied over
+3,000
+
+meals
+
+and
+
+wages
+
+to
+
+over
+
+1,000
+
+of
+
+its 65,000+ community members.
+
+30
+
+Protocol Guild
+Protocol
+
+Guild
+
+is
+
+a
+
+collective
+
+of
+
+approximately
+
+160
+
+Ethereum core protocol contributors focused on enabling
+distributed
+
+funding
+
+for
+
+distributed
+
+systems.
+
+This
+
+collective enhances incentives for stewarding Ethereum's
+core protocol with tools like a split contract (0xSplits),
+which
+
+distributes
+
+donated
+
+application
+
+tokens
+
+to
+
+a
+
+curated list of contributors through a vesting contract.
+
+
+Protocol Guild's mission is to fund core Ethereum development sustainably by maintaining
+its members' onchain registry. This allows ecosystem sponsors to directly fund contributors
+and their work for the public good.
+
+Protocol Guild maintains a curated membership registry, assigning weights to each member
+based on their contribution duration. This includes contributors from around 25 projects
+across the Ethereum ecosystem. Donations vest directly to a time-weighted split, providing
+long-term
+
+incentives
+
+through
+
+custom
+
+a
+
+for
+
+Dune
+
+core
+
+protocol
+
+dashboard.
+
+stewardship. They
+
+Protocol
+
+Guild
+
+can
+
+offers
+
+be
+
+the
+
+tracked
+
+Ethereum
+
+on-chain
+
+and
+
+community
+
+a
+
+frictionless way to support core protocol contributors by providing a registry and a donation
+address, boosting long-term development incentives.
+
+Clr Fund
+Clr.fund
+
+is
+
+a
+
+protocol
+
+efficiently allocate
+that
+
+benefit
+
+preferences
+emphasizes
+
+the
+of
+
+using
+
+funds
+
+in
+
+Ethereum
+the
+
+support
+
+of
+
+Network,
+
+Ethereum
+
+credible
+
+permissionlessness,
+
+quadratic
+
+to
+
+public goods
+
+guided
+
+community.
+
+neutrality,
+
+trustlessness,
+
+funding
+
+by
+
+the
+
+Clr.fund
+
+decentralization,
+
+and
+
+pseudonymity.
+
+MACI protects against bribery and helps tally results,
+while BrightID prevents sybil attacks. Since 2020, the
+clr.fund
+
+has
+
+funded
+
+Ethereum ecosystem.
+
+31
+
+nine
+
+rounds
+
+benefiting
+
+the
+
+Endaoment is a nonprofit community foundation and public charity built on the Ethereum
+blockchain, enabling anyone to donate digital assets to any qualified 501(c)(3) U.S. nonprofit
+organization. This grantmaking foundation supports various forms of giving entirely onchain. Donors can create a Donor-Advised Fund (DAF) using a social account or an Ethereum
+wallet via their app or donate directly to any organization. Tools provided include DAFs,
+Direct Donations, Community Funds, Crypto Portfolio Allocations, the Universal Impact Pool,
+Traditional Asset Portfolios, and Authorized Fund Advisors.
+Contributions can be made via card, stock, or cryptocurrency, and donors can open a DAF for
+free with no minimums. Every donation comes with a verifiable receipt of its impact. The
+platform has facilitated a total impact of $81.36 million, with 2,442 donations, 532 open
+funds, and $34.25 million in grantable funds. Endaoment is the smartest way to give.
+
+Breadchain
+Breadchain is a collective of decentralized
+cooperative projects using solidarity primitives to
+forge relationships and advance community interests
+over profit maximization. Its goal is to distribute
+capital equitably, providing resources for everyone to
+thrive in a post-capitalist web3. The Breadchain
+Crowdstaking Application leverages the DAI savings
+rate on the Gnosis Chain to fund projects like the
+Crypto Commons Association, Labour DAO, and
+Symbiota. Interest earned is managed by a Gnosis
+multi-sig governed by Breadchain Cooperative
+members. Projects aligning with Breadchain's
+mission can apply to join the cooperative.
+32
+
+Giveth
+
+Giveth is a community-driven donation platform leveraging
+blockchain technology to connect real-world projects with
+regenerative funding opportunities. The platform offers a
+zero-fee service, allowing donors to contribute to verified
+public goods projects and earn rewards via the blockchain.
+Giveth supports various projects, including environmental
+initiatives, social causes, and technological advancements.
+Giveth's mission is to build a culture of giving that rewards. It empowers those who give to
+projects, society, and the world. The platform makes giving effortless and rewarding, allowing
+people worldwide to create positive change. The Giveth platform enables you to invest in
+projects you believe in, with donations directly supporting these initiatives while earning you
+rewards.
+
+
+Since its inception in 2016, Giveth has offered significant benefits through its crypto-native
+platform. These include zero fees for listing projects, donating and receiving funds, and
+eliminating intermediaries, ensuring that 100% of all funds go directly from donor to project.
+Donors earn crypto rewards every time they contribute to a verified project on Giveth,
+enhancing the appeal and impact of their generosity.
+
+$REGEN
+$REGEN is a new culture (meme)coin for Optimists
+that aims to combine degen vibes with regen(erative)
+energy. Drawing inspiration from how people
+organize and support memes, the REGEN token is
+using the same energy and community organization
+to create a positive sum impact in the world.
+Participants are rewarded for their regenerative-focused activities with points, airdrops, and
+tips, creating a virtuous cycle that amplifies their impact. This approach not only makes
+participation fun and rewarding but also drives more on-chain regenerative activity,
+increasing overall positive outcomes both IRL and online. An example of this was $REGEN
+allocating points to anyone who donated on Giveth, which helped create a 16x increase in
+donations on their platform.
+33
+
+Regenerative
+Finance
+
+‘Our mission is to build a financial system that
+creates the conditions for prosperity – for everyone’
+- Celo
+
+36
+
+Regenerative Finance
+On-chain tooling is changing how networks use crypto to build new and experimental
+economic systems that support the well-being of many. These tools facilitate direct and
+democratic (community) participation in funding processes ranging from universal basic
+income to environmental conservation and open-source software development. By doing
+so, they empower communities worldwide, enabling broad and targeted impacts that
+address global inequalities and foster sustainable development. This is not just a technical
+revolution but a social one, where technology serves as a tool for real-world change.
+
+ 
+
+Traditionally, the responsibility for allocating funding and resources to public goods, social
+and environmental needs, crisis aid, and open-source technology has fallen on
+governments, charities, and non-profit organizations. This dependency often leaves many
+vital causes—considered public goods because they are non-excludable and non-rivalrous
+—at the mercy of political cycles, local economies, and fluctuating levels of individual or
+corporate donations. Despite the good intentions, many crucial and impactful initiatives
+remain underfunded or entirely unsupported. The advent of crypto introduces a significant
+shift, offering tools such as governance tokens, staking mechanisms, liquidity pools, social
+tokens, and memecoins. These DeFi instruments empower blockchains, protocols, DAOs,
+networks, and communities to support important global causes effectively.
+
+37
+
+0
+5 6
+0 5
+6 e 1
+1 4 0 1
+8 7 0 6 0
+e 5 8 1 5 w
+v 3 1 0 0 q
+i d 5 7 5 e 5
+t y 2 8 1 w 1 7
+a m 8 0 9 q 0 8 9
+r o 7 2 2 w 4 0 1 6
+e n 5 0 9 e 8 2 f 5
+n o 3 6 1 q 0 t 1 0 0
+e c e 4 0 w 2 c 0 5 0 5
+g e 1 8 1 e 8 a 6 0 y 6 3
+e 0 0 1 9 e 1 p 1 5 1 6 6 4
+r 6 1 8 0 v 5 m 0 2 2 7 0 6
+0 3 6 1 9 i M i f 9 1 5 2 5 0
+5 0 5 0 1 t U 8 1 1 2 6 5 6 3 2
+0 6 1 0 9 i S 0 0 0 0 c 6 c g 3 5
+5 b 1 4 b s 2 4 6 0 0 6 4 6 n a 0 6
+0 5 5 T 5 o 8 0 b 4 0 d 7 9 i 1 4 1
+0 6 8 2 G 6 p 0 0 6 5 0 5 67 2 1 6 b eb a a 0 0 56
+5 b 45 5 0 0 81 6 6 5 7 6 1 l 3 3 7 5 0
+5 0 f d 6 6 c d 5 1 6 f 6 76 6 l 1 c a0 8 1 8 5 06
+0 1 5b 2 5 f 10 2 6 5 6 e a d 2 9 1 8 f
+0 6 1 5 2 1 9 4 7 c 6 e 4 w9 4 8 0 9 22 5 0 1 0 6q
+5 8 10 0 0 6 a2 c v 3 8 9 6 1 8 4 0 2 5
+w 6 6 1 9 4 3 5 6 i 6 0 d b8 4 0 0 6 0b 6 5 6
+2 1 91 6 3 6 ct c 6 2 1 1 0 1 5 6 5
+0 6 4 1 7 4 e f 6 3 9 8 0 96 0 8 6 7 44 3
+1 e 73 6 l 6 0a 4 d 9 2 c 5 1 2
+f 5 2 0 l 3 0 2 8 f 1 5 2 5f d 6 1
+4 c co 7 0 8 90 9 1 0 1 7 3
+6 1 6 4 1 c 3 5 b 8 1 0 5 63 2
+6 1 81 7 0 6 20 6 1 6 1
+a 0 66 1 5 0 52 6 c 6
+0 0 09 d 6 1 01 6 6
+1 8 1f b 0 7 65 6
+1 0 65 4 8 4 20
+1 5 08 0 6 c
+0 2 02 0 6
+0 6 c2 c
+1 6 16
+5 6
+3
+
+Projects are building innovative tools and creating new methods to fund initiatives that
+deliver positive-sum benefits, fundamentally transforming our approach from a purely
+financial system to new regenerative economies. These platforms leverage the potential of
+DeFi for impact and profit vs just profit. Examples include staking Ethereum, LP yield,
+short-term lending and investing, and using this money to fund public goods. Additionally,
+creating memetokens and governance tokens provides a fresh funding source for projects
+aimed at ecological restoration and community support, transforming popular digital
+trends into tools for positive change. 
+
+ 
+
+These platforms emphasize transparency and encourage democratic participation, allowing
+community members to directly decide how funds are distributed, whether for artists who
+drive cultural innovation, developers building open-source software, crisis aid, UBI, or
+sustainable efforts focused on environmental conservation and regeneration. These
+systems and tools help expand the funding landscape and integrate crucial areas like the
+environment, public welfare, and the arts into a unified, financially regenerative ecosystem,
+demonstrating that financial systems can effectively support and enhance collective wellbeing.
+38
+
+Toucan Protocol
+
+Toucan is building market infrastructure to help scale the carbon removal space efficiently,
+rigorously, and quickly. They work closely with suppliers, buyers, and other stakeholders to
+build products that serve the market and its participants. Toucan enables the tokenization of
+carbon
+
+credits
+
+using
+
+blockchain
+
+technology and
+
+creates
+
+a
+
+liquid
+
+and
+
+openly accessible
+
+market for carbon finance. This benefits carbon credit suppliers, buyers, and other climate
+tech infrastructure builders. 
+
+
+
+
+
+
+
+
+
+Toucan’s mission is to unlock large-scale climate action and transition
+the world to an economy that operates sustainably within the planet's
+limits. Launched in 2021, Toucan's infrastructure has supported $4
+billion in carbon credit trading volume, retired credits representing
+about
+
+298k
+
+tonnes
+
+of
+
+carbon,
+
+and
+
+made
+
+the
+
+first-ever
+
+registry-
+
+approved, high-integrity biochar carbon credits available on-chain.
+.
+
+
+
+
+
+
+
+Koko DAO
+Koko DAO is building a model to verify and compensate for small-scale conservation. Its
+vision
+
+is
+
+to
+
+develop
+
+new
+
+blockchain-based
+
+methods
+
+to
+
+reward
+
+rural
+
+communities
+
+for
+
+conserving their land, regardless of size, to enable them to tackle small-scale deforestation
+in rural Columbia
+
+
+
+
+
+Rural communities and small landowners lack the resources and
+land size to benefit from carbon offsets for forest preservation,
+making
+
+deforestation
+
+blockchain
+
+to
+
+validate
+
+economically
+the
+
+impact
+
+attractive.
+of
+
+Koko
+
+small-scale
+
+DAO
+
+uses
+
+conservation
+
+projects, creating new compensation methods for land preservation.
+
+Founded in 2022, Koko DAO is currently protecting its first forest, which spans 37 acres in
+Huila, Colombia. The first stage of KOKO DAO's methodology to scale forest preservation in
+Colombia has been completed. Koko DAO has also completed a drone imagery collection and
+initial assessment for the establishment of a second forest reserve spanning 300 hectares in
+partnership with Gain Forest.
+
+39
+
+Kokonut Network
+Based in the Dominican Republic, the Kokonut Network is creating a blockchain cooperative
+to encourage regenerative agriculture through promoting, organizing, funding, and managing
+coconut farms. With a projected yield of 18 million coconuts from the Kokonut V1 plantation,
+the Kokonut network will generate 10,000+ jobs centered on crucial agricultural duties and
+revenue of about $8.1 million per year for the DAO members from the sales of coconut fruits.
+
+
+
+
+
+
+The Kokonut network has been active since 2022,
+having purchased 620 acres of land for the proposed
+Kokonut V1 plantation. They also partnered with the
+Department of Agriculture Dominican Republic to
+access financing for agricultural production,
+ensuring stability and resilience in emergencies.
+
+Silvi
+The Silvi movement, born in 2021, aspires to create a ripple effect of hope by planting trees
+and generating sustainable livelihoods for millions. This innovative approach empowers
+communities worldwide to lead reforestation efforts, with the ambitious goal of 1 trillion
+trees planted by 100 million people. Silvi tackles climate change and biodiversity loss headon by restoring ecosystems through large-scale tree planting. These initiatives go beyond
+environmental benefits, empowering local communities by offering sustainable employment
+opportunities and economic development.
+
+
+Since its inception, Silvi has collaborated with over ten schools
+and community partners, planting over 5,000 trees. This initial
+success saw Silvi's supporters plant roughly 70,000 trees across
+15 trial locations near Kenya's Kakamega Forest. Additionally,
+when introducing over 500 farmers to Celo, Silvi helped them
+earn more using this reforestation incentive model.
+40
+
+OpenCivics
+OpenCivics is a civic innovation consortium
+and decentralized collaborative network
+dedicated to those who choose to care for
+and take responsibility for communities,
+commons, and the world together.
+OpenCivics convenes and facilitates a civic
+innovation network of leaders, innovators,
+change agents, and public servants
+actualized in service to the public good.
+OpenCivics has two layers of involvement:
+the OpenCivics Network, an open space for
+civic stewards to learn about and apply civic
+innovation, and the OpenCivics Consortium,
+a DAO for coordinating collaboration on
+systemic solutions.
+
+
+
+
+
+
+
+OpenCivics has a Grant Round program
+that seeks to provide funding and
+coordination support to projects building
+and deploying civic utilities or
+civilizational public goods. The latest was
+OpenCivics Consortium Round 02, which
+offers a $66k matching pool to fund
+critical collaborative protocols, prototypes,
+and infrastructures that enable civic
+engagement and interoperable civic
+utilities for direct governance and
+stewardship of our communities and
+commons. The latter was in November
+2023, the Genesis Round, which offered
+$33,000 USD to 15 civic innovation
+projects, with allocations made by the
+public through quadratic voting utilizing
+the Gitcoin platform.
+
+KlimaDAO
+KlimaDAO, launched in 2021, acts as a market maker for environmental commodities,
+utilizing DeFi primitives like DEXes to create liquid markets for these otherwise illiquid
+assets. Its decentralized nature allows the DAO community to determine its evolution.
+Governed by the KLIMA token, KlimaDAO's infrastructure serves as a neutral base layer for
+future environmental commodities markets (beyond just carbon).
+KlimaDAO builds public goods, primarily in the form of open-source software, and offers
+common-pool resources, like protocol-owned liquidity and treasury financing, to foster
+equitable, scalable, and blockchain-enabled environmental commodity markets. To date, the
+carbon credit assets in the KlimaDAO ecosystem have had over $4 billion in trading activity,
+with an on-chain supply of over 20 million tonnes of carbon credits—representing about 5%
+of the outstanding carbon credits in circulation globally.
+41
+
+ReFi DAO
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ReFi DAO, founded in 2021, aims to impact the world through
+regenerative culture, technology, and ventures, focusing on
+empowering communities to invest in public goods. It
+combines education, opportunity development, and fundraising
+and has built a substantial global presence with over 60,000
+ReFi Podcast listeners, hosting over 100 events in 58 cities.
+The organization has actively facilitated community-driven environmental and social
+regeneration by establishing over 40 local nodes globally and deploying more than $55,000
+in grant capital through platforms like Gitcoin. In 2023, ReFi DAO allocated $30,000 to these
+nodes, enhancing their ability to support grassroots regenerative projects. The 2024 agenda
+includes expanding this network with the launch of the Local Node Beta Cohort, which will
+provide additional tools and collaborative opportunities to strengthen local impacts further.
+
+Coral Tribe
+Coral Tribe is a community of impact investors using Web3
+climate finance to support sustainable businesses through the
+ReFi Hub platform. Their platform ensures that loans directly
+benefit businesses combating climate change, promoting
+clean energy, and fostering sustainable development.
+Members vote on fund allocations, targeting goals like
+Affordable & Clean Energy, Sustainable Consumption, Climate
+Action, and Life Below Water. The community has 1500
+members, funded five projects, and raised $500k.
+Since Coral Tribe focuses on reefs and mangroves due to their environmental impact, they
+found that reefs host 25% of marine life despite occupying only 1% of the ocean, and
+mangroves sequester five times more carbon than typical forests. Key projects include Nusa
+Penida, Indonesia, planting 394 corals with Coral Triangle Centre; Hatamin Island, Indonesia,
+planting 394 corals with Coral Guardian; Kigamboni, Tanzania, planting 450 mangrove
+saplings with Treegens; Diani, Kenya, planting 550 mangrove saplings with Treegens; Punta
+de La Mona, Spain, removing 500 kg of ocean plastic and transplanting 304 corals with Coral
+Guardian; Eel Garden, Turks & Caicos, planting 550 corals with Turks & Caicos Reef Fund.
+42
+
+FlowCarbon
+Flowcarbon is advancing the voluntary
+carbon market, currently estimated at
+$2 billion, with a goal to scale
+operations 15 times by 2030 to meet
+the
+Paris
+Agreement
+targets.
+Specializing in project finance,
+development, and credit portfolio
+services, Flowcarbon uses blockchain to
+improve liquidity and transparency in
+carbon markets, directing more capital
+into conservation, reforestation, and
+ecosystem restoration projects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Flowcarbon also supports initiatives like
+EV charging stations, biochar production,
+and cleaner cooking solutions in the
+developing world. Their carbon-backed
+tokens, each representing a tonne of
+carbon, are set to transform carbon credit
+trading and utilization. Recognized as one
+of America’s Top GreenTech Companies in
+2024 by TIME and Statista, Flowcarbon is
+driving significant environmental change
+through financial innovation.
+
+Moss
+Moss.earth, a Brazilian climate tech company, enhances the speed and accuracy of
+conservation and reforestation projects in the Amazon. The Moss Platform allows
+individuals and organizations to purchase MCO2 tokens, a carbon credit token backed by
+CO2 removed by certified reforestation projects. Moss aims to promote biodiversity
+conservation and ecosystem restoration by democratizing access to carbon offsetting. The
+Moss Forest system uses databases, satellite imagery, and scientific studies to accelerate
+and certify carbon credit projects. This tool automates the identification of optimal forest
+conservation areas and measures their impact, benefiting smaller properties lacking feasible
+solutions.
+Since 2020, Moss has neutralized over 1 million tons of CO2, invested
+over $50 million in socio-environmental projects, and promoted climate
+change awareness through the Moss Academy. Recognized for its work,
+Moss has received awards such as "Climate Tech of the Year" at SXSW
+2023 and "Best Carbon Offset Platform" at the Green Awards 2022.
+43
+
+Regen Network
+
+
+
+
+
+
+
+
+
+
+
+
+Regen
+
+Network
+
+is
+
+the
+
+ecological
+
+asset
+
+origination system of the Cosmos ecosystem,
+focusing on reversing climate change and
+supporting
+
+regenerative
+
+initiatives.
+
+It
+
+provides a platform to originate and invest in
+high-integrity carbon and biodiversity credits
+from ecological regeneration projects. Regen
+
+In 2023, the Regen Market app created
+
+Network is not just an organization but a
+
+over 2 million Eco Credits, with more than
+
+community,
+
+public
+
+588 thousand Carbon Credits retired and
+
+blockchain-based protocol, and network. Its
+
+backed by climate science. Regen Network
+
+components
+
+has
+
+commons,
+
+include
+
+movement,
+
+Regen
+
+Network
+
+impacted
+
+more
+
+than
+
+15
+
+million
+
+Development, Inc. (RND), Regen Foundation,
+
+hectares
+
+Regen Ledger, and Cerulean Ventures.
+
+ecological project developers worldwide.
+
+of
+
+land
+
+in
+
+collaboration
+
+with
+
+Solarpunk DAO
+Born from a desire to combat the climate and ecological crisis caused by modern capitalism,
+Solarpunk DAO leverages Web3 tools to build a decentralized infrastructure for a zeroemissions world. This DAO goes beyond awareness, offering and financing comprehensive
+solutions to achieve a Solarpunk utopia. Since 2020, they've consistently funded crucial
+endeavors, providing development funds for clean energy, regenerative agriculture, clean
+transportation, ecosystem conservation, and climate tech projects.
+
+Solarpunk DAO has funded numerous projects, bolstering
+the growth of solarpunk infrastructure. It also recognizes
+and rewards individuals who champion the development of
+ReFi
+
+and
+
+the
+
+Solarpunk
+
+mission
+
+itself.
+
+Recently,
+
+it
+
+concluded a QF round, distributing 1000 EARTH tokens to
+42 projects. By ensuring that promising projects receive the
+necessary funds, Solarpunk DAO addresses the financial
+barriers that often hinder progress on climate action.
+
+44
+
+Climate and
+Environmental
+REGENeration
+
+The projects who are winning in crypto are the ones
+who understand interoperability very quickly. This
+isn’t
+
+Apple
+
+vs.
+
+Microsoft.
+
+It’s
+
+a
+
+world
+
+where
+
+everyone is building different pieces of the puzzle
+and collaborating, increasing each others’ chances of
+success. The community is working on all angles –
+futures, land, assessments, new carbon credits, new
+categories
+
+for
+
+offsetting
+
+like
+
+biodiversity.
+
+If
+
+people see pieces missing, they pull other people in
+to build this missing pieces. Finding a community of
+people that keep on bringing in more pieces is
+beautiful.  
+
+
+- Tomer Bariach
+
+
+
+
+46
+
+Climate and Environmental REGENeration
+
+One of the prevailing criticisms of crypto, NFTs and blockchain as a whole is its
+environmental impact, particularly within proof-of-work systems, which Ethereum no
+longer uses. While these concerns are valid, they often overshadow how this technology
+supports holistic approaches to ecosystem restoration, climate change combat, and
+sustainability enhancement. These networks deserve recognition for their commitment to
+regenerative practices that actively restore and revitalize our natural systems. Their focus
+extends beyond slowing climate change; they are dedicated to sustainably regenerating
+our ecosystems.
+
+ 
+
+Projects, communities, and protocols empower their members to directly influence
+decisions on various projects, from coral reef restoration to sustainable agriculture
+through decentralized governance. This approach enhances the transparency of
+environmental actions like carbon offsetting and ensures these efforts are verifiable and
+trustworthy.
+
+47
+
+Moreover, blockchain facilitates collaboration among diverse groups—including NGOs,
+governments, and local communities—to catalyze systemic change in sustainability
+practices. These initiatives attract global capital with transparent funding models that
+actively engage the community. Some platforms are also enhancing the accessibility and
+reliability of climate data, supporting better environmental risk assessments and
+planning. Overall, blockchain and crypto are proving to be powerful tools in the fight
+against climate change, enhancing ecological sustainability through community-driven
+and transparent methods.
+
+
+Additionally, these networks foster collaboration, drive innovation, and facilitate
+systemic change in the ongoing battle against climate change. By uniting diverse
+stakeholders—from individuals and local communities to businesses and governments
+—they encourage widespread participation in regenerative practices and contribute to a
+collective vision of a sustainable future.
+
+48
+
+Solar Foundation
+
+
+
+
+
+
+
+
+
+
+
+
+
+Established in October 2022 by Jon Ruth and Coleen Chase, the Solar Foundation funds and
+accelerates
+Focused
+
+off-grid
+
+on
+
+solar
+
+achieving
+NGOs
+
+initiatives
+
+Sustainable
+
+individuals
+
+and
+
+to
+
+foundation
+
+implements
+
+leverage
+pilot
+
+in
+
+underserved
+
+Development
+blockchain
+
+programs
+
+to
+
+and
+
+communities
+
+Goal
+
+7
+
+scale
+
+in
+
+(SDG7),
+
+solar
+
+sustainable
+
+emerging
+
+they
+
+projects
+
+funding
+
+in
+
+markets.
+
+collaborate
+rural
+
+models
+
+to
+
+with
+
+areas. The
+empower
+
+communities with clean energy and ownership stakes in the solutions deployed.
+
+Since
+
+its
+
+inception,
+
+the
+
+foundation
+
+has
+
+funded
+
+projects
+
+in
+
+Uganda, Puerto Rico, and Nigeria, providing solar lights, mobile
+solar generators, and solar power for schools and computer labs.
+They focus on supporting community-led NGOs such as schools,
+healthcare
+
+centers,
+
+and
+
+agroforestry
+
+organizations,
+
+ensuring
+
+clean, reliable energy for rural, low-income communities.
+
+The
+
+Solar
+
+Foundation
+
+advances
+
+equitable
+
+access
+
+to
+
+affordable
+
+solar
+
+energy
+
+and
+
+storage,
+
+including microgrids, by developing transparent, open-source funding models and focusing
+on
+
+the
+
+needs
+
+of
+
+women
+
+and
+
+youth.
+
+They
+
+raise
+
+funds
+
+through
+
+donations,
+
+including
+
+cryptocurrency and quadratic funding.
+
+Mangrove DAO
+
+MangroveDAO is dedicated to restoring and protecting degraded mangroves in Myanmar and
+globally through
+combat
+
+climate
+
+a
+
+token-based
+
+change, and
+
+governance
+
+support
+
+model. Its
+
+coastal
+
+mission
+
+communities
+
+is
+
+to
+
+promote
+
+biodiversity,
+
+by transparently and
+
+efficiently
+
+financing, governing, and monitoring mangrove restoration projects. MangroveDAO leverages
+blockchain
+
+technology
+
+to
+
+ensure
+
+transparent
+
+fund
+
+utilization,
+
+equitable
+
+governance,
+
+and
+
+independent project monitoring.
+
+Launched
+
+in
+
+2021,
+
+MangroveDAO
+
+mangrove
+
+restoration
+
+subsidies,
+
+helping
+
+community
+
+restore
+
+more
+
+has
+by
+
+than
+
+significantly
+
+granting
+100
+
+over
+
+hectares
+
+impacted
+$100,000
+of
+
+the
+in
+
+degraded
+
+mangroves, and raising awareness about the importance of mangroves.
+
+49
+
+MaEarth
+
+Ma Earth is a community-led movement to align economic
+incentives with planetary health and regeneration. Through an
+interview series on YouTube, Spotify, and Apple, MaEarth
+explores the intersections of regenerative finance, technology,
+and the Earth. Ma Earth also successfully completed its first
+grant round through Gitcoin, putting up a $100,000 matching
+pool for 23 regenerative land projects. It is exploring Hypercerts,
+leading MRV providers, and other regenerative finance tools to
+streamline impact measurement for grantees and donors.
+
+MesoReefDAO
+MesoReefDAO also plans to establish a coral reef restoration fund, managed by the DAO
+community and open to contributions from anyone passionate about preserving the
+Mesoamerican Reef Ecosystem. Partnering with local communities, NGOs, and industry
+stakeholders, it aims to develop a comprehensive restoration plan that includes regenerative
+practices to restore coral habitats, improve water quality, reduce pollution, and support reef
+recovery.
+One of MesoReefDAO's key initiatives is the development
+of a regenerative DeSci offset program. This program
+incentivizes individuals and organizations to reduce their
+carbon footprint while contributing to MAR conservation
+efforts. The carbon offset credits generated through this
+program will be tradable on the blockchain, creating a
+transparent and traceable market that provides tangible
+benefits to the environment.
+Another crucial aspect of MesoReefDAO's mission is the establishment of a coral reef
+restoration fund. The DAO's community will manage the fund, which will be open to
+contributions from anyone passionate about supporting the conservation and restoration of
+the Mesoamerican Reef Ecosystem.
+50
+
+Web3Beach
+By incentivizing environmental impact and web3 education,
+Web3Beach empowers communities to tackle environmental
+issues and foster regenerative practices. Their aim is to empower
+these communities through participation in social and
+environmental impact activities, such as beach cleanups,
+educational tutoring for youth, art classes, and other recreational
+initiatives. Web3Beach has been organizing weekly beach clean-ups, dives against debris,
+and coral restoration projects for over six years in Honduras. They believe these
+communities have the most to gain from crypto and are also willing to take action to
+regenerate their communities.
+Web3beach has expanded its operations to Venezuela, Nicaragua, Guatemala, Japan, and
+Colombia and will soon begin operations in Kenya.
+
+Nori
+Founded in 2017, Nori is dedicated to scaling carbon removal to
+reverse climate change. They have built an integrated carbon
+removal issuing program, registry, and marketplace to simplify the
+complex market and enhance buyers' and sellers' transparency,
+trust, efficiency, and impact. Nori's methodologies are developed
+collaboratively with experts and undergo public review.
+Additionally, they use third-party tools to validate credit impact
+claims and an open registry that prevents double counting.
+In 2024, Nori is on track to support over 400k acres of regenerative farmland, pay over $6.5M
+to suppliers, and reach over 700k tonnes of carbon removed from the atmosphere. They also
+make it easy for businesses to drive positive climate impact by giving them access to verified
+carbon removal credits that support regenerative farmers in the US, help scale the
+technology underpinning promising durable solutions, and can be integrated directly into
+products. This is accomplished through Nori Net Zero Tonne™, a hybrid credit combining
+regenerative and permanent carbon removal and their Carbon Removal API, enabling
+businesses to integrate climate impact into websites and apps.
+51
+
+dClimate
+dClimate is the first DAO for climate data,
+forecasts, and models. Its mission is to create a
+reliable, blockchain-based climate record. The
+main feature of dClimate's ecosystem is a data
+
+Founded in 2021, dClimate has achieved
+
+marketplace that connects publishers and data
+
+significant
+
+consumers in a user-friendly platform. This
+
+launched Aegis, a physical climate risk
+
+marketplace
+
+more
+
+assessment
+
+platform
+
+accessible and reliable. The ecosystem also
+
+assessments
+
+for
+
+includes layers for analytics and forecasts,
+
+hospitality, retail, and real estate entities.
+
+turning raw data into insights essential for
+
+During the 28th Conference of Parties
+
+climate
+
+(COP28) in Dubai in December, dClimate
+
+risk
+
+Additionally,
+products,
+
+makes
+
+climate
+
+planning
+it
+
+supports
+
+such
+
+as
+
+and
+
+data
+
+assessment.
+
+applications
+
+parametric
+
+and
+
+insurance,
+
+already being built by companies like Arbol.
+
+milestones.
+
+In
+
+July,
+
+they
+
+that
+
+conducts
+
+major
+
+tourism,
+
+signed a memorandum of understanding
+(MoU)
+
+with
+
+focuses
+
+on
+
+vulnerable
+
+the
+
+DRC. This
+
+identifying
+areas
+
+of
+
+and
+
+the
+
+agreement
+protecting
+
+Congo
+
+Basin
+
+rainforest and peatlands, using advanced
+monitoring for conservation initiatives.
+
+Regró Project
+Regró is a regenerative initiative active in six countries, including Italy,
+Croatia, Kenya, Germany, Brazil, and the Italian Alps. This project is
+focused on climate, ecology, agriculture, biodiversity, and everything
+related to land and the ecosystem. Deriving its name from two words,
+“regenerative” and “growers,” regroers are users who steward the land
+they own, rent, or have access to by sharing knowledge, protecting the
+land, and restoring ecosystems from intensive agriculture and pollution.
+
+Regró collaborates with other Web3-based and Regen protocols to address value chain
+challenges in agriculture, biodiversity protection, etc., and aims to enhance land stewardship
+through regenerative techniques. These techniques could include solar energy utilization, water
+management, permaculture gardens, forest orchards, soil protection, crop growing, and other
+sustainable practices.
+
+52
+
+basin
+Built to create a hyperstructure for climate and nature, .basin is a protocol purpose-built to
+safeguard ecosystems and natural carbon sinks. Its goal is to redirect 10% of the $1.3 trillion
+real-world asset (RWA) market towards climate, nature, and carbon projects in crypto to scale
+climate and nature financing. This project is creating a blockchain-based real estate
+investment class to attract global capital.
+Rather than relying on conventional, narrow valuations, .basin utilizes the “REvalue”
+methodology to delve into the holistic value and cost of RWAs, assess the higher and better
+use of real estate, quantify their value, and account for all of them. It also uses REcerts (also
+known as $STRMS), which are impact certificates and carbon/biodiversity credits that
+represent impact, value flows, and collective stakes created by members for each other and
+society and tied to specific locations. In the end, .basin is a community of regens that utilizes
+its infrastructure, shared liquidity, and the network effect of integrations to create net
+benefits for everyone.
+
+Agroforest DAO
+
+53
+
+AgroforestDAO, based in Brazil, is an agricultural project harnessing the power of blockchain
+and NFTs to incentivize agroforestry practices and community ownership of intergenerational
+agroecosystems. The organization is working on a number of projects focused on equity in
+forest resources supply chains, tokenizing successional consortiums to pay for their
+stewardship, and sharing seasonal updates about the process, rewarding Proofs-ofSuccession with tools and gear, supporting income-generating opportunities for community
+contributors, and organizing IRL events and experiences. The DAO is also issuing onchain
+certificates and building reputation systems to recognize intelectual, natural, genetic and
+other forms of capital exchanged in a Rooted Society. Connecting urban co-stewards with
+land stewards advances long-term wealth for the participants and stimulates additional food
+forest investments.
+The various projects are aligned with the goals of supporting rural communities by
+onboarding them to the Web3 space, learning about Public Goods, wallet management, and
+collective tools and protocols such as Safe Multisig or Split.xyz. Additionally, the mechanisms
+in place nurture long-term commons like education, training, elder care and knowledge
+building. In its two years of operation, Agroforest DAO has achieved grant rounds in Gitcoin
+and Giveth, demonstrated remarkable proof of agroforestry, and collaborated with local
+schools, universities and families, often recognizing contributors with non-transferable
+hypercerts.
+
+Treegens
+Treegens aims to establish a new way to help the environment by planting and caring for
+trees. Its mission is to create a reliable platform for funding tree-planting initiatives. The
+nonprofit tree-planting project gamifies the system, allowing users to earn $MGRO and DSST
+(dynamic semi-soulbound) tokens by planting mangrove trees and leveling up through
+increased participation.
+
+ 
+
+
+
+
+
+
+
+
+Treegens is dedicated to building a global community of people
+committed to environmental conservation. Its online educational
+courses and sensitization programs empower people to take
+action and positively impact their communities. Treengens has
+made a reputable impact, planting over one million mangrove
+trees globally in less than nine months and breaking the world
+record for the most trees planted in 24 hours.
+
+Earthist DAO
+The Earthist DAO combines traditional farming practices with modern technology to support
+industrial hemp farmers. Establishing micro-processing centers and promoting heirloom seed
+preservation aims to create a future where hemp is both healthy and accessible to everyone.
+The organization's mission is to foster a collaborative community that encourages education
+and knowledge-sharing in regenerative industrial hemp farming, heirloom seed preservation,
+and micro-processing to boost local economies and promote sustainable practices in local
+agriculture.
+Established in 2019, the DAO has achieved numerous
+milestones. It prioritizes seed sovereignty, ensuring
+that farmers have autonomous control over their seeds,
+and has raised awareness about hemp's potential and
+environmental
+
+benefits
+
+through
+
+"Hempducation"
+
+initiatives, particularly in communities within the
+Republic of Turkiye. In 2022, it created its first seed
+bank, secured a funding grant from Gitcoin, and gained
+support from organizations like BanklessDAO.
+54
+
+Traditional Dream Factory 
+
+
+
+
+ 
+
+
+
+
+Traditional Dream Factory (TDF) is turning
+
+Since its inception in September 2021, TDF has
+
+real
+
+opportunity for
+
+planted over 2,000 trees, established a productive
+
+ecological restoration and community
+
+food forest and market garden that supports over
+
+stewardship within the OASA network.
+
+30 people, and has plans to expand its green
+
+Their project aims to conserve 100,000
+
+footprint significantly. Future initiatives include
+
+hectares globally, utilizing a co-living
+
+planting 10,000 fruit trees, developing water
+
+model
+
+retention
+
+estate
+
+into
+
+where
+
+an
+
+residents,
+
+guests,
+
+and
+
+engage
+
+directly
+
+in
+
+production for improved soil fertility and carbon
+
+TDF
+
+capture. Recognized as one of the world’s top
+
+combines modern living with sustainable
+
+regenerative villages, TDF provides a sustainable
+
+practices, featuring facilities like farms,
+
+living model and involves its community in
+
+maker
+
+areas
+
+governance through the TDF token, ensuring that
+
+designed to optimize resource use and
+
+those invested in the project have a voice in its
+
+foster a vibrant, creative community.
+
+development and stewardship.
+
+volunteers
+
+can
+
+environmental
+
+regeneration.
+
+spaces, and
+
+co-working
+
+landscapes,
+
+and
+
+starting
+
+biochar
+
+LetsGrow DAO
+
+Let's Grow DAO drives the Regen and ReFi movements by
+fostering regenerative practices and unifying diverse efforts
+within the ecosystem. They partner with organizations to
+innovate and develop new technologies that benefit the web3
+ecosystem. Emphasizing open governance and community
+participation, Let's Grow DAO actively engages in networking
+through
+
+events.
+
+They
+
+support
+
+projects
+
+with
+
+positive
+
+environmental impacts and advocate for sustainability and
+ethical standards in web3. This year, they plan to conduct a
+Quadratic Funding round to further their mission of creating
+positive impacts through crypto and blockchain technologies.
+
+55
+
+Culture
+
+These
+
+culture-focused
+
+communities
+
+and
+
+projects
+
+leverage blockchain principles to drive meaningful
+social change and foster creativity, community, and
+collaboration. By enabling decentralized governance,
+transparent funding, and innovative technology use,
+they redefine how we engage with and support cultural
+and social initiatives.
+
+
+-Lana Dingwall
+
+
+58
+
+Culture
+
+As the onchain ecosystem evolves, it’s reshaping finance and redefining our cultural
+experiences. Blockchain fundamentally transforms how niche communities, united by
+specific interests or backgrounds, engage and thrive. Culture is essential for shaping
+individual and collective identity, fostering social cohesion, preserving heritage,
+stimulating creativity, providing moral guidance, driving economic prosperity, supporting
+emotional well-being, and enriching education. It enhances our lives, fortifying the fabric
+of society. Communities that develop these culture-focused networks are invaluable for
+improving community life, promoting diversity, and advancing both social and economic
+progress.
+
+
+
+Projects building onchain enable the creation and widespread distribution of digital art,
+fostering collaborative environments where artists and collectors connect and grow. Some
+initiatives build global networks for digital nomads, offering sustainable living and
+working spaces that promote decentralized governance and connection with nature.
+
+
+
+Others empower individuals to challenge centralization, financing projects that drive
+political reform, economic redistribution, social justice, or technological decentralization.
+These platforms provide resources for like-minded individuals to support causes that
+challenge existing power structures.
+59
+
+Community-driven efforts also channel crypto donations to support crisis victims, using
+
+innovative
+
+methods
+
+Additionally,
+
+some
+
+like
+
+NFT
+
+networks
+
+auctions
+
+create
+
+for
+
+rapid
+
+and
+
+community-owned
+
+impactful
+
+aid
+
+living
+
+working
+
+and
+
+distribution.
+
+spaces,
+
+managed through NFT ownership and voting rights, fostering environmentally conscious
+
+travel and sustainable living.
+
+
+
+Moreover,
+
+some
+
+of
+
+these
+
+communities
+
+focus
+
+on
+
+advancing
+
+fields
+
+like
+
+physics
+
+and
+
+cosmology through pooled resources and tokenized membership governance, while
+
+others empower underrepresented voices in culture-making, fostering genuine creative
+
+expression and community both online and offline.
+
+
+
+Innovative tokenomics models support public goods and charitable initiatives, funding
+
+projects from open-source software development to educational programs. Through
+
+community-driven
+
+exploration
+
+and
+
+moderation,
+
+dialogue,
+
+these
+
+promoting
+
+spaces
+
+foster
+
+mutual
+
+safe
+
+respect
+
+environments
+
+and
+
+for
+
+cultural
+
+understanding
+
+among
+
+members.
+
+
+60
+
+DRiP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DRiP enables the inexpensive creation and widespread
+distribution of digital art to users for free. It is a platform
+for
+
+new
+
+creators
+
+to
+
+explore
+
+their
+
+artistic
+
+talents
+
+and
+
+allows art enthusiasts to get digital collectibles from their
+favorite
+
+creators
+
+at
+
+no
+
+cost.
+
+The
+
+DRiP
+
+community
+
+encourages collaboration and communal growth, allowing
+artists to give and receive feedback on their pieces while
+forming
+
+friendships
+
+DRiP provides
+
+an
+
+with
+
+fellow
+
+inclusive
+
+creators.
+
+environment
+
+Furthermore,
+
+for
+
+art
+
+lovers
+
+enthralled with the beauty of digital art to connect. Since
+its inception in 2022, DRiP has recorded the minting of
+100M
+
+collectibles
+
+on
+
+its
+
+platform,
+
+4M
+
+sales
+
+in
+
+the
+
+secondary markets, and the onboarding of 500k collectors.
+
+Cabin DAO
+Cabin DAO is constructing a global network city where
+citizens from around the world gather to live, create, and
+commune
+
+with
+
+spontaneous
+
+nature.
+
+in-person
+
+The
+
+DAO
+
+collaborations
+
+aims
+
+to
+
+foster
+
+a
+
+varied
+
+among
+
+online community, innovate sustainable funding models
+for
+
+supporting
+
+creators,
+
+and
+
+the
+
+living
+
+explore
+
+costs
+
+the
+
+of
+
+independent
+
+application
+
+of
+
+online
+
+decentralized
+
+governance in coordinating physical living infrastructure.
+Since
+
+2020,
+
+the
+
+DAO
+
+has
+
+supported
+
+digital
+
+nomads
+
+through their supper and neighborhood hangouts to form
+close
+
+bonds
+
+and
+
+enjoy
+
+nature's
+
+tranquility
+
+community focused on living amidst nature.
+
+61
+
+with
+
+a
+
+Ukraine DAO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Ukraine DAO, a community of Ukrainians united by their opposition to the unprovoked
+Russian invasion, has been instrumental in channeling crypto donations to Ukrainian
+organizations supporting war victims. Since its launch in February 2022, the DAO has
+achieved remarkable success. It raised over US$7 million in ETH in its first week by
+auctioning a Ukraine flag NFT. These funds were quickly distributed to local Ukrainian
+organizations providing aid to those affected by the conflict. The DAO plays a crucial role in
+directing donations to these organizations.
+
+KiftDAO
+
+KiftDAO is a nonprofit DAO that is creating a global network of community-owned living
+and working spaces. This DAO allows individuals to purchase NFTs that grant them
+ownership and voting rights in the properties run by the organization.
+This community of nomads believes in traveling and moving in an environmentally
+conservative manner. The community proposes and votes on which properties to acquire
+and how to manage them. Members can stay at any of the properties and connect with
+others with similar interests. Kift DAO promotes a global network of living and working
+spaces and flexible and innovative ways to create community-driven spaces for those who
+love nature traveling.
+
+62
+
+Take Up Space 
+
+
+
+
+
+
+
+
+
+
+
+
+Take Up Space is a community, creator collective, and media company designed for culture-makers
+—creatives, writers, storytellers, curators, and tastemakers. Born from the new internet, it envisions
+a future where individuals can create and monetize their most authentic work, nurturing their
+truth rather than the algorithm. By empowering creatives through media and community
+experiences in real life, online, and onchain, Take Up Space provides the support and space
+needed to unlock true creativity. It fosters connections, networking, learning, and inspiration
+among like-minded individuals, creating opportunities for POC and queer voices to thrive and
+express their most authentic selves. This initiative addresses the lack of true community in today's
+online world, offering a vibrant space for culture-makers to unite and flourish.
+
+
+Public Nouns
+Public Nouns DAO is recognized for its
+
+The mission of Public Nouns DAO is to support
+
+unique
+
+public goods
+
+approach
+
+to
+
+governance,
+
+with
+
+new
+
+tokenomics, and community-driven art and
+
+funding methods, spreading awareness, and
+
+philanthropy projects. Community members
+
+directly funding public goods, creators, and
+
+holding governance tokens make decisions
+
+public goods mechanisms. A significant portion
+
+about the project’s direction, funding, and
+
+of the funds raised through Noun auctions is
+
+activities,
+
+allocated
+
+ensuring
+
+transparency
+
+and
+
+to
+
+support
+
+public
+
+goods
+
+and
+
+community involvement. The DAO employs
+
+charitable initiatives, including grants for open-
+
+a novel tokenomics model where new
+
+source
+
+Nouns (digital art pieces represented as
+
+programs, and other philanthropic efforts. 
+
+
+NFTs) are generated and auctioned daily.
+The proceeds from these auctions sustain
+the project financially and foster continuous
+community engagement. Public Nouns DAO
+is part of the larger Nouns ecosystem,
+known for its distinct pixelated characters,
+which have become a cultural phenomenon
+in NFT and crypto communities.
+63
+
+by experimenting
+
+software
+
+development,
+
+educational
+
+SpiritDAO
+
+
+
+
+
+
+
+
+
+
+SpiritDAO
+
+is
+
+a
+
+non-profit
+
+tokenized
+
+membership community aiming to build
+an
+
+action-oriented
+
+practitioners
+
+and
+
+community
+partners
+
+of
+
+working
+
+towards a relational universe. Its vision
+is
+
+to
+
+create
+
+a
+
+better
+
+world
+
+where
+
+individuals share a deep understanding
+of the interconnectedness of all things
+and
+.
+
+
+a
+
+global
+
+individuals
+
+network
+
+who
+
+understanding
+place within it.
+
+share
+
+the
+
+of
+
+like-minded
+
+a
+
+passion
+
+universe
+
+and
+
+for
+our
+
+This community pools resources, knowledge,
+and expertise to speed up the advancement
+of
+
+physics
+
+pertains
+
+to
+
+and
+
+cosmology
+
+community
+
+and
+
+care.
+
+how
+With
+
+it
+its
+
+tokenized membership, SpiritDAO offers and
+ensures
+
+a
+
+governance,
+
+framework
+joint
+
+for
+
+community
+
+decision-making,
+
+and
+
+resource allocation.
+
+Cult DAO
+
+Cult DAO is for radicals and revolutionaries who are frustrated with and actively oppose the
+tyranny, oppression, and class divide caused by centralization in today's world. Through the
+CULT token, the DAO seeks to empower and finance individuals who construct and contribute
+to a fully decentralized future, breaking free from current societal and economic norms. Cult
+DAO also provides a decentralized platform for like-minded individuals to pool resources and
+fund projects that challenge centralized power structures, such as projects encouraging
+political reform, economic redistribution, social justice, and technological decentralization
+
+64
+
+Education
+
+The beauty of crypto is that anyone can invest in it.
+When I wanted to invest in Ethereum back in 2017,
+nobody could tell me "no." But there is still a
+barrier to entry: knowledge.   
+I had to buckle up and learn a brand new financial
+ecosystem in 2019. My motivation? I was left out of
+the classic financial system. It was its own
+community of bankers, with its own language and
+shared history. I wasn't a part of it.  
+With crypto and decentralized finance , I saw a brand
+new opportunity to engage with the future of
+currency. 
+
+
+-Maggie Love
+
+66
+
+Education
+
+
+Education is crucial in the blockchain ecosystem, as there is an initial technological and
+philosophical barrier to understanding even the basic concepts, let alone the intricacies
+and nuances. It can remain an inaccessible enigma without proper explanations, tools, and
+learning opportunities. Education-focused networks help bridge this knowledge gap,
+fostering greater diversity and inclusion within the ecosystem.
+
+
+To build a more positive-sum world, ensuring that as many people as possible can
+understand, access, and participate in its creation is essential. By providing educational
+resources, these networks empower individuals from all backgrounds globally to utilize
+blockchain in multifaceted ways.
+
+67
+
+One focus is educating those excluded from traditional banking systems, such as
+migrants, asylum seekers, and unbanked individuals, on using crypto to access financial
+resources. Offering face-to-face workshops or partnering with local support groups
+promotes financial inclusion and reduces transaction risks.
+
+
+
+Other initiatives provide software and product development training for youths and
+students, partnering with universities and offering programs that foster a new
+generation of blockchain developers and users. These efforts ensure that young people
+have the skills needed to thrive in the blockchain industry.
+
+68
+
+SheFi
+
+
+
+
+
+
+
+
+
+
+
+
+
+SheFi is a hands-on educational 8week program known as the MBA of
+Web3 Learning, empowering women
+and
+
+non-binary folks
+
+globally to
+
+master Web3 technologies, reinvent
+their careers, and shape the future of
+
+This launchpad for Web3 careers includes 70+
+
+the
+
+hours of content, live product demos, quests, IRL
+
+digital
+
+economy.
+
+With
+
+a
+
+community of over 3,000 students
+
+summits,
+
+from 90+ countries, SheFi offers a
+
+experimentation and global connectivity in the
+
+comprehensive education through live
+
+onchain space. With 11 seasons of cohorts under
+
+and recorded classes, fostering values
+
+their belt, SheFi is a leading onboarding and
+
+of
+
+education-focused
+
+openness,
+
+kindness,
+
+inclusion,
+
+interdependence, and collaboration.
+
+and
+
+how-to
+
+guides,
+
+community
+
+driving
+
+driving
+
+meaningful adoption of blockchain technology.
+
+Remitt DAO
+Established in 2022, Remitt DAO is an education DAO
+created for individuals excluded from traditional banking
+systems (e.g., migrants, asylum seekers, etc.), educating them
+on using crypto as a digital remittance solution. Remitt DAO's
+activities include coordinating with local migrant support
+groups, NGOs, & social impact DAOs in the region, providing
+F2F learning workshops, and promoting Web3 culture among
+those in developing nations. Through crypto education,
+Remitt DAO has provided financial inclusion for individuals
+marginalized by traditional banking systems, reducing the
+expenses and risks of engaging with conventional nonbanking financial frameworks for transactions.
+
+69
+
+CARBON Copy
+Recognized
+
+for
+
+thoroughly
+
+covering
+
+ReFi-related
+
+topics,
+
+CARBON Copy offers reports, expert analysis, and industry
+insights. Its mission is to fill the information gap in the ReFi
+space by providing a blend of news, education, and project
+evaluation. This
+stakeholders
+
+comprehensive
+
+gain
+
+a
+
+deeper
+
+approach
+
+helps
+
+understanding
+
+of
+
+industry
+the
+
+field,
+
+increasing project exposure and, ultimately, contributing to
+the growth and success of the Impact sector.
+
+Bankless DAO
+Founded in May 2021 by the team behind the Bankless podcast and now run by a
+decentralized community, Bankless DAO aims to create a transparent, open, and accessible
+financial system, bypassing traditional banking structures. Their motto, “Go Bankless,”
+promotes
+
+using
+
+decentralized
+
+protocols
+
+and
+
+services
+
+to
+
+manage
+
+wealth
+
+without
+
+intermediaries.
+Bankless DAO focuses on creating educational content,
+community-driven projects, and strategic partnerships to
+make DeFi and blockchain more approachable. They have
+launched
+
+numerous
+
+newsletters,
+
+podcasts,
+
+educational
+and
+
+programs,
+
+workshops,
+
+including
+
+reaching
+
+over
+
+150,000 subscribers and onboarding thousands of new
+DeFi users. The DAO funds and supports various projects
+through grants and collaborations, such as creating DeFinative tools and platforms that enhance user experience
+and security. Through these initiatives, Bankless DAO has
+established
+
+itself
+
+as
+
+a
+
+pivotal
+
+player
+
+in
+
+DeFi
+
+and
+
+Blockchain education, driving significant progress towards
+a more inclusive and decentralized financial future.
+
+70
+
+The GreenPill Network 
+
+ 
+
+
+
+
+The GreenPill Network is a network society that exports regenerative digital infrastructure
+globally, starting from Kevin Owocki's book "GreenPilled" and the GreenPill podcast. With
+location-based chapters globally, the network localizes impact through projects like
+reforestation efforts, QF funding rounds for non-profits, onboarding workshops, and more.
+The GPN community helps fund public good projects within the ecosystem through
+community QF rounds and local chapter rounds. Guilds within the network produce
+regenerative products and educational materials to onboard new users and transform
+current web3 participants into advocates for regeneration. This includes researching, writing,
+and producing this ImpactNetwork book! GPN is focused on a multi-faceted approach to help
+promote sustainable and regenerative web3 solutions. Learn more about us at
+greenpill.network.
+
+RegensUnite 
+Regens Unite has developed a platform to connect diverse sectors working on regenerative
+climate solutions, emphasizing a deep connection with nature and conscious environmental
+impact. It organizes inclusive, participatory events where diversity and equality are
+prioritized, ensuring all voices are heard and respected. Providing facilitation, programming
+services, and educational materials to support a growing network of professionals. Events
+held by Regens Unite are designed to cross-pollinate ideas among individuals from various
+regenerative backgrounds, fostering relationships beyond traditional labels. Post-event, they
+focus on enhancing the local community and environment, utilizing resources thoughtfully.
+Regens Unite’s impact lies in its ability to integrate environmental sustainability with
+community building, educational outreach, and the promotion of diversity, thereby enriching
+the ecosystem of climate action and fostering a regenerative culture.
+71
+
+Urbánika
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Urbánika aims to transform cities into
+SolarPunk communities with smart,
+regenerative,
+peer-governed,
+circular
+economies that support positive impact. To
+bring their vision to life, they converted a
+12-meter-long bus into a functional climatepositive house that filters its water,
+generates electricity from the sun and wind,
+turns plastics and refuse oil into diesel, and
+grows food using regenerative technologies.
+
+The bus will travel to over 20 cities across
+seven Latin American countries, offering
+educational workshops, job fairs, and
+creative events. This five-year research
+process will help communities transform
+into DAOs using open-source web3
+technology to rediscover the commons. The
+project will produce instructional videos,
+manuals, software, and an IRL interface to
+facilitate neighborhood governance.
+
+Talent DAO
+TalentDAO is on a mission to enhance the effectiveness of decentralized organizational
+structures. This group of organizational specialists firmly believes that community ownership
+is key to greater inclusivity, operational efficiency, and fair contributor compensation.
+However, teams have unique goals and members, so while decentralization can be a major
+unlock, it is not a one-size-fits-all concept.
+TalentDAO supports the growth of the web3 space by conducting and publishing research in
+the Journal of Decentralized Work, an open platform for scientific literature on DAO health
+and management. Educational resources and workshops provide insights from communityreviewed publications to improve the general public's understanding of the benefits of
+decentralized organizations. To further their vision, TalentDAO develops tools for managing
+talent and measuring both contributions and the health of organizations. These tools,
+including the DAO Health Survey and Soulbound Tokens, help foster a collaborative
+environment that supports sustainable growth and innovation.
+72
+
+Bloom Network
+The Bloom Network is a member-owned and governed cooperative that connects volunteers
+and entrepreneurs to grow projects that benefit local communities. Bloom combines elements
+of Facebook and LinkedIn with local media feeds, where members share resources, discuss
+complex societal issues like climate change and inequality, and collaborate on a more positive
+and deeper level than mainstream platforms typically enable. The decentralized and
+transparent governance structure exists to efficiently fund innovative and socially impactful
+projects.
+
+
+
+
+
+
+
+
+Founded in 2020, the social network for regenerative culture currently has 28 nodes in 11
+countries and has supported over 100 projects that nurture community prosperity and beauty.
+Bloom acts as a community incubator by providing templates and education about business
+development, communications, grant writing, community organizing, and more. The Cooperative
+is exploring revenue streams and a community currency model where members receive yearend dividends from the action rewards pool and Bloom Coop profits.
+
+Dream DAO
+
+73
+
+Powered by Civics Unplugged, Dream DAO
+invests in the future of the web3 and social
+impact ecosystems by equipping diverse
+Gen Z’ers worldwide with essential training,
+funding, mentorship, and opportunities. It
+fosters an intergenerational learning
+community for 15-20-year-olds eager to
+shape the future of web3 and social impact,
+offering 1:1 mentorship and meaningful
+paid internships at socially impactful web3
+organizations. The Dream DAO Explorers
+Program, a three-month internship launched
+in mid-June 2022, placed participants in
+organizations like Celo, Regen Network, and
+dOrg, where they produced monthly
+knowledge artifacts.
+
+Web3bridge
+Web3bridge, just like the name implies,
+provides a free bridge to blockchain
+technology for Nigerian and African
+youths and students. Education is the
+main vision of Web3bridge. They
+partnered with and supported 14
+University blockchain clubs in Nigeria,
+such as BlockchainUNN and other Web3
+training programs across Africa. They
+drive blockchain adoption through
+quality builder training and support
+such as Web2 & Web3 training cohorts,
+product incubation, ecosystem/protocol
+research, and open-source contributions
+to chains and hackathons.
+
+Infrastructure
+
+Open-source development is the key to communitydriven innovation.
+
+- Vitalik Buterin
+
+76
+
+Infrastructure
+
+-At the heart of this revolution lies a robust and sophisticated infrastructure—comprising a
+web of protocols and network architectures—that not only enables the seamless, secure,
+and scalable operation of decentralized applications and services but also underpins
+transformative, impactful projects.
+
+
+
+In this section, together, we’ll dive into the foundational components of blockchain
+infrastructure, which make a remarkable impact possible for everyone from developers to
+identity experts and community builders. These key protocols and structures form the
+bedrock of decentralized networks.
+
+
+
+Protocols of all types are not just technical marvels; they are enablers of change. They
+ensure the integrity and security of transactions while empowering users by eliminating
+the need for unstable traditional financial or social tools.
+
+
+
+For these teams, building intuitive and useful infrastructure provides crucial features for
+maintaining Web3's decentralized nature, allowing for interoperability, scalability, and
+resilience
+
+against
+
+discoordination.
+
+Without
+
+these
+
+robust
+
+infrastructures,
+
+the
+
+groundbreaking projects that define Web3 would not be able to achieve their full potential
+
+77
+
+--Consider the impact of ReFI, NFTs, and DAOs: innovations like these have shaped the
+public goods sector as a whole, democratizing access to resources, empowering creators,
+and enabling new forms of governance and collaboration. Without meticulous design and
+implementation of stable infrastructure, blockchain's most credible use cases would
+remain an unrealized dream.
+
+
+
+As we navigate the technical landscapes driving many new public goods sectors, we
+uncover how to better support decentralized applications and their profound impacts—
+fostering economic inclusion, enhancing transparency, and promoting greater equity in
+the digital world.
+
+78
+
+Celo
+
+
+
+
+
+
+
+
+
+
+
+
+
+Celo
+
+stands
+
+out
+
+as
+
+a
+
+carbon-negative, mobile-first
+
+blockchain
+
+that
+
+brings decentralized financial (DeFi) tools and services to mobile users.
+This
+
+unique
+
+approach
+
+enables
+
+unbanked
+
+and
+
+underbanked
+
+inclusion
+
+globally. Since
+
+its
+
+access
+
+to
+
+financial
+
+populations, fostering
+launch
+
+in
+
+2020, the
+
+services
+greater
+
+Celo
+
+for
+
+the
+
+financial
+
+mainnet
+
+has
+
+facilitated over 226 million transactions across over 22 million unique
+wallets in 150+ countries, supporting over 1000 projects. Furthermore,
+Celo launched DeFi for the People, a $100 million initiative to make DeFi accessible to all
+phone users worldwide. In 2022 alone, Celo committed to 235 grants worth $72.6 million,
+with grant recipients spanning 51 countries. These grants have had a tangible impact in
+supporting projects that address social and ecological challenges.
+
+Additionally, Celo launched the Climate Collective to leverage digital technology for scalable
+nature and climate action. Their grant program has accelerated over 30 regenerative web3
+applications, while the Web3 x Climate Map outlines the projects and infrastructure building
+out the refi space. The Climate Collective has since allocated $4M in grant funding to
+facilitate over 58 climate projects across 19 countries. They also launched Celosphere and
+Celo Creators Fund in 2024 to provide an outlet for artists within the Celo ecosystem.
+
+Proof of Humanity
+Proof
+
+of
+
+Humanity (PoH)
+
+is
+
+an
+
+Ethereum
+
+social
+
+identity
+
+verification system that utilizes webs of trust, reverse Turing
+tests, and dispute resolution to create a Sybil-proof list of
+humans. Individuals who want to join the registry submit
+personal information for verification. Existing members can
+vouch for new registrants, guaranteeing their existence and
+uniqueness. Suspicious submissions can be challenged, with
+disputes resolved through a compliant system like Kleros
+(an open source online dispute resolution protocol). PoH
+serves as an entry point for applications requiring Sybil
+resistance, offering features like profile creation, vouching
+for known individuals, and challenging suspicious users.
+
+79
+
+Protocol Labs
+
+
+
+
+
+Founded in 2014 by Juan Benet, Protocol Labs is an open-source
+research, development, and deployment laboratory that connects
+organizations across various technological fields such as web3, AI,
+AR, VR, BCI, and hardware. It is an innovation network dedicated to
+advancing breakthroughs in computing to propel humanity
+forward, with over 600 members, including tech startups, funds,
+accelerators, foundations, and open-source projects. Collaboration
+within the network facilitates problem-solving, knowledge sharing,
+and resource allocation, accelerating the R&D process. Protocol
+Labs, with a team of more than 100 members, aims to improve
+human existence by orders of magnitude through technology.  
+
+
+Tornado Cash
+Tornado Cash is a fully decentralized protocol for private transactions
+on Ethereum. It enables permissionless, shielded transactions
+without custodial risks, using zero-knowledge cryptography to
+maintain privacy and security. Due to Ethereum's network design, the
+protocol is immutable and cannot be tampered with. Tornado Cash
+utilizes "anonymity pools," which relay funds and disguise them
+among random deposits, enhancing privacy. The longer funds remain
+deposited, the more transactions occur, and the harder it becomes to trace the source
+without specialized analysis software. Despite accusations, the community maintains that
+Tornado Cash is a tool for private Ethereum transactions, essential to preserving freedom.
+Tornado Cash was developed with the belief that financial privacy is essential, but it faced
+significant challenges in 2022. On August 8, 2022, the U.S. government sanctioned Tornado
+Cash, making it illegal for U.S. citizens to interact with the protocol or governance contracts.
+
+80
+
+Molecule
+Molecule is an Ethereum-based biotechnology research protocol, marketplace, and
+launchpad to democratize access to IP and invigorate scientific discovery. Since its inception
+in 2022, Molecule has invented the hybrid legal-smart contract IP-NFT, which tokenizes
+research project legal rights, data access, and economics. The Marketplace helps researchers
+and funders agree on concrete research proposal deals. Additional volume is driven by the
+BioDAO launchpad, where patients, researchers, and supporters can coordinate to fund
+70 This can help fill traditional funding gaps and
+research in specific areas and govern the IP.
+
+capture the unique perspective and knowledge of the crowd.
+
+Optimism Collective
+The Optimism Collective is a collaborative
+effort involving companies, communities,
+and individuals to reward public goods
+and
+
+81
+
+build
+
+a
+
+sustainable
+
+Ethereum.
+
+Known
+
+approach,
+
+the
+
+for
+
+future
+
+its
+
+Collective
+
+for
+
+innovative
+seeks
+
+to
+
+demonstrate that public goods can be
+
+The Collective focuses on several key
+
+profitable,
+
+adhering
+
+initiatives to achieve its goals. These
+
+"Impact
+
+Profit." They
+
+=
+
+to
+
+the
+
+principle
+
+implement
+
+a
+
+include
+
+developing
+
+decentralized
+
+retroactive public goods funding model,
+
+infrastructure
+
+now known as “public goods funding,” to
+
+democratic governance through the Token
+
+support projects and communities that
+
+House and Citizens' House. Additionally,
+
+contribute to the common good of the
+
+the
+
+network. Their mission is to create a new
+
+network of blockchains supported by and
+
+internet that benefits everyone and is
+
+designed to distribute power more evenly.
+
+owned by no one. To date, the Collective
+
+The
+
+has allocated 850M OP to Retro Funding.
+
+collaborative, innovative environment by
+
+This year they also ran the largest online
+
+supporting
+
+global art contest with 1.2M OP in prizes.
+
+providing legal and operational support.
+
+Superchain
+
+Optimism
+
+and
+
+is
+
+leading
+
+an
+
+interconnected
+
+Collective
+
+open-source
+
+digital
+
+fosters
+
+projects
+
+a
+and
+
+Ethereum Attestation Service
+
+The Ethereum Attestation Service (EAS) is a public infrastructure that enables the creation
+and verification of onchain and offchain attestations. By unifying the fragmented state of
+digital identity, this brings more clarity and trust to communities all over.
+Committed to being a public good, EAS emphasizes its opensource, permissionless, and tokenless nature to ensure
+neutrality and integrity in the attestation ecosystem. It focuses
+on value creation over value extraction, prioritizing impact
+over profit. Through their open-source model and unrestricted
+access to tools and knowledge, EAS empowers developers and
+entities to evolve existing projects and create novel solutions
+that amplify collaboration and collective success.
+
+Solidity
+Solidity is a Turing-complete programming
+language for writing smart contracts on the
+Ethereum Virtual Machine (EVM). It is opensource and governed by a core team
+sponsored by the Ethereum Foundation,
+with
+
+contributions
+
+from
+
+the
+
+broader
+
+community through GitHub commits and
+bug reports. Released in 2015, Solidity is
+still
+
+under
+
+development, growing
+
+evolving
+
+alongside
+
+prioritizing
+
+ease
+
+of
+
+and
+
+Ethereum.
+
+Initially
+
+use,
+
+team
+
+the
+
+increasingly focuses on enhancing security
+and reducing vulnerabilities.
+
+82
+
+LexDAO
+LexDAO is a club of legal engineering professionals dedicated to bringing legal frameworks
+into code and making coded agreements accessible. They aim to develop and promote legal
+methods and blockchain protocols that secure rules and promises with code instead of trust.
+They train certified legal engineers and build certified blockchain applications, focusing on
+"Code is Law" applications that embed legal theory into smart contracts and networks.
+Since 2019, LexDAO has undertaken various projects to lower
+legal service costs through automation, enhance human
+collaboration, and reduce expenses. They recently secured a grant
+to publish annual reports. LexDAO focuses on governance, terms
+and conditions, enforceable contracts, on-chain settlement,
+escrow, and clawbacks. Notable initiatives include Real World
+Asset (RWA) projects like Tater and Cougar, which advance web3
+real estate by digitizing tangible assets and enabling fractional
+ownership. This allows people to purchase tokens representing
+portions of assets like real estate or bonds. Another significant
+project LexDAO contributes to is Smart Invoice, an open-source
+cryptocurrency invoicing, escrow, and arbitration tool.
+
+
+RnDAO
+
+RnDAO is a digital swarm driving the future of work. As a research-led venture studio and
+product ecosystem, it partners with and builds modular collaboration-tech tools. RnDAO
+assembles cross-disciplinary teams for in-depth research on topics like sub-DAOs, web3
+community health, rewards, and decentralized leadership. These insights support the
+incubation and creation of successful ventures. Additionally, RnDAO actively uses the tools
+and research it develops.
+Since 2021, RnDAO has conducted 13+ research
+initiatives, incubated five collaboration tech startups,
+launched a Co.Lab partnership with ArbitrumDAO,
+hosted talks from 17+ tech experts, and doubled its
+Discord and newsletter community. RnDAO
+incubated Together Crew, a data analytics framework
+operationalizing and measuring community health.
+83
+
+Impact
+Measurement
+
+"The Commons Stack is an experiment in translating
+the patterns of commons-based peer production into
+deployable
+
+community
+
+ecosystems
+
+using
+
+web3
+
+technologies."
+
+- Michael Zargham
+
+86
+
+Impact Measurement
+
+Addressing social and environmental challenges is critical in today's world. Impact
+measurement assesses the outcomes of projects, programs, or investments, ensuring they
+contribute positively to sustainable development. This process involves setting goals,
+collecting data, analyzing results, and using insights to improve strategies and maximize
+positive impacts.
+
+
+
+These types of measurements are vital for accountability, informed decision-making,
+attracting funding, regulatory compliance, and continuous improvement. They provide a
+clear picture of outcomes, fostering trust among contributors, helping organizations
+allocate resources efficiently, and optimizing strategies based on what works best.
+
+87
+
+Various tools help measure impact and make it easier for developers to create software
+One can
+focus
+is aid
+educating
+excluded
+from
+traditional
+banking
+systems,
+as
+that
+easily
+impact those
+initiatives.
+Whether
+onboarding
+new
+users from
+Web2such
+to Web3
+migrants,
+asylum
+seekers,
+and unbanked
+individuals,
+on using
+access
+financiala
+or
+new users
+from
+emerging
+markets, impact
+tooling
+plays crypto
+a vital to
+role
+in creating
+resources. Offering
+face-to-face
+workshops
+or partnering
+with
+localequally
+support
+groups
+regenerative
+world where
+resources
+and enlightened
+ideas can
+spread
+across
+the
+promotes financial inclusion and reduces transaction risks.
+
+
+globe. 
+
+
+
+Other
+initiatives
+provide software
+and product
+development
+training for youths
+and
+In
+short,
+impact measurement
+is essential
+for modern
+project management,
+investment,
+students,
+withadvanced
+universities
+offering inprograms
+that can
+foster
+a new
+and
+grant partnering
+strategies. The
+toolsand
+mentioned
+this section
+significantly
+generation
+of blockchain
+developers and
+users.
+These efforts
+young people
+enhance
+the
+accuracy, transparency,
+and
+effectiveness
+of ensure
+impactthat
+assessments
+and
+have the skills
+neededthat
+to thrive
+into
+the
+blockchain
+industry.
+onboarding,
+ensuring
+efforts
+address
+global
+challenges are credible and impactful.
+
+88
+
+Hypercerts
+
+
+
+
+
+
+
+
+Hypercerts is an open-source blockchain protocol that improves funding and rewards
+positive impacts. Its goal is to enhance public trust in funding public goods. Since its
+inception as a research project at Protocol Labs, Hypercerts has developed a new standard
+for digital tokens that capture and store data about project impacts.
+Projects use Hypercerts for various purposes, primarily to secure
+funding for their created impact. When a project undertakes
+impactful activities, it can mint a fractionated Hypercert and sell
+portions to donors, who then store them as proof of contribution.
+The funds received go to the initiative contributors. Hypercerts
+serve both as a measure of impact dictated by donor
+contributions and proof of impact.
+
+KarmaGap
+KarmaGap, known for its Grantee Accountability Protocol(GAP), focuses on enhancing
+transparency and accountability in managing community-issued grants. KarmaGap ensures
+that all data related to grant issuance and progress are immutably recorded to foster a
+transparent environment that discourages fraud and encourages accountability. By
+integrating GAP with various platforms and communities like Optimism and Arbitrum,
+KarmaGap has managed hundreds of grants and implemented decentralized review features.
+
+
+
+This is a major breakthrough in the public goods grants space
+as the grantee’s milestone accountability allows donors to
+see their donations' impact. This leads to more donations for
+projects that report and accomplish their milestones,
+vicariously increasing the continuous impact.
+
+
+89
+
+Evercity
+
+
+
+
+
+
+
+
+
+
+Evercity
+
+is
+
+founded
+
+a
+
+in
+
+Berlin-based
+2018
+
+company
+
+specializing
+
+blockchain
+
+technology
+
+for
+
+investment.
+
+Its
+
+mission
+
+primary
+
+in
+
+impact
+
+transparency
+
+and
+
+prevents
+
+greenwashing,
+
+enabling the issuance of fully traceable green
+digital
+
+assets.
+
+This
+
+instills
+
+confidence
+
+in
+
+is
+
+investors about the sustainability and impact of
+
+accelerating global financial flows into
+
+their investments. The platform is particularly
+
+projects supporting the United Nations
+
+useful
+
+Sustainable Development Goals (SDGs).
+
+supporting
+
+The
+
+employees, Evercity is a venture-backed private
+
+platform
+
+aims
+
+to
+
+enhance
+
+for
+
+banks,
+
+funds,
+
+SDG-aligned
+
+and
+
+corporations
+
+projects.
+
+With
+
+16
+
+transparency, accountability, and liquidity
+
+company
+
+in
+
+automating
+
+investors like the FinTech Innovation Lab and
+
+management,
+
+Techstars. The company's innovative approach
+
+impact
+
+investments
+
+sustainable
+
+finance
+
+issuance,
+blockchain,
+
+and
+
+by
+
+monitoring.
+
+smart
+
+contracts,
+
+Using
+and
+
+monitoring tools, Evercity ensures data
+
+AI
+
+that
+
+has
+
+raised
+
+$520,000
+
+from
+
+positions it at the intersection of financial
+software,
+
+environmental
+
+services,
+
+and
+
+productivity software sectors.
+
+
+PACT
+
+
+
+The Partnership for Carbon Transparency (PACT) is a global initiative launched in 2021 to
+standardize the measurement and communication of Scope 3 greenhouse gas (GHG)
+emissions across value chains. They provide guidelines for reporting GHG emissions in areas
+like travel, freight transport, and production of goods and services, promoting transparency,
+traceability, and interoperability among carbon management solutions.
+
+Standardization
+
+helps
+
+organizations
+
+decarbonize
+
+more
+
+effectively
+
+and
+
+supports
+
+the
+
+development of carbon credit markets. PACT is also developing the Pathfinder Network, a
+decentralized peer-to-peer system for sharing emission data and analysis. This open
+coordination aids businesses and governments in implementing effective decarbonization
+measures, and PACT further assists by connecting organizations with regulators.
+
+
+90
+
+Thrive Protocol
+Thrive Protocol is focused on enhancing value creation within web3 communities,
+prioritizing long-term values over short-term transaction volumes. Their impact is evident in
+collaborations with communities like Arbitrum, Octant, and ApeCoin. Thrive develops smart
+contracts and applications that facilitate identifying, funding, and validating community
+contributions across various platforms and real-life implementations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open Source Observer
+Open Source Observer (OSO) is known for its analytics suite, which was designed to measure
+the impact of Open Source Software (OSS) contributions and grant mechanisms on
+ecosystem health. OSO creates comprehensive views of OSS contributions by incorporating
+on-chain and off-chain data. They have curated a massive database of projects and previous
+grant rounds in the public goods space, bringing value to networks and protocols such as
+Optimism, Arbitrum, GitCoin, and many other EVM chains.
+
+Led by a team of talented data analysts, OSO continually
+expands its database, allowing any contributor to add value
+by including more projects for benchmarking and informed
+decision-making. As ecosystem metrics grow in the public
+goods space, OSO serves as a foundational resource hub,
+providing access to information for anyone looking to
+develop sensible strategies based on comprehensive data.
+
+
+91
+
+Climate Coordination Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Climate Coordination Network (CCN) combats climate change through collaborative
+efforts, uniting governments, NGOs, private sectors, and local communities. CCN amplifies the
+impact of individual initiatives by fostering cooperation on projects ranging from renewable
+energy to conservation. Using tools like Hypercerts, CCN ensures efforts are transparent and
+tamper-proof, building stakeholder trust. Smart contracts automate fund disbursement and
+compliance verification processes, reducing administrative overhead.
+
+CCN's blockchain use extends to secure data management
+and
+
+impact
+
+measurement, providing
+
+real-time
+
+access
+
+to
+
+emissions, energy usage, and other metrics. This allows for
+easy
+
+verification
+
+Through
+
+and
+
+decentralized
+
+auditing
+
+of
+
+climate
+
+decision-making, CCN
+
+initiatives.
+gives
+
+local
+
+communities a voice in project design and implementation,
+leading to effective and locally tailored climate solutions.
+ 
+
+Commons Stack
+Commons Stack empowers communities to self-govern by managing shared resources and
+promoting
+
+participatory
+
+governance.
+
+Their
+
+model
+
+emphasizes
+
+grassroots
+
+participation,
+
+openness, independence, and individual responsibility, fostering healthy communities and
+moving away from extractive capitalist models toward regenerative frameworks. Commons
+Stack
+
+creates
+
+sustainable.
+
+tools
+
+Their
+
+and
+
+frameworks
+
+initiatives
+
+include
+
+to
+the
+
+help
+
+initiatives
+
+CommonsDAO,
+
+become
+
+economic
+
+self-governing
+
+and
+
+co-design,
+
+the
+
+and
+
+Commons Incubator. They offer a toolkit featuring the Augmented Bonding Curve (ABC),
+Conviction Voting, Hatch, Praise, Tokenlog, and Commons Simulator.
+
+
+Founded in 2019, Commons Stack has significantly contributed to the
+Open
+
+Source
+
+sustainable
+
+movement
+
+management,
+
+communities.
+
+They
+
+by
+
+developing
+
+and
+
+specialize
+
+unique
+in
+
+regenerative
+
+funding
+
+merging
+
+tools
+
+culture
+
+economics,
+for
+
+impact
+
+with
+
+token
+
+engineering, guiding organizations to create structures that promote
+active participation, cooperation, and accountability. Over the past five
+years, Commons Stack has supported dozens of projects, providing
+insights and tools for funding and coordinating public goods projects.
+
+
+92
+
+Proof of Impact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Proof of Impact is dedicated to enhancing the credibility and transparency of social and
+environmental impact through advanced technology. They provide verifiable and immutable
+records of impact metrics, ensuring accurate tracking and reporting of project outcomes.
+Their mission is to build trust among investors, donors, and stakeholders by offering clear
+and auditable evidence of positive changes driven by their investments. To achieve this, the
+organization secures and authenticates impact data, reducing the risk of manipulation and
+fraud. Smart contracts automate verification, releasing funds only when predefined impact
+milestones are achieved, promoting accountability and efficiency.
+Additionally, Proof of Impact employs data analytics to measure and report on project outcomes.
+Their platform aggregates data from various sources, providing a comprehensive view of the
+impact generated by different initiatives. This approach allows stakeholders to make informed
+decisions based on reliable data, ensuring effective resource allocation. By combining blockchain
+with data analytics, the organization revolutionizes impact measurement and reporting, helping
+organizations demonstrate their contributions to sustainable development goals.
+
+
+Boost.xyz
+
+Boost.xyz is a platform that uses onchain tools to reward social and environmental impact.
+Smart contracts automate the distribution of rewards and incentives once specific criteria,
+such as impact metrics or project milestones, are met. This system eliminates the need for
+intermediaries, reducing administrative costs and delays while ensuring fairness and prompt
+payment. Users engage with various impact initiatives, such as reforestation projects, and
+receive incentives verified through on-chain data, encouraging active participation and
+greater contributions to impactful projects. Boost.xyz creates a sustainable cycle of impact
+and rewards, maximizing the effectiveness of social and environmental efforts.
+
+
+93
+
+One focus is educating those excluded from traditional banking systems, such as
+migrants, asylum seekers, and unbanked individuals, on using crypto to access financial
+resources. Offering face-to-face workshops or partnering with local support groups
+promotes financial inclusion and reduces transaction risks.
+
+
+
+Other initiatives provide software and product development training for youths and
+students, partnering with universities and offering programs that foster a new
+generation of blockchain developers and users. These efforts ensure that young people
+have the skills needed to thrive in the blockchain industry.
+
+Closing Thoughts
+
+The aim of On-chain Impact Networks is to highlight areas in which blockchain has
+facilitated tangible change in the world. To readers in the space, we hope we have
+inspired you to contribute to one or more areas showcased in this book. To those
+outside of the space, we hope to have sparked some curiosity about how blockchain
+can be used for good, perhaps shifting preconceived notions about crypto.
+
+
+
+In the process of writing this book, it has become clear how difficult it is to define and
+measure impact. We encourage everyone in the space, including ourselves, to make an
+effort to present results clearly, as they can sometimes get lost amid the buzzwords.
+We want to show, not simply talk about theories. The more we are able to showcase
+how crypto is regenerating the world with tangible examples, the more we can inspire
+the next wave of onboarded impact makers to leverage blockchain to create a more
+positive-sum world.
+
+
+
+Coordination can be challenging, with many steps from vision to execution (take it
+from us in writing this book as a collective to form a unified voice). However, what
+would be impossible for an individual becomes achievable by a collective; one ant
+alone could never carry the load, but in a synchronized group, it becomes easy.
+
+
+
+
+95
+
+Never underestimate the power of simply getting started. Whether that be learning
+more about crypto and blockchain, contributing to a network, starting your own
+impact-focused project, or simply remaining curious vs closed to what crypto has the
+potential to do when used for good. We all need to start somewhere.
+
+
+What is highlighted in this book is that no matter what ecosystem you work in, there
+are ways for it to leverage and use blockchain to help build a more sustainable,
+impactful, and win-win world. As the blockchain ecosystem continues to evolve and
+mature, we will see more and more communities, DAOs, protocols, and blockchains
+leverage crypto for regenerative efforts. We hope to see more local governments and
+organizations around the globe experiment with this technology in an effort to
+change outdated systems and support systemic change. There is no shortage of ways
+one can leverage blockchain, and we hope to see more experiments in the near
+future. 
+
+
+We would like to offer our sincere gratitude to everyone who contributed in some
+shape or form to the projects included in this book for the work you have already
+done, and we urge you to continue the valuable work you are doing. This book
+wouldn’t be possible without the thousands of people actively contributing to help
+create a positive impact in the world through blockchain technology.
+
+
+
+
+96
+
+On-Chain Impact Networks: How Crypto Is Being Used To 
+
+Regenerate The World helps the reader discover how
+blockchain technology is revolutionizing efforts to
+create a more sustainable, equitable, and
+regenerative world. This book delves into eight key
+Impact Domains where blockchain is driving
+significant and constructive change:
+
+
+• Decentralized Science
+
+• Community Funding 
+
+• Regenerative Finance
+
+• Climate and Environmental REGENeration
+
+• Culture
+
+• Education
+
+• Infrastructure
+
+• Impact Measurement
+
+
+On-Chain Impact Networks is a testament to the power
+of collective action and how new technology is
+allowing us to coordinate and help solve some of the
+worlds largest problems. Whether you’re a seasoned
+blockchain enthusiast or simply curious, this book
+will inspire you to explore how blockchain is being
+used for good. Join us on this journey towards a
+positive-sum future.
+
+

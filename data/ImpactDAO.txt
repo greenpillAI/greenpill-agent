@@ -1,0 +1,2549 @@
+O
+Why a book on ImpactDAOs? Why now?
+
+The community around the book GreenPilled - How Crypto Can Regenerate the
+World (available at https://greenpill.party) has envisioned that web3 has the
+potential to regenerate the world. With the GreenPilled book, we have
+established a digestible source of a priori knowledge (theoretical knowledge) of
+how we might use a transparent, immutable, global, and programmable financial
+system with $2 trillion worth of capital to regenerate the world. This capital could
+build a digital commons, create flourishing digital democracies, and support both
+local & global public goods. A priori knowledge is great, but what has been
+missing from the conversation thus far is empirical knowledge (knowledge
+obtained from observation) of how crypto can regenerate the world. That’s
+where this book, and the projects within it, comes in.
+
+ImpactDAOs are any web3 project that is using crypto to create positive
+externalities for the world. This book is a cartography project, designed to map
+these ImpactDAOs & the territory between them. There are dozens of examples
+of successful ImpactDAOs in the world today, & hundreds more inchoate
+ImpactDAQs. We articulate their value propositions, techniques, and provide a
+map to help members of the web3 ecosystem who are working on regenerative
+crypto to find each other.
+
+If the GreenPilled book is theory, this book is its complement - this book is about
+action. Theory without action is impotence. Action without theory is
+directionless. But together, theory and action present a powerful schelling point
+for web3 regenerating the world. We invite you to learn about the world of
+ImpactDAQs, the foundational atomic building block of an emergent,
+regenerative, peer to peer, pluralistic civilizational scale infrastructure for funding
+public goods. Public goods are good!
+
+O
+KEVIN OWOCKI, ALEJANDRA BORDA, C
+
+GITCOINDAO PUBLIC GOODS FUNDING WORKSTREAM
+
+~ IMPACTDAOs
+
+( ie
+BBWVWVWVWWVWVWVWVWVWVWxX
+BBWVWVWVWWVWVVWVWVVr
+BWWVWVWVWWVWVVVWVVWr
+BBWVVWVWWVWVWVVWVWVr
+BWWVWVWVWWWVWVVVVr
+BBWBVWVWVWWVWVWVVVVr
+BBWBVWVWVWWVWVW—VVVVr
+BWBWBVWVWWWVWVWVVVVr
+Introduction ---------------------- 04
+
+Featured ImpactDAOs --------------- 24
+ImpactDAOs Stacks -—~ -------------- 42
+Regen Economies ------------------- 50
+ReFi ------------------------------ 56
+
+Coordination, Tooling,
+
+and Infrastructure -— ------------ 70
+Applied Research ------------------ 80
+Commons Pools --------------------- 90
+Culture and Education ------------ 96
+DeSci ----------------------- ne 106
+Introduction
+ImpactDAOs are the atomic building blocks
+
+of regenerative cryptoeconomics.
+ImpactDAOs - The Building Block
+
+An ImpactDAO is defined as any DAO that creates net positive
+externalities to the ecosystem around it.
+
+ImpactDAOs are the atomic building block of the Regenerative
+Cryptoeconomic movement. This book is about ImpactDAQs.
+
+To learn more about the Regenerative Cyryptoeconomic movement,
+check out the Green Pill book & podcast at https://greenpill.party.
+
+06
+Regenerative CryptoEconomics
+
+In aregenerative system, resources are increased over
+time. An antifragile regenerative system builds
+capacity sustainably, while being resilient to shocks.
+
+Resource Available
+
+Time
+
+Not just about Financial Resources
+
+Aregenerative Cryptoeconomic infrastructure is about more that just financial
+capital.
+
+Gregory Landua and AppleSeed Permaculture have published a great resource on
+the 8 different forms of capital, of which financial capital is only one. Here is their
+taxonomy of types of capital:
+
+Capital Currency Complexing to...
+
+Influence, Relationships
+
+Tools, Buildings, Infrastructure
+
+Financial Instruments & Securities
+
+Soil, Living organisms, Land, Ecosystem
+
+Words, Images, Intelectual property
+
+Embodied experience, Wisdom
+
+Spiritual attainment
+
+Community
+
+07
+Why do we care about ImpactDAOs?
+
+Web3 has the potential to scale our internal and collective ability for human and
+capital coordination. We can now redefine incentives towards actions that
+regenerate ourselves and the earth. But, are we tapping into that full potential?
+
+We are only able to do so if we move past our present paradigms of how we
+experience and coordinate as human beings, and if we start focusing all our
+energies in building and leveraging these building blocks for real positive impact.
+
+We see web3 as a tool within a broader shift in consciousness, away from
+command & control hierarchies into an abundant, agile, and positive-sum future
+Technology in all its forms -- science, communication, blockchain, meditation,
+networks, fasting, etc--should be used to enhance our human abilities to become
+better versions of ourselves... Technology unlocks a realization that we are not
+tied to the systems of the past-- we have agency to design for human thriving.
+
+The design space for ImpactDAQs is this: How do we leave the old ways behind
+to create new systems for human thriving?
+
+08
+Design for Human Thriving
+
+Digital tokens are more secure, convenient to store, and easier to transfer/
+distribute. How we choose to transfer tokens is based on the conditions we
+choose. We can embed our values into digital assets, explore a plurality of ways
+to transact and share value, align individuals with collective incentives, and
+unlock the freedom to dedicate our time to meaningful work.
+
+ImpactDAOS can consciously design our coordination mechanisms that drive our
+society, which means we can design our external reality. We have an open canvas,
+a new playground open to everyone. We hope to see designers use this canvas to
+ensure the health of our planet and people. We believe ideas should be at the
+core of our economic systems.
+
+Tools can also do harm. Finance can serve to enrich human flourishing or to
+cripple it. Those creating should be conscious of the role we play to shape this
+technology. What we build will shape the future of the society we live in.
+ImpactDAQOs can be a tool to shape web3 as a major driver for positive impact.
+
+69
+The Internet of Values (and Value)
+
+Throwing more technology or money into broken systems will likely create no
+change unless we coordinate these networks to redefine how we operate as
+humans. Money magnifies. We have long been pushing money into the system,
+and it seems like the only thing growing is the amount of capital we need to solve
+these same problems.
+
+ImpactDAOS can engineer better carbon removal methods, but we will endlessly
+continue to sequester carbon from the atmosphere unless we redesign our
+extractive monetary system that is fueling pollution, and unless we reorganize
+the economy to better align with the natural world.
+
+We can move away from fixing systems into building new thriving systems
+primed for human flourishing. Although it would be great to solely focus on
+creating, we have pulled society so far away from balance that we might need to
+engage in parallel efforts: solving urgent problems while building the base
+infrastructure for new thriving systems that render the old obsolete. Once we fix
+current issues, energy can naturally transition to create value in regenerative
+
+systems.
+410
+Ecosystem Awareness
+
+With the arrival of web3, we are experiencing a fundamental shift in how we
+relate to each other on a global scale. We can move to an ecosystem awareness
+of all the moving factors across a system to identify patterns and connect
+seemingly unrelated dots.
+
+ImpactDAOS that focus on the highest leverage points that we can shift act just
+like acupuncture points—creating rippling effects on the entire system.
+
+In addition to seeking high leverage points, we can also analyze the tensions in
+the system. How do we navigate them?
+
+We move beyond solving the most obvious symptoms and start tackling the
+underlying factors that create those symptoms in the first place. We can design
+primitives that leapfrog the “fixing” to redesign our connection with ourselves,
+each other and technology
+
+11
+The Internet of Regeneration
+
+ImpatDAQs are redefining what we value and how we share that value. The work
+here calls for regenerating our internal selves, our experience with others, our
+connection to nature, and our meaning of wealth to one where we focus our
+energy on that which fuels each person internallly to then improve the world.
+
+Although boundaries allow us to study and understand the dynamics of
+interconnected systems, boundaries are, in reality, only in our minds. Everything is
+interconnected.
+
+For example, our gut health affects our metabolic health, cognitive ability, and the
+risk of chronic disease. The microbiome diversity of the soil in which it's grown
+directly impacts our gut. Economic incentives enable or prevent farmers from
+implementing regenerative agriculture, which increases the CO2 in the soil and
+hence it’s microbiome diversity. The soil’s miicrobiome affects the nutrients in
+our food and therefore our health.
+
+12
+Shifting Approaches
+
+In this book, we will showcase how ImpactDAOs emphasize collaboration, co-
+creation and sharing best approaches, learnings and insights others can leverage
+for a continously evolving ecosystem. We also move away from hierarchy,
+everybody should be at the table to imagine and discuss approaches as equal
+parties in the design of our futures.
+
+Building with or enabling access and education for everyone to use new tools, we
+can decentralize the innovation process away from helping into empowering. It's
+not one organization or person's role or responsibility to drive change, each
+network can innovate using their expertise to change their circumstance.
+
+We have an active role in designing, architecting, experimenting, and stewarding
+collective pieces of a powerful, but intentional, engine for change. ImpactDAOs
+are at the core of that change, leveraging web3 to create the regenerative
+society, and securing web3 as an enabling way for us to create a better future.
+
+13
+The current state of ImpactDAOs
+
+The present reality might not reflect the vision we just shared, but ImpactDAOs
+are still emerging. We hope to help catalyze the energy and cultivate action that
+can take us there (or perhaps to a better future than what we were able to
+envision).
+
+ImpactDAOQs are still nascent with a lot more design space to explore. This book
+is a snapshot of the current state of ImpactDAQOs, showcasing how organizations
+are using web3 for impact as of April 2022.
+
+Hopefully, this acts as a schelling point (a game theoretic focal point) to rally the
+community to further explore how crypto can regenerate the world, and then to
+go put those discoveries into action. We hope to welcome new thinkers
+indigenous knowledge, entrepreneurs, philosophers, healers, scientists, so we
+can all make sense of the world. We want to capture more stories of how web3
+(or other technology) has positively changed real lives in future book iterations.
+
+14
+The ImpactDAO ecosystem
+
+Symbiotic— web3 is naturally interoperable as each effort unlocks greater
+value for other nodes in the network. We can modularly stack ImpactDAQs so
+talent, energy, and resources can fluidly move to where it is most needed.
+
+* Composable—anyone can leverage and build on top of open-sourced building
+blocks for an evolving improving set of tools and strategies.
+
+* Collaborative—we can align incentives for a multiplayer game. It is no longer
+about the winning strategy, but rather the health of the whole ecosystem,
+building our collective intelligence and capacity to do good.
+
+* Transparent—although still nascent, we can leverage the on-chain, immutable
+records for accurate impact measurements to continue funding what works
+and leave behind what does not.
+
+* Emergent - in the process of coming into being, driven by 1000s of actors
+
+across the ecosystem.
+
+15
+Methodology
+
+ImpactDAO is the term we use for organizations leveraging web3 to create
+positive externalities in the world.
+
+Most operate as a DAO or with web3 principles for open, transparent, verifiable
+impact and regenerating our earth. The ImpactDAQs presented in this book
+combine the survey form we shared during our writing process + Ale’s Notion list
+that she has been compiling and categorizing since December + cross-
+comparing with many other great project lists out there. When possible, we’ve
+included verifiable on-chain data for the progress achieved by these.
+
+How did we choose which projects to feature? We focused on ImpactDAOs who
+have achieved substantial positive impact or have proven their model has the
+potential to do so in a way we could verify. The featured ImpactDAOs in Chapter
+One are ImpactDAOs that we could objectively verify that their strategy has
+created tangible positive externalities.
+
+Criteria:
+
+1, Positive externalities: ImpactDAOs that demonstrate a sustainable long-term
+strategy to achieve positive outcomes on their primary impact area that
+would have otherwise not been possible without a novel use of web3.
+
+2. Ecosystem value: ImpactDAOs that act as building blocks to enable other
+ImpactDAQs to leverage or build on top of them to achieve a greater impact
+(e.g. PoH Sybil-proof list of humans other ImpactDAOs can use for
+governance, proof of identity, etc).
+
+3. Leverage point: ImpactDAOs that intervene at a critical place within the
+system and that cause rippling effects in the whole system by redesigning
+core mechanisms of society-causing-problems, not merely redistributing
+donations or band-aid solutions.
+
+16
+The 2nd set of ImpactDAQs is categorized by the role within the web3
+ecosystem that each plays and further subdivided by the type of social capital
+they enable. These ImpactDAOs have also proven a robust web3 mechanism that
+works towards achieving positive externalities.
+
+The 3rd set of ImpactDAQs are rallying up to achieve positive externalities but
+are nascent. We couldn’t tangibly verify their approach has achieved positive
+outcomes. These have a “Not Launched" tag. Yet, we’re excited to see them grow!
+
+To explain the work and impact of each ImpactDAO, we combined self-reported
+data with information available through websites, articles, etc. Additionally, for
+many of these (around 30 of the projects), we interviewed core teams members
+and/or people who interact with their platforms (e.g. users who implemented
+Coordinape to their reward stack for DAO contributors).
+
+Things to keep in mind as you read
+this book.
+
+Feedback welcome - To give feedback on this methodology or propose changes,
+please see the “Git Involved” section at the end of this book.
+
+Cross-pollination welcome - As we describe how ImpactDAQOs leverage web3 to
+regenerate the earth + create human thriving, we encourage you to actively think
+about how each strategy can build upon the other, synergize, or collaborate.
+
+Contributors welcome - We hope to see this book used as a resource to route
+talent to ImpactDAOS. Hopefully we see a feedback loop where people discover
+ImpactDAQs via this resource, which makes the ImpactDAOs have more
+momentum, allowing the cycle to repeat.
+
+17
+Intended Audience
+
+This book is a breadth-first tour of ImpactDAOs - cryptoeconomic systems that
+have a positive impact on the world.
+
+This first edition is designed for those who already understand at a high level
+what blockchains are, how smart contracts work, what DAOs are. If this book
+were a university course, it would be a 401 level course. If that is not for you,
+that’s okay - Welcome to the weird, wonderful, & wild world of web3! Spend
+some time with the numerous & great resources about these fundamentals +
+come back to this resource after that. Perhaps a future edition will attempt to
+make this content more beginner friendly.
+
+This edition is designed for
+
+1, those who are entering the web3 space who want to find ImpactDAOs they
+could work with.
+
+2. for those who work on ImpactDAQs. By seeing what techniques other
+ImpactDAQs are using, we hope that this book (and the resources surrounding
+it) faciltates the cross-pollination of relationships, knowledge, and other
+resources across DAOs.
+
+18
+ImpactDAO Map
+
+On the next several pages, we have put together a couple visual overviews of
+how we view the ecosystem.
+
+To understand the world of ImpactDAQs, we can classify these through: a) the
+role they play within the web3 ecosystem; and b) the form of capital they each
+impact in our living world.
+
+The first map highlights the Impact DAOs play as enablers, connectors and those
+tackling specific impact areas. ImpactDAOs growing the roots act as enablers
+that engineer the infrastructure for other ImpactDAQOs to build on top off. The
+trunk connects these building blocks to impact areas by researching and
+implementing tools and frameworks ImpactDAQOs can apply to their strategy.
+ImpactDAQOs which build primarily within one impact area represent each leaf of
+the tree. Although these explore different Impact areas, they are complementary
+and interdependent, therefore part of the same tree. Finally, all ImpactDAOs
+advance to various forms of capital, as represented above the tree.
+
+The second map is like looking from above and peeking through this tree. We
+can now see the roots and trunk within the inner circle as the infrastructure and
+research layer that enables all other ImpactDAOs to operate, improve and
+achieve impact (e.g. providing tokenomics, governance, research on natural
+capital assets, infrastructure, etc).
+
+The middle circle shows the impact areas previously shown as leaves. These are
+spread across the map to show the forms of capital they primarily influence.
+Although many projects impact multiple forms of capital, we tried to map the
+ImpactDAOS to show the two most prevalent areas of a living system they affect.
+E.g. regenerative finance involves both living and financial capital, but some
+ImpactDAOs like Regen Network are closer to living systems, while Toucan
+primarily focuses on the financial infrastructure.
+
+19
+07 LLEANANNSS
+
+8 Forms
+of Capital
+
+o — ors a8 E=—— a
+Qy piwing pe
+ReFi
+°
+Climate o
+Collective ee
+Carbon
+OMoss
+°
+a a Regen ONori a ao
+ZA a Network O Toucan 4&7
+Oa Applied O Kolektivo
+Research
+ro) fe) ° (eo)
+O Molecule Ocean Curve Astral Grassroots
+Protocol ©. Labs Protocol Econ
+O.Opsci.eth Other o) fe}
+q ee ° Internet 0 Celo Bloom Impact
+N 3 OForesight _/ RadicalxChange oPrimepao \ Network Markets 7
+° F > Li,
+Wo, | DeSci oO © GitcoinDAO Regen-Economies | p oe
+> la . Block ‘2 >
+Y + | Education Science ° © Radicle & Drips ° ° 6
+4 Commons Unchained Angel #
+fe) Stack OOrea ° fund Protocol
+Crypto, Culture OTEC \ or of
+& Society OCoordinape lumanity © Endaoment
+O Protocol Labs © DoinGud
+© Dream DAO Tooling & Qo ogee
+ive
+be hoSuls Infrastructure No,
+— % &,
+=~ Og a, © Kernel © Protein o> aa ss
+Qo % © Forefront OThe DAOist s wo
+a O Verses oO Cabin
+2u Ro
+225 <>”
+My Experience <
+g ra] Tony Fay dg pan t"0 Q Q
+
+>
+Ne
+e
+Binance Ac
+
+Twitter Relationships |
+
+Co
+Between ImpactDAOs
+UNICEF cnuored Fie
+Brokoli Leyline
+
+Blockchain for Climate foundation =A _
+e@ Cosmos Giving Block:
+e
+
+PizzaDAO erc e” Ventures FinX
+
+» Cel
+Open Earth Foundation jnts Club / @ i
+DOER Money Daw e impactMarket
+e e Angel Protocol
+Gain Forest e p :
+Aquari bon Co Rainforest Direct 7 AntidoteDs
+
+Nori typ = .
+Va ¢ u
+@ SuperBenefit - oe xf
+‘ . ¥ r ) Impact #5
+Project Ark “ p'
+
+a t et se 2 ® F Bae
+NFTree i : Roa
+
+sess
+screDAOS — e
+
+O LOA Labs = Di
+Basin DAO 4
+CO enn Protocol : Sy
+* Solid World DAO’ Network
+
+““"@ a @:
+
+Ecorise  ReFi pafume Ea Earth -EarthFund
+
+“Ie
+Ox ¥ x >
+
+Single Earth @. ; © DAO ge : dao if
+oucan® TE
+
+Open Forest ee eo Captors Ee Eden a”) ~ Cohere
+
+Fee Nes
+
+Return Protocol ‘or Clir Blood ®% © rT @
+Astri Grassroots Econom
+
+MOONJEI Sovereign Nature >
+
+e
+AYOWECCA Bloomeria © g
+
+Kolektivo Curve
+
+spon re Found:
+
+‘ademy e
+Decent DAO
+
+@ by
+@ roject Galaxy
+
+2 Coinmarketcap Earn __Storc
+inDesk O O e
+
+. Dropout DAO
+@ ~ CoinTelegraph _Coinbase Earn
+» 1 \
+shapeShift DAO e
+sun. e
+Goldfinch ©... Quest Book
+e@ pau es e@ @
+“@ Decrypt Boysclub Crypto TryCrypto
+HumanDAO @ AY Se e
+v erapoi We3
+@ y Therapoid
+) Y Socialstack e@ @ f Y ; e e
+Y Ne vn+y Culture and Society =~ Surge -—t7 1729
+Ss i “alliance © Give Crypto , : Web3 University
+O. zal) : 4
+Em ye,
+, . j
+@ } Station’; Ss se Developer Nader Dabit
+* Outlier Ventures oY <i @
+aS sy Endaoment a2 i i
+(e} @ AE WellnessDAO dspace C a = Ants-review
+Two Plus NM y wo 4 Beir -ow Your Own «
+~ slow scryptog Fab Protein Bed as re bs Chor Planetary Resilience DAO e
+i ayer a ys PsyDAO@
+RabbitHole itz Os Ao LabDAO e
+4, lee =s ResearchHub DAO
+Seed Club bo Kleros Zh bs DAO. -code4rena e@ @
+x erubs Molecul: Parcel.money °
+: Giasound Merch supply Chain blic Good School BRSDAO Atoms
+fi ws Ke
+“clime 2 DAO , ‘oe cae Forefront Odyssey e @
+ic { Sl. DAO al PRISON Art Sy SS Vibe Bio‘oresight Institute DAO
+bd S a beeeie Cabin @
+Pozzle Planet - fer De @ fg Mee Cama Dele DAC VitaDAO — @ Yd) e
+AO ozzle ane R n f sonti LYNX
+Oh renee “@ adicle » Proof ofl integrity outs Protocol Opscientia.eth
+pa Science Fund
+ON YevetLongtl Financial | e e
+ance DAO. A DAOpunks / OpenAccessDAO
+
+SS “© ' Tip Part
+Sg PrimeDAO » e O @ A
+
+ics ¢€ The Commons StacrThe DAOist roof of Humanity
+
+Geo Web.) \ _1Hive Gardens — O) SolidarityCard
+) @ @ Gitcoin
+& TEC lHive .
+abs
+© e Cheerbot
+Panvala OxdaoApe
+e
+
+ETH Puerto Rico DAO
+ImpactDAQs
+
+Featured
+
+We focused on ImpactDAOs that have achieved
+substantial positive impact or have a proven
+model to do so. These achieve positive
+externalities in their given impact area but,
+most importantly, act as essential building
+blocks for other ImpactDAOs to achieve more
+
+change.
+Proof of Humanity
+
+At its core, Proof of Humanity is a social identity layer system on Ethereum that
+essentially, by creating a web of trust, aims to identify everyone on the internet
+with proof of humanity through a Sybil-proof list of humans.
+
+How does this bring us closer to a regenerative society?
+
+Self-sovereign identity validation is the bedrock infrastructure to implement a
+Universal Basic Income (UBI) mechanism to reach everyone on Earth. This is
+important as each person should be entitled to one share of UBI distribution in
+the form of UBI tokens. People in Kenya or Ghana will have the same access to
+financial income as someone in London or New York.
+
+You don’t need a bank account or any crypto to be onboarded into PoH. The only
+condition to receive UBI is to register as a verified human. Today, 13,948
+registered humans receive $UBI tokens every hour. $UBI is a necessary currency
+layer to put a value on time in an open, global market.
+
+26
+UBI streams can lift people out of poverty in that they can buy groceries, a place
+to live, and start businesses. If UBI achieves a meaningful value in the coming
+years, people could stop worrying about meeting basic needs and would no
+longer be tied to draining jobs to pay the bills. Proof of Humanity unlocks the
+capacity for all humans to focus their time and energy on work that positively
+moves humanity forward.
+
+PoH's adoption has soared in areas like Latin America, where traditional finance
+systems and corrupt governments have impacted communities the most. For
+Argentineans dealing with hyperinflation, crypto is becoming a comparatively
+more stable source of income for everyday activities.
+
+Stacking PoH’s Impact. PoH’s social identity layer can be used by other
+organizations as a trusted sybil-proof list of people. For example, DAOs can mint
+the same amount of tokens or airdrops for every human in the DAO to
+experiment with truly democratic voting systems (1 person = 1 vote) that account
+for every community members’ voice.
+
+One way that PoH is already creating impact is through Gitcoin’s funding rounds.
+Gitcoin uses PoH as a donation multiplier for sybil resistant quadratic funding.
+One weakness of quadratic funding is that it is susceptible to sybil attacks as
+participants can try to split their funding across multiple accounts, which would
+lead to an unfair allocation from the matching pool. Integrating PoH helps
+mitigate the chances of this behaviour gaming the system.
+
+27
+Celo
+
+1.1 billion people worldwide are underbanked or only have access to banking at a
+prohibitively high price. As we design web3 tools, we need to include those who
+need accessible banking services the most: those excluded from the current
+monetary system. The simple ability to store and transact value has a
+transformative impact.
+
+Celo is a blockchain designed for inclusion to allow anyone to transact value with
+local digital currencies and access previously inaccessible international markets
+without any further requirement other than access to a smartphone.
+
+Celo is a layer 1, climate-positive blockchain designed for inclusion. Protocol
+stable coins are collateralized by crypto and natural capital assets as used as
+collateral for stable protocol coins. Celo allows anyone with a smartphone to
+interact with the blockchain without understanding its mechanisms.
+Authenticating users’ phone numbers with their public keys through the Valora
+App enables a simple, mobile-first user experience.
+
+28
+For example, Women in the Nagbalacan Loom Weavers Cooperative used to earn
+$3-4 a day through weaving and selling their products in local fairs to tourists.
+This income was not enough to overcome poverty, and barely enough to buy food
+for a family. When COVID hit, the Philippine textile industry shut down, leaving
+women without their primary source of income.
+
+Through Celo and Impact Markets the cooperative received UBI through a few
+smartphones some households had. The cooperative then re-distributed to
+others in the community. UBI kept them afloat for a few weeks, but the real
+unlock was accessing previously unreachable international markets.
+
+They used the Valora wallet as a payment platform to connect and communicate
+with buyers in the USA, France, and Germany. The first pilot month generated
+$955 cUSD. They later set up an online marketplace in PayChant, a dApp built on
+Celo, where merchants can open online stores and accept crypto payments. Now
+women’s livelihood is higher than their pre-pandemic income.
+
+Roughly 5 million people worldwide use DeFi, but less than 10% live outside
+developed countries. DeFi for The People is an initiative to bring access to DeFi
+(or better yet ReFi) to 6 billion smartphone users globally. A deep DeFi liquidity is
+essential to design for inclusion. For a sustainable market, you need a strong
+demand and supply, but you also need a deep pool that enables an efficient
+transaction (minimum variation) between the two. With increasing access to a
+solid DeFi ecosystem, previously unbanked citizens can put liquidity to
+productive use, such as borrowing, to start small businesses.
+
+Stable coins help mitigate the risk of price volatility. Celo stable coins like Celo
+dollar (CUSD), Celo euro (CEUR), and the Celo real (CREAL) are over-collateralized,
+algorithmic stable coins based on Mento stability protocol. Brazilians, for
+example, can trade cREAL, use it as payment for groceries, access rewards with
+Ubeswap, or lend through MoolaMarket.
+
+29
+Celo has low multicurrency gas fees. Users can pay transaction fees with stable
+coins, just like everyday money. Transfers happen almost instantly because there
+are no intermediaries. As a proof-of-stake network, transaction fees are much
+lower than relying on banks, which would be exceptionally high when transacting
+with emerging markets. Beyond a stable coin project, Celo is a Layer 1 others can
+build on top off. For example, the Kickstarter platform aims to become a
+decentralized protocol building its platform on the Celo blockchain.
+
+As we design new financial systems, we should internalize pollution and resource
+extraction costs we now only perceive as externalities. In Sacred Economics,
+Charles Eisenstein explains how ‘whatever backs the money, becomes sacred’. If
+we back currencies with nature we create direct incentives to care for our
+ecology. Natural Capital-backed currencies are a way to do that. We can use
+natural assets as collateral that we can verify are sustained for the long term,
+high quality and transparent so we can back currencies used in daily transactions.
+
+The Climate Collective works to make Celo carbon-negative by tokenizing at
+least 40% of Celo’s total reserve with carbon-sequestering natural assets. This
+acts as a carbon sink. The Celo Reserve holds around $850M worth of assets.
+Using 40% is sufficient to buy 135M rainforest trees and sequester about 43
+megatons of CO2 per year.
+
+But, we can’t simply plant trees and hope they will be cared for. Partnering with
+Curve Labs, Moss.Earth, Flow Carbon, and Toucan they are working on
+methodologies to restore, preserve, and represent the value of ecosystem
+health. Natural Capital Tokens can be an incentive to reward activities like animal
+conservation, urban food forests, etc. Celo Reserve currently holds Moss.erath’s
+MCO2 carbon tokens and will soon accept Toucan’s BCT and NCT to help support
+deep liquidity for a healthy environmental asset market on Celo. Celo builds tools
+for previously unbanked communities to transact value. The more people access
+these tools, the demand and circulation of these currencies increases, and hence
+the reserve grows and programmatically preserves more natural landscapes.
+Therefore, we align economic growth with ecological health.
+
+30
+CoordinAPE
+
+As we move towards increasing decentralization, and a larger number of DAO
+contributors coordinating towards shared goals, we need better mechanisms to
+compensate and recognize each other for the effort and passion we pour into
+DAOs. How do you properly incentivize and reward contributors?
+
+Coordinape is a tool to understand how value moves through networks allowing
+DAOs to move decision making and resource allocation agency to the
+community. Contributors can directly recognize each other highlighting the
+intrinsic, often unmeasurable value that can’t be captured in units of output but
+rather by peer recognition. In cycles, each member has a set amount of allocation
+points, to give to the contributors they have worked with based on what they
+think of the effort and value a fellow contributor provided. These inputs are built
+on sybil resistant social graphs where each line is an allocation from one member
+to the next.
+
+A contributor graph is generated and weighted towards the members that have
+the most interactions and allocations. Without top-down management or HR we
+can build a cohesive community to make the experience of working and
+contributing to DAOs more human and fair.
+
+$1
+Kolektivo
+
+Networked systems allow Local Regenerative Economies to leverage global,
+collective toolkits, frameworks and talent, and learnings to implement to their
+particular region. Although base infrastructure and frameworks are shared,
+details are particular to each region’s values, culture, and local environment.
+
+Kolektivo is enabling local impact economies for local communities to create and
+manage their own regenerative economies. While implementing their own
+framework for Kolektivo's first MVP was implemented in the Caribbean island of
+Curacao, Kolektivo will translate their work on implementing these economies for
+other communities to fork and implement.
+
+They have allocated over 40 grants ($50K in total) to local impact projects, all
+proposed and elected by Kolektivo'’s community members. Projects include
+planting 1500 M2 of Food Forest on the island as well as the launching of the
+CuraDAlI pilot app on the Fuse network which empowers over 300 local
+community members to transact regenerative currencies.
+
+32
+Combining Astral protocol's location-based data protocol with Decentralized
+Storage solutions to measure and store data related to the state of Natural
+Assets to create Geo-special Impact NFTs (Regenerative Assets) helps redirect
+funding and attention to more effective management of ecosystem assets and
+corresponding ecosystem services as well as reward actions that positively
+transform the ecological state of a certain area. The currency is backed by the
+Regenerative Assets. Parametric insurance can be activated to funnel funds to
+restore an area as soon as the data in the GeoNFT records a verifiable state
+condition (e.g. wind speeds greater than x).
+
+Kolektivo’s economic system is driven by social impact - you do something for
+the community and get compensated within the same community economy. This
+currency operates on a blockchain to ensure transparency and accountability, to
+fairly distribute resources, and to set rules according to the objectives of its
+econonyy.
+
+By taking “ownership” of their community services, a multitude of individuals,
+community projects, and organizations become self-sufficient and self-reliant.
+This offers an opportunity for (unemployed) individuals, social entrepreneurs, and
+organizations who currently participate in volunteer projects, to prosper and
+contribute to increased well-being on the island. Kolektivo does not measure its
+success by GDP, but by the collective impact created by and for its members,
+hence protected from the global economy.
+
+35
+Regen Network
+
+Earth cycles follow universal time, away from the speed of innovation in web3. It
+takes time for nature to grow and thrive again. Regen Network builds tools and
+knowledge so we can best exercise our agency to positively influence and
+preserve the biosphere. Regen Network explores how to tie the value of
+ecological health to economic value.
+
+Regen is creating an opensource toolkit to measure, value, and improve the
+health of our natural world and to align our economy to regenerative ecological
+outcomes. Current registry programs are slow, expensive, and opaque. Project
+developers have to pay $20,000 to $100,000 and follow standard guidelines,
+and land stewards get 30% of the carbon credits they sell.
+
+Regen’s web3 native carbon and ecological asset registry is community driven,
+transparent, and dynamic. The methodologies that form the registry holistically
+value ecosystems. Rather than saying they will focus on carbon and add co-
+benefits to these credits, they are making it so everyone can invest directly in a
+multitude of ecological benefits which creates new nature-based markets.
+
+354
+Methodologies are frameworks of how to measure changes in an ecological state
+and an ecosystem’s response to particular regenerative practices. This is key in
+developing accurate and transparent credits such as blue carbon, ocean
+conservation, soil carbon, agroforestry, reforestation, biodiversity, species
+protection. Social methodologies guide local community development, the
+integration and utilization of indigenous knowledge, and beyond. A reforestation
+methdology might answer how biodiversity and species return can be measured,
+or how groundwater quality and carbon sequestration are impacted.
+
+Anyone can select a methodology within the Regen Network, register a project,
+begin framework implementation, and get financing through Regen Network's
+marketplace. With on-chain governance tools, credits can also be used as local
+currencies. Working alongside land stewards, biologists, data scientists, and
+others, Regen has developed over 40+ methodologies with 12 million hectares of
+ecological regeneration in the pipeline.
+
+Although no credits have been created yet (we cannot speed up nature's cycles),
+data on current projects is being stored on-chain through censoring and satellite
+imaging. They have also introduced QF to understand how funding can be
+allocated towards open-source research, therefore greenpilling scientists,
+farmers, and ecological institutions and universities.
+
+35
+Toucan
+
+As the blockchain ecosystem grows, let's build a regenerative financial system by
+design-- weaving climate action into the fabric of web3. Carbon markets are
+fragmented, opaque, and hard to access. Intermediaries extract much of the
+value from projects on the ground doing the work to stabilize the atmosphere.
+
+Toucan provides Web3 building blocks for a regenerative economy by bridging
+carbon credits onto public blockchains. Removing intermediaries and replacing
+them with smart contracts enables a transparent and efficient flow of money to
+impact projects. Increasing credit’s demand and price signals catalyzes new
+environmental project development.
+
+The Toucan Carbon Bridge allows anyone to transfer carbon credits from legacy
+registries (1-1 to a carbon token) to Toucan’'s blockchain-based Meta-Registry. It
+is a one-way bridge to prevent double-counting as users retire the credits on the
+source registry before bringing them on-chain. When a carbon credit is
+tokenized, its on-chain version is a TCO2 "carbon token". Anyone with a wallet
+can hold, buy, sell, and retire carbon tokens. Often, buying a full carbon tonne is
+prohibitively expensive. Users can now buy small portions of credits with
+Toucan's native fractionalization.
+
+36
+High quality carbon credits can be very expensive; fractionalized tokens
+democratize access. Retiring carbon credits in legacy registries is often a manual
+process so retirement aggregators bundle retirements into one, resulting in
+opaque climate action that is not publicly verifiable.
+
+TCO2 contracts store all attributes as credits are valued and traded at different
+prices depending on project location, year, co-benefits, verification methodology,
+vintage, etc. Toucan Carbon Pools are smart contract accounts with gating
+criteria that hold a set of carbon tokens that share a minimum set of attributes.
+E.g., the NCT pool only holds carbon-offsets from nature-based projects 2012
+onwards with environmental co-benefits. When you deposit carbon tokens into a
+carbon pool, you receive a carbon reference token (TCO2) specific to that carbon
+pool, like a BCT token. TCO2 is useful across the decentralized ecosystem serves
+as a redeemable coupon for a carbon token in the pool. When users redeem an
+NCT or BCT for carbon tokens held in the pool they can receive a default or
+choose specific carbon credits with particular attributes. Redeemed TCO2 are
+retired and claimed as a carbon offset.
+
+Toucan carbon is composable: developers can read data and write code
+interacting with smart contracts holding carbon tokens. This means builders can
+develop products on top of Toucan's infrastructure. Senken, for example, is an
+explorer for users to purchase carbon offsets with specific additional benefits to
+society. Senken’s leverages Toucan’s "read’ access to query the on-chain registry
+and display it in an interface. KlimaDAO locks BCT in their treasury to create a
+carbon-backed currency increasing the carbon tokens demand. Return protocol
+automatically embeds carbon offsetting into any transaction. Finally, Toucan is
+launching on Celo users on Celo blockchain can access Toucan's full registry
+build applications that integrate climate positive action across Celo's use cases.
+
+As of April 3rd, there are 18M CO2 tonnes bridged and 167 projects tokenized.
+With the enhanced utility of carbon credits, we can put verifiable climate action
+at the core of our everyday financial system- just by having, holding and using
+money, we can contribute to a regenerative economy.
+
+37
+Radicle & Drips
+
+Sharing code freely and publicly has made it drastically cheaper and easier to
+build software, yet corporation-hosted platforms for code collaboration are
+vulnerable to censorship and, the financial value that is unlocked by software is
+often distributed to shareholders and not to the communities that created it.
+Radicle is a web3 network for software collaboration - a peer-to-peer stack for
+developer communities to build software together. Teams can use Radicle Orgs
+to create sovereign and platform agnostic DAOs that host peer-to-peer
+repositories while maintaining an auditable, transparent history on Ethereum.
+What does this mean? The codebase is freely accessible to anyone in the world,
+is user-friendly and uncensorable, and has no single point of failure.
+
+Let’s focus on Radicle Drips. At it’s core, Drips are used to create recurring
+funding streams from one address to another allowing creators to generate
+continuous income from their communities. The broader shift behind this
+functionality is to put redistribution at the center of the web3 ecosystem.
+
+38
+Any Eth address can automatically spread or “drip” a percentage of their funds to
+others. Use cases vary from setting recurring payments for DAO contributors to a
+sustainable creator economy where artists or developers receive recurring
+payments rather than hustling for the next NFT drop or grant application.
+Recipients can choose to involve their supporters with benefits or through
+Snapshot spaces to participate in decisions like future roadmaps. Using drips,
+anyone can fund and manage mutual support flow networks.
+
+Splits automatically split a portion of incoming drips to others. With Splits, the
+value keeps flowing as the recipient chooses to pass along (re-distribute) a
+percentage of their drips to other communities, collaborators, or projects on
+platforms like Giveth and Gitcoin.
+
+Sharing one’s drip to others creates a positive-sum ecosystem that circulates
+value rather than locking it up. Open source software projects can receive drips
+and split these funds to other open source tools they depend on. Communities
+can direct Drips to public goods (or to ImpactDAQs) they care about and benefit
+from. These ImpactDAQs can split received drips to redistribute to projects in
+their ImpactDAO stack that has enabled them to achieve positive outcomes.
+Radicle Drips creates a circular and redistributive funding ecosystem.
+
+radicle ORIRS
+
+39
+GitcoinDAO
+
+GitcoinDAO builds for human thriving. Supporting digital public goods can make
+it easier for humans worldwide to coordinate and collaborate globally. Public
+goods failures are coordination failures. Open-source software, the environment,
+public education, and health are integral parts of society. Yet, governments and
+legacy institutions suffer coordination failures in providing for these public
+goods, and non-profits often fail at capturing value for the benefits that public
+goods create. Communities have little to no say on which public goods should be
+funded and maintained. Web3 is an opportunity to solve coordination failures
+and Gitcoin plays a role in sharing this vision with the rest of the world.
+
+Gitcoin empowers communities to build and fund public goods. Open source
+software contributes $500B in yearly economic output, but creators and
+maintainers of digital public goods have no effective ways to monetize their
+work. Hence, Gitcoin's initial focus was to realign incentives between open-
+source software, those who use it, and those who create and maintain it. Gitcoin
+has distributed $58M through 13 Gitcoin Quadratic Funding Grants rounds.
+These rounds support a plurality of global public goods such as Longevity,
+Climate, and peace efforts in Ukraine. The most recent round, Grants Round 13,
+had 2415 active grants, which is a 20x over the initial round two years ago.
+
+40
+Grants act as a launchpad for builders to enter the web3 ecosystem. Projects
+started from Gitcoin Grants include, Uniswap, Yearn Finance, linch exchange,
+Prsymatic labs, walletconnect, Kernel, ReFiDAO, & more. Since its launch in 2017,
+Gitcoin has helped 72,912 funders reach 303,274 earners. With the help of
+Gitcoin, other organizations (even those outside of web3 like Open Collective)
+have ran QF rounds. Gitcoin’s next aim is to scale through Grants 2.0, a
+decentralized, modular, forkable Quadratic Funding protocol for anyone to run a
+QF round in their community. Each round generates collective intelligence data
+on which public goods are perceived as most valuable. This data currently
+represent Ethereum's ecosystem preferences but, if QF scales, it could
+represent the world's preferences of what efforts are considered essential to
+support.
+
+In a regenerative open internet, anyone can access resources in proportion to
+their value creation independent of geographic location, education, or
+background. Builders can connect, join the DAO’s working groups, learn through
+Kernel, or build collaboratively through Hackathons and Bounties. There are
+311,668 monthly active developers. Moonshot Collective brings developers
+together to create open-source software tools that enhance internal operations
+for GitcoinDAO. Other DAOs can leverage these toolkits for their operations.
+Tip.party, for example, is a toolkit to holistically reward contributors.
+
+Perhaps the most important role of Gitcoin is that it is a Schelling Point for
+people who want to use wbe3 to create a better world. This translates into
+cultivating vibes & an internal culture that supports human thriving. This involves
+experimenting on governance systems, creating spaces for open conversations
+on public goods, and designing organizational frameworks for better contributor
+experiences. Grants have encouraged others to implement Retroactive Public
+Goods Funding or Aqueducts to commit a % of one's earnings to public goods. It
+has catalyzed the idea of a Solarpunk future and the meme of Regenerative
+Finance to the public. Schelling Point Conferences, memes, lore, Solarpunk art,
+and educational content, gather many to explore how web3 can solve
+coordination failures & regenerate the world.
+
+41
+ImpactDAO Stacks
+Each ImpactDAO, by definition, creates
+positive externalities, which enables value
+to the rest of the ecosystem. This creates a
+nascent equilibrium of give-first value
+
+creation.
+
+Over time, organic collaboration between
+ImpactDAOs enables a emergent network of
+
+deeply positive sum behaviour.
+Sketching an ImpactDAO stack
+
+Let’s explore how featured ImpactDAOs could, hypothetically, stack for a
+simplified framework of local, sovereign micro-economies that weave
+regeneration into their economic systems.
+
+First, the community collectively decides on the values, goals, and actions they
+will coordinate around and fund.
+
+Celo’s blockchain can power the Valora App for members to transact value,
+containing value flow within their geographical sphere, regardless of the broader
+economic climate.
+
+With Proof of Humanity, members have access to UBI to cover basic needs and
+each member is empowered to contribute their own expertise to uplift the
+community.
+
+44
+Members focusing on agriculture can better provide food for their community by
+applying Regen Network’s use cases. Regen’s research explores best methods
+to regenerate particular living species and how to assert monetary value to
+particular ecological transformations.
+
+How do we verify that regeneration is actually happening? Geospatial and
+remote data sensors (what Astral Protocol is building) can trigger a reward
+
+behavior on smart contracts once the positive change occurs IRL.
+
+We use Proof of Humanity again to verify that the person who worked on the
+soil is the same person who uploads the data and receives the rewards.
+
+S-
+
+Currently, the value of credits is low, but Toucan’s Bridge to transfer credits from
+off-chain legacy registries to on-chain increases liquidity and buyers’ access to
+credit markets which increases demand for credits and value ultimately
+transfered to projects.
+
+The more valuable the credits, the more profitable it becomes for communities
+
+to care for forests rather than extracting forests’ resources. In this regenerative
+system, the health of the ecology improves as the economy grows.
+
+45
+We can apply Quadratic Funding as used by Gitcoin for the community to signal
+which projects resources should be funneled to. Proof of Humanity, once again,
+alllows us to verify that each human represents one vote in governance
+decisions.
+
+Projects could bootstrap with Augmented Bonding Curves as designed by
+Commons Stack. Community members invest in projects they care about; the
+curve design ensures that a portion of the funds is always distributed to a shared
+pool, sustaining public goods even if the original investors exit the project.
+
+AIL
+—O-
+
+All of these tools can be built through Radicle’s open-source software stack.
+
+Beneficiaries of public goods, those who enjoy public roads, public schools,
+restored forests, an artist’s music or a healer’s meditation, can direct Radicle
+Drips to support the continuous value given. The receiving individual or
+organization can further split these drips to the individual or teams that are
+responsible for that work’s creation. ImpactDAQOs hence receive recurring Drips
+from those receiving positive externalities. ImpactDAOs further re-distribute
+Drips to those ImpactDAOs that enabled them to create positive externalities.
+
+46
+6)
+ob
+acer
+
+9,9
+
+Q
+a QQ
+
+Networked ImpactDAO stacks
+
+This example was just one snapshot within a single hypothetical community. As
+we build a new operating system for global coordination, we can incorporate all
+aspects of life and living species.
+
+Networks can have a based on location proximity, or represent globally
+distributed communities with shared ideas and values. ImpactDAOs can be
+globally connected sharing value, talent, insights and resources while
+implementing solutions acorss distributed impact-networks with a distinct
+interdependent ImpactDAO stack. Simultaneous experiments iterating with
+close feedback loops back to a global network creates an ever evolving
+collective intelligence of better frameworks for positive change.
+
+Each ImpactDAO by definition creates positive externalities, there is a
+
+compounding nature to them all working together. In sum, the positive
+externality is the ecosystem - an infinite garden
+
+47
+Innovative webS primitives
+
+* Pods — self-governed and emergent pods that move agency and excecution
+power to working groups increase growth and flexibility. Pods unlock cross-
+DAO collaboration and pods can bud, merge, and split with cross-DAO
+members. Pods by Orca Protocol do not bring prescriptive methods on how
+DAOs should be structured, but are rather dynamic and composable
+structures that DAOs can play with.
+
+* Recognition of value — systems like Coordinape and SourceCred allow us to
+collectively and more accurately recognize and distribute immeasurable
+value. At a human layer, we can bring our whole selves to our work and
+humanize the otherwise top-down experience of sharing, and receiving value.
+The tech layer enables transparency, fairness, and distributed decision
+making.
+
+* DAO collaborations — concepts like token swaps that enable shared stakes in
+each other’s growth, funding shared ventures, and cross-DAO meta-
+governance to decide positive- sum approaches are key components of a
+synergistic ecosystem.
+
+* Science / IP-NFTs — moving away from a monopolized pharma industry
+towards an open-source patient-centric one. DAOs can own, license, and
+transact IP-NFTs from projects they support. DAOs can launch patient-centric
+BioDAOs focused on areas such as Alzheimer’s, cancer, or diabetes research
+with tight feedback loops and collaboration between patients and
+researchers.
+
+48
+* UBI — Proof of Humanity, Impact Markets, and GoodDollar are exploring
+diverse approaches on how everyone can be provided with the financial
+stability to cover basic needs.
+
+* Natural Capital Assets — the ability to back currencies by Nature to tie
+ecologic regeneration to economic development.
+
+* Drips — a continuous flow of value distribution instead of locking value up.
+Anyone can support causes they care about and those who receive can
+further redistribute to those who enabled them to create value. Without
+intermediaries we can collectively fund the action and work we value.
+
+* Augmented Bonding Curves — a typical bonding curve with the addition of a
+shared funding pool, a token lock-up/vesting mechanism, and feedback loops
+that align idividual incentives to the collective funding of a shared commons.
+
+Lid
+AWA
+
+y / I\\\
+
+49
+Our monetary system is very efficient, yet
+not diverse or regenerative. With webs, we
+can design a better economic system and
+embed our values in it. We can move away
+from a monoculture type of economy to
+ecology economies --experimenting on new
+ways to transact value: Praise systems to
+reward that which can’t be measured,
+natural-capital currencies, universal basic
+income, local impact currencies, circular
+economies, mutual credit, location-sovereign
+
+currencies, etc.
+
+These ImpactDAOs demonstrate that we can
+
+program our values into our money.
+©) Impact Markets
+
+Impact Markets’ mission is to lift communities out of poverty. 38,150 beeficiaries
+spread across 33 countries and 208 communities are receiving daily UBI from
+their platform. UBI smart contracts have specific parameters based on each
+community's reality and all beneficiaries can claim cUSD on a regular basis.
+Currently, they rely on donations (from 4,973 backers) to redistribute funds to
+communities. A total of $2,277,254 has been distributed. On average
+beneficiaries receive ~$0.54 per day. The exact rate varies depending on the
+amount raised by each backer for each community, specific local economy
+circumstaces, living costs, and the value of a dollar against local currency.
+
+Operating as a DAO, each community is represented by on-chain smart contracts
+so that community managers and donors influence the future of their protocol.
+Impact Markets is built on Celo, enabling users to transact through wallets
+attached to phone numbers. Current UBI rates might not be high enough to cover
+all basic expenses, however, positive externalities can multiply because the
+money that flows in as UBI is recirculated within the community to generate more
+value. Impact Markets is exploring how to complement UBI with new ways to
+generate income with pilot programs in Brazilian favelas where the protocol paid
+people for each kg of plastic collected and delivered to recycling.
+
+As a donor, you can choose to support anyone in the world and transfer money
+with minimum fees knowing that most of the money will actually reach that
+person and make a difference. Recipients can not only cover their basic needs,
+but also start saving as they become comfortable with digital payments systems,
+borrowing, lending, and the other opportunities decentralized finance networks
+enable. Dashboard with on-chain data: www.impactmarket.com/global-dashboard
+
+52
+» Bloom Network
+
+Bloom Network is a peer-to-peer action network for regenerative cultures. Local
+chapters engaged in regenerative actions can share resources with each other to
+rapidly upskill each community. 30,000 people on the ground across 16 local
+chapters in 11 countries establish local economies focused on food sovereignty,
+transformative justice, arts gatherings, and regional autonomy.
+
+Local Bloom DAQs form regional token economies focused on local impact
+projects around their bioregion or watersheds. Bloom Network acts as a
+connective tissue and knowledge sharing enabler for projects to fork initiatives in
+different locations. Bounties incentivize regenerative actions and direct a
+percentage of stacking rewards to local chapters. Although the official DAO is not
+yet formed, communities have been actively organizing and operating for years
+on grassroots efforts.
+
+One example of a local Bloom DAO is a Rio de Janeiro network that runs on Muda
+currency to encourage cultural, educational, and socio-environmental actions
+that are often not covered by the traditional financial system. Members transact
+Muda for doing beach clean up, educating, sharing food, tokenizing forests,
+implementing organic food systems, and for creating networks of value. Similarly,
+other Bloom Chapters organize around collaboration of wisdom, knowledge,
+experience, innovation, and creativity -- important resources that don’t capture
+much value in current, legacy extractive systems.
+
+53
+G*) Grassroots Economics
+
+Grassroots Economics uses web3 to create local, community-specific currencies
+that enable rural communities in Kenya to take charge of their own livelihoods
+and economic future. To date forty-five communities are creating and sharing
+value as members have started 60,000 small businesses since Grassroots
+Economics launched. The project is open-source and Grassroots is actively
+working with communities beyond Kenya to implement these strategies and to
+share insights on collaborating with other ImpactDAQs within the ecosystem to
+increase postive outcomes. For example, Grassroots collaborates with Kolektivo
+on the best regenerative agroforestry practices.
+
+e
+1XO ixo [tot tenses |
+
+iXO aims to finance and verify positive changes in the state of the world to create
+an impact economy. The iXO protocol, which is still being developed, will enable
+users to create verifiable tokenized impact claims. Oracle services independently
+veriify claims, issue proofs of impact and certified digital credentials such as
+Renewable Energy Certificates.
+
+Anyone can invest in project Alpha Bonds through an Impact Marketplace.
+Alphabonds are dynamic token bonding curves that adjust the pricing of shares
+and distribution of future returns in response to feeding real-world changes
+information into the bond. As the probability of a social outcome varies, pricing
+signals act as a feedback loop to direct investments to projects achieving
+successful change. This project is yet to launch and we have yet to verify the
+viability of these ideas.
+
+54
+sf SEEDs [not teunenes |
+
+Seeds is an ecosystem exploring how we can coordinate distributed regenerative
+communities. The project has focused on developing tools, frameworks, and
+methodologies to launch the “Minimum Viable Regenerative Economy”. You can
+access their templates, and extensive guides on regenerative financial systems,
+and social and ecological practices. Communities can launch Decentralized
+Human Organizations (DHOs) and coordinate around local food economies. The
+SEEDs currency (not live yet) is allocated through contribution scores based on:
+a) Economic Contribution: stacking and transacting SEEDs with local
+organizations that support regenerative practices; b) a Social Contribution:
+community-building, organizing events, and sharing knowledge and services.
+
+Citizens’ contributions are multiplied through reputations of their expertise, time,
+and value. Organizations earn contribution scores which are affected by
+contribution to the local economy (e.g. volume and number of transactions),
+regenerative reputation (the extent to which the organization contributes or
+extracts from the environment), and collective opinion of how much value is
+offered by the organization.
+
+Seeds is structured in complementary DHOs where resources, talent, and
+attention flow between DHOs wherever its most needed each season. Seeds
+Commons focuses on budgeting and coordination. The Explorers group
+facilitates research on new proposals to implement, the Tools group develops
+apps and smart contracts. Regenerative Civics Alliance is an incubator where 12
+projects will implement local regenerative economies using Seeds’ toolkit.
+
+55
+To bring back the green to our planet by
+supporting material & living capital. These
+ImpactDAOs are building the tools for us to
+embed regeneration within the core of our
+
+financial system.
+Noss.earth
+
+Moss purchases and tokenizes the credits of reforestation and conservation
+projects in the Amazon Rainforest. Tokenizing credits increases traceability,
+transparency, and prevents the double counting. One MCOQ2 token is equal to one
+tonne of CO2. Moss.earth also increases accessibility to the carbon credit
+markets which is important because as market participation increases so does
+financing for regenerative projects, diminishing incentives of extractive activities.
+
+Families excluded from labor markets can obtain jobs that protect the rainforest.
+Projects are selected on threatened areas. Investments then commit to capture
+20 years of satellite imaging, and on-the ground sampling of flora and biomass.
+E.g Ituxi is located in one of the most deforested areas of the Amazon that has
+been subject to illegal logging, cattle raising, and land grabbing. That area is now
+protected by local communities that recieve funding and education on forest
+management and sustainable resource management for agriculture such as acai
+and chestnut tree cultivation.
+
+Moss has sent $30 million to Amazon preservation projects, preserved 301
+million trees, and avoided 1.33 million tons of emissions. Separate from the
+MCO2tokens, anyone can purchase an Amazon Forest NFT representing the
+protection of a hectare of rainforest. Buyers can digitally monitor that hectare
+with remote sensing tools enabled by Descartes Labs. Moss committed to a 30-
+year protection fund to cover the costs of patrolling, satellite imagery, and any
+other demand necessary for the security of the areas. Moss works with more
+than 200 clients including Gol, Brazil’s largest airline, to offset their emissions.
+
+58
+& Nori
+
+Nori is a marketplace connecting buyers and suppliers to carbon removal.
+
+1 Nori Removal Tonne (NRT) warranties the buyer that CO2 will be sequestered
+for at least 10 years. If a buyer purchased NRT and natural events cause the
+carbon to be released, Nori will buy new NRTs to guarantee each NORI always
+represents 10 years. Through regenerative agriculture practices farmers
+increase CO2 sequestered in the soil. Carbon rich crops have more organic
+matter increasing crop yields, but improvements aren’t seen until after ~7 years
+which is why farmers need upfront financing to transition to these practices.
+
+The NORI token will allow for price discovery. People purchase 1 NRT receiving 1
+NORI token that can be freely traded. The NORI price in dollars varies by supply
+and demand. However, each NORI only buys one NRT that is retired upon sale
+preventing double counting of carbon removal. Farmers on Nori spend ~90% less
+certifying and verifying their projects. Since 2019, Nori has sold (hence removed)
+~76,000 tonnes of carbon, paid $1.41 million to farmers.
+
+36 K1imaDAO
+
+KlimaDAO has so far accumulated 16,374,289 tonnes of carbon via BCTs from
+Toucan. Their launch created initial high liquidity for the ReFi ecosystem with
+over $53,404,772 in protocol-owned liquidity. Their token KLIMA is an
+inflationary carbon-backed currency. They are on-boarding more carbon assets
+on-chain via SubDAOs such as with MCO2 & GNT tokens from Moss and
+GoddessDAO. On chain data: https://dune.xyz/Cujowolf/Klima-DAO
+
+59
+Astral Protocol [ Not Launched |
+
+Astral Protocol bridges the physical and the digital through an ecosystem of
+location-based web3 applications and spatial contracts. Astral designs tools to
+for devs to easily build location-based dapps. Astral’s on-chain map of the world
+interoperates with verifiable location claims. Tools include verifiable smart
+contract-based spatial data registries, location claims, and a Web3-native
+geospatial data storage system on IPFS for storing sensor data.
+
+Astral will enable us to tie smart contract’s behaviour to changes in an ecological
+state of a given ecosystem. This supports human assesments by combining data
+collected from sensors directly in the environment, with satellite or drone remote
+sensing data and human inference we can better understand ecological
+conditions. Now on-chain actions are tied directly to the real world reality. This is
+key to designing natural capital currencies as we need to transparently verify
+natural assets are protected or to retroactively reward communities for
+regenerating a dry crop of land.
+
+We can adapt to changes in the ecosystem’s health. Suppose we detect
+indicators of ecosystem degradation, E.g. "humidity reaches X range". In that
+case, we direct attention to the specific area for targeted, less extreme
+interventions to preserve ecological health. Sprout is another use case, a
+sustainability link bond that links loan terms to environmental metrics that
+farmers could leverage to finance activities. Local contracts (smart contracts
+that can use location as a condition in its control flow) could serve for tools of
+territorial sovereign governance with use cases like intelligent transport, supply
+chain and logistics. Eventually, we could use Astral’s spatial data registry
+combined with a location-based filter for local-complementary currencies.
+Conditioning transactions through boundaries could enable local groups to
+continue to create and exchange value regardless of the global economic state.
+
+60
+[3] Ethic Hub
+
+Unbanked smallholder farmers who produce 14 of the food we consume in the
+world have no access to banks, registered identity, or collateral needed to access
+traditional finance loans.
+
+Farmers can borrow capital at a 70% discount from current markets. Applying
+crowd-lending backed by crowd-collateral, lenders stake collateral on the
+farmer's behalf to secure the farmers’ loans and insurance premiums to protect
+them in case of crop failure. EthicHub provides farmers with access to markets
+they can sell their products to. EthicHub has intermediated over $ 1.2M USD on
+loans retaining less than 1% default rate.
+
+& Ayowecca Uganda
+
+Climate change has led to prolonged droughts, erratic rains, and declined
+agricultural production in Uganda. Through permaculture, Ayowecca plants fruit
+trees in schools and trains local farmers to setup farms in their backyards.
+Ayowecca gives farmers seeds and equips them with basic agricultural and
+knowledge and entrepreneurial skills so they can have sustainable livelihoods.
+
+This project has been financed through Gitcoin grants and has thus far restored 3
+wet lands, planted fruit trees in 16 schools, in 8 health centers, and distributed
+5000 seedlings to communities. They have collected 10 tones of plastic.
+Ayowecca will plant trees in 64 schools, 40 heath centers this year.
+
+61
+@2 Eden Dao Caria |
+
+The Eden Dao is a protocol to accelerate carbon removal. Eden DAO's thesis is
+that by creating tokenomics that reframe carbon as a source of money in the
+world (instead of a cost on the shoulders of corporations or consumers), it
+unlocks an elastic, optimistic demand engine that bootstraps world carbon
+removal supply.
+
+To save our planet, we not only have to massively reduce the 40B tonnes of CO2
+we emit every year, but we will also have to capture all our historical emissions.
+This requires a global carbon removal ability of 50-100B tonnes a year. We
+currently remove 40M a year. Eden dao provides liquidity for pioneering projects
+to scale their high quality carbon removal methods by buying their future offsets.
+
+© Solid World DAO [tot Launched |
+
+Solid World DAO is building a carbon market place through tokenizing pre-
+purchased carbon credits, providing liquidity to bootstrap projects and bridging
+their carbon offsets on-chain to Toucan/Flow Carbon. This unlocks funding for
+pre-certified carbon sequestration projects to help them get off the ground.
+These projects might have otherwise not been able to scale due to long,
+expensive traditional certifying processes. Solid World DAQ’s existing set of
+projects encompass a network of over Imillion hectares of suppliers that are
+helping farmers, forest owners, and mangrove growers.
+
+62
+ss. Treejer
+
+Treejer connects donors with rural planters worldwide through smart contracts. A
+portion of donations go to fund Rural Development and Tree Rescue (tree
+insurance against natural disasters). Treejer has planted 200 trees and enabled 4
+community development projects in forest areas in Peru.
+
+@) Flow Carbon
+
+Flow Carbon tokenizes carbon offsets from large-scale forest conservation and
+nature restoration projects enabling a transparent and efficient revenue stream
+for projects on the ground. Corporations, individuals, and protocols can easily
+access and trade credits in crypto exchanges. The GNT token corresponds to
+nature-based solutions from Verra, CCB Standards, and Gold Standard.
+
+Focusing on nature-based solutions, Flow Carbon prioritizes projects that support
+livelihood opportunities for indigenous communities or protect areas of high-
+biodiversity ecosystems or endangered wildlife. Projects include Katingan
+Mentaya Forest Protection protecting 40 endangered species in Indonesia or
+Selva Mataven Forest supporting 16,000 indigenous people in Colombia.
+
+A BasinDAO
+
+Basin DAO will generate carbon and eco-credits through protocol owned real
+estate and joint ventures with landowners. They execute climate, nature and
+carbon projects emphasising "core benefits" such as biodiversity, ecosystem
+services and climate resilience.
+
+63
+® senker Cara |
+
+Seken is a gateway to the web3 carbon and regenerative economy: Corporations
+looking for carbon offsets, investors seeking ESG assets, or a regen human who
+wants to directly support carbon projects without intermediaries. Its current
+focus is on projects in Africa to enable financing and pre-financing opportunities
+to project developers who would ottherwise not have that access. Royalties of
+future credit sales funnel back to communities & land owners. Working with
+other projects like Toucan Protocol to tokenize these carbon offsets, they ensure
+the transparency, traceability, and no double counting of credits.
+
+2 Return Protocol [sot Launches |
+
+Return Protocol will allow users to automatically and passively offset their on-
+chain transactions across any blockchain. Storing Return’s NFT in your wallet set
+up with offsetting preferences, you can transact as normal while offsetting
+happens in the background. As funds are directed to carbon projects,
+transactions can become carbon neutral or even negative. Launch in May 2022.
+
+Ce KumoDAO | Not Launched |
+
+Kumo aims to create a carbon-backed stablecoin pegged to USD. Users can
+borrow interest-free KUSD against tokenized carbon offsets. If this is achieved,
+every transaction will act as a vault for carbon credits, embedding climate action
+into every transaction. This mechanism would need high demand for KUSD to be
+used throughout the ecosystem. The more KUSD is in demand and in circulation,
+the more carbon is taken off-market and the more financing is available to
+carbon projects. Viability is yet to be seen as the protocol is yet to be launched.
+
+64
+© ReFiDAO
+
+ReFiDAO acts as a home for ReFi project. They have been one of the driving
+initiatives for the collaborative growth of the ReFi ecosystem with initiatives such
+as founders circles. They launched the ReFi podcast to educate about
+meaningful climate impact using web3. They are also exploring an open-source
+event framework platform for local distributed ReFi meetups.
+
+In the future, the ReFi hub will show talent, jobs, and act as an aggregator of ways
+one can get involved in ReFi projects across the landscape.
+
+a) A114Climate
+
+All4Climate builds bridges from web3 to climate activists on the ground. They
+onboard nonprofits into understanding how web3 can help their operations and
+provide a platform and community to launch climate initiatives.
+
+‘jg Moonjel1y [act tenons]
+
+Moonjelly DAO aims to direct funding to ocean projects. A community governed
+fund will allocate decision power gated by educational and reputation NFTs
+earned through contributions and completion of relevant education flows,
+developed by ocean scientists. In Q3 2022, they will launch a token to raise
+
+liquidity, pairing scientifically proven impact, with indigenous artists, to generate
+further funding.
+
+65
+dClimate
+
+Web3 enables dClimate to build Earth's climate record on-chain accessible to all.
+With Climate information, communities can understand how climate affects
+where they live & leverage this to build tools to adapt and improve conditions.
+
+dClimate's data was used for $250 million+ of parametric weather risk insurance
+helping farmers in underserved regions like Cambodia get covered for as little as
+$11 with Arbol and Chainlink. Their carbon program launching this year will
+protect the Congo Basin rainforest by tokenizing 100 million tonnes of CO2
+throughout Africa. On-chain satellite monitoring and verification will prevent
+deforestation. Through an loT weather program, underserved communities can
+monetize data they collect in areas lacking granular insights. Since launch, 1500
+unique users have made 1 million+ requests of the free 2OTB+ climate data-
+satellite, carbon, temperature, rainfall, and wind data, including 60 million+ grid
+points and 120K weather stations.
+
+() Shamba
+
+Builds an oracle to provide web3 projects with geospatial data and analytics to
+support applications like parametric insurance, carbon and eco-credits on the
+regenerative finance space. On chain models can map and quantify ecosystem
+services such as carbon sequestration, or use machine learning to identify
+potential hazards like floods from satellite imagery.
+
+66
+@EP open Forest Protocol | tet tances _|
+
+Only large projects can access carbon accreditation, an expensive accreditation
+process. We have minimum ways to verify that projects are contiued to be taken
+care of. Open Forest Protocol brings reforestation funding, verification, and
+monitoring fully on-chain, unlocking carbon financing for projects. Through OPF
+anyone can directly invest in forest project operators and indegenous
+communities, who are planting and caring for a reforested area. Forest projects
+are registered as an NFT holding unique geospatial, ecological, and monitoring
+data. A network of validators can transparently verify or challenge forest data
+before on-chain carbon credits are minted, hence ensuring immutable and
+transparent credits. This data is verified every year to ensure forests continue to
+grow and are protected.
+
+The project is pre-launch but they have 200,000 hectares across 24 projects in
+Africa, Latin America, and Europe committed through Open Forest Protocol.
+
+A regenerative NFT marketplace that incentivizes actions that maintain native
+ecosystems (ie. tree planting). Avano uses satellite, IOT devices, and
+georeferenced images to measure and verify regenerative actions. Users can buy
+NFTs where data is recorded and updated over time. As the ecological value is
+improved and updated, the value of the NFT grows, backed by evidence of
+natural value. This is yet to be launched.
+
+67
+H »)) HeliosDAO [sot Launches |
+
+Helios invests in solar projects in emerging markets. It has funded 4 solar
+installations in India that will sell clean energy to industrial customers. E.g., $250k
+was invested in a project in Pune, India generating 500kW of power to the local
+grid, reducing customers’ bills by 47%, and preventing ~1000 tonnes of CO2
+emissions per year. Web3, unlocks the ability to directly send funds internationally
+to emerging markets. Solar markets in the US and EU large capital chasing few
+opportunities drives the returns of solar down. In emerging markets, the opposite
+is true. Lack of financial infrastructure and limited access to institutional capital
+leads to low liquidity that could fund thousands of high impact projects. Data on
+all transactions, power generated, carbon emissions prevented, and investor
+returns are available on chain.
+
+©) digital Gaia [ot Launched |
+
+Local stewards, experts, and scientists can investigate and cross-validate
+knowledge of field data, scientific models, & local practices. Integrating that with
+real-world data builds a collective intelligence on regenerative practices.
+
+Slow, expensive, and opaque methodology standards create bottlenecks
+between communities ready to positively impact the environment and a global
+market ready to fund them. In digital Gaia land stewards will be able to submit
+projects for experts and independent researchers to assess and provide
+feedback on methodologies. Independent assessments increase the impact
+rating for projects to get financed. Bounties encourage continuous data
+collection on the ground. Once projects are verified, impact-credits are created.
+We are yet to see this implemented in action.
+
+68
+To regenerate the earth, we need to scale our
+ability to identify, optimize, and accelerate
+solutions that actually work. We also need to
+tailor each to their specific location and
+improve these with scientific expertise and
+
+indigenous knowledge.
+Re Protocol Labs
+
+Protocol Labs explores, starts, supports, and grows ways to make our digital
+technology better for humans. Their research explores decentralization,
+knowledge sharing, computation, energy, funding, distributed systems,
+cryptography, etc. All research is open-source, with users and contributors as
+part of the development process. Their licensing approach makes tools free for
+all to obtain and continuously update to match the evolving external reality.
+
+Protocol Labs host an event series Funding the Commons to discuss
+experiments and frameworks to create and fund our collective commons. Topics
+include how to encourage open-source innovation and the maintenance of
+projects, approaches to incentivize risky research, and approaches to fund public
+goods at scale. Two of their main products are IPFS and Flilecoin. With IPFS,
+users can share information directly without needing a central server to name,
+organize, update, and share data. DAO voting systems like Snapshot rely on IPFS
+as a core part of their infrastructure. Filecoin allows users to pay others to store
+data. Fliecoin runs almost entirely on renewable energy from solar farms.
+
+Research areas:
+
+Knowledge Engineering- How can we discover, link, and process knowledge
+available in available data from previous efforts? A product that resulted from
+this research is The Underlay, a global, distributed public knowledge graph.
+Cryptoeconomics —- Engineering practices, tools, and coordination games to
+guide human interaction toward shared goals.
+
+Networking - How can computer networks better enable information to move
+across the globe?
+
+Meta-research - The economics of science and incentive systems in research,
+and validating scientific data and sharing that knowledge.
+
+72
+Ocean Protocol
+
+Even though data enables large innovations and improvements across
+technology and science, a small set of large companies hold and control our data.
+Through Ocean Protocol, more people can capture the value of this data,
+whether it by preserving ownership, monetizing it, or enabling anyone to extract
+insights for scientific or technological discoveries that others can benefit from.
+Developers use Ocean Libraries to build their own data wallets and data
+marketplaces. Data owners and consumers use the Ocean Market app to publish,
+discover, and consume data in a secure, privacy-preserving way.
+
+Datatokens are “data legos” -- ERC20 tokens to access data services. Through
+Ocean smart contracts, one can publish data (deploy and mint data tokens) or
+consume data services (spend data tokens) and re-purpose crypto wallets as
+data wallets and crypto exchanges as data marketplaces. The data itself does not
+have to be on-chain, only the access token.
+
+As a user, you can earn by stacking OCEAN on datasets, publishing and selling
+your proprietary data or adding value to free data sets in Ocean Market. The most
+valuable data to perform accurate research studies is private, but this is usually
+hard to access and has privacy concerns. In the Ocean Market, data publishers
+monetize their data while preserving privacy and control. Al practitioners and
+data scientists can run algorithms, analyze, models, compare, and generate value
+from private data they could not access before without putting privacy at risk
+because the computations happen remotely and the data never leaves the
+premise of the user. Ocean Market is open source meaning anyone can build their
+own marketplaces with tools developed by Ocean. Ocean DAO provides
+community funding to projects to grow within the ecosystem.
+
+73
+2 PrimeDAO
+
+Prime DAO is building coordination tools for a collaborative web3 ecosystem.
+DAOs operate as network organizations where governance drives shared
+resource allocation for common goals. While DAOs are highly interconnected and
+interdependent, they often operate in silos. DAO2DAO relationships are positive-
+sum incentive-alignment mechanisms for the growth of the DAO ecosystem.
+
+Token swaps are the exchange of governance tokens to strengthen the
+alignment in vision of DAOs working on common goals. These tokens can be
+trustlessly exchanged between DAOs dependent on an agreed set of conditions.
+Toke swaps are trustless because DAOs can recover any shared funding if
+conditions are not met. Either the collaboration occurs, with the necessary
+funding being correctly directed, or it doesn’t, and each DAO gets its funding
+back. It is also flexible. Conditions can be added in real-time to account for any
+changes that may arise while a negotiation is in process. DAOs can co-fund a new
+wallet representing a shared liquidity pool or a joint venture such as a shared
+product or research that unlocks value to all parties.
+
+Prime’s Proposal Inverter enables multiple groups to collaborate on a shared
+proposal for common projects and store the allocated funds in a common pool
+that will distribute funds once conditions are met. All of this can happen within
+Prime Deals, a framework and on-chain platform for DAOs to collaborate,
+negotiate, and execute agreements, creating verifiable and enforceable
+agreements. Think of Prime Deals as collaboration-as-a-service tooling.
+PrimeDAO also crowd-sources ratings of protocols.
+
+Prime DAO is already using collaboration mechanisms with Balancer, GitcoinDAO,
+VitaDAO, and Symmetric as well as with the Celo and Gnosis ecosystems.
+
+74
+oP | Optimism
+
+Optimism is a low-cost and fast Ethereum L2 blockchain infrastructure that
+promotes the growth and sustainability of public goods. Optimism is giving all of
+the profits from sequencing (until it is fully decentralized) to public goods funding
+experiments. It has donated $1M to public goods through retroactive funding.
+
+Public goods are underfunded because with no revenue-generating business
+model there is no exit mechanism to encourage the public to invest early in
+organizations. Another problem is how it is easier to agree on what was useful in
+the past than what will be useful in the future. Retroactive funding is as if society
+paused every now and then to look back, survey its citizens, and pay out the profit
+each individual deserves. This creates an exit scenario rewarding projects
+determined by how much public value these projects have already provided.
+
+C Kottani Pay
+
+Microwork and DAOs open opportunities for anyone to earn income, yet banking
+systems make global transfer of value slow and expensive. Stablecoins reduce
+the costs and frictions of sending and receiving cross-border micropayments and
+Kottani can cut transaction fees by 93%. In Kenya, a pilot program used Celo’s
+Valora digital wallet to connect 200 young workers with micro-work opportunities
+enabling untapped talent to access new opportunities. Using Kotani’s off ramp,
+people in Kenya can exchange stable coins for local currencies.
+
+75
+Yr) Orca Protocol
+
+Orca protocol is creating tools around DAO governance that put people at the
+center of the design. Their vision relies on the idea that DAO contributors can
+coordinate within pods. Pods stands for ‘people organized decentrally.’
+Essentially, pods are small working groups centered around one’s expertise.
+Organizing governance around group expertise, each pod has its own multi-sig
+creating mini-DAOs within a larger DAO. Pods can be emergent, fluid, and
+modular, as explained by Orca: “Pods can exist as neighbors, embed or be
+embedded in other pods, split, merge, etc” based on the ecosystem needs and
+can either work independently or in collaboration with each other.
+
+Orca tooling can eventually enable a composable metagovernance framework in
+which each DAO has a meta-pod with stakeholders from different DAOs. This
+acts as a connective tissue of multi-DAO governance councils.
+
+«ph Kleros
+
+Smart contracts are smart enough to automatically execute as programmed, but
+not to render subjective judgments or to include elements from outside the
+blockchain. . Kleros token acts as a 'Schelling token’ which aligns the incentives of
+jurors staking in the kleros court to make fair decisions. Jurors for each case are
+randomly chosen from a pool of jurors that hold the necessary skills. Jurors are
+based around the world and do not know each other. So, each can build their own
+perspective and decision. If jurors vote coherently, jurors are rewarded, and
+penalized if their decision is biased. Web3 allows scaling the number of cases
+processed compared to traditional justice at a fraction of the cost and time. They
+have thus far solved +1200 disputes and have 764 active jurors.
+
+76
+fe: SourceCred
+
+SourceCred makes nuanced contributions more visible and rewardable. They
+build systems to serve community members and flow value across these. As
+communities use SourceCred, a node graph is generated based on their
+contributions. Their built-in algorithm helps determine how much value
+contributions add to a project. Once a contribution is made to a project, an
+amount of Cred is assigned based on how much value it brought to the project
+(the assigned value of Cred to each contribution is decided by the community).
+
+This Cred flows from the contribution to all the people and other contributions
+that made that specific contribution happen. Now you can imagine this graph
+growing connected by lines that flow Cred around the nodes based on what
+enabled what to occur. The more edges one contribution has to other important
+contributions in the project, the more Cred flows into it. https://
+cred.sourcecred.io/#/explorer
+
+NEN] GardensDAO
+
+Gardens is a plug-and-play DAO governance framework that gives organizations
+and movements a sustainable, regenerative token economy for funding public
+goods. # of Gardens DAOs: 22. Gardens are built around a Covenant, which lays
+out the community's mission and acceptable behavior within the DAO. Each
+Garden has a Common Pool from which any community member can propose
+funding from which will be approved through Conviction Voting, with a
+decentralized arbitration court, Celeste, protecting the Garden from bad actors.
+
+77
+ata
+
+fA °
+re Worldcoin [not Launched |
+
+é&
+
+Worldcoin aims to onboard as many people as possible to a collectively owned
+currency to achieve equal opportunity for all. The strategy is to give everyone a
+share of it for free. A major challenge is ensuring that every person on board is a
+human and that they have not claimed their free share of Worldcoin already to
+avoid double claims.
+
+Proving "unique-humanness” without managing privacy has been an ever-
+present challenge. Through a device called the Orb, they can capture the
+biometrics of a person’s eye and convert it to a unique irreversible numeric
+identifier code. Although the image is deleted, every capture of this user’s eyes
+will produce the same identifier. Yet, it is impossible to recreate the image of an
+eye from the identifier. A certificate is generated to create a Worldcoin wallet
+only the first time a user signs up, therefore avoiding duplicate claims.
+
+Naturally, privacy is a key concern. However, this unique identifier code from the
+biometric scan is not stored or linked to any user’s wallet, or transactions, at any
+time.
+
+Worldcoin aims to produce thousands of Orbs to connect as many humans as
+possible to a commonly owned crypto network. They rely on these Orbs to be
+managed by local entrepreneurs distributed across cities, rural communities, and
+bioregions and whom are most familiar with their communities to aim for a
+distribution that represents a diverse, global group of people. The more people
+there are that collectively hold and use the same currency, the more useful that
+currency becomes for each participant. Hence, Orb Operators earn rewards for
+each sign up and on average, one operator signs-up 1060 users per week. Field
+tests are being established across Chile, Kenya, Indonesia, Sudan, and France.
+The project has not launched yet and we are yet to see how it evolves.
+
+78
+wa
+<< XO
+
+ON
+
+WebS is still nascent and we there is
+still exploration to be done on how
+technologies can sustainably design for
+human thriving and the alignment of
+incentives through global coordination
+structures. In order to care for a global
+commons, these ImpactDAOs apply research
+
+theory to practice.
+Cc Curve Labs
+
+Curve Labs designs modular pieces of new organizational frameworks that work
+for both people and the environment. They research, design, implement, and
+assemble composable designs for digital cooperatives, complementary
+currencies, and open-source carbon offset protocols, with web3 financial tooling
+like bonding curves that facilitate liquid and sustainable ecosystems. The
+CurveLabs team has played a significant role in creating projects like Toucan,
+Kolektivo, and PrimeDAO. The core approach to their work is always from the
+perspective of composable and sovereign design exploring how to combine
+open-source blockchain primitives to create novel organizations.
+
+A vast part of their research focuses on how can we tokenize a new class of
+regenerative natural assets to accurately reflect the underlying current material
+realities of those assets through Green of Nature-Based Currencies. Curve Labs’
+research also explores how to apply this tokenomic framework to specific natural
+species like Posidonia Herbarium in Neptune, considered to be one of the most
+important ecosystems in the Mediterranean.
+
+Curve Labs’ Natural Capital Assets Taxonomy research provides approaches on
+how nature can be classified and valued within our financial system based. This
+taxonomy will closely represent a living system as an adaptable taxonomy of
+natural assets in alignment with web3 and ecological principles. Dive into their
+blogs and projects to explore a wide range of tools, frameworks and designs like
+cryptospheric ecotechnics (monetary currencies in service of our biosphere),
+decentralized negotiation prottocols or composable data markets can be
+implemented in real-life applications.
+
+82
+,1=G Token Engineering Commons
+
+Token Engineering explores how we can design social communities, economic
+models, and flows of value for organizations that serve the collective purpose of
+the commons in alignment with individual success. It is the Schelling Point to
+design tools, standards, and methodologies, and to provide funding, for the
+emerging token engineering field. Just like other public good infrastructures (e.g.
+bridges), our future economic systems also need to be designed to be reliable
+under widely varying conditions.
+
+If we can coordinate around standardized tools, processes, and best practices in
+complex system design, we can continue to safely experiment and improve the
+reliability of infrastructure networks in web3. TEC offers free courses, research
+initiatives, and workshops on topics like DAO Rewards Systems and Token
+Engineer Fundamentals so that more people can become skilled in designing
+systems that support and care for our shared resources.
+
+TEC’s work is inspired by Elinor Ostrom’s research which explored the concepts
+of holistic governance mechanisms like conviction voting and disputable voting.
+TEC focuses on iteratively applying that research to their own community. Part of
+this exploration involves launching an economy with an Augmented Bonding
+Curve. The ABC combines elements of crowdfunding with a set of collective
+decision making processes over the use of communal funds.
+
+83
+\)) Commons Stack
+
+Commons Stack builds commons-based micro-economies, realigning individual
+with collective incentives. The Commons Stack develops a toolkit of mechanisms
+& interoperable web3 components that any community can leverage to raise and
+allocate shared funds, make decisions, and monitor progress in supporting the
+commons. Think of it as developing a modular ‘techstack’ to raise funds, make
+governance decisions, allocate capital, and measure impact. As they help more
+
+communities implement this stack they engage in continuous intentional
+experimentation and open-sourcing learnings.
+
+The Augmented Bonding Curve (ABC) is the first modular piece that The
+Commons Stack is launching. ABC acts as a value-transfer interface between a
+commons and the rest of the world. ABC have specific design attributes like a
+vesting period where burning tokens is initially disabled, slowly unlocking tokens
+in correlation to how much capital has been allocated to fund projects, and a
+cash-out exit tax that recirculates to the shared treasury. These attributes align
+token ecosystems and group behaviors towards the maintenance of public
+goods. The value of public goods — including the work that goes into developing
+them — is able to be stored, measured, grown, and rewarded.
+
+The Commons Stack focused the past year to implement the ABC and building a
+cultural framework that (following Elinor Ostrom’s work) prioritizes caring for the
+commons. Token Engineering Commons can serve as a framework for launching
+a sustainable community of independent projects advancing new research fields
+in this case, token engineering. After launching the TEC community, the
+Commons Stack will vote on a community to launch next.
+
+84
+RC RadicalxChange
+
+RadicalxChange explores the advancement of plurality, equality, community, and
+decentralization through building community and education about democratic
+innovation. They research and implement products to upgrade democracy,
+markets, data economy, the commons, and identity. Data dignity, quadratic voting,
+and quadratic funding are some of their most well-known contributions.
+
+Data dignity explores how people should have the power to collectively bargain
+over their data, to make joint decisions regarding its use, and receive appropriate
+compensation. Data dignity is put into practice through Ocean Protocol.
+Intersectional social identity aims to embody human’s social and multi-
+dimensional characteristics. Each person has a digital journal with their
+identifying information. (Only that individual has access the complete data
+stored). If a person inputs X in their digital journal, each participant also stores the
+set of other participants who also keep copies of X. Participants store a degree of
+credit which they can offer as “social collateral” to confirm an identity statement
+of another person. Identify protocols like Democracy Earth and Idena use
+concepts like these for their platforms.
+
+Quadratic voting is when voters can allocate budgets of voice credits across
+decisions to reflect the intensity of their convictions and the actual counted votes
+are a square root of the allocated voice credits. This mitigates the tyranny of the
+majority over minority groups. Quadratic funding is a more democratic way to
+signal the preference of the crowd to fund public goods. In the quadratic funding
+model, a common fund matches individual contributions to a project. A matching
+formula ensures common funds go to projects that are most valuable to a larger
+group rather than projects supported by a few wealthy backers. Gitcoin leads
+their grants round with this mechanism. RadicalxChange’s research helps
+projects across the web3 ecosystem and beyond to incorporate frameworks for a
+more democratic commons.
+
+85
+©. Block Science
+
+Block Science helps us understand how to design human-centred complex
+systems that are positive-sum. They help with pre-launch design and evaluation
+of ecosystem models based on simulation and analysis. The team combines
+mathematical engineering, game theory, behavioral economics, network
+interactions and computational analysis to create healthy sustanable ecosystems.
+Block Science has developed cadCAD, a tool that allows you to create a Digital
+Twin of a proposed framework to validate ideas prior to implementation such as
+exploring the parameters of an Augmented Bonding Curve that Commons Stack
+(mentioned on pg. 82) could implement. They actively develop and share
+designed frameworks on their blogs (too many and complex to describe them all
+here) including Risk-adjusted Bonding Curves for Financing Impact, and
+researching approaches to engineer ethics at the core of web3.
+
+oo
+
+Other Internet
+
+_
+
+Other internet studies and builds social technology that aligns with and embeds
+collective values and culture. ‘Social technology is the hardware and software
+that determine how we organize and collectively live our lives. It is also the ideas,
+knowledge, economics, and institutions that drive culture and sustain societies’.
+
+Emerging technology has no playbook or known solution, Other Internet
+consults, engages in a joint-discovery with values-aligned projects. They develop
+communications strategies, product designs, social policies and interventions in
+complex governance and community ecosystems. It is a group of people building
+a deep understanding of technologically-driven change. They develop narratives,
+initiatives, and software primitives that88upport a technologically-driven change
+that is free, fun, peaceful, and equitable.
+
+86
+*,| MetaGov
+
+MetaGov is a research collective that is designing tools for us to navigate
+evolving applications of governance. In web3, communities have the right to self-
+governance (the right to come together and organize their own social and political
+insitutions). Self-governance is enabled by the architecture of the platform in
+which people interact. Some of their work includes research papers like
+composing games into complex institutions, Govbase lab building data sets in
+online governance, or the Metagov gateway - an open-source API to connect
+decision making tools to platforms where decisions need to be made.
+
+NN Sovereign Nature
+
+A home for exploration and development to reconfigure the relationship of
+humans and nature, with an emphasis on sustainability and self-governance, at
+the intersection of ecology, economy, and emerging technologies. They develop
+technology and web3 tools that reconfigure, rebalance, and restore ecosystems
+both internally as a team and externally through Hackathons. To date, they have
+hosted two hackathons with over 30+ nature-based initiatives participating.
+Sovereign Nature provides support to further incubate and develop these ideas.
+
+A product under-development is a way to capture both extrinsic(i.e. ecosystem
+services) and intrinsic (appreciative value from donations) value into a wallet
+where value is locked "in nature”. For example, we can capture and store the
+dynamic value of specific living species of a networked ecosystem or ecosystem
+service to balance and regulate the climate. This value is then redistributed to
+actors (communities/rangers/nature-stewards) that are restoring the ecosystem
+where these species live. This framework of identity, value generation, and
+capture is being established on a decentralised eco-centric governance model.
+
+87
+V Values Index | Not Launched |
+
+Values Index is building a crypto index fund that incorporates environmental,
+social, and governance (ESG) criteria. They are still developing the approach, but
+the first phase will be an open-source database for ESG metrics in web3. The aim
+is to collaboratively collect data on leadership, boards, employees, social
+following, GitHub contributions, proof-of-stake, carbon offsets, and funded D&l
+initiatives to inform an industry-standard scoring methodology for the ESG
+impact of web3 projects & protocols. Finally, they'll build products that enable
+people to invest in projects & protocols aligned with their values.
+
+S¢ Crowdmuse [not Launched |
+
+An open-source collaboration platform with forkable, regenerative business
+models called “smart workflows.” Crowdmuse researches, pilots, and deploys
+smart workflows on chain so the community can contribute to existing projects,
+or fork their own local versions of sustainable supply chains, circular products,
+net zero emission initiatives, and regenerative communities.
+
+Innovating smart workflows includes building web3 primitives to enhance
+dynamic value creation/distribution and evolutionary knowledge networks. It
+realigns incentives for open-source, collaborative R&D, and project development.
+The first smart workflow is a sustainable fashion brand and supply chain that
+brings together fashion designers, tailors, recycling manufacturers, and fast-
+fashion corporations to build hyperlocal supply chains for upcycled and recycled
+fashion brands.
+
+88
+These ImpactDAOs are marketplaces that
+create avenues for funding other
+ImpactDAOs. These New Giving Economies
+are the first capital that many new impact
+
+projects get.
+(oe Giveth.io
+
+Giveth is building a culture of giving embedded in abundance - to reward those
+who give. Projects benefit from receiving 100% of the fund, and donors benefit
+from receiving GIV and can increase their rewards by stacking in the GlVfarm.
+Donors who give to verified projects -those who prove they provide a valuable
+public good- receive continuous stream of GlVback tokens to continue giving to
+other projects (think tax-deductible donations without the paperwork and
+bureaucratic hassle). Those with GIV tokens can participate in decision-making
+on the Giveth ecosystem.
+
+Giveth’s long term vision is to empower initiatives to develop their own
+regenerative microeconomics. [This is not yet live but a promising concept we
+wanted to include]. First, a curation system would allow users to stake their GIV
+on projects they care about, signaling support while earning a yield. A successful
+project in the GlVcuration will eventually get its own GIV-collateralized bonding
+curve, called a ‘Gurve’.
+
+For donors supporting projects with a Gurve, their GlVbacks are split: donors get
+some GiV and the rest goes to the Gurve, minted as ‘project tokens’. Volunteers
+and the team can also earn project tokens through contributions and once the
+Gurve is live, the projects can use voting systems to govern their donations. With
+Gurves, a successful project on Giveth will be able to become a sustainable DAO,
+governing its own economy, with its supporters as stakeholders and donors as
+impact investors
+
+As of today, there are more than 900 verified projects on the platform. Since
+
+March 2021 there have been a total of 9,547 donations from 3462 unique donors
+for a total of $615,445.94 to projects working on public goods.
+
+92
+\ Angel Protocol
+
+Less than 60% of charities have enough saved in their reserves to cover more
+than one year of operating costs. Angel protocol’s platform enables charities to
+receive low-risk, high yield perpetual endowments.
+
+All donations are invested in DeFi products currently earning ~ 20% annula yield
+for partner non-profits. Donors can choose what percentage of their donation
+goes directly to the non-profit versus to the endowment. There are 130 charities
+onboarded, over $6M donations in endowments, $1.5M raised for climate
+change, $500K sent for Philippines disaster relief, $200K raised for Ukraine, and
+80 Angel Alliance giving partners.
+
+& DoinGud
+
+The DoinGud platform aims to empower creators to tap into sources of income
+while supporting social impact causes they care about. Creators can upload their
+work to the platform where curators and collectors can discover new art
+creations. Social causes can sign up to the platform to receive a portion of the
+proceeds artists choose to donate to.
+
+Their Ocean Drop sale to support Open Earth’s foundation work raised $61K to
+support the development of blockchain tools to enforce illegal activity in ocean
+conservation zones and implement ecosystem service credits for financing
+marine conservation starting with a pilot project in the Cocos Island marine
+sanctuary.
+
+93
+@ Unchained Fund
+
+Unchained Fund raises and distribute funds for humanitarian aid quickly,
+transparently, and efficiently. Their efforts have been focused in on-the ground
+humanitarian needs in Ukraine. They partnered with a Ukrainian startup Weld
+Money which enables anyone to pay with crypto with a paycard, just like you
+would do with a regular bank account. Through this paycard, Unchained Fund can
+send direct aid to families in Ukraine. Unchained raised $7,585,546 and
+distributed $3,778,229 so far to 9015 applicants. Areas of donations include
+refugee support, food, communications, protective equipment, medicine, and
+direct transfer aid.
+
+ewe
+ve Endaoment
+
+Endaoment has directed $38.5M crypto donations to nonprofits, given $21.8M in
+grants, and supported 1.5M nonprofits. Donors can directly fund nonprofits or
+donate to a community fund. Partnering with Circle, they wire payments to
+organizations through USDC stablecoins or via wire payments directly to US bank
+accounts. All contributions are tax-deductible.
+
+rae) PactDAO
+
+PactDAO is forming a coalition of mutual aid organizations to build a peer-to-peer
+reciprocity network of goods, skills, and services through social tokens powered
+by confidence amongst members. Mutual aid enables the community to rely on
+each through non-financialized means instead of on capitalism. Pact has
+deployed $12K to local, grassroots organizations in NYC.
+
+94
+Ss Goldtinch
+
+Goldfinch unlocks lending to anyone in the world. Their decentralized credit
+protocol for crypto loans without collateral expands access to capital in emerging
+markets. They are serving 200k+ borrowers across India, Nigeria, Southeast Asia,
+and others. Currently, many lending protocols require overcollateralization
+preventing many borrowers in the world fom participating. Goldfinch uses a
+concept called trust through consensus where borrowers show creditworthiness
+based on the collective assessment of backers, liquidity providers, and auditors
+to allocate capital. They have $82,568,598.95 in active loans.
+
+© PopcornDAO
+
+Popcorn Network creates yield-generating DeFi products for users to earn from
+their cryptoassets and redistributing a portion to impact causes. They distribute
+34% oft their fees to social impact organizations chosen by the token holders.
+Popcorn’s dashboard calculates emissions and directs a portion of their fees
+(~2%) to Patch.io projects for fund carbon offset projects.
+
+G) Good Dollar
+
+GoodDollar is an anti-poverty protocol and DAO that creates an ongoing UBI
+stream flow to everyone who signs up as a human. Users can also stake with
+GoodDollar. They have streamed $50,000 UBI to more than 300,000 people.
+GoodDollar wraps around yield-generating decentralized finance protocols.
+Those funds are used to mint a reserve-backed crypto-asset (G$), which is used
+for yield-payouts and distributed daily as digital basic income to users.
+
+95
+Culture
+and
+Education
+Much of learning is experiential. These
+ImpactDAOs create cultural conduits for
+education and community. Students take an
+active role in crafting and creating the
+content and educational experience.
+Similarly, communities can craft the
+
+environments they live and share in.
+(6) Kernel
+
+Kernel is an experiential, 8-week exploration of the depths of web3 that explores
+questions that care about the nature of the work we do and how it can help the
+people we care about.
+
+This open, peer-to-peer network of humans exploring web3 and re-creating the
+experience one Block (cohort) at a time, Kernel explores the technical concepts
+of how blockchain operates while grounding those concepts in human principles.
+As systems are built, there should be trust, shared value, inclusivity, and aligned
+incentives, while also empowering the scaling of abilities. Kernel’s content
+encourages us to ask better questions and to always consider our intentions first
+with humility, honesty, and intentional service. By pursuing one’s own Adventure,
+or by participating in a Guild guided by other fellows, each cohort experiences the
+knowledge in full participation and exploration.
+
+Over the past two years, Kernel has completed 5 cohorts and there are now over
+1,000 Kernel Fellows throughout web3. Kernel’s open-sourced 8-module, 16-
+lesson syllabus is a comprehensive and expansive lens on Web3 that
+demonstrates how by collectively co-creating a set of projects and technologies,
+can regeneratively cultivate a web to enrich our shared commons.
+
+Pot? Protein
+
+An incubator for regenerative projects to develop in an ecosystem that
+encourages the positive growth of people and ideas. Protein aims to discover how
+to best quantify and measure the impact of web3 projects. Legacy models for
+growth are often extractive, exploitative, and winner take-all, and they do not take
+into account their detrimental effects on the shared commons. Similar to the
+integral functions of protein to the human body, as an ImpactDAO Protein aims to
+support the regenerative development and growth of its community projects.
+
+98
+foreaw DreamDAO
+
+Dream DAO is creating a path for Gen Z to explore and meaningfully contribute to
+the web3 x social impact ecosystem. Dream DAO provides diverse, global Gen
+Zers (15-20 years old) around the globe with the training, funding, and
+mentorship to become civic innovators. 41 builders are laying the groundwork for
+the DAO and its educational experience by developing governance, web3
+learning materials, and establishing partnerships for future projects.
+
+Members enter as Builders, grow as Explorers, and take-off via a Launch Year.
+Biweekly “Learning Together” sessions feature a community member or guest
+lecture on a web3 concepts that can bring us closer to a Solarpunk future. The
+Explorers program will place place 10-15 builders in impact-driven web3
+organizations. The Launch Program will provide resources for one year to those
+ready to dive into web3 x social impact full-time.
+
+@ Forefront
+
+Forefront acts as a launchpad for web3 explorers to learn and create communities
+driven by social tokens. The main northstar, however, is to nurture human
+flourishing. They recently strongly highlighted the concept of DAO rhythms. In
+their Off-Season the community took time to re-align, internalize learnings and
+assess their priorities and focus on contributor well-being. Well-being is
+supported through exploring polarities at the Individual level (autonomy vs
+contextual awareness) and Organizational level (decentralization vs coherence
+through focus and designed structures. Specific projects include developing
+enriching contributor experiences other DAOs can learn from; research, deep
+storytelling, and curation for social tokenized communities; and building products
+to support social tokenized communities.
+
+99
+@\ The DAOist
+
+The DAOist supports collaboration in all its forms: the cultural shift that DAOs
+enable, a lifestyle lead through purpose, and the tenets of ownership,
+collaboration, and openness. Projects and efforts to produce DAQOs through
+cultural public goods is governed are Dawn DAO, which is in-itself co-organised by
+individuals who belong to multiple DAOs. Through IRL co-living spaces, events,
+and media, the DAOist explores the collaborative possibilities across DAOs.
+
+Metahubs are co-creation spaces where DAOists can meet for team bonding,
+collaboration strategies, and brainstorming. The first Metahub is located in Lisbon
+and is active since April 2022. Art, tech, and policy residencies will be hosted
+there to further explore DAO2DAO collaborations though in real life co-living
+experiences. The DAOist events, Global Governance Gatherings, and smaller
+meetups create space for members across DAOs to deepen bonds, engage in real
+conversations, ask hard questions, and tackle shared challenges. These events
+have been organized to date in Paris, Lisbon, Mexico, Barcelona, and Amsterdam.
+
+Through media they produce, The DAOist team narrates different layers of how
+collaboration and co-creation can be embed as a lifestyle within the strategic
+scope of a DAO roadmap through content, videos, etc. A shared leadership stake
+in DAOist efforts through “Ambassadorships” is another layer of collaboration
+where outside DAOs focused on creating public goods can become part of the
+DAOist roadmap. Current Ambassadors include Giveth, PrimeDAO, Celo, and
+Eleven Yellow.
+
+100
+a CabinDAO
+
+CabinDAO is a network that focuses on how can we build decentralized cities
+with shared governance, culture, and community across independent physical
+nodes. With an emphasis on IRL residencies and retreats for digital communities,
+the DAO owns 50 acres of land and hosts DAO retreats and operates residency
+programs in order to share solarpunk learnings and tools for coordination.
+
+Crypto Culture & Society
+
+CCS is building the liberal arts of crypto by exploring the impact of crypto on
+culture and society. CCS aims to solve three main issues in the education system:
+a) students often pay high tuition and take out loans to attend college and yet
+have barely any say on where those funds are spent; b) online courses are good
+alternatives to IRL classes but are mostly focused on practical skills and lack
+community, network, and real-time collaboration opportunities; and c) internships
+and apprenticeships provide concrete experience, but in a very narrow scope
+pertaining to the tasks at hand.
+
+In a learning DAO, students co-create the experience. They can also experiment
+with new reward structures such as turning workshop content into research
+material that guest speakers can share with the broader community and
+monetize. CCS has had two cohorts of students to date. Their most recent
+semester focused on how we design our digital futures. Discussions explored
+topics like “Humane DAOs, Humane Products” and “The Evolution of Community-
+owned Resources.” The curriculum includes social experiences, elective courses,
+and tracks through which students can create content for future cohorts.
+
+101
+® The Ready
+
+Since 2015, The Ready has been operating as a self-managing consultancy,
+helping organizations develop more human and adaptive ways of working. Today
+they translate that expertise to support DAOs that explore emergent, self-
+managing, fluid organizational design. Within their framework, The Ready helps
+DAOs create a fertile space for inspiration and participation that improves DAO
+contributor performance and the contributor experience.
+
+The Ready offers consulting for DAOs. The novelty is that change happens in a
+collaborative design and co-creation between DAO teams and The Ready to pilot,
+iterate, and evolve new ways of working. Their frameworks on how improved
+decision making, dynamic budgeting, and helping leaders “get out of the way”
+can allow cultures to emerge is available through podcasts and blog posts.
+
+II4- Twoplus [te tavones |
+
+Empowers digital communities to thrive and create positive impact by putting
+mental fitness at the core of collaboration. Through ttheir community and
+cohort-based course, TwoPlus explores, designs and implements best practices
+to shape DAOs as strong mental fitness communities. The course blends
+indiviidual self- managing frameworks with higher organizational-wide practices.
+
+O
+
+~~ Matives in Tech
+
+Natives in Tech aims to cultivate an ecosystem of Native technologists that build
+free and open source technology for the use of Native communities. Natives in
+Tech DAO members host and take part in conferences and create opportunities
+for students of Native communities to learn about tech.
+
+102
++ WellnessDAO
+
+WellnessDAO aims to prioritize health and wellness practices throughout web3.
+They currently offer meditation and yoga sessions as well as group accountability
+tools. They plan to expand next into IRL centers and retreat offerings where DAO
+members can attend in planned various around the world.
+
+(> Ecodao
+
+Ecodao is a web3 gallery to support the environment through regular NFT drops.
+The proceeds are divided up with 50% going to the artist, 25% to ecological
+causes, and 25% to the DAO.
+
+Verses
+
+Verses is an evolving space to articulate visions for a flourishing future. Verses
+collaborates on planting seeds towards an interdependent cyberspace. As such,
+member contribution is fluid and varies by project. Verses works on objects
+(artifacts, frameworks, mapping ecosystems), philosophies (navigating
+contradiction, permitting sensemaking, building a prefigurative politics for
+pluriversality), fostering a explorative community, capacity (enabling others to
+create predistributing and redistributing resources).
+
+Verses experimental on collective possibility, imagination, and agency includes
+
+pieces like A Declaration of the Interdependence of Cyberspace, exploring the
+path Towards a Digital Pluriverse - a world where many worlds may fit.
+
+103
+© Meta Gamma Delta
+
+Alongside mentorship and access to community, MGD has distributed $300k+ to
+fund women-led projects ranging from NFTs, to DAOs, to DeSci, and is looking to
+launch a $1M fund to stream UBI for women while they go through their
+onboarding in a Web3 fellowship program.
+
+S Surge Women
+
+Focused on educating and securing women's place in web3, Surge Women offers
+content, an all-female web3 jobs board, and an upcoming Surge Passport that will
+provide access to opportunities like free educational subscriptions, scholarships,
+mentorships, financial tooling, & partnerships with mission aligned organizations.
+
+AG HER DAO
+
+HER DAO aims to increase innovation and opportunities for economic success
+for women in Web3. Sponsored hacker houses allow early-career and
+experienced women to hack together with mentorship to nurture talent. Women
+can ideate and validate projects, build teams, and participate in conferences.
+
+she256 She_256
+
+She256 started as a DAO offering gatherings and educational resources for
+women to participate in the web3 space. Now, their mentorship program has
+linked over 900 young women with experienced professionals. Educational
+initiatives include hackathons, coding boot camps, and workshops designed for
+both middle-schoolers and postgraduates alike.
+
+104
+( ))
+
+J
+SS
+DeSci
+The value of knowledge increases with its
+integration. In other words, new research is
+not going to bring much value to the world
+unless it is adopted by other people. So,
+these ImpactDAOs aim to increase the access
+
+and adoption of new knowledge.
+& Molecule
+
+Molecule offers a web3 marketplace for research-related IP and scalable
+frameworks to build biotech DAOs. Their longterm goal is to decentralize the
+ownership, financing, and governance processes for drug development. They
+enable patient, researcher, and investor communities to directly fund, govern, and
+own research-related IP. The IP-NFT enables new fundraising and collaboration
+strategies. When researchers have to make the jump from grant funding for
+basic research to other sources of funding in order to turn a discovery into a
+product, early stage research often goes unutilized and the discovery of
+important therapeutic breakthroughs is slowed down and often never reaches
+potential patients.
+
+Private companies, universities, and governments have funded research grants
+and the development and market deployment of biotechnologies. By tokenizing
+early stage IP and associated research projects, researchers and scientists are
+newly empowered. Freed of having to patent early, researchers can now engage
+stakeholder groups such as patients directly, collaborate with other researchers
+to promote open science, and gain attention through a public marketplace. IP-
+NFT allows different contributors to receive exposure to ownership in IP, in
+exchange for work. Emerging bioDAOs could eventually start modularly
+collaborating across different steps in a drug development pipeline. Molecule
+helps other biotech DAQs with legal frameworks, tokenomic designs, and access
+to liquidity through grants and token swaps to break the current Pharma models.
+They aim to productized biotech DAO frameworks so anyone can build their own
+biotech DAO, operationalize it, and leverage a large, open community of shared
+talent, scientists, patients and funders. Biotech DAO builders can leverage
+Molecule’s IP-NFT legal licensing frameworks and DAO _ organizational
+frameworks. They will also be able to collaborate with and support academics via
+Molecule’s marketplace.
+
+108
+@XY DeSci Foundation [not Launched |
+
+Science needs to be reliable, transparent, independent, and openly accessible.
+Desci foundation explore new ways to incentivize, evaluate, finance and share
+science. Current incentives in curating and publishing studies prevent a focus on
+important replication studies. Independent replication of empirical results is
+critical to better explain for how the world works. Without replicability, novel
+findings can be based on error or fabrication and we are relying on a single
+source of truth. However, current publishing incentives place value in novelty not
+replicability. With community owned journals, replication efforts could be
+explicitly rewarded, given their importance for verifying the truth of reported
+novel discoveries.
+
+Publication is also broken monopolized by 5 big player and either call for “pay-for-
+access” or “pay-for-publication”. Both rely on unpaid labour of scientists for peer-
+reviews. Oopen access to scientific publications with rewards for peer reviews
+are better alternatives. Incentives that reward truthful verification and report are
+also potential ways to improve this. Desci Foundation aims for fast and
+unbureaucratic financial support for future research too.
+
+S ForesightDAO
+
+Foresight Institute is a 30+ year-strong Bay Area science non-profit, that
+advances a healthier future unlocked by bio, nano, neurotech, computing, and
+space technologies. Initiating Foresight DAO will allow them to support early-
+stage, interdisciplinary projects for sci-fi futures that are too ambitious for legacy
+funders to take on. Incentives mechanisms will reward due diligence scientists
+for their advice and mentorship as well as onboard the broadwiill also increase
+value of grant offering technical tracks, fellowships, tech trees, and competitions.
+
+109
+\) VitaDao
+
+VitaDAO is a community collectively funding and advancing longevity research.
+35+ projects have been evaluated, $1.5m of longevity research funded, and $9m
+in the treasury to fund research. VitaDAO will hold the legal IP rights to projects
+funded and developed by the community, hence developing a growing portfolio
+of IP NFTs. Designing Vita as a DAO enables a circular ecosystem where token
+holders (who can gain tokens through conttributing work, funds, valuable
+research data, or IP) can signal support for the funding of specific research
+initiatives. The research will produce valuable, monetizable IP which will flow
+back to the treasury of the DAO to fund more projects.
+
+a@a
+
+©oe LabDA
+
+ee abDAO
+
+LabDAO gathers around an open peer-to-peer marketplace, openlab, on which
+computational and wet-lab services can be exchanged. Openlab enables the shift
+from a centralized market with intransparent contract research organizations and
+siloed research institutes towards an open peer-to-peer market for laboratory
+
+services. The majority of fees generated on the exchange flow into open source
+development of life science tools.
+
+§ Opscienth
+
+A competitive culture in academia prevents collaboration, data sharing,
+reproducibility of studies, and efficient resource allocation that results in the
+mimization of knowledge accessibility. Opscienth is a scientific ecosystem aiming
+to unlocks data silos and democratize funding. Tools being designed include tools
+to integrate scientific identity, reputation and credentials to web3, an open-
+access data commons that can be queried, discovered, and analyzed, and
+community conferences and research.
+
+110
+Git Involved
+SZ
+Osa
+
+a £
+
+“AS
+
+ih
+
+NN
+=
+
+A
+
+Join the ImpactDAO. Game
+
+This edition of this book was written by the GitcoinDAO Public Goods Funding
+Workstream, Kevin Owocki, & Alejandra Borda (with pixels by the astounding
+Octavian Todirut) -- Together, we’ve spent many months researching
+ImpactDAQs through our work at Gitcoin & DreamDAO respectively.
+
+That said, this book represents the limited vantage point of a handful of people.
+Therefore, this edition of this book is an imperfect vessel for education about
+ImpactDAQOs. For the next edition(s), we envision that a diverse group of
+individuals could co-create resources about the Regenerative CryptoEconomics
+design space. Inviting a wider set of participants to contribute will enable us to
+explore the design space in a more inclusive, full, & decentralized way. In order to
+facilitate this:
+
+1. This book is licensed CC BY 4.0. You may permissionlessly fork this book,
+make changes, and republish them with attribution as long as proceeds go to the
+public good or charitable causes.
+
+2. Join the telegram group ( https://t.me/+ORZ8joj8_AhjM215 ) to get involved in
+
+authoring further editions. Check the pinned messages once you are there for
+access to the ImpactDAO Database that Alejandra has put together.
+
+1135
+

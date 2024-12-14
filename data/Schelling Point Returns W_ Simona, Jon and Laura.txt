@@ -1,0 +1,189 @@
+
+          00:00
+          hello and welcome to the green pill podcast this is a special episode in which I your host Kevin auke is returning to talk about shelling point which is gitcoin regenerative cryptoeconomics conference that we've been running since 2021 uh shelling Point fell by the wayside in the 2023 be Market as gitcoin was restructuring and finding its New Direction and I'm happy to say that shelling point is returning for 2025 so we're going to be hosting shelling point at eth Denver on February 27th 2025 and this episode is going to
+
+          
+          00:35
+          be about shelling Point why it was such a special event for the getcoin and regen ecosystem in the 2021 cycle and then we will also be talking about a little bit about the shelling Point event which will be at uh again February 27th 2025 and if you're going to be at e thend you don't want to miss it check out shelling point. gcoin doco for registration information as it is announced and all of the speakers and information is announced um on this episode we're going to be talking about shelling points past why it was a
+
+          
+          01:07
+          special event for the regen ecosystem we're going to hear some from some of the past organizers and uh we'll use this as a Vibes episode to get us excited about shelling Point 2025 so uh I'm interrupting my own guest co-hosts in the guest co-host Seasons that we've been running so far I hope that you've enjoyed the summer of retro rounds with stel and Lao and then also the grants ecosystem episodes with sa we are going to have more guest co-hosts and more guest Seasons coming up and I think that
+
+          
+          01:36
+          you're really going to enjoy those episodes as well but um I'm taking back the host seat just for one special episode to say hey still here and really excited about shelling Point um for for a uh an an episode so uh what is a shelling point a shelling point is a solution or focal point that people naturally converge on in the absence of communication uh often a shelling point will feel logical special obvious to all inv D this relies on shared knowledge and expectations to guide coordination so you can kind of think of uh this is a
+
+          
+          02:06
+          a Colorado example but um uh shelling point is uh an example of a shelling point in Colorado is like a campfire uh everyone if you're camping with them knows to gather around the campfire and uh at night that becomes the shelling point for social activity around a campfire a campfire is a shelling point and because it gives off light it's obvious to people that it's a focal point for social conver ation in New York City there is a shelling Point called Grand Central Station uh when people talk about shelling points in the
+
+          
+          02:37
+          context of of a a New York Centric worldview people say that they would obviously meet at the clock tower in Grand Central Station and so I think that what's what's interesting about shelling points is how they sort of naturally evolve in different ecosystems and they become a place where people converge break bread and uh meet in the absence of other conversation which it without communication and that's what makes them powerful so um we named getcoins event series shelling point back in 2021 because we wanted to create
+
+          
+          03:09
+          a shelling point for the regen web 3 ecosystem so the original shelling point was at East Denver in 2022 vitalic buan spoke there I spoke there Trent Dan EPS launched the protocol Guild to the world at shelling Point what an amazing uh experience it was to have all of these luminaries and thought leaders talking about the regen web 3 ecosystem at the shelling point for the regen web 3 ecosystem I think it's fair to say that gcoin uh in the getcoin ecosystem shelling Point held a beloved status amongst the wider gitcoin ecosystem
+
+          
+          03:44
+          people who' received grants people who are participatory in the positive sum game that is regenerative crypto economics and it was just a Vibe and I think that it's really sad that it fell by the wayside in the 2023 bear and I made a special point in 2025 as we were planning our e Denver activities to make sure that we were going to be bringing shelling point back to the world in uh its truest form in 2025 so I'm really excited about that but in order to plan for shelling point in the future in order to make uh shelling point A
+
+          
+          04:17
+          vibe I think that we have to revisit the past and so this episode is going to be primarily a uh a conversation with shelling Point organizers of the past the first voice that you're going to hear as I cut over to these these interviews is Simona pop who was the original organizer of shelling point and made it into a Vibe at uh it was Denver twice in Bogota and Amsterdam we held shelling points under Simona's leadership and uh if uh it was Kismet uh that Simona pop SP hosted shelling Point SP that many times and I'm really proud
+
+          
+          04:52
+          of that era of shelling Point history and then uh we're going to cut over to John and Laura who were marketing leads at getcoin for number of years saw getcoin through a number of transitions from company to Dow from product to protocol and also saw the transition of shelling Point uh to shelling Point sessions which were kind of a smaller more intimate place where we could talk about web 3 grants web 3 funding and regenerative crypto economics in the new era I really think that John and Laura had their own special flavor of shelling
+
+          
+          05:23
+          Point uh that was much more unconference style and was uh a little bit more of like a regener experience for people who are going through this long bear with uh decompress areas and art and um really doing a great job of being collaborative with other players and bringing them in the fold and these interviews with Simona and John are special for me because I love shelling point and I love the regenerative cryptoeconomics ecosystem and I think that you're going to enjoy them and uh if you're coming to
+
+          
+          05:52
+          shelling Point 2025 this is a wet wetting your whistle wetting your appetite for what's to what's to come with shelling Point 2025 so uh let's get into the the interviews uh the next voice that you hear will be myself interviewing Simona Pop I am excited to be unveiling that we are doing a new shelling point in 2025 uh shelling Point has been an event series that's been run in and around the getcoin ecosystem for years and you produced a few of them you produced very viby shelling points so can you tell us
+
+          
+          06:30
+          about that era and what inspired you and and what you loved about shelling point so first of all I'm excited to see where you're going to take it in 2025 um obviously with the the ones that I was um grateful to be a curator and creative director for back in what was it 2022 and um start of 2023 um the main main thing for me was shelling point was really about bringing a lot of different perspectives into one space and also bringing those perspectives that are necessarily um on the traditional circuit um of conferences it was
+
+          
+          07:21
+          especially relevant um at the at the time particularly 2022 um and I would say even early 2023 where you know convers ations around Desi were probably the first shelling point was probably the first time where they actually had their own space and they actually had their own agenda and um we created that space for these very very nent conversations to take place and for that community and for those people very much aligned with these new perspectives of where um crypto could go and where it could be um really really Val valuable
+
+          
+          08:00
+          to develop and to um really um again Vibe together and so um in those two years um particularly with shelling Point Amsterdam shelling Point uh bogat and then shelling Point Denver in 2023 the whole concept of the way I ran it was to have these very different spaces for people to be able to move around and tap into to um let's say uh conversations that maybe um they wouldn't have known about before they definitely wouldn't have been able to participate in in uh such a you know bespoke space and such a um vibrant
+
+          
+          08:47
+          space and so that was the kind of the Northstar um behind those three events that I think really really resonated with people and it provided this Oasis um for people to kind of gravitate to um not only for the vibe which I was very very keen to establish a a very kind of regen Vibe around but uh also to to really kind of align with their their peers and find their groups and find that alignment that maybe like I said in other conferences or um in other um spaces they may not have had the opportunity to as easily so looking at
+
+          
+          09:30
+          the shelling Point website right now and um it was Denver 22 Amsterdam 22 Bogota 22 and then Denver 23 I think were the ones that you ran yes um can you tell me about how shelling Point evolved during that time I think it evolved a lot and and because you mention um Denver 2022 I think we didn't necessarily at that time we when I took that over we didn't have as much um let's say um control of the spaces that we were creating um definitely the agenda was starting to shape into um these very interesting
+
+          
+          10:10
+          tracks that then became much more prominent um with the other events but we already in 2022 in Denver had a main stage and a side stage because a lot there's so much conversation to be had and so many interesting um people to learn from and to hear from that I never ever thought that one stage or one um piece was enough um to really reflect the multifaceted um evolution of where we're going and so that kind of 2022 was the seedling of this kind of plurality of the different conversations and then
+
+          
+          10:52
+          taking um that small seed from Denver 2022 really really um expanding it in 20 uh in Amsterdam in 2022 where we had a main stage but then we also had an unconference that was a really interesting um part for me where we really opened things up for participation where we just had a card blanch on people submitting whatever types of sessions they wanted to do whatever it is that they wanted to discuss and that's where we really saw the dii element start kind of germinating and those conversations the
+
+          
+          11:32
+          young conference was actually in Amsterdam was such a buzzing space and such interesting conversations came out of that that then with Bogata I decided to expand it to the three stages where you had the main you had the dii in fact I think we did four stages in Bogota um we also had a funding the common stage that kind of uh completed the circle and then obviously we had radical exchange running a stage so it was this culmination of these very different perspectives and very very um fruitful conversations that were happening and
+
+          
+          12:09
+          giving participants this real kind of 360 of all of the things that are happening and all of the possibilities that are opening up so those were very very um important kind of parts in the evolution and then we culminated with um Denver 2023 where again we had three stages and again we just built on everything that had um had been done at these those previous three trilling points and kind of um expanding on it forever expanding on it um and also I think a big part for me was introducing this element not necessarily a chill
+
+          
+          12:52
+          space but like a more Mindful and intentional way of bringing things into the conference experience or the event experience Bogota was a big example of this where we had a whole area that where we did a cacao ceremony and we had massage and we had all of these different elements that are now pretty prominent around events in the in the ecosystem but that was a big one where we had this massive dedicated space um for that to exist at relatively I would say I mean I wouldn't call it a small event because we did generally have
+
+          
+          13:30
+          about 2,000 2,500 people but still not necessarily a um you know uh a huge event as a Devcon or an e Denver you mentioned Dai uh it's so funny to see since uh CZ and vitalic posted that image of dii in this most recent Devcon how that's really taken off and um I just wanted to highlight how early shelling point and getcoin ecosystem was to D and uh my hope for Point 2025 is that whatever the big trend is in 2027 or 2028 it's something that we're highlighting at the event um yeah any comments on being early to dii or or
+
+          
+          14:10
+          sort of uh doing things before before they're popular and and creating that shelling point for that culture I mean I'm the one to ask about doing things early let's remember Bounties in 2018 where people understand what was happening with that so I'm kind of used to that but I think the main peace in terms of events and in terms of creating spaces for conversations to emerge I think that's the biggest biggest piece and I think what I wanted to do and the team um at the time were really focused on doing is bringing
+
+          
+          14:48
+          these very interesting novel conversations and giving them a space to to exist and to proliferate and I think that's the biggest biggest um um point in making sure that the conversation evolves and also the community diversifies and evolves itself right because we don't just want to have the same people talking and the saying kind of the same things about the same projects but really holding space for anything nent anything interesting um that is kind of germinating and giving it the ingredients to to strive
+
+          
+          15:33
+          and uh to uh Thrive and then also being able to find its people like I think this is one of the things that made shelling Point such a such an important part of the events calendar is that it enabled a huge plurality of different people to mix together and to come together in very intentional spaces where that conversation was encouraged or where that conversation was given air time was given stage time was given you know Workshop time was given again just the space and and holding that space and
+
+          
+          16:13
+          I think that's that's vital for these things to to really take off amazing is there anything else that uh you think of advice for the getcoin community as we're planning a shelling point in 2025 any essential items that you want to make sure don't get lost I definitely think I mean I hope that obviously um you do things with um a very high intention I think the the intention is one of the most important things when creating events um really thinking about why the event exists what the people um participating in it will
+
+          
+          16:54
+          what's the value that they're going to get out of it and then also making sure that you give stage time and um air time to people doing very cool things that aren't necessarily mainstream yet so don't necessarily just go for the stars of the ecosystem or the um very very popular speakers like for sure they're wonderful and they have have added and continue to add Great Value to our ecosystem but also go for the people doing things on the fringes and giving them that um that space and that Limelight is very important for their
+
+          
+          17:37
+          Journey for again for people to find them for people to be able to start conversations and continue conversations and also creating the space for those conversations like that's key where you don't just have people on a stage you also have that room for them to then continue um a dialogue after their talks or workshops or whatever is they're they're doing and also try to recapture the vibe that I brought in I don't know if you can do that though so you know but I think it was Kizmet the event that
+
+          
+          18:14
+          you created and we'll never catch that lightning in a bottle again but we can evolve forward and um Simone I'm just super thankful for your contributions to shelling point to the getcoin ecosystem so thank you so much thank you and good luck I look forward to uh to seeing what you guys cook up all righty we just heard from Simona pop the original organizer of shelling Point Denver Bogota Amsterdam and Denver V and now we're going to cut over to an interview with John and Laura marketing leads at
+
+          
+          18:43
+          gitcoin for a number of years and reinvented shelling point for a new era of gitcoin and ran I think it was three shelling Point sessions over the years the next voices you'll hear will be myself interviewing John and Laura hey John hey Laura hey nice to see you again yeah nice to see you again so we are here to talk about shelling point and uh y'all were the leads at gitcoin marketing for a couple years where shelling Point sessions were run can you tell us about the conception of shelling Point sessions and the design of it and
+
+          
+          19:15
+          what you were hoping to uh create when you administered shelling Point sessions you know I actually got involved with shelling point my first shelling point was in Amsterdam I think it was a Dev connect in 2022 and it was just a great Conference of course like all shelling points and uh just getting like a sense of like how special this place was how on point The Vibes were and what was really neat about that specific shelling point and Simona was leading it at the time is that one of the rooms was an
+
+          
+          19:44
+          unconference room and it there was it was it just seemed like this phenomenon that was happening where people would go in and we just like wouldn't see them for hours because people just like stayed in the room and it was very much like a participatory kind of conversation that was happening at this like pretty large conference and I think that that's like for me that was the first inkling of like hey there's something here and so when um it came around time to uh relook at shelling point and bringing more attention to
+
+          
+          20:14
+          shelling point and H have this thing called shelling Point sessions emerge we wanted to really lean into this participatory conversation kind of thing and so that's you know along with uh you know the winter the uh crypto winter and the be Market uh where we like well what's a really great way to make um an amazing event that doesn't break the bank but also like gets people what they want which is and you know the ability to connect with one another the ability to share ideas and that's where shelling
+
+          
+          20:43
+          Point sessions came around which is kind of the scaled down highly intentional um place to um you know share ideas and connect about um public goods public goods culture Etc yeah because one of the things that we had heard from attendees at shelling point so we ran one um in Denver um uh East Denver I think it was 2023 and something that um came up was that people loved being able to connect with like-minded people in the crypto space but there was no Spa like all the conversations always remain kind of top
+
+          
+          21:18
+          level um and so could there be spaces that um kind of allowed people to go deeper on topics that they cared about um in more intimate settings almost as a continuation of the conversations from the larger shelling points um and so that was kind of part of the design of shelling Point sessions is how can we get key people in the room for um kind of deeper conversations on uh crypto for good um and how to kind of move that space forward um and so that was part of the kind of inception of of that idea
+
+          
+          21:55
+          I'm planning on rebooting shelling point in 2025 at eth Denver it will likely be some combination of Simona style shelling points and John and Laura style shelling points sessions and probably one part something completely new what do you think is important about the lineage of shelling point that we should not miss on February 27th at Denver shelling point I think that the kind of focus on using crypto to progress kind of human thriving as Simona may have put it in her segment is something that
+
+          
+          22:29
+          uh has kind of submerged I guess um in conversations that I've seen in the crypto space and so having a space to um be able to kind of explore those ideas and and talk about that I think is part of the magic of shelling Point continuing the conversation around um public goods and using crypto uh for the public good is something that I really don't think should be lost and was one of the kind of nuggets of shelling point and it's brand that we were really trying to kind of keep that through line
+
+          
+          23:03
+          like as we evolved the the conference and the program um that has always been at the heart of shelling point and I think that that's that would be my answer John do you have uh anything to add I think that's great I would also add a physical space for connecting and maybe even decompressing uh thinking back to all these shelving points over the last several years I think I've been involved with like six or seven of them now and there's there's always a little area where people can just meet up uh
+
+          
+          23:34
+          people can connect people can get a little bit of quiet work done that's always been really nice and I think it adds to this overall Vibe where it doesn't have to be quite as intense um and it can be kind of like a little bit of a relaxed atmosphere I think that that is a Menor oh and of course uh some coffee coffe is great I think um if I could kind of speak for Britney as well Britney was working with Simona on the shelling points art like bring the art back to shelling Point art is a public good and it brings a certain Vibe and
+
+          
+          24:10
+          recognition of artists in the space that I think our you know Tech forward like developer Minds kind of get into like production and like how to ship but really taking time to be able to appreciate what it's all for is I think an important thing as well well uh any any last things to say about shelling plate I wish you guys luck with it I think that one of the things that I would like absolutely lean into is being collaborative with other players who align with um with the ethos of shelling point and being able to bring them into
+
+          
+          24:47
+          the fold and potentially even help program not even just take advantage of those relationships but Foster them through shelling point I think is such a huge opportunity and um and something to be kind of more deeply explored but yeah I'm I'm excited to see what what you make of it yeah I think one thing that one opportunity that I think we never quite capitalized on was how to continue the conversation beyond the conference I always remember going to these things and being so excited and so jazzed and so was like so many other
+
+          
+          25:21
+          people and then like that was it we were just like back into our lives and I don't think we ever quite cracked that of taking the conversation to either the next event or bringing it online uh I think there really is a conversation there is a a way to do it where you continue the conversation and the reason I think that's important is because it gives more space to go even deeper and that's just like a really special experience uh really amazing ideas can emerge from there so uh I hope that you
+
+          
+          25:50
+          all can crack that nugget that we never qu got to well thank you for your service uh shelling Point uh during your era was a great time and hope to continue The Vibes into 2025 thanks again thanks all right and this concludes our walk down shelling Point Memory Lane uh I've enjoyed hearing from Simona and John about why shelling Point meant so much to them and I'm really excited about producing another shelling point in 2025 that hopefully continues the legacy of being the shelling point for the regenerative crypto ecosystem I
+
+          
+          26:22
+          think that it's a it's going to be a tall order but I also think that um it's going to be a worthwhile thing for us to do to uh create the shelling point for the regen web 3 ecosystem again the dates are February 27th 2025 shelling point. gcoin doco is where you can keep an eye on the uh speaker announcements and then also ticketing announcements for shelling point you can also follow shelling point on Twitter oh I'm sorry on X shelling pointcore is the username of that handle really excited to
+
+          
+          26:53
+          continue the legacy of being a shelling point for the regen web 3 ecosystem and we will be announcing more details about shelling Point 2025 soon check out shelling point. gin. for more information all right thanks for listening peace and love I I say I'll see you on the next episode but that uh won't be true uh the next episodes will be by guest co-host and I'm considering returning to the hosting chair in let's call it the summer of 2025 but no promises but uh more information about the guest co-host seasons will be uh
+
+          
+          27:24
+          dropped into your podcast feed in the next couple weeks so uh until then have a great holiday and talk to you soon peace [Music]
+
+          

@@ -1,0 +1,465 @@
+
+          00:00
+          welcome to the green pill. network podcast if you're just joining us we're building a coordination a network Society of thousands of hackers dreamers and doers using crypto bring positive some digital systems to the world this podcast features the people who are doing it if you want to learn more you can visit our website at Green pill. Network where you can download the green pill book for free join the Discord and become a member of your local green pill. Network chapter all righty this is an episode that I did with balic boin
+
+          
+          00:28
+          about web 3 public goods fun we start in this episode talking about why public goods matters to vitalic why he as the founder of ethereum imbued public goods into his thinking and into his writing and in some ways to the design ethos of the ethereum ecosystem we talk about why public goods are good and how ethereum could eventually export public goods to the world and how public goods are not only a competitive Advantage for the ethereum ecosystem but also potential way that we could export public good to the world my goal in
+
+          
+          01:00
+          doing this episode was to figure out where to direct public goods minded builders in the ethereum ecosystem to work on in 20125 um I did an episode a year ago with vitalic on the state of public goods funding in 2023 and then the previous year we did an episode on public goods funding in 2022 and so I think that we're creating a body of work that helped direct Builders to the highest leverage opportunities and just picking V balic brain about this stuff was my goal with each of those three episodes metallic third time on the
+
+          
+          01:31
+          green Pelt podcast super thankful that he's dedicated time to this cause and to helping to direct the web three Builder energy towards the highest public goods and the highest leverage stuff that's happening in this uh ecosystem at 2025 so this is the first part of a two-part Series in this first part I review with balic what's exciting about web three public goods why public goods and we do our best to provide actional directions for web three public goods funders for what to focus on when building public
+
+          
+          02:03
+          goods and funding public goods in 2025 the next voice you hear will be myself saying hi to vitalic on part one on this two-part series with vitalic so I hope you enjoy hi Bellic how are you I'm uh good glad to be back how are you Kevin I'm pretty good thanks excited about 2025 so as we uh cross into 2025 wanted to do an episode with you to hear what you're most excited about in the web free and public good funding spage and hopefully we can direct some Builder energy towards those ideas so the objective of
+
+          
+          02:39
+          the episode metallic is that I'd love to direct Builder energy towards building web free public goods uh as of 2025 and uh I want to get to what's current for you in terms of web fre public goods but first I want to start with why I like starting with why because it tees up the what and the how why are public so important to you metallic I think the yeah basic summary of the answer is right that for the ethereum ecosystem and even more broadly for human civilization uh to thrive there's a lot of different things that need to be done
+
+          
+          03:13
+          that we all depend on and some of those things find themselves but other things don't right so if you think about a simple example like say the laptop that uh I'm using to record this podcast with you right now right that laptop is uh it's definitely far from being a pure private good right because there's definitely a lot of knowledge information research and things that go into it but it's like more than 50% probably yeah private good right a laptop is a thing where if you make it you can sell it to me and if you sell it
+
+          
+          03:49
+          to me then I buy it and I buy it and me buying it is the thing that actually gives you the money to pay for creating it and at the same time I only buy it if it useful to me and if you make something that's totally useless to me then I'm not going to buy it right and so you just have this like very nice alignment where you have one sufficient incentive to actually create things at all and two you have good incentive to create things that are valuable instead of creating things that are not valuable
+
+          
+          04:19
+          right so that's Ls up now let's take an example that goes off somewhere in the opposite end of the spectrum right uh take like open- Source software libraries right with open source software libraries the challenge is that there one they're just much harder to monetize right uh so if I make an opener software library and I publish it and I say hey here is a thing that does something very important in could be cryptography could be ethereum could be like what user interfaces could be AI whatever then anyone can just go and
+
+          
+          04:56
+          download and use it and um they don't have toay for it and like the that they don't it is good because was a price that I set then like anyone who benefits from it but doesn't benefit from it enough to be able to pay the floor price would not actually be able to benefit from it right and you know that's called Dead weight loss and that would be really tragic in itself right and then on top of that you know makes it much harder to innovate on top of it it makes it much harder to even decide whether or
+
+          
+          05:27
+          not he wants to use a thing to try things out there's a lot of trans prodaction cost so on the other hand though if you make an open source library and say okay it's free people to use people can build on top of it people can make other programs that depend on it like by default I can't make any money from and uh now then the question is well how do these things actually get funded or incentivized or you know encouraged or whatever we were what we want to use maybe the best word is like motivated right like why do these things
+
+          
+          05:57
+          get done at all and there is a certain level that can be done entirely through intrinsic motivation right and I think that you know Wikipedia is kind of the uh you know the great crown of success of intrinsic motivation I think right there's a huge amount of resources on a huge number of topic that are just put out there by enthusiasts and often even quite sophisticated enthusiasts and they don't expect compensation just a hobby and they yeah go and do it but there's other things that don't really fit into
+
+          
+          06:28
+          that model right and things that ire sophisticated groups of people that have to work together over long periods of time cooperation persistence uh even know like physical resources if you get into AI training for example like you're not just going to get that off of a volunteer right and then the question is well who funds it and the challenge is like you have a large number of different group that all benefit from the thing existing but there's no single one that actually captures a large share
+
+          
+          06:58
+          of benefit right and so it's like even if everyone benefits from it collectively from each individual actor point of view they don't benefit enough to actually be willing to fund the thing right and then on top of that there's this challenge that well let's say we go and set up like some kind of central body right and uh you know this could be a government this could be like everyone putting things together into a pot this uh you know could be yeah someone even launching a mcoin it could be all kinds
+
+          
+          07:26
+          of things right then the challenge is well okay you have this PO and then how do you actually decide like what are the useful things that need to be funded the most right and there's like a lot of ways that which that can also break right there's a lot of ways in which like the game of convincing people that your thing is useful in a very form mode abstract sense is like a game that's very gameable right the nice thing about me buying the laptop is like the connection is super direct if the laptop
+
+          
+          07:54
+          is useful to me like I have experience with laptops I know if it's useful to me and can go and buy it and then if I decide that it actually doesn't work like the Asus laptop that I bought in January got to play around with some local aiing on the GPU and the motherboard ended up frying literally three times over the course of two months then you know potentially it has a risk of getting a negative review potentially on a podcast such as this one and you know there's like negative feedback in the market right um so you
+
+          
+          08:27
+          know the company is Asus Asus please guys do better next time the feedback it comes from this like very near mode thing like very concrete thing like is this thing useful to me right and for public goods like you don't get that feedback right and it's very easy to get into this like very ay fairy almost like religious and Abstract land where you try to think about how valuable something is versus how valuable other thing other things are and especially when you think about the contribution of a very small piece to a very big hole
+
+          
+          09:00
+          right like imagine you know you have a very big hole that a lot of people care about like say the environment and then you start thinking about like here is one very specific project that reduces the pollution in a couple of specific rivers in the middle of bosia right and like how do you actually value This and like these problems are hard right and so the the reason why I think these things are especially yet important in ethereum is because one our ecosystem is a completely digital ecosystem and in
+
+          
+          09:34
+          the digital sphere public goods tends to be even more prevalent than they are everywhere else right so you know I think it's that not at all a coincidence that when I gave you an example of a of a private good I said a laptop and a laptop is like a very hard physical thing right and there definitely are physical things that are public goods do right and that know the environment is an example right but when you go into the digital world because everything is copiable like knob just gets dialed up to 11 right and
+
+          
+          10:02
+          I think there's also another more subtle reason which is that that like so I wrote this blog post I think about a year ago forget exactly when I it was called the revenue evil curve and in that post I argued a bit against the traditional Economist braiding of public goods as being about being non rivalers and being non-excludable right and the thing that I argued is basically that the thing that really matters is is the thing a thing that has the property that any attempts to make money off of it just like
+
+          
+          10:34
+          inherently pollutes the thing right so if you think about a podcast for example right like it's uh know going to be freely available people can go and listen to it right but there are ways to get money from it that you know things like adding sponsorships um and you know potentially if you want to go even more extreme you could uh you could pay pay wallet and there's like a curve right and the a lot of uh business modles especially the crazy successful business botles they depend on things like World
+
+          
+          11:05
+          Gardens and lockin and domination right they depend on like really basically holding a sword over users heads and being able to raise prices being able to lock out competitors being able to change the rules of your system being able to do all kinds of things that are like socially harmful that and just that generally like becoming this very centralized actor that has a lot of political control and we as a crypto ecosystem are precisely against that sort of thing right we're in favor of decentralization we're in favor of
+
+          
+          11:41
+          enabling cooperation without domination like that's exactly to me what the Yeah Crypt space is about right and I think it's like exactly that Synergy right like you know you can say well you want to avoid domination but you don't care about cooperation um and uh that's like a kind of different ideology but then I think in practice it just know ends up decaying into just people becoming completely crazy pretty quickly right because the reality is that actually maintaining a civilization or even a
+
+          
+          12:10
+          piece of a civilization requires huge amount of cooperation right and blockchains are about cooperation without domination open source software is about cooperation without domination the entire region space is about cooperation without domination these are all like like this is the core of what we're trying to do and the challenge is well if domination is the usual source of successful business models uh then and that's exactly thing that we don't like then there's like a lot of stuff that needs to be motivated and we have
+
+          
+          12:42
+          to scramble to find better ways to motivate people to actually produce those things and to produce those things in ways that actually are open right and to me yeah like really solving that problem and solving the all of the different sub problems that I mentioned at the same time is like the core of this really hard puzzle that we're trying to figure out thank you that was beautiful well I want to ask one more question about the why and then we'll get into the what do you think that public goods funding is a competitive
+
+          
+          13:12
+          Advantage for the ethereum ecosystem uh do you think that public goods funding is a competitive Advantage for any ecosystem that does it in so far as my my thre of logic is that if you can cooperate without dominating then that's going to help you win in the marketplace and therefore get more adoption I think absolutely um I think uh so there's two levels to this right like the private versus public distinction as Glenn often says right it's the ends up like it's a simplification and the real world
+
+          
+          13:41
+          generally has more than two levels and if we want to like add just a little bit of nuance but still keep things tractable we could say there's three levels right there's private Goods so like if I have it it's then it provides value to me then there's ethereum wide uh public goods and then there's like potentially Global public good right ecosystems that are able to internally provide uh public goods uh definitely have a strong competitive Advantage right because if ethereum is able to provide ethereum wide public goods but
+
+          
+          14:11
+          Bitcoin is not able to provide Bitcoin wide public goods then like that makes uh ethereum into a stronger ecosystem right and uh these are things that are not necessarily visible in the short term right but long term you know the effects compound and I think the effects they always manifest themselves in two ways right one way is that if you have good funding then you just have more stuff happening at all right and the second way is well if you have funding that does not depend on domination then
+
+          
+          14:39
+          your ecosystem becomes less reliant on domination right and you know there are definitely big parts of the CRI gr space that are just totally comfortable with trusting everything the centralized exchanges and you know to people that just that are happy trusting one guy because he looks trustworthy because he goes on panels with Bill Clinton and then uh you know two years later it turns out that he had double spending relations with your assets and you know it turns out you don't have your assets
+
+          
+          15:14
+          anymore right so know like actually if we want to avoid points of centralization then enabling uh funding for things that don't require them is important and that improves the ecosystems resilience right and resilience is like inherently a long-term BET right like valuing resilience is like inherently this High conscientiousness thing where if you're just like a fun Chaser then you know like resilience is not going to come naturally to you by defaults right because what does chasing resilience mean right it's like if you think back
+
+          
+          15:45
+          to 2020 and 2021 when like big parts of the crypto space they were getting incredibly excited about tiarra and Luna and then in I think it was early 2022 like Anthem like one of those Twitter influencers had this that tweet is that like something like hey why are those eth guys always fading Luna right and like the mentality is like oh you know these are old grandpas and the you know over here we're having great fun and we're getting our 19% dpy but and uh you know why are these kagin just refusing
+
+          
+          16:15
+          this right and like it doesn't feel fun while the numbers are going up but then of course eventually Luna ended up just like crashing 100% And like anyone who had the volatile coin or the stable coin and it ends up completely screwed right you need conv ition to really play that game right and I think public goods are inherently more resilient they increase the resilience of an ecosystem and they increase the resilience of an ecosystem precisely because they're all about um creating things that are valuable and
+
+          
+          16:47
+          that meet people's needs without introducing these Central points of domination that also become Central points of risk right so those are all things for where we're we're still talking about ethere funding ethereum internal public goods right then the question is well is there value in ethereum going out and funding broader public good and there's definitely like a pragmatic limit to this right like I think ethereum as an organism going out and trying to save the whales does probably doesn't make sense because it's
+
+          
+          17:19
+          just uh like there's not enough of a thematic match there's not enough of an expert community in ethereum to be able to tell apart like actual whale saving from you know virtue signaling laring or whatever right and like there isn't this kind of nice feedback loop of you know the whale saing happens and then we're able to actually determine like was this successful or Not Right But there is a lot of things that are bordering right so like for example if you think about operating system security right a h
+
+          
+          17:49
+          person's computer gets hacked coins can get stolen from them and so operating system security is Upstream of ethereum security but at the same time ethereum is not the only beneficiary of operating system security right and so there is this like very fuzzy boundary right of things that somewhat benefit ethereum but that also have these knock on effects to other ecosystems and I think my arguments there for why we should keep support those things um judiciously is that I think uh it's good to be a
+
+          
+          18:20
+          good citizen like it's good to be an ecosystem that has good effects on its neighbors and you know it sort of thing that wi PR and the sort of thing where you know the costs definitely do come immediately but the benefits often come from uh you know places where end up totally not expecting it one more thought on the why and we'll get into the what but um my thought on the ethereum funding the world's public goods had been that there's an ability for us to test gadgets where we can do cooperation without domination within
+
+          
+          18:52
+          the ethereum Eco system use those public goods funding mechanisms to enhance the viability of our own ecosystem ethereum wins and then it starts to fund real world things like digital public goods like open source software we talked about a lot on our last podcast and once we reach an escape velocity of there's such a competitive Advantage burgeoning around the ethereum ecosystem we can reach escape velocity and start to fund the world's public goods as ethereum gets more adoption across the world and
+
+          
+          19:19
+          that can be everything from saving the whales dealing with people's everyday creating impact in their community and getting paid with it paying their mortgages by receiving a cryptoeconomic uh payment which is um you know quite a different first experience that people would have with crypto than what they have right now buying some asset some speculative asset and so I guess I'm just wondering about this escape velocity theory if I could run that by you real quick uh what do you think about this us reaching escape velocity
+
+          
+          19:45
+          and then in 10 or 20 years uh funding more of the ethereum or sorry the IRL or real world public could yeah and I think as we grow more and as we uh succeed more being able to support more is uh definitely a good thing I think okay but obviously there's a balance right and like we don't want to overextend the mission too early in addition I think one other thing that's really important to keep in mind right is that there's two ways in which e theum public goods work can benefit The Wider world one way
+
+          
+          20:15
+          is that uh of course we can go and support things in the wider World directly but another way is just demonstration right we just uh show the world here is another way here is a way to be an active and energetic ecosystem that actually produces uh things that it collectively needs that are important and while avoiding all of the weaknesses of more traditional approaches to doing that that and that's uh something that we can make itself as a public good and then like maximally open source the knowledge and even make an effort to go
+
+          
+          20:51
+          and spread the knowledge and then that's something that other people can go and apply as well right like if some of these public goods funding mechanisms that we're going to get into actually succeed uh and become very high quality at an ethereum scale there's no reason why you can't see you know other corporate ecosystems potentially parts of governments eventually me even you know like other kinds of you know like new age internet tribes like whatever kinds of structures that if you want to get the science fiction you know the
+
+          
+          21:24
+          governance of mars or like actually you know using them beond right so yeah demonstration value should not be underlock well this concludes my questions about the why let's move on into the what what are you excited about in public goods funding as we turn into 2025 Bellic first let me list what I think the successes are right so one success is that we actually do have an increasingly diverse set of public goods funding entities right and this includes the more traditional centralized ones right so the ethereum cation release the
+
+          
+          21:57
+          transparency report about them on ago and there was a really nice pie chart and the ethereum foundation was only a small share of all the treasuries available and it was less than half of the amount that was spent this year right so even including the centralized bodies funding within the ethereum ecosystem is getting pretty distributed but then also if you start moving looking to mechanisms that are more interesting um and look more decentralized than just that you know in or that has uh a board and that has
+
+          
+          22:30
+          staff then we're actually starting to see growing success right so obviously gcoin has been doing rounds for a long time and uh you know it's uh been amazing to see you guys's growth ever since you know we did the original round one I think it was with a 25k match back in like was it 2018 then obviously with the optimism rpgfan is like right now like they have Golems treasury in their mechanism right and that one's quietly pushing out quite a bit of money and it's not really being talked about much but it exists then
+
+          
+          23:06
+          protocol Guild you know giving quite a bit of money to ethereum protocol researchers so quite a lot of things are starting to already happen and I think that's good and I think there the other thing that's good is like they're happening at enough of a scale that you can actually yeah gather real world information you can iterate you can keep on that improving these mechanisms and so on right that part is all good uh so let me get to what I think needs to be done uh so I think the public goods funding problem it's always a two-part
+
+          
+          23:44
+          problem right and uh know economists are also going to say this right I think this is something like Alex stabo has mentioned that many times right one problem is just how do you gather the money to fund things and another problem is how do you choose what things to fund and those problems are both very important right so let me get to First the question of how do we gather more funding in order to fund things right so I think so far within the ethereum ecosystem we've been relying on some degree of project but also
+
+          
+          24:18
+          individuals um and a lot of one-off decisions right uh so a lot of like oneoff decisions to go and fund rounds of then mean optimism you know making that public commitment I think is like amazing and the Very shining exception right generally it's like something where it's relatively individual actors are deciding to do it and not to do it and that's something that is limiting and I think one concern that I have is that it relies on idealistic energy that could eventually burn out right one of the ways in which idealism dies is if
+
+          
+          24:54
+          you just uh have a world where you just see a constant long running path where the idealistic people do the idealistic thing but then they just never get rewarded and then no one pretty much even cares that they did the idealistic thing right and the challenge is like if you just rely on individual donations to keep on doing things then like you always run the risk of getting into that hole right and then the other problem is like scale right the challenge that I see is that in the generally in the
+
+          
+          25:23
+          ethereum ecosystem if you have like a really good and valuable idea and all you want is $300,000 to make a demo you can generally find $300,000 but if you wants to go from a demo to something that's production grade and that can compete with other leading infrastructure then you don't need $300,000 you need $30 million and the problem that we have right now is basically that once your scale flips from the 300,000 level to the 30 million level then the incentive structure basically flips from like being
+
+          
+          25:55
+          essentially full socialist Kumbaya happy bubble to being like full on you know Cutthroat like venture capitalist right basically the challenge is like at the small scale you have these incentives where you have like a lot of different funders and a lot of funders are motivated by what's good for the ecosystem and if you're a well-meaning person you can convince them of that you can get some money but then at the $30 million level like it's all based on you know do you have a thing that has a business model and that there's
+
+          
+          26:25
+          basically not any any extra inen to like do things in a public good way instead of like slowly transitioning into just being like a regular Mino Dominator and money obstructor right and a big part of where the chm is right now right like the ethereum ecosystem in general we're in the process of upgrading from making demos to making big live things that can make real world impact at a large scale and things that make real word imp at a large scale like they need a larger amount of resources to get done right and so the question is
+
+          
+          26:58
+          how do you actually GA those resources so I have two like proposed solutions to this so one of them is that I think we need to explore hybrid for-profit nonprofit funding options and what I mean by that is uh funding options where people put in money where they expect to make that money back and even expect to make a return but they are willing to take a small hit on the return in exchange for know like some medium uh level of assurance that they're funding things that are helping the ecosystem instead
+
+          
+          27:32
+          of harming it and supporting something like that like it can even be a selfish choice right like if you're an ethereum whale then you know you you yourself are heavily exposed to the eum ecosystem and you want to support things that are good for the ethereum ecosystem right and uh so exploring vehicles that are profit making that have a lot of the core aspects of VC funds but at the same time have some kind of baked in structure that actually like heavily pushes them to also support uh some other values you
+
+          
+          28:06
+          know open source Open Standards decentralization being positive some toward ethereum toward the world like all of that things that I talked about in my post on making ethereum alignment legible right and like making that hybrid is a challenge right I think in our heads we all have the example of open AI right and I you know they started off being this idealistic nonprofit that was funded because you know there was all these uh you like really bad big companies said we don't want the big companies to control
+
+          
+          28:33
+          everything and so let's make this a nice uh open alternative but then as we saw what happened is that first they gave up openness for safety and then they gave up safety for Domination right and so now we have closed Ai and you know Elon who originally funded them is suing them right and so like you really need to think about making those structures robust so that's solution one solution two is like actually insing andin funding on some level right and so there's a scale right and at the extreme end of the scale you have
+
+          
+          29:08
+          something like zcash right where in zcash like you have 20% of the actual L1 block reward is just goes into public good right now doing that obviously has a lot of challenges right and if you do that then basically yeah you need to be super confident in the mechanism the mechanism needs to be extremely legitimate you're uh you know taking um a big risk on the know credibility and usuality of the asset so there's like a lot of downsides that going that far but at the same time it's like bring 20% of
+
+          
+          29:40
+          the block reward which is a lot right but now on the Zero side side of that spectrum is like individual donations right one thing that I want to explore is that is like are there things in between that zero and one side uh of enshrinement that ethereum as an ecosystem could could consider uh to uh introduce right and uh so like one example that already exists is ens right ens I would call it semi shrined in the sense that all the wallets supported there's now a chain specific eips or chain specific address eips that are
+
+          
+          30:13
+          being designed around it there's uh it's a default in this like very heavy and ingrained way but at the same time it's not an L1 core feature right but at the same time like ens it has a dow it has its own source of funding you have to buy domain it has Revenue it funds things I mean that one it even ends up ended up having its own token right and so I would call that being like nonzero andran to just like throw out an idea one idea I have is that there's been a lot of discussion around the question of
+
+          
+          30:45
+          like should major ethereum ecosystem players come together and basically make their own um you know not enshrined ler 2s but sort of neutral ler TS right like ler Ts that only carry the brand of ethereum and that don't try to like support some other interest and so we saw you know nethermind with their search announcement is uh looking to push in that direction like I think that's interesting and I think that's like especially interesting for the category of rollups that are trying to uh like basically be very minimal on the
+
+          
+          31:20
+          features just basically copy ethereum and say know we're based rollups we're just copying ethereum values we're copying the exact EPM and we're scaling it right it's uh that's something that happens then like I personally think there should be a fe switch in there and what 25% of you know congestion fees should go into a public good spanning Gadget right and like that I also call that you know nonzero ements but that's also again very far from you know zcash style where like you literally have an
+
+          
+          31:48
+          L1 protocol feature where like 20% of the coins are going into a thing so those are like my two solutions as for like scale of funding now I want to go back into the why a little bit right uh basically yeah the reason why I think it's important for us to really scale up the funding right is that this is one of these other secondary reasons why I care about this that like really yeah pushing forward on public goods funding in 2025 is that one of the uh challenges that I see in the ecosystem right is
+
+          
+          32:19
+          that we as aians we value cypherpunk we value regen we value open source we value open standard we you know even Val stating whales we get you know value a a lot of different things and we value a lot of things that don't fund themselves right but then the challenge is like that's what we value and that's what all of the intellectuals love to you know blab about in presentations and blog posts but at the same time like there isn't enough hard power behind it right like there's the ethereum foundation but
+
+          
+          32:52
+          then what else is there right and the challenge is like when you have a lot of uh soft power behind ideas but you have zero hard power then you often end up falling into this STP where like as an EOS system you over index on moralism right you're basically over indexing on this mechanism of yelling at people do you must do things in this way you must not do things in that way if you do things in this way then you are bad right and the challenge with uh I mean so I think a healthy Society needs nonzero moralism and the reason why is
+
+          
+          33:24
+          because I don't think it'll ever be possible so I'd use formal incentives to capture 100% of uh you know what is beautiful and true and good but if you over index on it right then the problem is that eventually you start getting a community that just says well why do we even have to do these things I want to do things my way you know why are you being authoritarian while you why are you telling us that what to do and uh like you start getting this growing group of people that are just not interested in those things and then
+
+          
+          33:54
+          eventually it just ends up being polarizing and eventually at some point it collapses right and I think recently there have been examples of ecosystems and outside of crypto where they have gone through this like collapse of relying too much on moralism right and you know I'm sure readers can probably guess at a few of them it's a common pattern lately right but basically yeah I think one way for us to be able to rely Less on moralism is to actually have a mechanism with right so you actually have something
+
+          
+          34:31
+          where one of instead of the message being either you do things in this way or you are bad the message is hey if you do things in this way then here is extra concrete support that you get from from these mechanisms and so basically you know if you come along with us then we come along with you and that's like a much more positive message for Builders and for newcomers anyone coming into the ecosystem who isn't the you know already yet super indoctrinated into the state religion right uh so so that's another
+
+          
+          35:03
+          one of those reasons why like I think there's value on really trying to scale it up right so that's the funding side on the other side is the question as well well how do we actually allocate this funding right and I think it's irresponsible to increase funding without having a solution for high quality allocation right like high quality allocation is a problem that has to be solved right and now it doesn't have to be perfect right like you always have to remember like private Market allocation has massive
+
+          
+          35:36
+          failures and massive mistakes being made all over the place right and uh there's just massive amounts of duplication of effort there's people making huge mistakes there's uh it ends up I you know subsidizing a lot of Zero Sum social media Behavior like a lot of problems with a private Market method right but at the same time like the mechanism for public Goods funding if we want things to receive like larger amounts of ecosystem light funding then they need to be much higher quality so what we've seen so far right is like I
+
+          
+          36:07
+          think we have really started to see more emphasis on quality and more emphasis on rigor right and optimism people have been doing a great job of uh thought leading on that gcoin people have been doing a great job of thought leading on that I think uh in general we're starting to see this like second wave of thought leadership that's like actually able to be based on empirical real world results and combining know inside of crypto and outside of crypto knowledge and experience and the other thing is
+
+          
+          36:35
+          that we actually have a diversity of mechanisms happening now right like the rules by which protocol Guild works the r and the rules by which optimism RPG F work and the rules by which quadratic funding work are so different that the factors that make one succeed or fail are pretty dis disjoint from the factors that make other things exceed or fail right so if protocol Guild fails uh like I would predict it would fail by being an Insider game where you have 200 people scratching each other's back if
+
+          
+          37:05
+          quadratic funding fails I would predict it would fail by based turning into this marketing influencer game where everyone has to be a political campaigner in order to get money if optimism rpgfinal you and me valuation right now each those projects like I've given each of them those critiques and like they have rebuttal against those criti know and Carl and you know yourself and the people involved are great right and uh you know there's definitely a lot strategies involved that address at addressing those things right but the
+
+          
+          37:46
+          logic by which the uh solution succeeds or fails like on the on those the three different projects is pretty independent right and having that redundancy is I think really good right and so what I want to see for 2025 is like I want to increase the level of quality in the mechanisms that already exist and uh really start to push that to the next level and at the same time increase the diversity in funding uh mechanisms that that we see right so I want to continue to go up from three things that operate
+
+          
+          38:19
+          under fairly yeah different principles to saying you know can we have like five five to eight things that operate under uh different principles right another peace is also stability like for people to be able to rely on Public Funding then the mechanisms have to not change their rules around every six month and like keep ring people you know you need to start having stability and then at the same time you need to have this uh like other section of the pool that is able to experiment right and so I think
+
+          
+          38:49
+          we really need to keep leveling things up and like also just having an open mind in these an eonism right like the three that I that I just mentioned like they already operate under very different logic they operate under very different sets of assumptions and the way that they've been iterated on is this like already very empirical approach of like hey let's go out and let's like see what works and let's that take feedback and improve based on that right and so like really yeah upping the diversity and the quality of mechanisms
+
+          
+          39:19
+          is the also something that is uh going to be very important next year for that reason beautiful let me play back some of these things for the listeners just to help them synthesize the information so basically there's two sides of the coin here funding public goods and then allocating the funding and there's an impedance matching between the two we can't increase the funding responsibly without increasing the allocation so how do we fund public goods and how do we do it less relying on moralism you have two
+
+          
+          39:44
+          proposed Solutions the first is like kind of a hybrid for-profit nonprofit type of scheme and then the second is institutionalizing and enshrining funding on some level so that's the funding public good side of the coin the Distributing side of the coin uh how do we allocate the capital once we've got it funded there's a second wave of thought leaders and experimentation that are happening right now we covered retr funding protocol Guild getcoin style qf octant Etc uh we need to solve allocation and you're excited about the
+
+          
+          40:13
+          pluralism of mechanisms there because it means that uh we don't have to enshrine any specific one or over rely on any specific one and pluralism is a metap pattern for anti fragility and so from there the question is how do we increase diversity instead of having three things that operate under different principles how do we get up to five to8 thing how do we increase quality and push that to the next level and then how do we increase stability so that people can rely on these things did I play that
+
+          
+          40:38
+          back uh correctly anything you would add or change yep yep that's uh all correct okay cool uh what I would love to do is do uh about seven minutes of of lightning questions in which I just focus a topic bring it to your awareness falic and you can respond to it in a minute or less we'll do about seven minutes of that and then go into wrap up questions how does that sound sure okay let's go uh so let's do a minute each on on each of these topics uh I want to start with futari which is prediction
+
+          
+          41:08
+          markets but for public goods funding what do you think about futari or information Finance I think is a post that you recently wrote what do you think of futari or only one very specific example of this primitive that is the useful in a much larger set of context right what so the question is what is that core primitive right and in my post on info Finance I argued that the core primitive is the the info Finance right this idea that you first decide on some facts that you want to know and then you explicitly design a
+
+          
+          41:45
+          market with the goal of learning that specific fact right the thing you contrast that with is basically yeah incidental information right like you know we can read the stock market and we can learn things by you looking at price movement right but the problem is that each individual stock price movement is based on so many different factors It's relatively hard to read and it's also much harder to participate in if you have knowledge about specific factors because you have to take in all of this
+
+          
+          42:11
+          secondary risk about everything else that's influencing the pric explicitly create markets around specific pieces of knowledge that you want to gather right and who's going to win the election is like the first app right and I gave examples of other apps and the F the second that I give an example of his what I call decision markets right not what I call right this is Robin Hansen's term he came up with the term futarchy I think he's used fjy at times he's used dision making Market at times and there
+
+          
+          42:42
+          the core tool is you make conditional markets right you make a market that says if this event happens what will the value of this metric be if this doesn't happen what will the value of this metric be and then based on that you can see like which of the two decision um options uh the market thinks will be better for the metric that you care about right so I think it's something that's really worth trying I know there's like some uh small scale experiments that have been starting that are based on futar and so the natural
+
+          
+          43:16
+          critique of futarchy of course is basically that in any kind of mature ecosystem that impacts that anyone decision we'll have on the price is relatively small compared to the surrounding risk and so if you believe wrly that you know replacing the CEO is good for a particular organization's progress uh but uh the challenge is like okay fine you know you buy like shares of the organization on the yes Market you don't buy you sell shares of the yet organization on the no Market but then the problem is that you get some
+
+          
+          43:53
+          exposure depending on you know who wins based on all of the other unrelated factors that affect the yeah company the stock price right and so the question is like well will there be actually enough funding that's available and willing to take all of those risks to be able to beat out people that are manipulating the market right and I think this is one of those open questions right and you know when I raise his critique with Robin Hanson he feels optimistic that it's not going to be a big deal in
+
+          
+          44:24
+          practice and so I think it's good that we have some actual empirical results right so that's example two example three is a mechanism that I call distilled human judgment and the mechanism here basically is that you know you have a human jury that's able to do like answering of particular like specific questions right and the first example I gave is social media right like basically you know it does this post violate the terms of dervi um is this community note for this particular post a good note and then the challenge
+
+          
+          44:59
+          is basically that actually using a stupid mechanism is just not scalable and so what you do is you basically get created a market mechanism where people get subit AI that just answer that question for a million of uh different uh know basically every single post on a social media platform and then you spot check the answers right for like random one but basically the AI play in the prediction market and then you only actually like activated you check the ground truth on a small portion of those
+
+          
+          45:29
+          markets and then based off of that the AI that do a good job of tracking what the human decision making mechanism ends up choosing are the AIS that actually stay in the game right it's this is like ajacent to futar in a certain sense but it's also not quite the same thing right because in futar like you're voting on the metric and then you're using the market to maximize the metric oh whereas that you're like actually voting on like basically yeah a random sample of like actual underlying decisions right and
+
+          
+          46:07
+          then the market is optimizing for basically compliance with the small sample that the humans do right and so you can kind of you know stretch the language and table actually that is a metric but I think it's probably best to think of it as a mechanism that's like adjacent but still kind of its own thing right and then I give some a couple of other examples uh and gener we talk about you know AI participating in prediction Mar markets and info Finance that's something that's really worth exploring so basically yeah the way that
+
+          
+          46:42
+          I think about it is that info Finance is like a new Lego right so know we love in ethereum talking about money Legos and that money Legos are like these components that you can combine together with each other and you can build complicated mechanisms out of them right so like any C20 is a money Lego exchange is a money Lego collateralized loan platform is a Lego an oracle is a Lego right and uh you can build things out of other Legos and to me like there's also a thing of like governance Legos right
+
+          
+          47:13
+          and you know quadratic funding is one of those examples sortition I consider to be a Lego and and to me info Finance is also one of these Legos right and so it's like this extra pretty powerful ingredient that we can use in we can combine together with all of these other mechanisms and really expand the space of things that we can do I love that I know that there's a futarchy round planned in G23 so get coin's going multi mechanism and we'll be including retr funding and futarchy in G23 then also
+
+          
+          47:44
+          check out metallic post about info Finance if you want to learn about that Lego I got a couple other Legos that I want to ask you about in this lightning round and then we'll wrap up the first is protocol Guild people are forking protocol Guild and creating guilds for other things what do you think of that and I think one reason why it's uh good is because uh some of the concerns that I have personally about protocol Guild which is like the mechanism just feels like the sort of thing that it could
+
+          
+          48:12
+          just collapse into this sort of backs scratching Elite that ends up supporting each other and sort of intentionally not letting other people in right but obviously this is a critique that I would where I would absolutely love it if I ended up being completely wrong and that Trent ended up completely right that I'm that I'm wrong about this right but then if you want to figure out if I'm right or wrong on this like you don't want to just uh focus on one specific example because well there could be reasons why protocol Guild is
+
+          
+          48:41
+          uniquely good for if you're inl1 developments but then you need but that make it less good for other things right my case uh like if I had to make a case for why protocol Guild is like very naturally L1 specific is basically that the way protocol Guild to get around this problem of like being vulnerable to being a back stratching uh Club there are very natural specific rules for what an ethereum client is right you know there's a test Suite there's like it's a programmatic thing you can go and run it
+
+          
+          49:13
+          and uh it's like a thing that is very mathematical that's like very formalizable and that you can generally Define it right there's still like a bit of work around the uh edges and then it's like oh if you Fork a thing unique five changes are you a separate clients but like relatively speaking it's uh it's definitely on the formalizable side right but then the question is if you try to expand it to things other than um L1 um so then Trent would say well protocol gu already supports research right but then with research like
+
+          
+          49:44
+          research is still a relatively small group right but basically if you try to expand it out into other domains uh then like are you actually able to um create maintain these like stable sets of rules that are able to actually force a guild to continue to be inclusive and to accept new new members right if I wants to learn whether or not you know this concern is right or wrong or somewhere in the middle then having lots of different examples and lots of different domains I think is like exactly the way
+
+          
+          50:19
+          to find out right and so I'm like yes I know I'm looking forward to seeing an equivalent of protocol Guild in like five other domains than then being those things actually run for significant durations of time and I think you know the yeah design space absolutely deserves to be explored and also just like intrinsically it's good to be able to reward uh you know whatever groups of people I do think that you know this kind of back scratcher Club risk is like exactly the thing that my magnifying glass is on when I evaluate this stuff
+
+          
+          50:52
+          right and because know the ethereum ecosystem definitely does get critique from be or being back scratchy in that sense right like one example of this is that if you saw some of the uh you know Twitter drama around uh uh Stark net and scroll airdrops and like how they did a good job of supporting public goods developers but then it's like okay you know are you is this basically just that OG is the currying favor with other ogs um so if we can figure out a rules-based uh me a way of creating rules-based Mech
+
+          
+          51:27
+          just like General Corpus enough that they can make critical gu sued in like a large uh number of settings then like I would consider that an amazing success right and then I mean obviously quadratic funding like we've seen rounds for some of everything um and then it would be really cool to see retro funding like experiment also Contin to happen across a lot of different uh domains as well so know yeah diverse experimentation is exactly what we need great I got uh one or two more mag mechanism questions and then we can wrap
+
+          
+          51:58
+          up um the next mechanism I'd love to just run by you is things that are called autop pgf Auto public goods funding so things like glow dollar which is basically a stable coin the more that it's adopted the more it funds public goods so you take the yield that you would normally get on like tether holding dollars and then you fund that into public goods uh autop pgf is this new category of automatic Public Funding Gadget what do you think about yeah I yeah support it I mean obviously like there's
+
+          
+          52:27
+          a limit to this kind of stuff right because eventually it's going to be competing against the opportunity to just um like take that revenue and keep it for yourself right uh but it's definitely like yeah but but I mean tether doesn't pay like interest its holders right now right but uh I mean I know like you could obviously stick it into a and you can do other things uh but and like it's definitely psychologically easier to never see games at all than it is to like click a button to make your balance number go
+
+          
+          52:58
+          down um so I could see it being an advantage but you know it's that like so I think it's like it's definitely a great thing though with that a also a great thing with a ceiling which I think is totally fine all right last mechanism that I want to ask you about and then we'll get into my wrapup questions is um I'm not sure if you followed uh AI 16z but it's basically this open source library for AI agents and um someone launched a token on their behalf and I think it's it last I checked it had a
+
+          
+          53:25
+          market cap of like 300 billion and now they've got a treasury of like $10 million and so I'm wondering what you think about open source projects funding themselves by tokenizing and having these sort of giant treasuries where uh they can now be funded because there's a token associated with them and massively being successful what do you think about that as a a venue for open source funding and and public goods funding yeah I mean I think you know things being able to be funded is uh definitely
+
+          
+          53:52
+          great I mean the the question that I would always look for is like does that mechanism like differentially better support things that are valuable versus things that are not valuable but that are able to get attention right the the criticism of quadratic funding right which is basically that like it's that it's like while you're still in the mode of going from having nothing to having the thing it's obviously pure good because hey people are getting more money to do valuable things but then like once you're in equilibrium then
+
+          
+          54:22
+          like on the margin like you're you're playing this attention game the attention game uh good or and you know is it harmful so I think you know right now still waiting on the sidelines for a lot of that stuff I think know experience while I figure things out if you're a builder of all the things that we've talked about today what's the highest leverage thing to work on how do you find the highest leverage thing to help in the in the most high high leverage way I think it's uh I mean it definitely depends on what your position
+
+          
+          54:51
+          is right because that if you're a goldber just getting into the ecosystem then I think the first thing is to not try to like maximize your leverage immediately the first thing is to like really find your way around the ecosystem and just understand all of the different parts of it and so it's like basically you know do the things that excite you while kind of having a filter for like while doing this am I actually learning right and uh that's always the first step and then the second step is uh like when you get to the point of
+
+          
+          55:25
+          actually uh building uh things that could potentially be super high leverage I mean yeah there's definitely a lot of different ideas for the taking right and uh you know those ideas are in posts uh that and writings that various people write those ideas are things that people just keep talking about I mean generally yeah know ethereum you know researchers and developers are pretty friendly and you can ask them for ideas there's individual teams you can go and ask what is a thing that could be useful to you I
+
+          
+          56:06
+          think uh probably the bigger challenge is uh not just choosing the right thing to build but also like actually having enough distribution right because we are a pretty big ecosystem and there's definitely this phenomenon where there's like 20 teams working on a thing at the same time it's like when I wrote my post uh saying this is my dream wish list for what should go in a wallet there's like 20 teams that replied with hey we're doing this like piece of it already right and there's definitely like a
+
+          
+          56:34
+          really tragic aspects to this right which is that the you know we're see there's all of this work that's being done but then like it's just not getting through the information Network to the rest of the ecosystem and so I think uh you know having a strategy for that is important right and uh it might seem wasteful to be uh you know thinking 20% of your time about distribution but on the other hand that's like having a dist a great thing with a distribution you know two act lower than otherwise could
+
+          
+          57:06
+          be is even more wasteful uh so I think also something that's good to be on the ball about if anyone out there is listening and wants to aggregate all this info that metallic referenced and provide just a digested list of highest leverage things people can work on uh I would support you doing that and please DM me let's get into our final question vitalic is there anything I didn't ask that you want to say that you want to foreground about public goods funding in 2025 yeah I mean I think uh I was just
+
+          
+          57:33
+          want to reiterate um a points that I made which is that up until now I think uh public goods um and the associated cluster of values has been a very like large share of I guess what you might call the idealistic mind share of ethereum but it's only gotten a relatively small share of the actual execution power and I think in 2025 it's time to like actually get serious about the increasing execution power right I think know this is also one of the really valuable things that ethereum can do to the world is like
+
+          
+          58:11
+          actually show ways uh to fund valuable things across an ecosystem uh that uh go beyond each person having the constantly like worry about figuring out their own business model right and uh I think one of the signs that it's an idea whose Time Has Come is that we're also starting to see like I would say yeah very like according to my values very lacking but still like present versions of this in non- crypto ecosystems right so we're seeing I you know Twitter monetization uh YouTube monetization for
+
+          
+          58:47
+          example like it's becoming a more popular topic and one of the reasons why I consider it lacking right is because it's like totally not transparent and like some people are getting 500 some people are getting $20,000 then like you have no idea why and there's clearly a growing understanding right that there are things that ecosystems need to fund and the ethereum world need to have a good answer for this I think I you know the time is now that we actually have the growing amount of expertise growing amounts of tools
+
+          
+          59:23
+          growing amounts of existing experience uh to work with that it's time to really get curious about the public good funding side of ethereum and help it grow amazing here here thanks so much thank you to G we just heard from V vitalic buan about why web three public goods matter and what he would like to see builders focus on in 2025 with respect to web3 public goods very excited about this episode I think the metallic has informed a lot of my vision for getcoin in the web three public goods funding space and I think that
+
+          
+          59:55
+          that's true for many people in the ecosystem this is part one of a two-part series with vitalic we will be releasing the next episode with italic in the coming days in the meantime thank you for listening to the green pill. network podcast this podcast features the people who are building a coordination a network Society of thousands of hackers dreamers end doers focused on using crypto to bring positive thumb digital systems to the world like vitalic buin like the gagle of builders that also believe in public goods funding in web 3
+
+          
+          01:00:22
+          if you value our work you can collect this episode go to pods. Media to find all episodes and to start collecting today and while you're doing that you may as well make an offering to our algorithmic overlords please tell the AI that you like the green pill. network podcast and they will UPR recommend it to other people in the world if you subscribe rate in review that helps other people find the body of work that we are creating in the green pill Network and in the regen web 3 space and in the web 3 public goods funding space
+
+          
+          01:00:49
+          all righty well this has been a doo even episode I'm looking forward to digesting it with the ecosystem over the next couple weeks and thank you again to vitalic for spending the time with us this was really great and I will see you on part two coming in the next day or two [Music]
+
+          

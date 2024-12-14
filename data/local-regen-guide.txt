@@ -1,0 +1,3251 @@
+#1
+LOCAL
+REGEN GUIDE
+greenpill.network
+
+TURNING
+DEGENS
+TO REGENS
+one greenpill at a time
+
+greenpill.network
+
+Foreword by Kevin Owocki
+When I founded Gitcoin in 2017, being in web3 and valuing public goods,
+regeneration, pro-social communities, or protopian communities was rare. It
+was very lonely. The culture of technologists in web3 back in those days was
+more focused on libertarian values or financial values.
+With programmable money, we can now program our values into our money.
+The design space for crypto is vast and also deep. We have a revolutionary
+opportunity to build economic systems that mirror our values. We explore this
+design space by building culture and by building smart contracts. Just as a
+circuit is etched onto silicon, we etch smart contracts onto blockchains. We
+practice culture by doing, sharing and learning. If we want regenerative
+economics to be a thing, we must build it. We are the ones we’ve been waiting
+for.
+To kickstart this movement in Feb 2022, I published Greenpilled: How Crypto
+Can Regenerate the world.
+Since then, I’ve met thousands of individuals who share the vision of using
+crypto to build positive sum games, protopian economic systems, regenerative
+culture, and other novel paradigms. It is no longer so lonely to be building on
+these themes. But still there is work to be done.
+Greenpill is a vessel for that work. There are other great vessels too. But I will
+focus here on Greenpill here, because that is the vessel we are co-creating
+together.
+
+The first version of Greenpill in 2022 was the book and the podcast. For the last
+18 months, I’ve been producing the Greenpill podcast, a podcast dedicated to
+regen web3. Thanks to the generous partnership of Bankless, we have an
+audience between 2k-8k (depending on the episode) per episode. This has been a
+great resource to create little pockets of common knowledge about technical
+concepts like Cluster Mapping, coordination mechanisms, sybil resistence, but
+also advance cultural movements like solarpunk, DAOs, network states, web3 in
+the global source, etc. We’ve had industry luminaries like Vitalik Buterin, Karl
+Floersch, Nadia Asparouhova, and others on the pod (sometimes multiple
+times). I’ve done 155 episodes together, to see the different categories of podcasts
+we’ve done checkout https://www.youtube.com/@Green_Pill_Podcast
+In 2023, we launched Greenpill v2 AKA Greenpill.network, which using the
+Greenpill podcast as an attractor, launched what we call a “CoordiNation across
+Nations & Cultures. CoordiNation (noun): a network-society that exports
+regenerative digital infrastructure to the world.”. We now have recruited Sejal
+Rekhan as community manager/operational lead, and we have ~13 active
+chapters in places as diverse as NYC, Denver, Nigeria, Turkey, China, India, and
+more, who run local meetups and build momentum regenerating local
+communities. My vision is that each local community member has the global
+context of regen web3 & the mechanics/software that can be used AND ALSO
+has the legitimacy/networks/relationships in the local community. This feels
+like a very powerful combination for local bottoms up movement building.
+Using this network, combining with Gitcoin’s tools, we could bootstrap a
+network of better impact funding.
+
+In 2024, we are building Greenpill v3 . Here are some themes and updates
+about Greenpill v3:
+1. We will be spinning the podcast out of Bankless at the end of October. I’m
+super thankful to Bankless for getting us started, and I’m proud of the 150
+eps we’ve done together. And very thankful they will be letting us take the
+audience with us. I’ve hired an independent podcast editor to continue
+producing/distributing the podcast, and plan to continue producing it
+independently. But I don’t have the cycles to keep producing it 2x/week, so
+I’m thinking about moving to dropping 5-10 episodes per quarter all at once,
+allowing people to binge listen when they’re dropped.
+2. I’ve been busy with my return to Gitcoin, and have been fairly absentee in
+the Greenpill.network discord / community lately. I want to own this. I think
+there is an opportunity for me to pass the torch to people who are stepping
+up in the Greenpill.network community to lead the network. In doing so, we
+will reinforce that the Greenpill.network architecture is not a hub and spoke
+around me, but that is becomes a peer to peer mesh network of community
+members that are supporting one another. (meta point: its cool that im
+leaning in at Greenpill when leaning out at Gitcoin, and visa versa when I
+lean in at Gitcoin I lean out at Greenpill.network. Both networks are ebbing
+and flowing together )!
+
+1.
+2.
+3. To the end of elevating other members of the network, we’ve got some really
+exciting opportunities for members of the Greenpill.network or Gitcoin who
+want to step in.
+There are many opportunities to join/lead local chapters. Checkout the
+the Greenpill Discord ( https://discord.gg/greenpill ) to learn more
+We’ll be running a Gitcoin rounds for Greenpill to fund what matters to
+the Greenpill.network (including local chapters). Join #greenpill-qfround on the Greenpill Discord ( https://discord.gg/greenpill ) to learn
+more.
+We’ll be onboarding greenpill citizens to run QF rounds for Gitcoin. Join
+#greenpill-v2-round-operators
+on
+the
+Greenpill
+Discord
+(
+https://discord.gg/ ) to learn more.
+I’m considering decentralizing my podcast hosting duties, which will
+allow us to produce interesting content from more corners of the regen
+web3 ecosystem. And also take the burden of podcast production off of
+me. Join #greenpill-decentralizing-podcast on the Greenpill Discord (
+https://discord.gg/greenpill ) to learn more.
+We’ll be writing “local regen guides” to cross pollinate regen
+thinking/skills across chapters. The goal is to get these done before
+ETHDenver 2024. Join #greenpill-local-regen-guides on the Greenpill
+Discord ( https://discord.gg/greenpill ) to learn more.
+Many thanks to Sejal, to the chpater leads, and to the active members of
+the netework. You have each been helping with these transitions. If you
+have cycles/skills/resources to help Greenpill out, say hi in the discord!
+
+CONTENTS
+1-
+
+The Power of Public Spaces: A Place to Innovate, Grow and
+Connect - 0xzenodotus
+
+10 - Recognizing Public Space as a Public Good - 0xzenodotus
+19 - Sustainable Spaces for the Public Benefit - 0xzenodotus
+31 - What should local non-profit organizations pay attention to
+when issuing NFTs? - m﻿ashbean.eth
+37 - The Real Conditions for Digital Solidarity - mashbean.eth
+51 - Seeking a Third Way Beyond Entrepreneurial Sovereignty
+and Abundance Technocracy Struggles - mashbean.eth
+61 - The Magic of Touching Grass - lanadingwall.et﻿h
+66 - Embracing Our Inner Connection with Nature lanadingwall.eth
+73 - Finding Meaning: Exploring Nature's Wisdom and Defying a
+Disconnected World - lanadingwall.eth
+82 - Bridging the Gap: A Regen Guide to Integrating Conservation
+Biology and DeSci Web3 Tools in the Anthropocene - Part 2 Rodrigo NuñΞz
+
+CONTENTS
+90 - Bridging the Gap: A Regen Guide to Integrating Conservation
+Biology and DeSci Web3 Tools in the Anthropocene - Part 2 Rodrigo NuñΞz
+94 - Bridging the Gap: A Regen Guide to Integrating Conservation
+Biology and DeSci Web3 Tools in the Anthropocene - Part 3 Rodrigo ﻿NuñΞz
+102 - What is the carbon market and how can blockchain
+technology provide a solution? - Gökçe Ertuğrul
+105 - Is the environmental impact of blockchain technology still a
+significant problem? - Gökçe Ertuğrul
+109 - Nigeria's Independent Electric Power Distribution Decentralized CEO
+114 - What is an intentional community? And why you should
+start one today. - beeradley
+123 - How a Regen Survives the Urban Apocalypse - Sarah
+Baxendell
+135 - Lessons Learned from the Boulder Blockchain Meetup Michael Green
+140 - Precious Plastic Commons - fcarva
+
+The Power of
+Public Spaces:
+A Place to Innovate,
+Grow and Connect
+0xzenodotus
+
+1
+
+Does your community have a public space?
+A public space is the perfect way to 'regenerate in the open.' In full view of the
+communities we cherish. Nothing speaks to a community more than shared
+responsibility and accessibility.
+Over the last few years, we planned, designed and opened a space for the public.
+(Located within Village Square Mall in Calgary, Alberta.)
+In most communities, there's a place that anyone can go to. Although, we don't
+typically view our public areas as hot spots or places we want to be at any time.
+Can that be changed?
+
+What resources can we use to create better public
+spaces?
+Some ideas:
+Devices: cheaper every year, and many can get repurposed
+Digital Interactive Textbooks (DITs): updateable, crowdsourced
+opensource— empowered with tech like the EVM & AI
+Open-sourced materials & tools
+P2P systems: best for direct-to-community approaches
+Wireless networks
+Mentorships, Tutoring & Coaching
+Career Advancement Opportunities
+
+&
+
+If we create places where people from all walks of life congregate, interact, share
+ideas, and collaborate, then the power of socialization will spark new ideas
+within our neighbourhoods.
+Locally, we can make the largest impact. Direct to the community is not very
+different than loving thy neighbour.
+2
+
+My Neighbourhood Has a Community Center:
+Why Do We Need Better Public Spaces?
+Often enough, we only consider the value of a public area once its sanctity gets
+contested. After a contentious suggestion like rezoning nature preserves or after
+a real estate developer converts an open space to a high-rise apartment building
+without considering the perspectives of the residents of a community.
+We mindlessly give up our rights all too often because of our fast-paced daily
+lives, the hustle and bustle. The constant grind is an exceptionally dense
+blindfold.
+Have you had to stand in the queue at a government office? Another good
+example of the rigidity we find ourselves in. How can this be so consistent across
+the world?
+Certainly, we can't all put the same effort into organizing ourselves. Or do we? Is
+it that obvious?
+Is it a mass coincidence that we increasingly find ourselves stuck further as a
+global unit into debts and degenerative practices? It's as if we wish or hope for a
+sustainable and regenerative force to fly in and sweep up the mess before us.
+The bystander effect is not limited to people and crimes but people and inaction
+— the thought that another person will handle this: leading to the unpleasant
+result of nothing.
+
+How do we define a public space?
+We must tread this line of thinking more; there are important questions to
+consider when evaluating your community's options and what is available for
+the general public.
+
+3
+
+These are some good questions to ask yourself:
+How often do you help areas in your community that are for the public?
+Do you take advantage of the public spaces in your area?
+Do you help maintain the local park?
+How often do you visit the community center?
+Have you ever rented out a public space for an event?
+Have you recently seen your local library?
+Have you noticed if the staff encourages growth & introduces new topics?
+Are the patrons engaged in these spaces?
+If you answer negatively to more than half of these questions, consider
+championing a new public space for your community.
+A decentralized agora is a town hall— more or less. Different areas will require
+distinct approaches and unique models: ways to adapt instead of encroach.
+Investing in our communities through community-run town halls can provide a
+valuable space for people to connect. It will take some sacrifice and earnest
+work: but it is attainable.
+If you can keep coming up with more 'negatives' or 'bads,' then it may be time to
+explore championing a valuable public space for your community: especially if
+you can conceptualize how to do it better.
+We set out to establish a 'public space' not owned and supported by a political
+group: strictly, it's for the community, and the community keeps it alive. A
+public space is often associated with parks, libraries, and squares. But we can
+view this differently.
+Public Goods are expensive when the cost doesn't get properly distributed.
+Having bootstrapped and self-funded a public space for the last three years, I
+can attest to the expense.
+4
+
+How can individuals distribute the cost of creating
+public spaces?
+Some typical expenses:
+Leases: depends on location, negotiation skills and the overall market
+Utilities: electricity, gas, wifi etc.
+Office Furnishings: we took advantage of used office furniture; you can
+likely do the same! Search for commercial office movers, thrift stores or
+companies that resell office furniture.
+Fees: Insurance, permits and business licencing (good chance you'll need to
+form a corporation of some type)
+Salaries: If you can't get volunteers or if insurance doesn't permit, you may
+need to account for people to staff the space.
+Some ways to distribute the cost:
+Grants, donations, fundraising & crowdsourcing with set goals
+Blockchains: The EVM is incredibly promising for the transparent funding
+and maintenance of public goods
+Quadratic Funding
+Retroactive Public Goods Funding (RPGF)
+Collective Memberships: With member fees similar to a COOP
+Sponsorships & Partnerships: Alignment/brand collaboration to
+strengthen both public goods and the orgs that build public-facing
+goods/services
+Fractionalized Responsibility: Distributing costs equally across a set of
+addresses via NFTs like Hypercerts — cost share is split at the sale and paid
+in full or with funds that stream on a set basis
+
+5
+
+How do we ensure that contributions are creating an
+impact?
+One way is that the legal system works in our favour; some issues may exist, but
+distributed ownership and responsibility blend real-life credit/reputation and
+on-chain history.
+Real world public good agreements aka RWPGA
+A fixed lease is a legal contract and must get paid. It would be best to replicate
+the agreement or strictly put the contract on chain with the same terms minus
+identifiable details. (Depending on confidentiality)
+With contracts, whether on-chain or not, there is no arguing that the terms
+outlined in a contract facilitates a base layer of honesty for both parties to
+commit to. A contract also creates a due process, allowing people to navigate and
+understand the conditions they must maintain, making it easier if anything bad
+happens, and enforcing accountability.
+And notoriously, this is abused because businesses need a mailing address. Fake
+companies have been the main argument for popular short-sellers of large
+companies for decades. After realizing there is only a little to prevent a company
+from faking productivity values. And when people rarely visit factories they
+invest in, it's way easier to get away with fraud.
+However, with a transparent money chain, it becomes much easier to audit the
+trail— especially if the company is fraudulent or the space doesn't exist.
+With our ability to meet people or reach out virtually, we can also conduct popin visits, where someone locally attests that they went to the public space and
+signs a transaction with their wallet, posts a photo on social media or some other
+verifiable method.
+
+6
+
+Anything is possible if we cooperate in funding real-world public goods that
+interface directly with our local communities while holding each other
+accountable with verifiable proofs.
+
+A Public Goods Cooperative: The Regen Republic
+The concept of a PGC evolves with modern tech, encompassing areas designed to
+inspire collaboration and facilitate the exchange of ideas and knowledge. And,
+importantly, it doesn't need to be shouldered by individuals; we can distribute
+that cost.
+What it looks like when a cooperative funds public spaces in the real world:
+
+A Public Goods Cooperative
+
+7
+
+We get a brilliant way to sustain public goods while also providing a way to hold
+organizations or persons accountable. The best part is that we can look deeper
+into the financials of organizations— institutions meant to support and
+maintain the development of public goods are often unclear in how they use
+their resources. This current opaque nature of public institutions must change if
+we want public goods instead of public bads.
+At any time, anyone can help make the budget more efficient, account for
+expenses or suggest new ways to use capital! Anytime the cooperative can save
+funds, it gets put back toward public goods, reinforcing them and adding
+resilience and, in turn, sustainability.
+Humans are unique in that we can sense when things are not sustainable, but it's
+not easy to determine why or how to avoid the consequences of inaction or
+overreaction.
+People are not upset about paying an environmental deposit for bags;
+they are mad that they keep purchasing reusable bags and forgetting
+them.
+We realize as a collective that changing bags didn't help; it's unsustainable still.
+We didn't approach the learned behaviour with an attempt to change it; we went
+for a fast solution with the most obvious results.
+It would be a shame if we forgot about the importance of public spaces and then
+desperately need them.
+A modern public space entails more than a place to study, relax, or read.
+With the abundance of resources available today, we can create highly advanced
+areas packed with information and tools for the public.
+In ancient Greece, the Agoras were central public hubs where people gathered,
+built in the open and shared ideas.
+8
+
+Today, we can support decentralized Agoras that serve as real-life hubs for
+innovation and growth, fostering an ecosystem that promotes learning,
+collaboration, transparency and cooperation.
+After thousands of years, it's obvious that we as humans align the most with a belief
+system, and the stronger the belief system, the more powerful the community.
+We can incentivize positive behaviour and encourage optimistic belief systems for
+the world's benefit instead of harm— establishing sustainable loops instead of
+degenerative leaks.
+
+9
+
+Recognizing
+Public Space as a
+Public Good
+0xzenodotus
+
+10
+
+How We View Public Goods Today
+A public good can be a thing that is freely available and in use by a person while
+others can still use it— or there is room to grow and accompany additional
+people. Non-rivalrous and non-excludable is the traditional definition.
+Allowing someone into the library doesn't mean there are no more books or
+fewer spaces or that the books themselves are not still valuable for the words
+written inside. They'll get brought back, and everyone can check them out.
+There is little competition for a public library and thus no rivalry because there
+will always be people who want to read and ones who need to read.
+For competition's sake, does that mean there is no incentive to improve some of
+these public goods? Because we define them as non-rivalrous, inherently, the
+standard is the accepted norm, and there are minimal reasons to improve—
+especially without active suggestions.
+These public goods include libraries, pools, skating rinks, pathways etc.
+Ways a cooperative can foster positive-sum outcomes:
+Productivity measurements: KPIs that underpin positive impacts.
+Balanced practices that regenerate versus degenerate.
+Focusing on sustainability and long-tail economic benefits.
+Sharing Resources to promote mutually beneficial outcomes.
+Use sustainable & enviro-conscious practices in operations.
+Support local economies via insourcing goods/services.
+Provide affordable and accessible goods/services to members &
+communities.
+Invest in education and training to empower members and strengthen the
+cooperative and the community they represent.
+
+11
+
+How We View Public Goods Today
+
+Saying I'm a regen instead of degen is easy, but what does it look like?
+Determining if something is good for the public can be challenging. Actions
+speak louder than words, but it's easier to suggest that something is regenerative
+before later finding out it isn't.
+It will take steady hands and careful eyes to watch and value public goods; we
+need stewards that take care of goods and services for the public— ones that can
+also measure and determine whether or not a public good as it stands is serving
+the interest of the public or a few select members.
+There are a few ways to tackle sustainability, but how do we know what is a
+public good and what is a public bad?
+If anyone can access something without restrictions above their control, it
+could be a public good.
+With newer technologies, particularly the internet, blockchains and networks, it
+is now possible to establish community spaces that effectively cater to the needs
+of the public without compromising their interests.
+By leveraging cooperative games that are mutually beneficial, we can foster
+positive behaviours and cultivate a collaborative spirit that encourages people to
+work together towards a common goal.
+When we unite and act together, voices can get heard; if we only think together,
+we'll stay paralyzed by analysis. A consensus bias.
+Something I heard long ago that sticks with me:
+"If everyone thinks the same thing is right, then someone is very wrong."
+
+12
+
+The Public Expense of Privatizing Resources
+When a resource is always available, and no one can claim profit over it in
+abundance and without recourse, it could be a public good.
+Examples of public amenities/resources:
+Air quality monitoring
+Community centers
+Parks, Green spaces & Forests
+Lakes & Rivers
+Beaches & Campgrounds
+Roads & Bridges
+Weather data tracking
+Globally, governments maintain many public goods because of a perceived
+failure of coordination and fair allocation. We've struggled as a collective to
+fairly govern our public goods for the interest of the collective instead of
+privatized industries exploiting the resources for profit.
+A problem we face with our public goods is the inherent management by
+governments with ideological motives. And corporate entities that seek to
+maximize shareholder and commercial value. The sheer size of our industries
+today. They've grown so large that separate departments get used to manage
+different industries, often leading to conflicting internal affairs and views.
+An excerpt from newswire regarding fishery closures;
+"The Coalition is requesting that the federal Fisheries Minister immediately
+meet with commercial fishing organizations, to transparently share the
+science behind the radical decision and to consider a delay in the closures so
+that the fishery can be managed in an orderly manner that respects
+sustainability."
+
+13
+
+How can individuals distribute the cost of creating
+public spaces?
+Some typical expenses:
+Leases: depends on location, negotiation skills and the overall market
+Utilities: electricity, gas, wifi etc.
+Office Furnishings: we took advantage of used office furniture; you can
+likely do the same! Search for commercial office movers, thrift stores or
+companies that resell office furniture.
+Fees: Insurance, permits and business licencing (good chance you'll need to
+form a corporation of some type)
+Salaries: If you can't get volunteers or if insurance doesn't permit, you may
+need to account for people to staff the space.
+Some ways to distribute the cost:
+Grants, donations, fundraising & crowdsourcing with set goals
+Blockchains: The EVM is incredibly promising for the transparent funding
+and maintenance of public goods
+Quadratic Funding
+Retroactive Public Goods Funding (RPGF)
+Collective Memberships: With member fees similar to a COOP
+Sponsorships & Partnerships: Alignment/brand collaboration to
+strengthen both public goods and the orgs that build public-facing
+goods/services
+Fractionalized Responsibility: Distributing costs equally across a set of
+addresses via NFTs like Hypercerts — cost share is split at the sale and paid
+in full or with funds that stream on a set basis
+Large industries that grow in places like public waters can lead to either
+mismanagement, negligence or otherwise inefficient distribution of public
+resources. Especially with technology, the bureaucracy of a governmental body
+may prevent it from being up to date on the newest standards, which can allow
+for resource exploitation against the benefit of the public.
+14
+
+A Recent Tragedy of the Commons
+The Canadian Maritimes suffered from overfishing and mismanaged resources
+— recently and during the past.
+During the 90s, technological advancements like sonar, trawlers and
+underwater location devices allowed commercial fishermen to increase catch
+rates and abuse natural resources. An over-competitive atmosphere ran unchecked, and the industry collapsed.
+Many parties will support different types of public goods and spend more time
+on areas and resources defined as beneficial to the public, depending on the
+value they produce and if they are within the ideological frame.
+Governments often make decisions that are unilateral regarding industries.
+Which affects a wide range of people and can have unknown impacts.
+When there is more information or input from everyone involved, making fair
+decisions that benefit everyone can be easier. However, there are frequent time
+restraints, and extensive research is not permitted— especially when decisions
+must be made quickly to save resources and lives.
+"In 1992, Northern Cod populations fell to one percent of historical levels, due
+in large part to decades of overfishing. Prompting the Canadian Ministry of
+Fisheries and Oceans to close the fishery, thus eliminating a traditional
+livelihood for about 30,000 people. Three decades later, the fishery still has
+not recovered.
+Due to these market failures, the government has a special role in conserving
+and managing public goods...Indeed, this explains why goods such as bridges,
+parks, police protection, and fire departments are usually financed with tax
+revenues that governments collect. Government serves as a coordinating
+mechanism that provides public goods for the benefit of society."
+- The Atmosphere as a Global Public Good by: Patrick A. Parenteau 15
+
+We are far from well-coordinated and sustainable goods for the public benefit.
+Even with an overarching manager and distributed funding via taxes. Our
+governments need help coordinating at a mass scale and with the interests of the
+parties involved. We can help with incentive structures and systems that work
+for the benefit of society as a collective.
+Technology will allow us to make public spaces sustainable and regenerative for
+all— and many generations to come.
+
+A Public Goods Cooperative: The Regen Republic
+Have we truly considered the importance of interaction and connectivity in
+public spaces?
+Thanks to the ever-increasing number of network devices, the Internet of Things
+(IoT) grants prolific access to open tools and accessible resources that help us
+develop better public facilities.
+However, it's worth questioning— are we treating public goods with the same
+care and significance as before?
+As a collective, we've demonstrated our collaborative ability throughout history.
+Common areas present opportunities for the development of goods and services
+that can greatly enhance the quality of life for the general public. All major
+societies revered and protected their public areas. Neglecting them meant a less
+enjoyable life for everyone overall.
+Before overwhelming corruption, greed and overall neglect. Our structures and
+values were powerful at creating impact. We've created magnificent spaces that
+span regions, changing our perception of our environment forever.
+
+16
+
+A few times we've changed the world as a collective:
+Golden Ages: Classic Societies
+The Renaissance
+Industrial Revolution
+Transport Revolution
+Green Revolution
+Digital Revolution (3rd Industrial Revo.)
+Information Revolution
+Industry 4.0 (4th Industrial Revo.)
+
+A Public Goods Cooperative
+One way to create impact is through a coalition of like-minded individuals that
+believe in the power of producing things for the benefit of the public.
+These individuals coalesce in positive-sum ways to foster the sustainable
+creation of goods and services that benefit the public.
+Forming a cooperative that focuses on some set principles, public spaces,
+common areas, and open-sourced technology can empower society at the
+individual level.
+Open source means equal access
+
+17
+
+Ways a cooperative can foster positive-sum outcomes:
+Productivity measurements: KPIs that underpin positive impacts.
+Balanced practices that regenerate versus degenerate.
+Focusing on sustainability and long-tail economic benefits.
+Sharing Resources to promote mutually beneficial outcomes.
+Use sustainable & enviro-conscious practices in operations.
+Support local economies via insourcing goods/services.
+Provide affordable and accessible goods/services to members &
+communities.
+Invest in education and training to empower members and strengthen the
+cooperative and the community they represent.
+
+Long Game: Sustainable Spaces For The Public
+Above is a short list; tons of other areas and movements resulted in a noticeable
+global change— even if it took many years to encourage or see measurable
+results.
+Many of our changes for the better are only possible for us to view in hindsight.
+We must attempt change and shoot for inventions before we can see the results
+and innovate.
+Right now, we are putting profit before purpose, and consequently, we see loops
+that reduce public resources to unsustainable levels because we industrialize
+before we make things more efficient. It's time for a mindset shift toward
+regenerative principles.
+If we focus on purpose before profit, we can innovate for the greater good
+instead of greater wealth. After all, if nothing is left to cultivate, there will be no
+profits, and our health will deteriorate, and that's the main source of our wealth
+as a society.
+18
+
+Sustainable Spaces for
+the Public Benefit
+
+0xzenodotus
+
+19
+
+Throughout history, many communities have suffered from degrading public
+spaces due to industrialization and overconsumption.
+As a result, public spaces often get seen as unsustainable and prone to
+mismanagement.
+However, with the rise of regenerative principles, we are beginning to see a shift
+in how we view and manage these spaces.
+Regeneration means restoring, renewing, and growing. Applying this concept to
+public spaces involves revitalizing these areas to enhance their value and
+promote sustainable practices.
+Creating regenerative public spaces involves:
+Rethinking planning & management.
+Engaging local communities in the decision-making process.
+Encouraging long-term sustainability over short-term progress.
+Promoting and practicing the principles of circular economy.
+Prioritizing biodiversity and ecological health.
+Advocating policy changes at local levels: Bottom-up approach to policy
+Supporting the protection & regeneration of public spaces
+Regeneration is more than just repairing what's broken; it's about enhancing
+and sustaining the value of our public spaces for future generations.
+
+Transparent public goods
+Let's imagine a world where the public maintains 'Transparent Public Goods,' a
+fancy term for freely available resources that anyone can view the workings of,
+and they benefit everyone.
+Public libraries, community halls, leisure centers, weather data and the air we
+breathe are all public resources that benefit the general public.
+20
+
+We can enhance the capability of these resources by increasing their
+transparency and governing them more actively as a community. When we
+understand what they cost, what benefits they bring and how we can utilize our
+public resources, we can learn how to take advantage of them better.
+Take Finland as an example; in Helsinki, they've developed wonderful
+collaborative hubs for the community. They are public libraries, but these are
+not your usual 'Shhh... Be quiet' type of libraries.
+Oodi in Helsinki — Central Public Library
+
+Floor 1 & 2 of the Oodi
+
+They're vibrant spaces with resources promoting learning, social connection,
+and community activities. Talk about a public good that benefits everyone!
+We can all gauge how valuable these places are if we increase transparency.
+View Oodi in 360
+More insights into the Finnish Library System
+
+21
+
+Turning the Tide from Common Tragedies to
+Common Amenities
+Sadly, our world is not without its share of 'Tragedy of the Commons'
+It's a grim term to describe situations where public resources get depleted or
+misused, often due to a lack of accountability and ethical management.
+Picture overfishing in a lake until there's not a single fish left. That's a common
+tragedy.
+
+Image by: Aquaholics
+
+22
+
+We, humans, are capable of extraordinary things, especially when we work
+together.
+By rolling our sleeves and getting our hands dirty, we can transform these
+common tragedies into 'Common Amenities'.
+Some Common Amenities we can build together:
+Converting abandoned/derelict property to sustainable and productive land
+for the public to use
+Opening community hubs managed by locals for the locals
+Specialized libraries staffed with people familiar with the subject matter
+Open incubators and think tanks for the public
+Look at what happened in Seoul, South Korea, with the Cheonggyecheon stream.
+
+Turning the Tide from Common Tragedies to
+Common Amenities
+South Korea recognized problems with their long term development and the
+harmony with their environment.
+Older projects during the 60’s and 70’s covered up a historical stream running
+through Seoul. A restoration project began after evaluation of the current
+infrastructure on top of the stream.
+
+23
+
+Neglect under developement
+
+The Cheonggyecheon Stream in the 40s and 60s
+
+Overpass Construction
+
+The Cheonggyecheon Stream development in the 60's and 70's
+
+24
+
+Cheonggyecheon Stream Restoration Project
+
+The Cheonggyecheon Stream restoration project during the 90's & early 2000's
+
+The Cheonggyecheon Stream Today
+
+The Cheonggyecheon Stream today — restored to a more natural landscape
+
+25
+
+Once a polluted, forgotten waterway. Through hard work, it became a stunning
+urban park attracting millions yearly.
+Uncovering the stream and replacing the concrete with a more natural state
+decreased the temperature of the city center and surrounding areas of the
+stream— by as much as 3 to 6 degrees. A substantial difference. (see Urban Heat
+Island Effect)
+Read the Full Stream Restoration Report here.
+
+The Power of Cooperative Principles
+In a regenerative approach, the principles of cooperation are fundamental.
+The cooperative model is an excellent way to manage resources, enhance social
+value, and promote sustainable practices in public spaces.
+Some ways cooperative principles can foster regeneration:
+Voluntary and Open Membership: Public spaces should be open and
+accessible to everyone in the community. There should be no pressure to pay
+a fee to access public resources. A cooperative structure also ensures
+everyone has a say in decision-making processes.
+Democratic Member Control: Each member has one vote, providing equal
+representation. A democratic model allows the needs of the many to
+outweigh those of the few.
+Member Economic Participation: Members contribute to the economic
+health of the cooperative and share in its success. This structure ensures that
+the benefits are shared equitably among all members.
+Autonomy and Independence: Cooperatives are autonomous entities
+controlled by their members. This autonomy allows them to make decisions
+that best serve their community.
+
+26
+
+Education, Training, and Information: Cooperatives invest in their
+members through education and training, which helps them contribute
+more effectively to the cooperative and their community.
+Collaborative Cooperatives: Cooperatives support other cooperatives,
+creating a network of mutual aid and shared resources.
+Concern for Community: Cooperatives work for the sustainable
+development of their communities. This focus ensures the long-term health
+and well-being of the community and its public spaces.
+
+Towards a Regenerative Society
+A regenerative society prioritizes its communities' sustainable development and
+the health of their public spaces— it values cooperation, inclusivity, and longterm prosperity over short-term profits.
+However, transitioning towards a regenerative society requires fundamental
+changes in how we think about and manage our public spaces.
+Here are some steps we can take:
+Foster a culture of cooperation and mutual aid.
+Prioritize the health and well-being of the community in decision-making
+processes.
+Advocate for policy changes that support regenerative practices.
+Promote education and awareness about sustainable practices and
+regenerative principles.
+Support local businesses that value sustainability and ethical practices.
+Encourage innovation and the adoption of sustainable technologies.
+Develop community programs that promote environmental stewardship.
+As we embark on this journey towards a regenerative society, we must
+remember that change takes time. But with patience, persistence, and a shared
+vision, we can create a sustainable, inclusive, and regenerative future.
+27
+
+Education, Training, and Information: Cooperatives invest in their
+members through education and training, which helps them contribute
+more effectively to the cooperative and their community.
+Collaborative Cooperatives: Cooperatives support other cooperatives,
+creating a network of mutual aid and shared resources.
+Concern for Community: Cooperatives work for the sustainable
+development of their communities. This focus ensures the long-term health
+and well-being of the community and its public spaces.
+
+Sustaining Spaces for the Public - A Labour of Love
+So, we've got some great public spaces, but how do we ensure they stick around
+for our children and their children?
+It all boils down to love and respect for these spaces. We can make a difference
+by adopting eco-friendly habits, participating in local initiatives, and advocating
+for responsible use of public goods.
+We’ve talked about Korea, but did you know about the New York City's High
+Line?
+An elevated urban park that was once a rusty, old railway, abandoned and
+forgotten.
+Thanks to a community-driven initiative & some serious elbow grease, it has
+transformed into a vibrant, green space that New Yorkers and visitors love.
+
+28
+
+New York High Line Park Regenerated. Left credits: Joel S. Right Credits: David S.
+
+Sustaining Spaces for the Public - A Labour of Love
+The future of our public spaces, and indeed, our society, depends on our actions
+today. By embracing regenerative principles and practices, we can ensure that
+our public spaces continue to serve us well for ages.
+Remember that we are not only custodians of these spaces for our time, but we
+are also stewards of these spaces for future generations.
+Let's strive to leave a legacy of a regenerative society that future generations can
+inherit and be proud of.
+So, dear friends, remember the importance of our public goods and resources as
+we navigate toward a regenerative future.
+By being transparent in their usage, transforming tragedies into amenities, and
+sustaining these resources, we can ensure they continue to serve us and future
+generations.
+29
+
+A Regen Recap and A Nudge in the Right Direction
+The future of our public spaces, and indeed, our society, depends on our actions
+today. By embracing regenerative principles and practices, we can ensure that
+our public spaces continue to serve us well for ages.
+Remember that we are not only custodians of these spaces for our time, but we
+are also stewards of these spaces for future generations.
+Let's strive to leave a legacy of a regenerative society that future generations can
+inherit and be proud of.
+So, dear friends, remember the importance of our public goods and resources as
+we navigate toward a regenerative future.
+By being transparent in their usage, transforming tragedies into amenities, and
+sustaining these resources, we can ensure they continue to serve us and future
+generations.
+Every effort counts - from picking up litter in the park to advocating for a
+community garden, no action is too small.
+It's time for us to roll up our sleeves and put in the work.
+For a recap, part 1 & part 2 are right there for you.
+Let's continue to grow and learn together, fostering a society that values and
+protects its public goods.
+We've got this!
+
+🧑‍🔬 ♻️ 🌱
+
+30
+
+What should local nonprofit organizations pay
+attention to when issuing
+NFTs?
+mashbean.eth
+
+31
+
+Return to the Dunbar's number, remove the fantasy of infinitely
+extending time and space of magic web3, and pay attention to digital
+experiences that have boundaries! When new things are easier to create
+than old ones, enduring old things can acquire immense value.
+This is my first article joining the GreenPill.Network, with the Chinese version
+concurrently published on Matters.town (mashbean). The GreenPill.Network
+Writing Program publishes one thousand-word article per week for three
+consecutive weeks, and everyone can participate in writing about web3 public
+actions from all around the world. Kevin Owocki, the founder of Gitcoin,
+launched the Green Pill Movement, calling on everyone to transform from
+Degens (traders) to Regens (cultivators). The movement is now in its second
+chapter - Global Local Connections, inviting web3 public actors from all around
+the world to write and interact.
+
+In 2022, our organization, FAB DAO (Formosa Art Bank DAO), conducted a
+series of web3 experiments in Taiwan for different types of non-profit
+organizations, activists, and advocates. These were mainly local actions to assist
+fundraising, advocacy, and digital experiences. Some were successful, while
+others were not as satisfying. We have cooperated in various forms with art
+museums, art village, large-scale charity platforms, coral restoration
+organizations, animal protection groups, public schools, organizations for the
+elderly, human rights advocates, and others in Taiwan. I believe we have the
+credentials to provide some preliminary guidance for the local 'regens' in
+Taiwan.
+
+32
+
+FAB DAO Regens Event in Taiwan
+
+For those willing to try in mid-2023, it is essential to see the pandemic era as a
+special event, with phenomena that are hard to replicate. The once-famous
+projects have now become moldy, and legends have turned into jokes. In that
+era, when we talked about blockchain or web3, we encountered a series of
+dreamlike words, such as decentralization, permissionless, trustless, scalability,
+etc. These blockchain features still exist today, but they don't have much to do
+with the solidarity of local communities.
+Decouple these concepts from the actual people you interact with, and your
+mental burden will not be so heavy. While these concepts are indeed important
+and are the cornerstone of the public blockchain operation, they successfully
+created amazing miracles on a global scale during the pandemic, such as crossborder showing off wealth, war donations, etc. But now, as people live face-toface again and see continuous warfare as normal, these underlying innovative
+concepts won't help you achieve advocacy or fundraising effects.
+33
+
+In a permissionless blockchain, everyone can join, but bounded communities are
+what create real action; trustless smart-contract machines can't automatically
+produce spiritual tokens that connect each other's trust, spiritual value needs
+proper context by local actors for the tokens to carry value effectively; in the
+progress of scalable blockchain technology, actual digital communities shouldn't
+emphasize rapid expansion of membership, as it will only diminish the chain of
+trust between each other. If we pay too much attention to the quantifiable
+benefits generated by tools, platforms, and tokenomics, local actors can easily
+fall into the anxiety of formalism, and we should now focus more on the process
+of actual solidarity. How to introduce resources, and how to use them well.
+Therefore, in terms of cognition, it is very important to decouple the
+technological innovation layer from the decentralised society (DeSoc) layer.
+Community actors don't need to worry about how to improve the terrible user
+experience of web3, web3 tools are as hard to learn as they are to teach, when
+you want your participants to learn how to use it. Honestly, our past forcing the
+public to learn digital wallets, collect digital assets, was like "using a complicated
+period of growing pains to create a common life experience for members."
+Before the digital infrastructure related to public fundraising and public
+advocacy is mature, like local regulations, digital habits, and UI/UX, digital
+communities should focus on creating impressive digital experiences. This is the
+only intersection of the technology and society layers at present.
+As the world enters an era of attention scarcity in digital life, we should focus on
+the people and things around us through the process of digital production. Like
+the virtual treasures in video games, the qualitative changes generated by digital
+creations give rise to a sense of ‘a sense of ownership’ in subjective
+consciousness. "I have that, do you have it too?" The sense of social identification
+created by these virtual items is a completely new mode. ‘A sense of ownership’
+and 'rights of possession' are two levels of status, with the latter being defined at
+legal and social levels. When we own private property, that is a right of
+possession, such as cars, houses, intellectual property rights, naming rights, etc.
+However, the right of possession does not necessarily completely overlap with
+the subjective inner 'sense of ownership'.
+34
+
+Sometimes, we can even jointly own a piece of work, for example, a work has a
+hundred editions, each of us owns an edition, but we do not think we only own
+one percent of it. Often, we each feel like we all own one piece, even though it is
+identical in its bit data, and this can even create 'community identity' because we
+own the same thing together. This is what is referred to as 'positive externality'.
+For instance, in 2022 we co-launched the Vanishing Family series with human
+rights artists. This is a series of the artist's past oil paintings. The image is a
+series of family portraits, with family members in the middle disappearing,
+being locked up in jail, or becoming death-row inmates. This was a very
+important period in Taiwan's history, ruled by China's dictatorial government,
+creating countless political prisoners. And to this day, Taiwan's political
+situation has been liberalized for less than 40 years. The artist and his works are
+excellent mediums for reflection on human rights.
+
+35
+
+We issued 100 copies of different works in this series, priced in dollars, and they
+were snapped up within a few blocks. This was because what we wanted to
+create was advocacy, and fundraising was secondary. The community members
+who participated in the collection did not think they only collected one percent
+of the fragments, but rather a story and a whole segment of history that actually
+happened in Taiwan.
+The 'sense of ownership' is less like 'ownership rights' and more akin to the
+dissemination of knowledge. When we impart the knowledge in our heads to
+others, it does not diminish the value of our acquisition of this knowledge, just
+as a candle's light illuminates a room, these are all non-competitive and nonexclusive public goods. When public-interest or advocacy-type NFTs operate
+successfully, although their owners are of a limited number, their 'sense of
+ownership' increases exponentially through the process of user conversion. The
+best part is that the generated cash flow can be directly returned to the activists.
+That's why I would urge non-profit activists who can afford to pay attention to
+NFT digital experiences at this time, because when new things are easier to
+create than old ones, enduring old things can acquire immense value, whether
+digital or not. This is my initial appeal from Taiwan to Regens around the world.
+
+36
+
+The Real Conditions
+for Digital Solidarity
+
+mashbean.eth
+
+37
+
+The Third Space of Anti-establishment (Anti-Algorithms)
+This is the 2nd article for the GreenPill.Network global movement, with the
+Chinese version published on the Matters.town (mashbean) platform. The
+GreenPill Network writing project was initiated by Gitcoin founder Kevin
+Owocki to encourage global local communities to voluntarily write down unique
+web3 public culture.
+
+38
+
+After the trend, there is no grass here.
+The bear market is a moment of truth. When someone says that minting "NFT"
+can increase sales, it is a hypothesis. Looking back now, this is just a joke, just
+like people said that registering the domain ".com" could make a fortune 20
+years ago. These people have misunderstood the essential difference between
+Buzzwords and the technological revolution. Buzzwords can indeed attract
+attention, and under the amplification of social media platform algorithms,
+humans are like sheep, domesticated by mechanical sheepdogs. Chasing
+Buzzwords can indeed bring a rapid market, but this is like the grass in the
+desert, it comes and goes quickly.
+And obviously, this year's grass is growing in the AI field. The underlying
+research of these two technologies is as difficult as it can be, but the application
+layer can be very simple. Releasing a smart contract to access OpenSea (NFT
+trading platform) can be called an NFT project; releasing a service that connects
+to the API provided by ChatGPT can also be called a developer. The reduction of
+entry barriers for emerging technologies, which quickly increases the number of
+early developers, is indeed a key condition for igniting Buzzwords, and media,
+public sectors, forums, and the public follow.
+But don't just focus on the development of hardcore technology, and
+underestimate the simple creativity of "connecting". The connection has created
+stackability, and many unexpected application modes have begun to emerge.
+This is like "The Legend of Zelda: Tears of the Kingdom", where players thought
+that the tools available to everyone, were created by Nintendo in 2023. I think
+this is where Cultural Technology is important. Cultural Technology is the
+interface active agent of technology, integrating technology into society, and
+creating more diverse and heterogeneous application possibilities.
+
+39
+
+Digital Solidarity and Decentralization Tangles
+Let's take a look back at the wave caused by the technology tree of "cryptography
+- distributed ledger - NFT", to see what's left to assemble, among which is DAO
+(Decentralized Autonomous Organization). When the marketing narrative of
+the metaverse combined with the concept of NFT becomes popular, the grand
+narrative cleverly combines "decentralized will", "storytelling” and "autonomous
+tools". Many web3 projects claim in their roadmap that after earning wealth,
+they will move towards decentralized autonomy (daoxit). In the narrative, they
+weave fantasies of community co-governance and IP co-creation together; in
+terms of tools, they operate through multi-sig vaults and voting deliberations.
+However, in reality, some teams in Taiwan, for example, have rug pulled funds
+and stopped operating (which is not uncommon in recent months), some
+operators have clashed with the community, and some have lost momentum
+after entering a decentralized autonomous state. "Decentralized" seems to be a
+synonym worse than "saying goodbye."
+But is there really no possibility for "Digital Solidarity"?
+People who walk into "DAO autonomy" from "NFT project" seem to naturally
+believe that holding "tokens" and voting is the so-called Digital Democracy.
+However, people almost at the same time found that democracy is a goal that
+seems to never be achieved. A famous NFT project in Taiwan originally had high
+popularity, and the community that had online meetings every day looked
+forward to entering real decentralized autonomy, but when people found that
+the operators were only willing to provide a small amount of funding as
+governance initial capital, the polis disbanded. These early pioneers who first
+tasted digital democracy, as consumers, gradually became believers but seemed
+to have not made a "promise" yet, to fulfill community autonomy under
+collective cooperation.
+In addition to the emerging web3 projects in Taiwan promoting the spirit of
+decentralization, the open-source field has been doing so for years and has given
+birth to many world-renowned projects.
+40
+
+However, under the commercial narrative of the metaverse, "decentralization"
+has become a buzzword again. It is a term that has successfully risen in an era
+where large commercial platforms monopolize the attention economy. Young
+people (or venture capitalists) may be inspired and want to achieve commercial
+success (NFT) while getting spiritual comfort (DAO). Rebellious young people
+want to break down rules, oppose bureaucracy, establishment, or everything
+constructed by the secular society of the older generation, which is the same in
+any era. Whether it is the Cultural Revolution in China, the Hippie Movement in
+America, or the Wild Lily student movement in Taiwan, these movements
+contain a revolutionary will no matter how divergent their demands are.
+However, the classic paper "The Tyranny of Structurelessness" by Jo Freeman, a
+feminist activist from the 1970s in America, tells us that after removing the
+rules, flat and non-hierarchical organizations can easily become elite circles due
+to the inherent limitations of trust chain and information transmission, and
+thus give rise to representative controversies, power struggles, and movement
+traumas. The outcome of a movement is often not institutionalization, but the
+dissipation of social mobilization.
+"Decentralization" primarily faces cultural collaboration issues, followed by how
+DAO tools support its spirit. In facing representative controversy, g0v in Taiwan
+is a very good example. This is a long-standing (just turned ten) decentralized
+organization primarily composed of hackers, initially founded with the slogan
+"hack the government", and subsequently gave birth to many civic technology
+projects. As g0v expanded, it inevitably faced representative disputes, but in the
+end, it established the principle of “nobody can represent g0v" under
+community consensus and emphasized the principle of joint notes for media
+contact, which is still in use today.
+How web3 projects survive, especially teams oriented towards digital art, should
+reflect on the problems faced by decentralized organizations in different eras,
+rather than wanting commercial success while maintaining decentralized
+autonomy. Taiwan does not have a tradition of solidarity economy like Europe
+or Central and South America.
+41
+
+Employees are not consciously also owners, and the community does not have
+the habit of sharing commercial benefits. This is because the Cooperatives Act is
+outdated and difficult to use, and it creates a situation of nominal cooperation
+but actual labor employment. Therefore, "decentralization" has influenced the
+social and economic level in different forms and appearances at different times,
+undergoing a wave of changes brought by cooperative corporatization, social
+movement, and digital tools.
+
+Digital Solidarity and Decentralization Tangles
+Despite the traumas that the decentralization movement brings to its
+participants, we should still praise such endeavors. In trendy terms, these
+movements have always been acts of resistance against algorithms, they
+represent the third space in life. Students have a place to go besides home and
+school; workers have a place to go besides home and the office. In the past, there
+were social norms at home and social systems outside, an algorithm evolved
+from societal culture, with attention and limited time captured in a linear world.
+Today, we have entertainment algorithms at home (like TikTok) that users can
+easily get lost in, and profit-oriented high-efficiency algorithms at work. In fact,
+many people are now actually working alongside AI algorithms. This is a
+characteristic of a high-efficiency industrial world.
+However, a third space is still necessary, and it doesn't necessarily need to be
+efficient. In fact, it is ineffective, noisy, and often futile. But these are important
+characteristics of the public sphere that direct us not towards profit, but towards
+facing communities and constructing culture, resisting algorithms, and even
+things that algorithms must learn from events that machines cannot create.
+"Palaces for the People" writes that people need a third space, using "Social
+Infrastructure" to reverse the coldness and indifference of civil society, like
+libraries, parks, and fountains. As the public enters digital life, the digital
+world's DAOs are gradually taking on the benefits of such infrastructure.
+
+42
+
+In fact, there are precedents for digital spaces serving as social infrastructure,
+like online-game guilds, forum moderators, etc. These are places that resist
+algorithms and generate a lot of digital life memories. In this context, Facebook
+Groups and Facebook News Feed are completely different concepts. The
+massively multiplayer online game "Eve Online" has seen widely-told stories
+like Chappy78's birthday party. When veteran player Chappy78 was diagnosed
+with terminal pancreatic cancer, his final birthday wish was to fight an epic
+space battle. Many gaming guilds and over 2000 players burned resources they
+had accumulated over time to fulfill Chappy's dream with a space firework show
+in the digital space. This isn't something an algorithm can do, it can only happen
+in a third space without too many conflicting interests and social
+responsibilities.
+Just three weeks ago, the American forum Reddit was facing a dilemma between
+operator profits and community protests over shutting down forums. The
+operators, in order to profit, decided to start charging for their originally free
+API service and implemented it after a very short announcement. In response,
+the community began shutting down their sub-forums. This is the dilemma of
+decentralized governance and operation. It's not just the web3 world that faces
+such problems. In another interpretation, web3 can be seen as the internet's
+third space. Users work in the first space, rest in the second space, and create a
+culture in the third space.
+
+The third space of Web3
+An excellent example in the world of Web3 is JPG.Space. JPG is a digital art
+database created from the ground up through collective intelligence. It started
+operating in 2021, but unfortunately, it shut down temporarily in June. As a
+curatorial experiment that lasted over two years, JPG was not constructed by art
+historians, renowned curators, or artists themselves, but was a curated
+collection created by crowd stacking and voting. It was not like a typical opensource collaboration platform, such as Wikipedia.
+43
+
+Instead, it consciously undertook curatorial and contextual work, involving a
+large number of subjective factors and manipulative interpretations. It
+resembles a community-oriented new media art institution, Rhizome, mixed
+with the surfing spirit of the 2000s. This time, not only creators are involved but
+also a large number of collectors and amateur critics.
+In an interview with the media Right Click Saved, titled "The Power of
+Community Curation", the leaders of JPG emphasized that NFT is a method of
+deconstructing the art ecosystem. Community action is based on such
+infrastructure like NFT, and for JPG, most actions took place on the Discord
+platform. Discord, a platform loved by the gaming community, gaming circles,
+and Web3, is relatively closed (you can see the content only after joining),
+chaotic (non-linear content, prone to multiple channels happening at the same
+time), and scares away many users who are accustomed to traditional social
+platforms, yet it is widely welcomed by information surfers. Various Discords
+often have different live streams, broadcasts, and AMAs (Ask Me Anything) at
+night (the night in East Asian time zone).
+
+The Canonical NFT issued by JPG.space.
+
+44
+
+JPG emphasizes the importance of Discord, even with its imperfections, but it is
+still the "third space" for intense discussions in the web3 community. Wade
+Wallerstein said: "This is not the tyranny of the masses, but a tool for
+community mutual support and education." This is consistent with the concept
+of the "Future Art Ecosystem 3: Art and Decentralized Technology" published by
+the Serpentine Gallery. The Serpentine Gallery believes that the Web3
+community operation model creates a methodology for resistance against
+institutions. Whether it's the technical bottom or the cultural level, it generates
+unique creative meanings and cultural values ​specific to the community, no
+matter what this community represents.
+Returning to the third space, the overseas experience of JPG and my personal
+experience in Taiwan are consistent. Recently, with the help of FAB DAO
+(Formosa Art Bank), local group "Huangxi Environmental Education
+Programme (HEEP)" conducted a series of environmental education actions,
+proving that social infrastructure and digital solidarity collaboration are
+possible to unite. Huangxi is a river located in Taipei, the capital of Taiwan. Due
+to urbanization, the river has gone through stages of natural ecology, landscape,
+and concretization. The Huangxi team is slowly opening the public participation
+process through a lot of curation, research, and conversations with local
+communities and schools. The "Huangxi Environmental Education Programme"
+had a fun river RPG with primary school students at Mingde Elementary School
+at the end of June, discussing what the river near their homes looks like. Using
+the interactive "Tamagotchi at riverside " NFT as a medium, they try to create a
+process of interaction between students and parents through this symbolic
+token.
+
+45
+
+Photo by Yian Lin
+
+Photo by Yian Lin
+
+46
+
+The creators, actors, and planners all come from DAO, and it happens that these
+participants have different local memories with Huangxi. The cooperation
+process of these people is concretely and microscopically displayed on platforms
+related to Discord. In the past, FAB DAO has helped teachers and students of
+Taipei Municipal Zhong Shan Girls High School to deal with the time and space
+tokens of campus historical buildings, helped teachers and elderly people at
+Longtan Elderly Center to create paper-cutting creations, and cooperated with
+museums and art villages to practice the possibility of chain community
+interaction. These non-profit projects are attempts to incorporate NFT,
+symbolizing a certain spirit, into the third space.
+
+Longtan Elderly Center NFT Project
+
+47
+
+Internet Autonomy Region
+This month, we discussed the concept of the Network State with Mask Network
+founder Suji Yan. The Network State is an emerging concept, initiated and
+written by Balaji, and has now become a social movement in the Web3 world.
+This theory suggests that when a digital community's technology, culture, and
+economics mature, an autonomous body without borders or territory is likely to
+emerge, overlaying traditional sovereign nations. Suji believes that our
+generation has not yet reached this mature state. At best, we are the generation
+before the founder’s grandfathers. When the infrastructure of a virgin land is
+not yet mature, it is a necessary measure to exchange resources from the colonial
+motherland (real economies and enterprises) (see the full interview: Suji Yan
+talks about the generation of Network State).
+This prompts us to reexamine, is digital solidarity really happening? Whether
+it's the exceptional state of the third space, or the public domain in a democratic
+society; in terms of the development of digital culture's basic infrastructure, is
+the emerging Web3 toolkit an inevitable path? Beginning from protests and war
+zones, we have seen official cryptocurrency wallets and peace-supporting
+Ukraine DAO in Ukraine, attracting global supporters' funds for practical help.
+Similarly, on the subject of Russia, the famous protest group Pussy Riot issued
+the NFT "Putin’s Ashes" and produced a protest-style MV, and they were wanted
+by the Russian government because of the issuance of the NFT.
+
+48
+
+NFT: Putin's Ashes by Pussy Riot
+
+49
+
+In cross-border issues, NFT is an effective advocacy tool, and DAO is a collection
+of effective tools for coordinating cooperation and asset management. Urgent
+situations often bring about creative and effective "connection" methods. Back
+within a single national boundary, whether local communities can benefit from
+DAO at this stage to achieve substantial cooperation, such as digital asset
+management, cooperative division of labor and profit sharing, issue
+communication and marketing (at this point it must be reiterated, as a
+Buzzword, the wave of DAO is no longer in place), these are within the scope of
+culture technology and how to continue to create unique culture for the digital
+public domain, surpassing the algorithm dominating the first and second
+spaces, this is a phenomenon worth observing at the moment.
+Together with the director of the Taiwan Labor Front Research Department,
+Hong Jing-shu, freelance translators Liu Wei-Jen and Liao Pei-Xing, we
+discussed how cooperation should happen in different fields under the theme of
+The Dynamic of Cooperation at the beginning of the year. We have studied
+whether the landing of DAO in Taiwan can apply the Cooperative Law.
+According to the database of laws and regulations of the Republic of China, the
+Cooperative Law was promulgated in the 1934 and last amended in the 2015. It is
+no longer applicable in the digital or cultural field. Hong Jing-shu pointed out
+that the context of cooperatives in the Taiwan is different from the tradition of
+cooperatives in Europe and America, which can easily be misleading. In fact,
+there are precedents in Taiwan for initiating cooperatives as legal entities in the
+field of arts, such as the Co-Art Co-Operative initiated by Huang Sunquan, and
+the still-operating Scutoid Coopertion, and others like Les Petites Choses
+Production, a performance art group that has entered substantial cooperation
+under a non-cooperative legal entity.
+
+50
+
+Conclusion: Independent and Persevering
+From the overseas experiment of JPG, the domestic state of Huangxi digital
+solidarity, to the Taiwanese cooperatives in form or substance, and finally back
+to the Network State, we can clearly see that the legal sources and tools of
+physical society are hardly able to meet the needs of digital communities. The
+infrastructure is not yet mature, but the third space is still present.
+Through the observation of Web3, we have the opportunity to examine the
+influence of non-legal entities on social culture. We can probably affirm that the
+infrastructure of the Internet space is inherently decentralized and is naturally
+conditioned to continue towards a state of multi-centric and diverse
+heterogeneity.
+Perhaps the best cultural tool is one that allows everyone to independently
+develop culture. As a reality condition for digital solidarity, be independent and
+persevere.
+
+51
+
+Seeking a Third Way Beyond
+Entrepreneurial Sovereignty
+and Abundance Technocracy
+Struggles
+mashbean.eth
+
+52
+
+From “degrowth" to "abundance",
+from "decentralization" to “plurality”,
+from "decoupling" to "complexity".
+In the abundant pluriverse, we have finally found digital democracy.
+
+This article is one of the parts of the GreenPill.Network global movement, with
+the Chinese version published on the matters platform. The Green Pill Network
+writing project, initiated by Gitcoin founder Kevin Owocki, encourages global
+local communities to write about the unique public culture of web3
+spontaneously. This is the last piece in the series, discussing the concept of
+digital democracy.
+
+53
+
+GreenPill.Network encourages practitioners of web3 to become Regen (short for
+Regenerative, also the antonym of Degen, which refers to speculators). In the
+first article, I discussed how NFTs, apart from serving as digital certificates,
+become symbolic tokens for local communities - advanced human technology
+becoming almost religious artifacts. Sacred objects gain powerful spiritual
+significance through a religious context, and social advocacy NFTs, through
+processes of collaboration and cooperation, are imbued with the consensus of
+the community. These consensuses become stories, slowly disseminating into
+other communities, creating low-efficiency yet strong connections. In the
+second article, I discussed how digital public spheres can be established and the
+preciousness of these low-efficiency unity movements against the prevalent
+algorithms, drawing from real-world web3 community practices.
+In this third article, I attempt to discuss the ultimate imagination of Regen—
+Digital Democracy, a bold attempt. Overseas, Taiwan is often seen as the island
+of digital democracy. However, those of us in Taiwan are still troubled by
+polarization every day. Past successes seem like fleeting moments, and the
+trauma caused by digital social movements has driven many open, free, and
+democratic practitioners out of the third space. They return to their families and
+jobs, occasionally reminiscing about the past on social platforms. The next
+generation, who have not experienced the waves of digital transformation and
+movements, live as if these histories of digital democracy never happened. They
+remain entangled in the algorithmically addictive world, and in the end, they all
+suffer from algorithmic abuse.
+The following article can be considered as reading notes, distilling the essence of
+the past six months of web3 for all and da0 learning reading group discussions.
+In the atmosphere of intensive reading and discussion, we gradually practice
+while reading, slowly grasping necessary narratives, becoming theoretical
+nourishment. Meanwhile, working in Taiwan's Ministry of Digital
+Affairs(moda), section of plurality, I also strive to explore the meaning of
+Plurality.
+54
+
+Audrey Tang, the minister of moda, is the official inventor of the term Plurality.
+Audrey and Glen Weyl are currently writing a book, "Plurality" (which can be
+considered as another style of "GreenPilled", or a sequel to "Radical Market").
+The Plurality Institute has held two physical symposiums in the US to discuss
+many related studies between emerging technologies and democratic society.
+The Plurality Tokyo Forum is also carving out its own localized path.
+The following discussion only represents my personal standpoint and does not
+represent any DAO or centralized organization.
+n the narrative concept of Plurality, Glen Weyl proposed three possible future
+pathways, correspondingly mapped to the latest civilization regimes in
+Civilization VI: Entrepreneurial Sovereignty (ES), Abundance Technocracy (AT),
+and Digital Democracy. Let's expand the theory with these core principles.
+Entrepreneurial Sovereignty is advocated by Silicon Valley's accelerationists
+and singularity believers. It is a technology world that maximizes capitalism,
+where the spirit of man conquers nature may lead to greater social inequality,
+and all information content is privatized into intangible assets that can be
+calculated as GDP. Abundance Technocracy is a highly efficient, convenient, and
+uniform single-pole world developed when a totalitarian government fully
+controls digital tools. The development of AI can align collective will with a
+single ideology.
+Digital Democracy, as a third way, creates digital lifestyles that meet the needs
+of the public. Glen Weyl believes that Plurality serves as the technical
+implementation of Digital Democracy, bridging the gap between a democratic
+society and emerging technologies, such as quadratic voting, Harberger taxes,
+language models that align diverse opinions, online deliberation tools, etc.
+
+55
+
+The above three can be reduced to three economic types:
+1. Entrepreneurial Sovereignty: Market Economics
+2. Abundance Technocracy: Planned Economics
+3. Digital Democracy: Cooperative Economics
+
+Expanding the internal concepts through Glen Weyl's Civilization Development Triangle.
+
+56
+
+Essentially, market economies and planned economies are on a spectrum, which
+is relatively close. The cooperative economy is another dimension, which
+transcends this spectrum. The cooperative economy, fully named the Social
+Solidarity Economy (SSE), serves as an umbrella term for alternative economies,
+underground economies, cooperativism, and more, widely seen in Central and
+South American and European cultures. I became familiar with this term
+through Dr. Chi-jen Wu(
+) of the Taiwan Economic Democracy Union
+(recommend book: "The Human Conditions of Taiwan’s Sovereignty") and Dr.
+Ching-Shu Hung(
+), director of the research department of the Taiwan
+Labour Front (recommend book: "When Labor Hires Capital: Overturning
+Capitalism with Economic Democracy"). Both teachers have talked about Nordic
+democracy to economic democracy and social investment, reflecting on the
+status of cooperatives in Taiwan.
+
+吳啟禎
+
+洪敬舒
+
+Digital democracy, when directly translated in Chinese, can mean using digital
+methods to support democracy, such as open government data, open
+supervision, online deliberation, electronic voting, identity verification, and so
+on; it can also imply a coexistence of various (plural) forms of democracy.
+However, this state of coexistence must be based on a cooperative economic
+model. If it is a market economy growth path for the future, democracy is likely
+to become a secondary consideration or even a manipulated tool. So, it is boldly
+hypothesized here that digital democracy and the cooperative economy are two
+sides of the same concept; they contain too many similar ideas. According to the
+article "Why I Am a Pluralist?" by Glen Weyl, the term "cooperative liberal
+democratic pluralism" is condensed into “plurality”, which emphasizes the
+importance of cooperation.
+Let's continue to build upon this. In the spectrum between market economy and
+planned economy, three concepts appear at different costs: artificially scarce
+goods, closed technologies, and atomism.
+
+57
+
+Information is fluid and was originally shared until someone monopolized it,
+artificially packaging and selling it, turning it into artificially scarce goods.
+These could be valued-added via designing, packaging, and curating process, but
+they also become inaccessible resources. Opposite to artificially scarce goods are
+public goods, especially Digital Public Goods (DPGs) in an information society.
+Closed technologies, like nuclear energy or AI models that have not yet been
+open-sourced, are more likely to fall into the hands of technology elites or
+bureaucrats as they advance, making technology increasingly distant from
+citizens. In contrast, open technologies can be used mutually through standards
+and open licensing formats.
+People's work habits in modern society are hierarchical and atomized,
+accustomed to obtaining their tasks through layers of information transmission.
+In this framework, people are divided into individual units without
+characteristics and manipulated within a larger structure. Opposite this concept
+is the spirit of flat organizations and united cooperation.
+Therefore, the corresponding concepts are displayed as follows:
+1. Artificially scarce goods - Digital Public Goods
+2. Closed technologies - Open technologies
+3. Hierarchy and atomization - Flatness and unity
+These three concepts are mentioned extensively in various theories.
+
+58
+
+As Kohei Saito, known for his research on Marx's later works, advocates the
+concept of Degrowth. He believes that only by abandoning capitalism and the
+dream of greenwashing and advanced carbon reduction technologies can the
+natural environment be resolved because only when humans give up unlimited
+growth can they enter a state of true abundance. In his book "Capital in the
+Anthropocene,”(
+) he spends a lot of time explaining the
+concepts of public and private goods, emphasizing the importance of open
+technologies. We can ask here: in the digital world, how can we contribute and
+meet our needs to achieve abundance?
+
+人新世の「資本論」
+
+The spirit of the plurality, briefly mentioned above, serves as a bridge between
+emerging technology and a democratic society. The integral part of it is
+decentralization, which involves deconstructing the center, breaking down
+concepts, technologies, and operation modes, and only then is multi-centrism
+possible. We can easily see the benefits of multi-centric operations in the world
+of web3. For example, avoiding single-point of failures(SPOF), decentralizing
+identities(DIDs), partial common ownership(PCO), and quadratic voting(QV) for
+automated and permissionless possibilities. Of course, the Plurality also
+emphasizes universally accessible digital public goods services, promotes
+interoperability of open technologies, and emphasizes cooperate across
+difference(CAD).
+Finally, there is decoupling, a term taken from Joichi Ito's "The Practice of
+Change." He describes the history of Internet development with decoupling. He
+believes that the development of the Internet is like a pendulum, swinging from
+centralization to decentralization. And on different levels, it can be decoupled,
+allowing invented standards or things to no longer monopolize. When a tool can
+be easily used, it has the space to evolve. Different levels of technology, people,
+and events can operate repeatedly on a simple scale, giving birth to complex
+systems. Although complex systems may not be as efficient for a single task,
+they are almost universally applicable to various changes, thus creating
+resilience and coping with various situations. The solidarity economy can be
+seen in worlds where various regimes collapse and are maintained by small
+community autonomies, which can quickly respond to changes. Of course, this
+group is inherently decentralized and in a state of abundance.
+59
+
+1. From "Degrowth" to "Abundance"
+2. From "Decentralization" to “Plurality”
+3. From "Decoupling" to "Complexity"
+
+Summary: The mindset that a Regen should have
+In the world of digital democracy, being a Regen possibly means engaging in
+matters you identify with and making limited decisions in a complex
+environment. When an individual collaborates with those they identify with,
+forming one or more Pods (or DAOs), and still works across differences with
+groups they less identify with (or so-called associate between cooperatives), it is
+ultimately possible to "give according to ability, take according to needs" in an
+abundant environment. This is an ideal description for public goods and the
+third space(digital public sphere), though reality is more austere. Taiwan as an
+island facing significant threats, we can't afford to miss any opportunities for
+external aid collaboration, inevitably getting entwined in the complex network
+of international political relations. Yet the internet has been open for
+connections since the very beginning. Perhaps we can revisit the spirit of
+"openness," "sharing," and “solidarity” through the history of internet
+development and continue creating abundance.
+To conclude, reaching the realm of digital democracy may require discussions
+about the cooperative economy.
+The cooperative economy could possibly appear in three states simultaneously:
+"abundance" after degrowth, a “plurality” after decentralization, and
+"complexity" after decoupling.
+These three characteristics are based on three features: "public goods," "open
+technologies," and "flat and solidarity.”
+
+60
+
+These three features could potentially allow us to break away from the
+dichotomous narrative of market economy versus planned economy. The
+direction of web3 Regen development could be its latest standard-bearer, which
+is conceptually elaborated in the third article of the Green Pill Writing Program.
+Although this is the conclusion of the three-article independent writing plan for
+the Green Pill and only explains a schematic diagram, it is also the beginning of
+discussing Digital Solidarity. Many concepts might seem inconclusive, but the
+back-and-forths often overlap considerably, gradually building up an
+international consensus that becomes the theoretical foundation for
+practitioners.
+
+61
+
+The Magic of Touching
+Grass
+
+lanadingwall.eth
+
+62
+
+What if touching grass was one of the most profound
+and important things we could ever do?
+It is not merely a physical action; it symbolizes a reconnection with ourselves,
+nature, and our intrinsic motivations. It represents what can be a transformative
+journey that leads us to gain perspective and rediscover what truly matters in
+life. In a world that constantly demands our attention, touching grass allows us
+to create a small moment of peace.
+This may seem complex for such a simple act, but most of us have experienced
+moments of connection with nature. Whether we were alone or with friends,
+hiking, walking the dog, or simply gazing out the window as we drove by, we
+have all felt fleeting moments when we were lifted out of our troubles and felt a
+deep connection to something greater.
+The connection and solace nature offers are always available to us; we just need
+to remember to seek them out. Grounding ourselves is essential for personal
+growth, adaptability, and a thriving life.
+In areas where we feel insecure, we often compensate with insatiable desires.
+However, the pursuit of more for the sake of more does not lead to fulfillment;
+instead, it keeps us trapped on a never-ending hamster wheel, perpetually
+stressed and exhausted.
+Touching grass invites us to reconnect with ourselves, nature, and what truly
+brings us joy. It challenges conventional notions of "good" and "bad," "right" and
+"wrong," allowing us to escape the culture wars that breed anger and fingerpointing. By embracing interconnectedness and accepting the complexities of
+our world, we can cultivate regenerative mindsets, habits, and actions.
+This is not only beneficial for our body, mind, and soul but also carries wider
+significance.
+
+63
+
+The regenerative movement emphasizes leveraging web3 technology to redirect
+capital, attention, and resources toward projects with positive-sum global
+impact. However, the philosophy of ‘touching grass’ holds power not just in the
+context of a meme phrase on Twitter, but also in our personal lives.
+In order to create a regenerative world outside of us, we need to learn how to
+cultivate a regenerative world inside of us.
+Each of us harbours an inner "degen," driven by the pursuit of money, influence,
+and power because we live in a world that can trick us into thinking these things
+are most important.
+We must break free from the scarcity mentality loop that this thinking can
+create.
+By aligning with this part of ourselves, we are choosing to view life through the
+lens of scarcity. We believe that for there to be winners, there must be losers. In
+order for us to feel good about ourselves, we must be ‘better’ than someone else.
+Although the "number go up" mentality prevalent in this space can be incredibly
+frustrating, it serves as a signal. Many people feel trapped in their lives and
+circumstances, yearning for change. Crypto and NFTs have been placed on a
+pedestal, worshipped as potential catalysts for transforming their lives. This
+signifies a deep desire for change. However, they overlook the fact that the safest
+bet they can ever make is on themselves.
+It is through showing up and putting in the necessary work to build the future
+we desire that we can truly make it a reality. In the absence of knowing what
+constitutes a well-lived life, many people chase wealth and status because they
+have been led to believe that these external markers will bring happiness.
+
+64
+
+Web3 stands at a crossroads, where values, hope, power, money, and
+opportunity converge. What sets this moment apart is the accessibility of
+information, the fundamentals of blockchain technology (crypto), and the
+formation of decentralized, global communities. This convergence grants us an
+opportunity to bet on ourselves and our communities and help create a win-win
+world.
+While power and money can be redistributed, the process is bound to be messy
+until we determine what that redistribution looks like. It also demands that we
+take more responsibility for ourselves, which involves decoupling our worship
+of others based solely on their status and wealth, instead valuing substance and
+genuine contributions.
+Going into nature provides us with moments of presence, beauty and
+connectedness that help give us glimpses into what could be if we remove
+ourselves from the hampster wheels we find ourselves on.
+Wealth and money provide stability and choices that can significantly enhance
+our quality of life. However, they do not define a life well-lived.
+Daniel Schmachtenberger once asked, "What is a desirable life?" Our desires
+vary based on our upbringing, as they are conditioned within us. We must ask
+ourselves, "What is truly worth desiring?" To free ourselves from the
+conditioning of desire, we can reflect on people's experiences on their deathbeds.
+What mattered most to them was connection, love, and presence. Their regrets
+revolved around not expressing love more, not being fully present, and not
+spending enough time engaging in activities they loved with the people they
+cared about.
+Living a meaningful life requires a deep connection with our intrinsic
+motivations rather than relying solely on external factors. Touching grass serves
+as the initial step towards this realization.
+
+65
+
+Various disciplines, such as science, psychology, medicine, healing practices,
+religious texts, and stories, all attest to the benefits of spending time in nature. It
+improves our mental health, supports physical well-being, enhances cognition,
+and fosters a sense of connectedness with the world around us. Yet, the majority
+of us rarely dedicate meaningful time to immerse ourselves in nature.
+Remembering to touch grass, particularly during times of stress, overwhelm,
+anger, fear and sadness, represents a genuine step towards leading a happier and
+more fulfilling life. By reconnecting with what truly matters—ourselves and the
+sources of genuine meaning in our lives—we can initiate this process simply by
+stepping outside and immersing ourselves in nature.
+This entails intentionally carving out time and space to embrace the natural
+world around us.
+In a world that often leaves us feeling disconnected, there is an innate desire
+within each of us to seek out connection. This guide will provide practical and
+philosophical resources geared towards exploring what "touching grass" might
+mean for you and how to do it more often. It is a guide crafted with the sole
+purpose of reigniting your connection to the natural world and helping you
+hopefully find the deep sense of belonging and fulfillment that we all crave.
+
+66
+
+Embracing Our
+Inner Connection
+with Nature
+lanadingwall.eth
+
+67
+
+Nature, with its vast interconnectedness and ever-changing dynamics, possesses
+a profound awareness. Flowers bloom at the right time, birds migrate
+instinctively, and animals know when to hibernate. They don't rely on Google
+calendar invites, weather apps, or AI assistants to guide them.
+What's fascinating is that we too are part of nature, and we can tap into our own
+inner knowing through awareness and connection.
+Have you ever felt an overwhelming desire to sit or lie down on the floor when
+you're feeling anxious, tired, or overwhelmed? This instinctive urge is our way
+of grounding ourselves, getting as close as possible to our physical ground.
+Just this past weekend, my teammate and I found ourselves instinctively lying
+on the floor immediately after submitting our hackathon project. It wasn't the
+couch, the beanbag, a bed or a chair—our bodies knew that connecting with the
+ground was the best way to ground ourselves after a 36-hour sprint hackathon.
+Similarly, when we say, "I just need some fresh air" and step outside, our bodies
+are urging us to connect with nature. Even the mere sounds of nature have a
+relaxing effect on us.
+"Touching Grass" is about reconnecting with the inner compass that guides us
+toward peace and what is meaningful to us. It means cultivating a nourishing
+environment both within us and outside of us. Peace doesn't mean a constant
+state of calm; it means finding our footing amidst the chaos of life and knowing
+that we'll navigate whatever comes next.
+It's about connection.
+
+68
+
+This photo merges the IRL and digital world and is taken from the Astrid Park Project
+
+One of my favourite quotes is by Bruce Lee: "Under duress, we do not rise to our
+level of expectation, we fall to our level of training."
+"Touching Grass" is actually a way to train ourselves to have the capacity for
+more, without succumbing to our more destructive tendencies and habits. It
+allows us to find our footing during times of stress and overwhelm because we
+have the tools and training needed to support ourselves. It is about helping us
+train to connect instead of disconnect with ourselves and the world around us.
+
+69
+
+This photo merges the IRL and digital world and is taken from the Astrid Park Project
+
+Here are 30 ways to get outside and better connect with yourself and nature:
+1. Take a casual walk in a nearby park or forest area.
+2. Go for a hike on a scenic trail, in the mountains, or in the woods.
+3. Have a picnic in a picturesque outdoor setting.
+4. Practice yoga or meditation outdoors.
+5. Take a bike ride through nature trails or countryside.
+6. Try birdwatching and learn to identify different bird species.
+7. Go camping (or glamping) and spend a night under the stars.
+8. Engage in gardening or spend time tending to plants.
+9. Have a beach day and enjoy the soothing sounds of the ocean.
+10. Try kayaking, canoeing, or paddleboarding on a tranquil lake or river.
+11. Go fishing and enjoy the peacefulness of being by the water.
+12. Take a scenic drive through the countryside or coastal roads.
+13. Try outdoor photography and capture the beauty of nature.
+14. Have a bonfire and stargaze on a clear night.
+15. Take a nature photography walk and focus on capturing details.
+16. Try geocaching and explore hidden treasures in nature.
+70
+
+14.
+15.
+16.
+17. Join a nature conservation or cleanup project in your community.
+18. Go on a nature scavenger hunt with friends or family.
+19. Try outdoor painting or drawing to express your creativity.
+20. Simply sit and observe nature around you, taking in the sights, sounds, and
+smells.
+21. Engage in forest bathing, which involves immersing yourself in the
+atmosphere of a forest and mindfully experiencing the sights, sounds, and
+scents.
+22. Try outdoor rock climbing or bouldering for an adventurous and naturefilled experience.
+23. Go on a nature photography expedition and explore different natural
+landscapes.
+24. Take a sunrise or sunset hike to witness the beauty of nature's changing
+colors.
+25. Go on a nature retreat or camping trip to fully immerse yourself in the
+outdoors.
+26. Try outdoor painting or sketching to capture the essence of nature's beauty.
+27. Take a nature-inspired fitness class, such as outdoor yoga or tai chi.
+28. Have a mindfulness session in nature, focusing on being fully present and
+aware of your surroundings.
+29. Take a nature-based workshop or class to learn about local flora, fauna, or
+nature conservation.
+30. Set up a hammock in a peaceful spot and spend time reading, napping, or
+simply enjoying the surroundings.
+
+71
+
+This photo merges the IRL and digital world and is taken from the Astrid Park Project
+
+Why does going into nature help us?
+Quiet reflection: Being in nature provides a peaceful and serene environment
+that allows us to detach from the noise and distractions of everyday life. It
+creates space for introspection and self-reflection, helping us reconnect with our
+inner thoughts and emotions.
+Sensory experience: Nature engages all our senses, from the sound of rustling
+leaves to the scent of flowers and the feel of soft grass beneath our feet. This
+sensory experience awakens our awareness and brings us into the present
+moment, fostering a deeper connection with ourselves.
+Grounding and mindfulness: Nature has a grounding effect on us. Walking
+barefoot on the earth, touching trees, or sitting by a flowing stream can help us
+feel rooted and connected to the present. It encourages mindfulness, allowing us
+to fully experience the present moment and be more attuned to our thoughts,
+feelings, and sensations.
+72
+
+Inner peace and calm: Nature has a calming effect on our nervous system. The
+soothing sounds, natural beauty, and tranquil environment of nature can help
+reduce stress, anxiety, and mental fatigue, allowing us to find inner peace and
+achieve a state of calmness.
+Perspective and clarity: Being in nature can provide a fresh perspective and
+clarity of mind. It offers a break from the demands and pressures of daily life,
+allowing us to gain new insights, reevaluate priorities, and find clarity on our
+goals, values, and aspirations.
+Authenticity, self-acceptance and meaning: Nature has a way of reminding
+us of our inherent authenticity. It teaches us to embrace our true selves, just as it
+accepts and celebrates the uniqueness of every flower, tree, and creature. A
+tulip’s beauty doesn’t take away from the beauty of a peony, if anything their
+combined presence is beneficial for all. The same is true for us. In nature's
+presence, we can let go of societal expectations and reconnect with our authentic
+selves. We are able to connect to what is meaningful to us.
+Nature is inherently wise. It is deeply interconnected with the world around it,
+and through this interconnectedness, it possesses profound wisdom. This
+wisdom is not exclusive to nature alone; it is also available to us because we are
+an integral part of nature's tapestry.
+By immersing ourselves in nature and engaging with its beauty and tranquillity,
+we create opportunities to reconnect with our inner selves, find inner peace,
+gain clarity, and foster a deeper sense of self-acceptance, authenticity, and
+connection to what is truly meaningful to us.
+
+73
+
+Finding Meaning:
+Exploring Nature's Wisdom
+and
+Defying a Disconnected World
+lanadingwall.eth
+
+74
+
+What brings meaning to life, and more specifically, what brings meaning to your
+life?
+We've all thought about it, some more than others. But the quality of our lives is
+often determined by the quality of the questions we ask ourselves and others.
+But in our disconnected, always virtually plugged-in world, we can often find
+ourselves reacting to the world around us instead of finding healthy ways to engage
+with it.
+We need to find ways back to connection, back to discovering what is meaningful
+and then pursuing it.
+
+This photo merges the IRL and digital world and is taken from the Astrid Park Project
+
+75
+
+What brings meaning to life, and more specifically, what brings meaning to your
+life?
+We've all thought about it, some more than others. But the quality of our lives is
+often determined by the quality of the questions we ask ourselves and others.
+But in our disconnected, always virtually plugged-in world, we can often find
+ourselves reacting to the world around us instead of finding healthy ways to engage
+with it.
+We need to find ways back to connection, back to discovering what is meaningful
+and then pursuing it.
+
+This photo merges the IRL and digital world and is taken from the Astrid Park Project
+
+76
+
+What would happiness and living look like to you if
+you didn’t try to measure it, but instead experienced
+it?
+As a child, I would lose myself in nature during long summer days, especially by
+water. It was the perfect backdrop for my daydreams about the future and the
+person I aspired to be. Initially, I became entangled in the usual concerns society
+tells us to care about – job titles, finding "the one," and chasing worldly success.
+But being in nature offered me the space to question the significance of those
+pursuits. I reflected upon the people I loved the most, those who made me feel safe
+and cared for. Their jobs or wealth didn't matter; what truly mattered was how they
+made me feel.
+That realization led me to question whether the things society emphasizes—
+materialistic possessions and identity markers—truly hold the key to a fulfilling
+life.
+Out there, surrounded by nature's beauty, I had a profound revelation: Nature is
+indifferent to the things we obsess over—money, possessions, or fitting into neat
+little boxes. It helped me realize that perhaps there's more to life than meets the
+eye.
+
+77
+
+This photo merges the IRL and digital world and is taken from the Astrid Park Project
+
+Awakening to Nature's Wisdom and Meaningful
+Connections
+Nature has an extraordinary way of unveiling the interconnectedness of
+everything. Each living thing, regardless of size, plays a crucial role in the grand
+tapestry of existence. It's like a magnificent puzzle, where every piece matters.
+And guess what? The same applies to us, to you.
+The meaning of our lives extends beyond personal achievements and selfgratification. It radiates from the impact we have on others and the ways in which
+we connect like the gentle ripples spreading across a pond. Our words, actions, and
+choices can create a ripple effect that extends far beyond what we can see.
+
+78
+
+Research supports the transformative power of nature. Numerous studies have
+shown that spending time in natural environments reduces stress, enhances
+cognitive function, and boosts creativity (Source: Kaplan, S. (1995). The restorative
+benefits of nature: Toward an integrative framework. Journal of Environmental
+Psychology, 15(3), 169-182).
+Yet many of us don’t spend enough time in it.
+
+This photo merges the IRL and digital world and is taken from the Astrid Park Project
+
+In our increasingly digital world, social media platforms keep us trapped in a cycle
+of disconnection. They perpetuate tribalism, anger, and echo chambers, further
+distancing us from the complex realities of both nature and ourselves
+
+79
+
+Awakening to Nature's Wisdom and Meaningful
+Connections
+Touching grass is an act of defiance—a defiance against a world filled with hate. It's
+about choosing love, listening to those we disagree with, finding common ground,
+and supporting our collective communities. In a world that can oftentimes feel
+chaotic, cruel, and disconnected, touching grass is an act of bravery—a step
+towards reconnecting ourselves with our true essence.
+It helps us step off the hamster wheel of daily life, granting space, perspective, and
+presence.
+Going for a walk may seem simple, yet it's an opportunity to release the day's
+energy and reconnect with ourselves.
+Embarking on a hike may seem just like physical activity, but it offers a valuable
+opportunity to engage with our inner dialogue in a supportive manner. It allows us
+to overcome the challenges of the hike, rather than succumbing to the temptation
+to give up.
+Touching grass may seem mundane, yet it grounds us and connects us with nature
+as a whole.
+There's much to discover about ourselves, our loved ones, our passions, and our
+potential. Plugging into nature as an energy source supports us on this
+extraordinary journey.
+
+80
+
+So, here's my call to action for you:
+Take a moment today to reconnect with nature. Step outside, feel the warmth of the
+sun on your skin, breathe in the fresh air, and immerse yourself in the natural
+world. Whether it's a leisurely walk in a nearby park, a hike in the mountains, or
+simply sitting beneath a tree, allow yourself to be fully present in the moment and
+let nature work its magic on you.
+And then ask yourself what would happiness and living look like to you if you
+didn’t try to measure it, but instead experienced it.
+Together, let's embrace the wisdom of nature, discover our authentic selves, and let
+our actions resonate with the interconnectedness of all living beings. Nature is full
+of beauty, and we are a part of nature. By filling our lives with beauty, meaning, and
+connection, we can truly thrive.
+
+This photo merges the IRL and digital world and is taken from the Astrid Park Project
+
+81
+
+Bridging the Gap: A Regen
+Guide to Integrating
+Conservation Biology and
+DeSci Web3 Tools in the
+Anthropocene - Part 1
+Rodrigo NuñΞz
+
+82
+
+Foreword
+This groundbreaking guide serves as a compass, guiding conservation biologists
+through the unexplored territory of decentralized science and Web3
+technologies in the context of our rapidly changing world.
+In the Anthropocene, where human activities have significant impacts on our
+planet, it is crucial for us to embrace innovative approaches that promote
+sustainability, collaboration, and transparency. This guide empowers
+conservation biologists to harness the full potential of DeSci and Web3 tools,
+equipping them with the knowledge and tools needed to navigate this digital
+frontier.
+
+I. Introduction to DeSci and Web3 Technologies
+I.I. Understanding Decentralized Science (DeSci) in the
+Anthropocene
+In the face of unprecedented environmental challenges brought about by human
+activities, the concept of Decentralized Science (DeSci) emerges as a promising
+approach to address complex conservation issues in the Anthropocene. The
+Anthropocene represents a new geological epoch characterized by the profound
+impact of human activities on the Earth's ecosystems.
+DeSci refers to a decentralized and collaborative framework that harnesses the
+power of Web3 technologies to facilitate scientific research and conservation
+efforts. It recognizes the importance of decentralization, transparency, and
+collaboration as essential elements in addressing the multifaceted challenges of
+the Anthropocene.
+
+83
+
+ntegrating DeSci principles in conservation biology is crucial for several
+reasons. Firstly, the Anthropocene is marked by interconnected and global
+environmental problems that require a collaborative and interdisciplinary
+approach. By decentralizing scientific processes and promoting collaboration,
+DeSci enables scientists and conservationists from diverse backgrounds to work
+together and leverage their collective knowledge and expertise.
+Moreover, DeSci fosters transparency in scientific research and decisionmaking processes. It promotes open access to data, methodologies, and findings,
+allowing for increased scrutiny, reproducibility, and accountability. This
+transparency not only strengthens the credibility of scientific endeavors but also
+empowers stakeholders to actively participate in the conservation discourse.
+In the context of the Anthropocene, resilience and adaptive capacity are crucial
+for addressing the rapid and unpredictable changes occurring in ecosystems.
+DeSci, with its emphasis on collaboration and decentralized decision-making,
+enhances the capacity of conservation efforts to respond to these challenges. By
+involving local communities, indigenous knowledge holders, and other
+stakeholders, DeSci promotes context-specific approaches and adaptive
+management strategies that can better address the unique needs and
+vulnerabilities of ecosystems and communities.
+Furthermore, the regenerative approach plays a fundamental role in both
+sociocultural and ecological complex systems. By adopting regenerative
+principles, conservation biology can move beyond mere preservation and
+restoration towards the active renewal and regeneration of ecosystems and
+communities. The regenerative approach recognizes the interdependence
+between social, cultural, and ecological systems, emphasizing the importance of
+nurturing mutually beneficial relationships and promoting the well-being of
+both human and non-human entities.
+
+84
+
+In conclusion, the integration of DeSci principles in conservation biology, along
+with a regenerative approach, holds great promise for effectively addressing the
+complex challenges of the Anthropocene. By embracing decentralization,
+transparency, collaboration, and regenerative practices, we can leverage the
+power of Web3 technologies to foster resilience, adaptability, and innovation in
+conservation efforts. As we embark on this journey, it is crucial to recognize the
+importance of interdisciplinary collaboration and the inclusion of diverse
+perspectives to ensure the long-term sustainability and regeneration of our
+sociocultural and ecological systems in the Anthropocene and beyond.
+
+I.II. Exploring Web3 Technologies for Conservation
+Biologists
+In the fast-paced digital era of the Fourth Industrial Revolution, DeSci Web3
+technologies offer immense potential for revolutionizing the field of
+conservation biology. These technologies, which include blockchain, smart
+contracts, and decentralized applications (dApps), have the power to enhance
+data integrity, traceability, and stakeholder engagement in conservation efforts.
+Web3 technologies operate on the principles of decentralization and
+transparency. Unlike traditional centralized systems, where data and decisionmaking authority are concentrated in a single entity, Web3 technologies
+distribute these functions across a network of participants. This decentralization
+ensures that data and information are accessible to all, eliminating the need for
+intermediaries and fostering trust among stakeholders.
+
+85
+
+One of the key components of Web3 technologies is blockchain. Blockchain is a
+digital ledger that records and verifies transactions in a transparent and
+immutable manner. In the context of conservation biology, blockchain can be
+used to securely store and share data related to species populations, habitat
+monitoring, and biodiversity assessments. This ensures that data remains
+tamper-proof and can be audited by interested parties, promoting scientific
+rigor and accountability.
+Smart contracts, another vital aspect of Web3 technologies, are self-executing
+contracts with the terms of the agreement written into code. These contracts
+facilitate automated transactions, eliminating the need for intermediaries and
+reducing transaction costs. In conservation biology, smart contracts can be
+utilized to establish agreements between different stakeholders, such as
+landowners, researchers, and government agencies, ensuring fair compensation
+for conservation efforts and enabling efficient resource allocation.
+Decentralized applications (dApps) are user-friendly interfaces that leverage the
+power of blockchain and smart contracts. These applications provide a usercentric approach, allowing conservation biologists to access and interact with
+data, collaborate with other researchers, and engage with stakeholders in a
+transparent and efficient manner. Through dApps, conservationists can
+streamline data collection, analysis, and reporting processes, saving valuable
+time and resources.
+Web3 tools offer numerous benefits for conservation biologists in the
+Anthropocene. By promoting data integrity and traceability, these technologies
+enable researchers to make evidence-based decisions and develop informed
+conservation strategies. Additionally, the transparency and accessibility of
+Web3 tools facilitate stakeholder engagement, empowering local communities,
+and indigenous peoples to actively participate in conservation initiatives.
+
+86
+
+Furthermore, Web3 technologies support adaptive management strategies in
+the face of rapid environmental changes. By providing real-time data and
+insights, conservation biologists can respond promptly to emerging threats and
+design effective conservation interventions. These tools also enable the
+monitoring and evaluation of conservation projects, allowing for continuous
+learning and improvement.
+In conclusion, Web3 technologies present exciting opportunities for
+conservation biologists in the Anthropocene. By embracing blockchain, smart
+contracts, and decentralized applications, researchers can enhance data
+integrity, promote stakeholder engagement, and implement adaptive
+management strategies. As we navigate the complexities of the Anthropocene, it
+is crucial for conservation biologists to explore and harness the potential of
+Web3 technologies for the betterment of our planet's biodiversity and the wellbeing of present and future generations.
+
+I.III. Ethical Considerations and Inclusive Practices in
+DeSci Web3
+As we explore the exciting possibilities of integrating DeSci and Web3
+technologies in conservation biology, it is essential to consider the ethical
+implications and strive for inclusive practices in their adoption and
+implementation. In the Anthropocene, where human activities significantly
+impact the environment, it is crucial to ensure that these technologies are used
+responsibly and in a manner that promotes equity, diversity, and inclusion.
+Ethical considerations arise in various aspects of utilizing DeSci and Web3 tools.
+One key concern is the responsible management of data. With the increasing
+availability and accessibility of data, it is essential to handle it in a way that
+respects privacy and confidentiality. Conservation biologists must prioritize
+data protection and implement secure measures to prevent unauthorized access
+or misuse of sensitive information.
+87
+
+Equity and inclusion are paramount in the application of DeSci Web3 tools. It is
+important to ensure that the benefits and opportunities provided by these
+technologies are accessible to all stakeholders, including marginalized
+communities and traditionally underrepresented groups. Efforts should be made
+to bridge the digital divide and provide equal access to technology, training, and
+resources. Inclusive practices can empower diverse voices, enhance community
+engagement, and foster collaborative decision-making processes.
+Community-driven governance structures play a vital role in promoting ethical
+and inclusive practices in the use of DeSci Web3 tools. By involving local
+communities, indigenous peoples, and other relevant stakeholders in the
+decision-making process, conservation biologists can ensure that the use of
+these technologies aligns with their needs, values, and cultural perspectives.
+This participatory approach enhances trust, fosters shared ownership, and
+increases the likelihood of successful and sustainable conservation outcomes.
+Conservation biologists must also be mindful of the potential biases and
+limitations inherent in the data and algorithms used in DeSci Web3 tools.
+Machine learning algorithms, for example, can inadvertently perpetuate biases
+present in the training data. It is essential to critically evaluate the outputs
+generated by these tools and actively address any biases or inaccuracies to
+prevent unintended negative consequences.
+In summary, as we embark on the journey of integrating DeSci and Web3
+technologies in conservation biology, ethical considerations and inclusive
+practices must be at the forefront of our efforts. Responsible data management,
+privacy protection, and community-driven governance structures are crucial to
+ensure equitable access and participation. By addressing these ethical
+considerations and fostering inclusivity, we can harness the full potential of
+DeSci Web3 tools to advance conservation efforts, empower communities, and
+achieve sustainable and equitable outcomes in the Anthropocene.
+
+88
+
+Note
+These essays are brilliant ideas that are still in need of a little polishing. They are
+part of the remarkable journey undertaken by the pioneering Regen Guide
+Writers Cohort of GreenPill.network x Taptive
+As we embark on this transformative adventure, we invite you to join us in
+refining these concepts, shaping them into a comprehensive regenerative guide
+for conservation biologists. Your input and feedback will help us create a
+powerful resource that drives positive change in the Anthropocene.
+Remember, great ideas require collaboration, iteration, and the collective
+wisdom of passionate minds. Together, we have the power to shape a future
+where DeSci Web3 tools revolutionize conservation practices, safeguarding our
+planet for generations to come.
+
+89
+
+Bridging the Gap: A Regen
+Guide to Integrating
+Conservation Biology and
+DeSci Web3 Tools in the
+Anthropocene - Part 2
+Rodrigo NuñΞz
+
+90
+
+II. Onboarding Traditional Scientists to DeSci Web3
+Tools in Conservation Biology
+Introduction
+Onboarding traditional scientists to these tools requires careful planning and
+support. This essay explores key strategies for successfully integrating DeSci
+Web3 tools into the practices of conservation biologists, ensuring a smooth
+transition to a more connected and technologically empowered scientific
+community.
+1. Education and Awareness: The first step in onboarding traditional scientists
+to DeSci Web3 tools is to provide comprehensive education and raise
+awareness about their potential benefits. Organize workshops, training
+programs, and webinars to introduce scientists to the concepts,
+functionalities, and applications of these tools. Highlight real-world
+examples of successful integration to showcase their effectiveness in
+conservation biology research and practice. Emphasize how these tools can
+enhance data management, collaboration, and transparency, ultimately
+leading to more informed decision-making.
+1.
+2. Tailored Support and Resources: Recognize that traditional scientists may
+have varying levels of digital literacy and comfort with technology. Offer
+tailored support and resources to cater to their specific needs. Provide stepby-step guides, video tutorials, and user-friendly interfaces that simplify the
+adoption process. Foster a supportive community where scientists can seek
+assistance, share experiences, and learn from one another. Facilitate
+mentorship programs where experienced users can guide and mentor
+newcomers through the learning curve.
+
+91
+
+1.
+2.
+3. Integration with Existing Workflows: Acknowledge the importance of
+integrating DeSci Web3 tools seamlessly into existing scientific workflows.
+Work closely with scientists to identify pain points and challenges in their
+current practices, and demonstrate how these tools can address those issues.
+Emphasize the compatibility of DeSci Web3 tools with commonly used
+software and data management systems. Show how these tools can enhance
+1. collaboration, streamline data collection and analysis, and improve the
+2. reproducibility of research.
+3.
+4. Demonstrate Tangible Benefits: To gain the trust and engagement of
+traditional scientists, it is crucial to demonstrate the tangible benefits of
+using DeSci Web3 tools. Highlight the potential for increased efficiency,
+improved data security and privacy, enhanced data sharing and
+collaboration, and access to a global network of experts. Showcase case
+studies and success stories that illustrate how these tools have
+1. revolutionized scientific research and conservation efforts in other contexts.
+2. By showcasing these benefits, scientists can see the direct value in adopting
+3. DeSci Web3 tools.
+4.
+5. Address Data Security and Privacy Concerns: Data security and privacy are
+paramount in scientific research. Address concerns surrounding these issues
+by explaining the robust security features inherent in DeSci Web3 tools.
+1. Highlight the advantages of decentralized storage, encryption, and smart
+2. contracts in protecting sensitive data. Emphasize that these tools provide
+3. scientists with greater control over their data, ensuring that it remains
+4. secure and accessible only to authorized individuals or collaborators.
+5.
+6. Collaboration and Partnerships: Promote collaboration and partnerships
+between traditional scientists and DeSci Web3 experts. Facilitate
+interdisciplinary collaborations that bring together scientists, technologists,
+and conservation practitioners to co-create solutions using these tools.
+Encourage joint research projects, funding collaborations, and knowledgesharing initiatives. Foster an environment where both parties can learn
+from each other, leveraging their respective expertise to drive innovation in
+conservation biology.
+92
+
+Conclusion
+Onboarding traditional scientists to DeSci Web3 tools in conservation biology
+requires a multifaceted approach that encompasses education, tailored support,
+integration, tangible benefits, data security, and collaboration. By embracing
+these strategies, traditional scientists can harness the power of decentralized
+systems and blockchain technology to drive positive change in the field of
+conservation biology. Through their adoption and utilization of these tools,
+scientists can contribute to more effective and sustainable conservation efforts,
+ultimately preserving our planet for future generations.
+
+93
+
+Bridging the Gap: A Regen
+Guide to Integrating
+Conservation Biology and
+DeSci Web3 Tools in the
+Anthropocene - Part 3
+Rodrigo NuñΞz
+
+94
+
+III. Hypothetical Possibilities: Harnessing Web3 Tools
+in Conservation Biology
+Introduction
+In the realm of conservation biology, the advent of Web3 tools has brought forth a
+wave of hypothetical possibilities that have the potential to revolutionize the field.
+The integration of decentralized systems and blockchain technology offers both
+pros and cons for the application of Web3 tools in conservation biology. This essay
+explores the hypothetical scenarios of harnessing Web3 tools in conservation
+biology, examining the potential benefits and challenges they present. By critically
+analyzing the advantages and disadvantages of these emerging technologies, we
+can better understand their implications and envision future scenarios that
+promote sustainable and effective conservation strategies.
+1. Community-based conservation: It is a collaborative approach that involves
+local communities in conservation decision-making processes. Web3 tools can
+enhance community engagement by providing transparent and decentralized
+platforms for participation. Through blockchain-based voting systems, local
+communities can have a direct say in conservation initiatives, ensuring their
+voices are heard. Furthermore, decentralized databases can be created to
+capture community knowledge, enabling the integration of traditional/local
+ecological knowledge (TEK/LEK) into conservation strategies. By incorporating
+web3 tools, conservation biologists can establish inclusive and communitydriven conservation practices that are more likely to succeed.
+Pros: Web3 tools have the potential to enhance community engagement and
+participation in conservation efforts. Through decentralized platforms,
+communities can have a direct say in decision-making processes, promoting
+inclusivity and empowerment. Additionally, blockchain technology can ensure
+transparency and traceability of conservation actions, building trust among
+community members.
+
+95
+
+Cons: Implementing Web3 tools in community-based conservation may require
+technological infrastructure and digital literacy, which could pose challenges in
+communities with limited access to technology. Furthermore, ensuring equitable
+participation and avoiding exclusionary practices within decentralized platforms
+will require careful attention to ensure the voices of marginalized communities are
+heard.
+1.
+2. Traditional/Local Ecological Knowledge (TEK/LEK): It represents the wisdom
+and knowledge accumulated by local communities over generations. Web3
+tools can facilitate the preservation and dissemination of this valuable
+knowledge. Conservation biologists can create decentralized repositories
+where local communities can contribute their traditional ecological knowledge.
+This decentralized knowledge sharing platform allows for cross-cultural
+learning and collaboration, empowering local communities and integrating
+their expertise into conservation practices. By leveraging web3 tools,
+conservation biologists can bridge the gap between scientific knowledge and
+traditional knowledge, leading to more holistic and culturally sensitive
+conservation strategies.
+Pros: Web3 tools can provide a platform for the documentation, preservation, and
+sharing of traditional/local ecological knowledge. Through decentralized databases
+and smart contracts, indigenous and local communities can safeguard their
+knowledge and have control over how it is used and shared. This can contribute to
+the recognition and valorization of TEK/LEK, promoting cultural diversity and
+fostering collaboration between traditional knowledge holders and conservation
+practitioners.
+Cons: Safeguarding TEK/LEK within Web3 tools may raise concerns about
+intellectual property rights, cultural appropriation, and unauthorized use of
+indigenous knowledge. Respecting indigenous rights, obtaining informed consent,
+and ensuring equitable benefit-sharing are essential considerations when
+integrating TEK/LEK into decentralized systems.
+
+96
+
+1.
+2.
+3. Environmental education: It plays a crucial role in raising awareness and
+fostering a sense of responsibility towards the environment. Web3 tools can
+transform environmental education by providing immersive and interactive
+learning experiences. Conservation biologists can develop decentralized
+educational platforms that offer engaging content, virtual field trips, and
+gamified learning experiences. Blockchain technology can be utilized to ensure
+the authenticity and traceability of educational achievements, such as
+certifications and badges, enhancing credibility and trust. By incorporating
+web3 tools, conservation biologists can inspire and educate a broader audience,
+fostering a deeper understanding of environmental issues and promoting
+sustainable behaviors.
+Pros: Web3 tools offer innovative ways to enhance environmental education and
+awareness. Through immersive virtual reality experiences, decentralized
+educational platforms, and gamification, conservation messages can reach wider
+audiences and foster a deeper understanding of environmental issues. Web3 tools
+can facilitate interactive learning experiences, enabling individuals to actively
+engage with conservation concepts and contribute to collective action.
+Cons: Ensuring equal access to Web3-based environmental education may be a
+challenge in areas with limited internet connectivity or digital resources.
+Moreover, the quality and accuracy of information shared through decentralized
+platforms should be carefully monitored to avoid the dissemination of
+misinformation or biased content.
+
+97
+
+1.
+2.
+3.
+4. Regenerative tourism: It aims to promote sustainable tourism practices that
+benefit both the environment and local communities. Web3 tools can play a
+vital role in transforming the tourism industry. Conservation biologists can
+create decentralized platforms that connect tourists with local communities,
+providing transparent information about sustainable tourism practices and
+showcasing regenerative initiatives. By leveraging blockchain-based smart
+contracts, fair and equitable distribution of economic benefits to local
+communities can be ensured. Additionally, web3 tools can facilitate the
+verification and validation of eco-friendly accommodations and activities,
+enabling tourists to make informed choices. Through the integration of web3
+tools, conservation biologists can drive the transition towards responsible and
+regenerative tourism practices.
+Pros: Web3 tools can transform the tourism industry by promoting regenerative
+practices and sustainable tourism. Through blockchain-based platforms, travelers
+can make informed choices, supporting local communities, and environmentally
+responsible initiatives. Smart contracts can facilitate transparent transactions,
+ensuring fair and equitable distribution of revenue among stakeholders.
+Additionally, Web3 tools can enable the tracking and offsetting of carbon
+footprints, encouraging travelers to engage in low-impact tourism.
+Cons: Integrating Web3 tools in the tourism sector requires the participation and
+collaboration of various stakeholders, including tourism operators, local
+communities, and travelers. Overcoming resistance to change, ensuring data
+privacy in the tourism sector, and addressing potential challenges related to
+scalability and interoperability of decentralized platforms are critical
+considerations.
+
+98
+
+1.
+2.
+3.
+4.
+5. Ecological restoration: It is crucial for the rehabilitation and rejuvenation of
+degraded ecosystems. Web3 tools offer innovative approaches to facilitate
+collaborative and decentralized restoration projects. Conservation biologists
+can leverage blockchain technology to track and verify restoration efforts,
+ensuring transparent reporting and accountability. Smart contracts can
+automate funding distribution, ensuring efficient allocation of resources. By
+integrating web3 tools, conservation biologists can enhance the efficiency and
+effectiveness of ecological restoration, fostering the recovery of biodiversity
+and ecosystem functions.
+Pros: Web3 tools have the potential to enhance the efficiency and effectiveness of
+ecological restoration efforts. Through decentralized databases and smart
+contracts, stakeholders involved in restoration projects can securely and
+transparently share data, monitor progress, and track the impact of restoration
+actions. This can facilitate collaboration, knowledge exchange, and adaptive
+management, leading to more successful restoration outcomes.
+Cons: The implementation of Web3 tools in ecological restoration may require
+substantial initial investments in technology, training, and infrastructure.
+Additionally, ensuring data accuracy and reliability in decentralized databases is
+crucial for effective monitoring and evaluation of restoration efforts. Furthermore,
+integrating Web3 tools into existing restoration practices may require changes in
+organizational structures and workflows, potentially causing resistance or
+challenges during the transition process.
+
+99
+
+3.
+4.
+5.
+6. Providing practical insights and strategies for sustainable practices and Web3
+tools utilization: Conservation biologists can play a crucial role in providing
+practical insights and strategies for sustainable practices and the utilization of
+web3 tools. By conducting research and data analysis, conservation biologists
+can identify key areas where web3 tools can be most effectively applied. They
+can develop guidelines and best practices for integrating web3 tools into
+conservation projects, taking into account the specific needs and contexts of
+different initiatives. Additionally, conservation biologists can create
+educational resources, such as white papers and case studies, that highlight
+successful implementations of web3 tools in conservation biology. These
+resources can serve as practical guides for practitioners, offering step-by-step
+instructions and real-world examples of how to leverage web3 tools for
+sustainable practices. By sharing their expertise and insights, conservation
+biologists can empower fellow researchers and practitioners to adopt and
+adapt web3 tools in their conservation efforts.
+Pros: Web3 tools can serve as valuable resources for conservation biologists by
+providing practical insights and strategies for sustainable practices. Through
+decentralized platforms, researchers and practitioners can access a wealth of data,
+scientific literature, and best practices, fostering knowledge exchange and
+collaboration. Web3 tools can also facilitate the development of predictive models,
+data visualization, and analytical tools, empowering scientists to make informed
+decisions and develop evidence-based conservation strategies.
+Cons: The reliability and accuracy of data sourced from decentralized platforms
+need to be carefully evaluated to ensure its validity for scientific research.
+Additionally, addressing the digital divide and ensuring equal access to Web3 tools
+among researchers and practitioners from diverse backgrounds is crucial for
+fostering inclusive and equitable scientific collaborations
+
+100
+
+Conclusion:
+Integrating web3 tools into various branches of conservation biology requires a
+holistic approach that embraces collaboration, inclusivity, and innovation. By
+leveraging web3 tools in conservation biology presents both promising prospects
+and potential challenges. The pros of harnessing these tools include enhanced
+community engagement, preservation of traditional ecological knowledge,
+interactive and immersive environmental education, sustainable development in
+tourism, improved ecological restoration practices, and practical insights for
+sustainable practices. These advantages can lead to more effective conservation
+efforts, increased collaboration, and greater transparency. However, it is important
+to acknowledge the cons, such as the need for robust technological infrastructure,
+ensuring equitable access and participation, addressing data accuracy concerns,
+navigating legal and ethical considerations, and fostering stakeholder
+collaboration. By carefully weighing the pros and cons and addressing these
+challenges, conservation biologists can navigate the hypothetical possibilities of
+Web3 tools and leverage them to create a more connected, innovative, and
+sustainable future for conservation biology.
+
+101
+
+🌱 What is the carbon market
+and how can blockchain
+technology provide a
+solution?
+Gökçe Ertuğrul
+
+102
+
+Major problems that blockchain can solve in the
+carbon market
+In this article, I discussed the problems in carbon markets under transparency
+and shared potential blockchain solutions with you.
+The variety of emission sources, particularly in agriculture and forestry, makes
+precise data collection challenging. Furthermore, developing standardized
+procedures for measuring and reporting across industries and regions is difficult
+that needs global cooperation and consensus.
+Another problem is ensuring the accuracy and reliability of provided data,
+as there is a possibility of incorrect or illegal reporting, which may
+compromise the carbon market’s efficacy and legitimacy. To address these
+difficulties, reliable and transparent MRV systems must be developed,
+techniques must be harmonized, and blockchain technology can be used for
+reliable data collecting and verification.
+Firstly, the transparent nature of blockchain’s public ledger can uncover the
+variety of credit supply, encompassing traditional, specialized, and innovative
+project types and methodologies. This structure, which can be accessed and
+followed by everyone, will strengthen the achievement of the 2 degrees target,
+which must be achieved by 2030 within the Paris Agreement, particularly in the
+carbon markets, as I mentioned in the tweet.
+Source tracking and verification of credits are important in the journey of
+carbon credits to both preserve their value and prevent market manipulation
+throughout the trade. Therefore the traceability feature of blockchain can
+validate the provenance of carbon credits and offer an unchangeable record of
+actions along the value chain.
+
+103
+
+Another problem under transparency is the equal knowledge and objective
+finality of all those affected by the carbon markets that drive us to the
+settlement feature of blockchain. Since carbon markets include a wide range of
+participants, local recipients are another concern due to the lack of
+transparency. So automation of compensations can be integrated with
+blockchain that increasing transparency in how funds reach them.
+
+Major problems that blockchain can solve in the
+carbon market
+Blockchain technology offers exciting solutions to the difficulties of carbon
+market transparency. It improves the reliability and integrity of reported data
+by utilizing its transparent and irreversible nature, reducing the possibility of
+fraud or incorrect reporting. Furthermore, blockchain allows standards and
+interoperability by enabling traceability, automating data gathering and
+verification procedures, and standardization. These features create enhanced
+reliability, market integrity, and responsibility among players, resulting in more
+accurate emission measurement and reporting. While blockchain deployment in
+carbon markets would need collaborative efforts and regulatory assistance, its
+potential to transform the way emissions are measured, recorded, and
+confirmed is significant.
+I personally can say that it’s very exciting to see many blockchain solutions
+through climate solutions like carbon markets may develop a more transparent,
+efficient, and trustworthy mechanism to address climate change by integrating
+blockchain innovations.
+
+104
+
+Is the environmental impact
+of blockchain technology
+still a significant problem?
+Gökçe Ertuğrul
+
+105
+
+Integration of Renewable Energy Sources
+If we continue with the example of Bitcoin, our topic will be the energy resources
+used for electricity production. For this reason, if the energy sources used to
+generate electricity are replaced with renewable energy sources, it will make a
+significant difference. You might be thinking like:
+“Hey, bitcoin will consume the same amount of energy even with renewable
+energy sources. What's the difference?”
+The answer is: Carbon footprint
+Renewable energy sources like solar, wind, geothermal, or hydropower can be
+used to power blockchain mining operations. Blockchain businesses may
+dramatically lower their carbon footprint by moving away from fossil fuel-based
+energy. Creating relationships with renewable energy suppliers or investing in
+on-site renewable energy infrastructure guarantees that these enterprises have a
+cleaner energy source.
+
+Integration of Renewable Energy Sources
+As most of you might think, the Ethereum Merge was something big in 2022 for
+the reduction of the environmental impact of Ethereum. I am pleased about the
+Merge, as Ethereum is a project that has the potential to set an example for many
+projects.
+Replacing PoW consensus with PoS has great potential to reduce carbon
+emissions. PoW techniques use a lot of energy, but PoS algorithms eliminate the
+need for resource-intensive mining entirely. PoS minimizes the processing
+resources required to maintain the blockchain by selecting validators to produce
+new blocks based on their stake and eliminates difficult mathematical
+challenges.
+
+106
+
+Carbon Offsetting Initiatives
+Let me give a quick brief about carbon offsetting; Carbon offsetting includes
+processes that compensate for or neutralize carbon dioxide (CO2) emissions
+generated by investing in actions that reduce greenhouse gas emissions. The goal
+is to achieve a balance between emitted carbon and the reduction of an
+equivalent amount of carbon from the atmosphere.
+Blockchain projects can also participate in carbon offset schemes to offset their
+emissions. They can invest in programs that minimize greenhouse gas
+emissions, such as renewable energy or forestry initiatives. Contribution to
+overall emission reduction efforts by blockchain projects is now very limited
+area. However, as web3 builders and environmentalists, I believe that we should
+take the responsibility to voice out about these topics in the web3 ecosystem
+
+💪
+
+Decentralization and Scalability Promotion
+Promoting a distributed architecture is critical to lower energy usage and carbon
+emissions. Blockchain systems can allow more users to participate in mining by
+avoiding the concentration of mining power in energy-intensive places, lowering
+total energy consumption per participant and accompanying carbon emissions.
+It will also be beneficial for environmental impact to draw attention to the
+fundamental 2 solution concepts such as off-chain transaction implementation
+and layer2 scaling solutions in the web3 ecosystem.
+
+Decentralization and Scalability Promotion
+All the solutions I mentioned above are actually a product of research and
+innovation. For this reason, no matter which sector or project, it should have a
+structure that is open to researchers and innovations. I believe it is necessary,
+especially for the web3 ecosystem where we have the opportunity to learn
+something every day.
+107
+
+Continuous research and innovation are essential for developing innovative
+ways to lower blockchain technology’s environmental impact. Exploring
+alternate consensus algorithms, creating more efficient mining processes, and
+refining blockchain protocols to reduce energy requirements while retaining
+security and decentralization are all part of this effort.
+
+Conclusion
+Whether related to blockchain technology or not, environmental impacts are
+still a significant problem for any industry. Unfortunately, blockchain
+technology also has a large share of these impacts.
+The solutions I mentioned are based only on research and research-based
+foresight. Hopefully, solutions that will minimize environmental impacts will be
+implemented in all industries, especially web3 and crypto, as soon as possible.
+
+108
+
+Nigeria's Independent Electric Power Distribution
+
+Nigeria's Independent
+Electric Power
+Distribution
+DecentralizedCEO
+
+109
+
+Nigeria, often referred to as the "Giant of Africa," is a nation filled with rich
+cultural heritage, vibrant communities, and vast potential. However, the
+availability and accessibility of electric power have been long standing
+challenges that hinder progress and development. The transformational impact
+of electricity in improving lives, fostering economic growth, and enhancing
+quality of life cannot be overstated. To address this pressing need, a paradigm
+shift towards utilizing community resources to provide and distribute electric
+power, independent of government aid, is gaining momentum. Tag along as we
+explore the opportunities and importance of such an approach, and the positive
+implications it holds for Nigeria's public and private sectors.
+There are many benefits of electric power. Electricity is the lifeblood of modern
+society, and its benefits are immeasurable. It brings warmth, comfort, and
+security to households, enabling families to thrive and children to study in welllit environments. Access to reliable electric power transforms businesses,
+driving productivity, innovation, and job creation. It powers healthcare
+facilities, ensuring timely medical services and the preservation of life.
+Moreover, electricity unlocks new opportunities in the digital age, connecting
+communities to information, education, and global markets.
+
+110
+
+However, with all these benefits, there are visible challenges in Nigeria's electric
+infrastructure specifically. Historically, Nigeria has faced numerous challenges
+in its electric infrastructure, including inadequate generation capacity,
+inefficient transmission systems, and high distribution losses. These issues have
+resulted in widespread power outages and limited access to electricity,
+particularly in rural areas. The burden on the government to address this
+colossal problem has been immense, and progress has been slower than desired
+due to financial constraints and bureaucratic challenges.
+Due to the ongoing issues in the system for many years, Nigeria has passed The
+Electricity Bill of 2023 which could be a turning point. In a remarkable step
+towards empowering communities, the Nigerian government passed the
+Electricity Bill of 2023, marking a significant turning point in the nation's
+energy landscape. This legislation paves the way for increased private sector
+participation, public-private partnerships, and the utilization of community
+resources to generate and distribute electricity. By allowing local communities
+to take charge of their energy needs, the Electricity Bill of 2023 creates an
+enabling environment for innovation, collaboration, and sustainable solutions.
+The shift towards community-driven electric power distribution offers
+unprecedented opportunities. It empowers communities to leverage their own
+resources, such as solar, wind, or hydro power, to generate electricity. This
+approach not only reduces dependence on centralized power grids but also
+promotes energy diversification and resilience. Furthermore, it enables the
+private sector to invest in localized energy projects, creating jobs, stimulating
+economic growth, and fostering innovation.
+
+111
+
+By encouraging public-private partnerships, the Electricity Bill of 2023 enables
+the pooling of resources, expertise, and technology to address Nigeria's energy
+challenges effectively. The private sector brings efficiency, innovation, and
+capital, while the government ensures regulatory oversight and supports
+infrastructure development. Together, these collaborations can drive the rapid
+expansion of electricity access and improve the quality and reliability of power
+supply across the nation.
+This also drives the notion of community ownership and sustainability. One of
+the most promising aspects of community-driven electric power distribution is
+the concept of community ownership. When communities have a stake in their
+energy systems, they become actively engaged in their management,
+maintenance, and sustainability. This sense of ownership fosters pride,
+encourages responsible energy consumption, and promotes long-term
+community development.
+
+112
+
+Moreover, community-based energy projects can be designed with
+sustainability in mind. Embracing renewable energy sources reduces
+greenhouse gas emissions, mitigates the environmental impact of traditional
+energy generation, and contributes to Nigeria's commitment to combating
+climate change. Communities can harness their abundant solar resources, for
+example, to establish microgrids, ensuring clean and reliable power even in
+remote areas.
+
+In short, The Electricity Bill of 2023 represents a landmark opportunity for
+Nigeria to address its long-standing challenges in electric power distribution. By
+harnessing community resources and promoting public-private partnerships,
+the nation can unlock immense potential for sustainable development,
+economic growth, and improved quality of life. Community-driven energy
+initiatives not only provide reliable electricity but also empower local
+communities, foster job creation, and contribute to a more sustainable future.
+With collective effort and strategic collaboration, Nigeria can embark on a
+transformative journey towards a brighter and electrified future for all its
+citizens.
+
+113
+
+What is an intentional
+community? And why
+you should start one
+today.
+beeradley
+
+114
+
+After spending the last year travelling through Central America spending time
+with intentional communities and projects, landing in New York City hit like a
+ton of bricks.
+Sitting in a cafe in Lower Manhattan writing this, I decided to ask the waiter
+“Hey, what do you think an Intentional Community is?”
+I was certain she’d say something like “oh, it’s a bunch of hippies living deep in
+the forest, eating mushrooms, growing their own food and disconnecting from
+society”.
+But her answer was so simple and so spot on, I was shocked.
+“An intentional community is just a community with an intention”.
+
+What is an Intentional Community?
+What comes to mind when you hear the words ‘Intentional Community’?
+An intention is a clear purpose that guides behaviour.
+A community is a collection of humans.
+So an intentional community is any collection of humans with a shared,
+clear purpose that guides the groups behaviour.
+It really is that simple.
+An intentional community doesn’t have to be a self-sufficient eco village in the
+jungles of Central America.
+It could be a co-living experiment in Oakland, like Radish, or a network of
+connected residencies for online workers across the globe, like Cabin.city.
+115
+
+It could be a weekly mushroom micro-dosing dance gathering in Mexico City.
+Hell, it could even be your nans knitting club at your local services centre.
+A little over a year ago when we started our journey to better understand
+intentional communities, the plan was simple.
+We’d visit a bunch of intentional communities around the world, learn the
+secrets and the failures.
+Then, with our gained wisdom, we’d return to Australia, buy some land, get a
+few friends involved, build some dwellings and walla! Job done.
+
+An image of us helping with the construction of a new Cabin in Austin Texas with the amazing
+Cabin.city
+
+As it turns out, starting a village-scale residential community is hard. Very hard.
+And it’s not hard for the financial or legal reasons.
+It’s hard because humans are weird social creatures with complex, unresolved
+mummy and daddy issues.
+116
+
+Out of every ten intentional communities of the larger village scale, only one
+actually makes it. The other nine? They implode in a fireball of conflict,
+heartbreak and lawsuit (sometimes all three).
+Diane Christian’s Creating a Life Together is the go-to resource for anyone
+considering creating a village scale intentional community.
+After highlighting the disturbing failure rate of intentional communities
+through years of research, Diane offers a an amazing resource to help those
+wishing to undertake the community creation task.
+Here is a snippet talking through structural conflict and how to avoid it.
+Six steps to avoid structural conflict:
+Identify your community vision and create vision documents
+Choose a fair, participatory decision-making process appropriate for your
+group. And if you choose consensus, get trained in it.
+Make clear agreements — in writing. (This includes choosing an appropriate
+legal entity for owning land together).
+Learn good communication and group process skills. Make clear
+communication and resolving conflicts a priority.
+In choosing cofounders and new members, select for emotional maturity.
+Learn the head skills and heart skills you need to know.
+From Creating a Life Together (p. 8): Christian, Diana Leafe. New Society
+Publishers.
+
+117
+
+Why you should start an Intentional Community
+today
+After diving into Diane’s research and visiting some of the larger scale ecovillage communities in Central America, the once lofty dream of creating a
+residential community in Australia came crashing down.
+
+The daily activity board @ Pachamama eco-village and retreat centre in Costa Rica
+
+I certainly wasn’t prepared or qualified to dedicate my life co-ordinating a group
+of potential community residents through structural conflict workshops
+118
+
+So you might be wondering why I am encouraging you to start an intentional
+community?
+The general consensus is that starting a village scale residential community
+without first creating community cohesion is a recipe for disaster.
+While most folks won’t be selling all their belongings and moving to a remote
+Hare Krishna village in the Panamanian jungle, starting a small, non-residential
+intentional community project is well within reach.
+There is also a strong case to be made that a smaller intentional community
+project or experiment should be created and developed as a foundation before a
+larger village-scale community venture.
+Even if you have no desire to live in an intentional community, everyone should
+be part of at least one intentional community gathering.
+And I’m not referring to your local football club, cross-fit academy or art
+workshop.
+I’m talking about a community that fosters daily connection.
+Where each member connects with and contributes meaningfully to an
+intention and vision bigger than themselves.
+There are endless reasons to start an Intentional Community.
+Let’s start with the blatantly obvious.
+Humans are supposed to live in close community with other humans beyond
+their immediate family!
+
+119
+
+Community offers a healthy support network and a zillion other benefits. We
+are happiest and healthiest surrounded by people we love and admire. This is
+the “obvious truth”
+Humans are lonely.
+Improving technology makes us feel more connected, but the harsh reality is we
+are more lonely than ever. Loneliness is an epidemic.
+Humans are living through strange times.
+Economic uncertainty, political instability, impeding AI takeover. Building
+strong community networks and learning to be more sovereign in all aspects of
+life has never been more important
+
+Why is there such a lack of intentional community
+gathering?
+Given all of the benefits, why aren’t there more intentional community
+gatherings?
+Starting an intentional community project is far less risky than creating a
+village-scale residential community, but it’s certainly not easy.
+It takes time, effort, vulnerability and a good deal of thinking outside the box.
+Once upon a time we needed thriving community to survive.
+To maintain your place within a community, you needed to contribute
+meaningfully.
+
+120
+
+Not part of a community? Dead.
+Banished from your community? Starve, then dead.
+Today, we no longer have these concerns.
+Not part of a community? Facebook.
+Banished from your community? Uber eats, then Facebook.
+If we’re being completely honest with ourselves, most of us live within the
+oppressive cocoon of our cushy twentieth Century.
+We are living without the required healthy dose of community.
+We have Amazon, Social Media, Netflix, there is hardly a reason to leave the
+couch. Most of us don’t even know the names of our neighbors.
+We maintain half arsed relationship circles, spend most of our interaction time
+in shallow, uninspiring conversation with coworkers we don’t know or like.
+And then (if we’re lucky), we invest whatever time we have leftover to actually
+do things we love with people we love.
+This is backwards.
+
+121
+
+How to start an intentional community
+We’ve covered the what and the why, next we’ll discuss the how.
+A wise waitress once told me “an intentional community is a community with an
+intention”.
+There is no one-size-fits-all-approach.
+Your intentional community doesn’t need to be a huge and grand undertaking,
+but it does need to be intentional.
+And there are two big ideas, executed well will give your intentional community
+in the best chance at success.
+
+Intention and value alignment by design
+In other words, rather than hoping (or forcing) members of your community to
+align on intention and values, connect and meaningfully contribute, you can
+design your community to take care of this for you. As Jackson Steger from
+Cabin.City likes to say “don’t hope for connection between residents - engineer
+it.”
+
+Revisiting ritual and ceremony
+Luckily, we can draw upon collective and preserved knowledge of the OG
+community builders. Indigenous, first nations people around the world have
+practiced complex ritual and ceremony designed to ensure intention and value
+alignment for thousands of years. Accessing, adapting and using these practices
+is the healthy intentional community hack.
+We’ll explore these two ideas further over the next two pieces of writing.
+
+122
+
+How a Regen Survives
+the Urban Apocalypse
+
+Sarah Baxendell
+
+123
+
+Climate change is real.
+Despite your best efforts, some of you are going to die.
+
+Every tactic in this guide has been used during a catastrophic climate change event.
+Instructions, photographs, and practical anecdotes come from real world experience,
+including Occupy Wall Street Sustainability Working Group and hurricane recovery during
+Hurricane Katrina (New Orleans, Louisiana) and Hurricane Sandy (NYC metro area).
+
+124
+
+Survival Step 1: Gather, Store, and Clean Water
+Apocalypse Scenario: There are no longer municipal water treatment plants or
+water systems pumping clean water to your kitchen on the fifth floor. You need a
+way to gather and store water efficiently. You also need a way to clean used
+water, in place, so that you can re-use it for household activities.
+
+Urban Water Reclamation - It’s time to install a rain
+barrel
+What is a rain barrel and why do I need one? Rain barrels are a simple way to
+collect and store rainwater runoff from your roof, which is typically less
+contaminated than used water or river water, and considered a relatively safe
+water source.
+Supplies:
+Rain barrel, or any large, enclosed container
+Gutters to funnel rainwater from the roof
+Downspout or reusable pipe to direct water into the container
+Instructions to Build:
+Step 1: Find a level surface near an existing downspout to place the enclosed
+container. Set the container on a sturdy base, like bricks, cinder blocks, or a
+stand.
+Step 2: Prepare the downspout - cut a few inches about the enclosed container’s
+inlet hole.
+Step 3: Install the diverter - one end should connect to the downspout, and the
+other should connect to the container’s inlet hole. The diverter allows you to
+redirect the water flow into the barrel when it’s not full and bypass it when it is.
+125
+
+Instructions to Maintain: Regularly inspect the container for debris. Keep the
+lid securely fastened to prevent mosquito breeding. Empty the container prior to
+freezing temperature to avoid damage from freezing water.
+
+Graywater Systems - It’s time to clean your used water
+What is a graywater system? A graywater system is a method of cleaning used
+water in order to reuse it for domestic activities like bathing, washing hands,
+and laundry, ie. purposes that don't require drinkable (potable) water. Before
+reuse, graywater needs some level of treatment, ranging from basic filtering to
+more advanced processing, to remove debris, hair, soap, and contaminants.
+What is the basis of the design? The initial biofilter basin contains wood
+chips, which have a large surface area so that bacteria can degrade organic
+nutrients (fats and soaps) in the used water. Once the water filters through the
+biofilter, it comes out of the bottom of the initial basin and flows into a
+secondary basin which is planted with water-loving plants. It flows through this
+basin in a subsurface pipe which distributes the greywater into the soil strata.
+The water-loving plant roots are surrounded by bacteria which act as a biofilter,
+cleaning the water. The plant roots utilize the nitrogen and phosphorus in the
+water as a food source. For cleaner, clearer water, run water through the system
+multiple times.
+How do I build a graywater system? This design is simple to execute, and
+could be made with found materials. If “water-loving” plants aren’t available in
+the apocalypse, other plant types could be used, as long as they naturally grow in
+areas that receive frequent rain (ie. no, a cactus is not appropriate for this
+design).
+
+126
+
+Instructions to Build:
+Supplies: rain barrels, woodchips, gravel, water-loving plants
+Instructions to Use:
+Step 1: Soapy used water is poured through wood chips.
+Step 2: Plants absorb nutrients and phosphorus.
+Step 3: Water overflows into a bucket, which is cleaner, and can be reused!
+Water can be run through the system multiple times for a cleaner, clearer result.
+Instructions to Maintain: Once the wood chips in the biofilter have become
+inundated and unable to process the graywater, you will have to remove them
+and replace them with new wood chips.
+Occupy Wall Street Graywater System, by Mobile Design Lab, Lisa DePiano +
+Sunnie Joh
+
+127
+
+128
+
+Survival Step 2: Become your own electricity source
+Apocalypse Scenario: There is no electricity any more. The power plants
+melted down months ago. You need to become your own power source, and
+quickly.
+
+Pedal Power- It’s time to build a bicycle generator
+What is a bicycle generator system? A bicycle generator system, also known
+as a pedal-powered generator, is a device that converts human pedal power from
+a bicycle into electrical energy. It allows individuals to generate electricity by
+pedaling a stationary bicycle or an attachment to a regular bicycle.
+The basic components of a bicycle generator system typically include:
+Bicycle: a regular or stationary bicycle serves as a the primary means of
+generating power
+Generator: the core component responsible for converting mechanical
+energy from pedaling into electrical energy. It typically contains a small
+motor connected to the bike’s wheels or pedals, which acts as a dynamo or
+alternator.
+Wiring: connect the generator to various electrical components, such as
+batteries, to store and use the generated electricity.
+Battery (optional, but recommended): store the generated electrical
+energy for when you are not actively pedaling
+Power Outlet and Converter: used to power small electronic devices or
+small appliances, and charge batteries
+
+129
+
+1. Instructions to Build:
+
+Supplies: Generator Diode, Terminal Board, Fuse holder, Fuse, Charge
+Controller, Watts Up Meter, Battery, DC Outlet, DC Port, Inverter Box
+
+130
+
+Occupy Wall Street Energy Bikes were designed and built by volunteers to power
+critical infrastructure such as media, medical, and the library. These bikes,
+powering deep cell batteries, were the source of 100% of all energy used at Zuccotti
+Park. A collaboration of TimesUp!, MIT PedalPower, PedalPowerNYC, Occupy
+Boston, and Brooklyn Machine Works.
+
+Survival Step 3: What to do with all that human shit?
+Apocalypse Scenario: The sanitation plant broke down. Flushing your toilet
+requires water, and the pipes are no longer working, so if you use your toilet, the
+shit just backs up into your bathroom. Gross.
+What is a humanure system? A humanure system composts human waste
+(feces and urine) and recycles it into nutrient-rich compost, which can be used in
+gardening. Humanure systems close the nutrient loop and reduce
+environmental pollution caused by traditional sewage systems. Rather than
+flushing human waste into a centralized wastewater treatment facility or
+releasing it untreated into water bodies, humanure systems treat and process
+the waste locally.
+Supplies: bucket and sawdust, wood chips, straw or leaves
+
+131
+
+How do I build and use a humanure system?
+Step 1: Collect human waste in a composting toilet (ie a bucket), separating feces
+and urine to minimize odors.
+Step 2: Add materials like sawdust, wood chips, straw or leaves after each toilet
+use, to balance the carbon-to-nitrogen ratio. These materials act as a bulking
+agent and create the conditions for composting to naturally occur.
+Step 3: Once the container is full, it should be emptied into a large composting
+pile. The composting process will naturally break down organic matter via
+microorganisms, which require oxygen, moisture, and the right carbon-tonitrogen ratio.
+Step 4: The compost is left to age and mature for at least one year to ensure that
+any pathogens in the human waste are completely eliminated. Once properly
+composted humanure is safe to use in the garden as it becomes rich, fertile, and
+pathogen-free soil.
+
+Survival Step 4: Transform food waste
+Apocalypse Scenario: All your food scraps can no longer be hauled away, as
+there are no trash services. While you have a compost pile outside, it’s attracting
+rats. You need a way to compost more quickly, easily, and safely to expand your
+garden and grow food.
+What is bokashi fermentation? Bokashi fermentation is a type of anaerobic
+composting that originated in Japan. It uses beneficial microbes to break down
+organic matter into nutrient-rich compost. Bokashi can handle a wider variety
+of organic materials than typical compost systems, including meat, dairy and
+bones. It is faster than traditional composting, taking only a few weeks to
+complete. It can be done indoors and is useful for households with limited
+outdoor space or access to a traditional compost pile.
+132
+
+Supplies: a bucket with a tight lid, food waste, bokashi bran
+How do I build and use a bokashi fermentation system?
+Step 1: Bokashi fermentation begins with a special inoculated bran or sawdust
+mix that contains a group of beneficial microorganisms, including lactic acid
+bacteria, yeast, and phototrophic bacteria, which are responsible for the
+fermentation process. Dust the bottom of your bucket with the bran.
+Step 2: Collect kitchen scraps into your bucket.
+Step 3: Place a layer of bokashi bran between each layer of compost.
+Step 4: Compact the contents of your bucket, seal it airtight, and keep it in a
+cool, dark place for 2+ weeks. During this time the beneficial microorganisms
+break down the organic matter producing liquid byproducts known as “bokashi
+juice.”
+Step 5: After the fermentation is complete, the bokashi compost is not fully
+decomposed. It should be buried in a ditch in the ground and covered with
+natural soil, or added to a compost bin for further decomposition. This predigested organic matter makes it easier and faster to convert into nutrient-rich
+compost.
+How do I create my own bokashi bran?
+Ingredients:
+Wheat bran or rice bran, 5 cups
+Molasses or brown sugar, ½ cup
+Water, 1 cup
+Effective Microorganisms (EM), 1 tablespoon
+
+133
+
+Equipment:
+Large mixing bowl
+Air-tight container or ziplock bag for storing the finished bokashi bran
+Instructions:
+1. In a large mixing bowl, combine the wheat bran or rice bran with the
+molasses or brown sugar. Mix them thoroughly to ensure even distribution.
+2. In a separate container, mix the EM with water to activate it.
+3. Gradually add the activated EM solution to the bran mixture while stirring
+continuously. The goal is to moisten the bran without creating a soggy
+consistency.
+4. Once the bran is evenly coated, spread it out on a clean surface, like a baking
+sheet, to dry. You can place it in a well ventilated area or under the sun. Stir
+it occasionally to ensure it dries uniformly.
+5. Allow the bran to dry completely, which may take a few days. Once it is dry,
+store it in an airtight container, and keep it in a cool dry place.
+
+134
+
+Lessons Learned from
+the Boulder Blockchain
+Meetup
+Michael Green
+
+135
+
+Format:
+We meet once per month and sit around talking for ~1.25 hours, then we have a
+scheduled move to a local bar a few blocks away. This provides a more casual
+atmosphere where people can follow up on discussion topics and network a bit
+more.
+We start each meetup by giving attendees a chance to introduce themselves,
+suggest one or two topics to discuss and/or upvote topics others have provided.
+The meetup organizer keeps track of interest in the topics and starts the
+conversation by picking the most popular subject to discuss. The moderator
+doesn’t need to have any expertise in the topic themselves, and can start the
+convo by asking a basic question related to the topic EG: “Why is X interesting to
+you?”
+During the conversation, there are usually a lot of acronyms that get used and
+some folks might not know what they mean. To make the meetup more
+inclusive, the organizer can jump in from time to time to ask the speaker to
+explain what something means, which ensures folks have a better chance of
+following along. If there is a lull in the discussion on a specific topic, that’s a
+good cue to move on to the next most popular topic. The organizer is present to
+keep the conversation moving, not to decide what to talk about. Keep it simple to
+participate, and allow the group to dictate the direction of the conversation.
+At the end of the meetup we give about 5 minutes for members to announce any
+local events related to the meetup subject matter that others may be interested
+in. This provides an opportunity for people to organically discover things they
+may have otherwise not discovered.
+
+136
+
+Discussion Logistics:
+As an organizer of the meetup, you need to be comfortable interrupting the
+conversation from time to time in order to keep the meetup productive and on
+track.
+The above format works great for up to ~30 meetup attendees. If there are more
+than 30 attendees it is very helpful to split the attendees into groups. This can be
+an organic process based on subject interest or the moderator can pick who goes
+where. When splitting into groups, it is important to designate an attendee as a
+moderator of that group. This ensures the conversation stays focused and
+attendees get value from it. When choosing someone to moderate, do your best
+to ensure they are someone trustworthy. During the bull market grifters
+occasionally show up and try to shill their bags and or take advantage of other
+attendees. Usually picking a regular attendee/someone you know & trust as a
+moderator is the best bet.
+When the meetups were really popular in 2017 we would sometimes get up to 50
+attendees. We found it useful to create a separate group for beginners. These
+would be led by a volunteer attendee of the meetup. Again, it is important to
+choose someone knowledgeable & trustworthy to lead this group.
+Sometimes an attendee may end up dominating a conversation/dragging out a
+topic for too long and the moderator may have to jump in to move things on.
+Providing this guidance should be done gently. An easy way to handle this
+situation is to suggest continuing the conversation after the meetup.
+Occasionally there may be intense debate on a topic and the moderator may
+have to jump in to diffuse the situation. This can usually be handled by
+suggesting to continue the conversation after the meetup.
+
+137
+
+If there is a lot of enthusiasm for one topic, it can be easy to get caught up talking
+about that one thing for a very long time. This should be avoided, especially
+when there is a long list of other topics folks want to discuss. A good rule of
+thumb is to limit discussion on one topic to less than 30 minutes. As above, the
+best way to move on to the next topic is to suggest that the conversation
+continues after the meetup. Limiting topics to 30 minutes or less, provides for
+more diversity in the meetup subject matter and keeps it relevant to more
+people.
+
+Venue logistics:
+One of the biggest factors for a successful meetup is consistency. Holding the
+meetup at the same time (6pm on the 2nd Tuesday of every month etc) & place,
+makes it much easier for people to plan around.
+Finding & maintaining a venue for the meetup can sometimes be challenging.
+One way to find a venue is to look for a company/project in the community that
+has a suitable space and would benefit from exposure to the meetup group. This
+can be as broad as a co-working space that would want to have attendees get
+memberships to their space, or could be as narrow as a project that is looking to
+hire talent from the industry the meetup is focused on. The easiest way to find
+these connections is to reach out to members of the existing meetup community
+if it exists.
+If you host the meetup at a location that is provided by a company/project it is
+important to make sure you give the host proper acknowledgement for
+providing the space and give them a moment to shill their project, or shill it for
+them. It is also important to encourage the group to publicly express their
+gratitude to whoever is contributing the space by clapping for them after their
+project/company has been shilled. The same is true for any company/project
+that is providing food or drinks for the meetup.
+
+138
+
+If you are bootstrapping a meetup community and are having trouble finding a
+venue, local libraries often have space that can be used free of charge. If it is nice
+outside you can also meet up at a local park. We have found that having meetups in
+bars or restaurants isn’t conducive to great conversations because they tend to be
+noisy and distracting and often don’t have enough space to accommodate the
+meetup.
+
+Venue logistics:
+We post all of our scheduled meetups to meetup.com. This makes it discoverable to
+those who are looking for meetups based on a particular topic. Using meetup.com
+also makes it easy for existing meetup members to know when the meetup is
+happening because it is easily accessible and will even send members event
+reminder emails.
+In addition to the Meetup.com page, we have a telegram group people can join to
+stay updated on monthly meetups and other community events. We would send
+out an email reminder and a Telegram Channel post to everyone the Sunday before
+our Tuesday meetup to remind everyone of the time/location/and suggestion to
+come with a few topics to discuss.
+
+139
+
+Precious Plastic
+Commons
+
+fcarva
+
+140
+
+As part of Precious Plastic Espírito Santo and working daily with plastic waste, a
+project that connects plastic recycling to web3, blockchain has always popped
+up in my mind
+Precious Plastic has applied for the Commons Prize at Common Stock for a
+collaboration with the potential to create a DAO. If you want to see the project
+and the discussion, you can visit the github.
+DAO (Decentralized Autonomous Organization) is a form of organization where
+decisions are collectively and decentralizedly made using smart contracts and
+blockchain to automate and record transactions, as well as incorporate
+governance processes and tokens.
+I believe we can build a decentralized plastic recycling system by creating
+coordination games to encourage people to handle their waste better.
+Take advantage of web3:
+- Global
+- Transparent
+- unchanging
+- programmable finance
+New engine designs based on game theory, implemented for decentralized
+blockchain networks as open-source and transparent code
+
+Open-source: Plastic Recycling Hardware
+Precious Plastic is an open-source hardware project that empowers people to
+start their own recycling businesses. It provides knowledge about plastic, its
+types, machine know-how, collection points, and the entire universe of recycled
+plastic.
+141
+
+Over the course of 10 years, one of Precious Plastic’s greatest achievements for
+the global community has been the translation of complex recycling and
+engineering concepts into accessible knowledge and information that anyone
+can replicate and build locally.
+The “how-to” guides consist of tutorials created by the community for the
+community, offering freely available and ranked products, tips, and methods
+based on their importance.
+
+They have designed and developed plastic recycling machines that are shared
+online, allowing people around the world to suggest, comment, and start
+replicating and building these machines locally.
+
+142
+
+The goal of Precious Plastic is to enable as many people as possible to start
+recycling, whether by providing information on how to do it or by connecting
+them with others in their local communities to tackle the plastic waste problem.
+
+143
+
+In addition to machine development, Precious Plastic has a platform and a
+community on Discord that facilitates and promotes collaboration and
+community building.
+On the Bazar, you can find products sold by the community, making it easier to
+access the best products created worldwide.
+
+Impact in 2023
+The Precious Plastic Impact Report for 2023 provides a summary of the report’s
+key points. You can view the full report here:
+107 countries
+595,400 tons recycled in 2022
+Over $36 million in revenue
+6,441 employees
+11,510 volunteers
+1,881 machines built in 2022
+144
+
+The Plastic Problem
+
+Precious plastic site: Academy, plastic Intro.
+Precious Plastic is often known for freely sharing information and being an opensource project.
+Precious Plastic faces the challenge of the tragedy of the commons, where many
+users benefit from their resources but struggle to contribute to the underlying
+protocol.
+Currently, there is a disincentive for individuals to contribute to Precious Plastic.
+If someone develops a new machine or mold, they are more likely to sell it rather
+than share it with the community.
+This problem hampers the potential for growth and the impact that could be
+generated.
+
+145
+
+Blockchain and Plastic Waste
+Precious Plastic’s application to Common Stack and the decentralized eyewear
+produced by DCS Nouns, a group of producers that fund their ideas for the Nouns
+ecosystem.
+The integration of Precious Plastic into the blockchain would be a way to reverse
+and align individual incentives with the project’s interests.
+Blockchain technology, governance through a DAO, and crypt
+oeconomics can generate coordination incentives for significant contributions and
+promote community growth.
+“By transferring ownership and governance from the core team to the
+community, individuals recycling plastic around the world can have a stake in
+Precious Plastic’s success. As the project thrives, their stake increases,
+providing a powerful incentive to contribute back to the community.”
+The transition from a web 2 open-source project that has already helped thousands
+of people worldwide start recycling to blockchain and web3 technologies presents
+unique challenges and immense potential.
+Plastic pollution generates a range of negative externalities. Regeneration projects
+need to exist, be funded, and grow. Precious Plastic can play a crucial role by
+simplifying language and concepts into simple and understandable ideas that
+anyone can grasp regarding the potential of blockchain to address coordination
+failures.
+Therefore, we face problems like free-riders who benefit from and utilize opensource technology without contributing or generating incentives back to the
+community, as well as the difficulty of funding a project that serves as a public
+good, lacking profitability without community or public support.
+
+146
+
+Although it is a project that has not yet been initiated, Precious Plastic Commons is
+an interesting initiative for a protocol that directly addresses the plastic waste
+problem in a decentralized manner. It could gather global-level information and
+knowledge within a community where proposals can be written and shared to
+encourage local recycling microenterprises. Governance processes and tokens, as
+seen in DAOs, would enable coordination among projects working with plastic
+waste and its community.
+
+147
+
+Greenpill Network - Local Regen Guides #1
+Turning Degens to Regens, one greenpill at a time.
+In an era where sustainability and regeneration are more than
+just buzzwords, the Greenpill Network presents a curated
+collection of articles that delve deep into the heart of these
+concepts. Written by a diverse group of writers, each guide
+offers a unique lens through which to view the challenges and
+opportunities of our time.
+Inside, you'll discover:
+The Power of Public Spaces: How public areas can become
+hubs of innovation, growth, and community connection.
+Tech-Driven Community Building: Exploring the ways in
+which technology can foster stronger, more resilient
+communities.
+Sustainability's Next Chapter: A forward-looking perspective
+on the future trajectories of sustainability and regeneration
+efforts.
+Green Initiatives' Ripple Effect: Understanding the broader
+impact of green initiatives on local communities and economies.
+Beyond these topics, the collection also features personal
+anecdotes, case studies, and actionable insights that aim to
+inspire readers to take their own "greenpill" and become
+champions of regeneration in their communities.
+Join us on this enlightening journey towards a brighter, more
+sustainable future.
+
+

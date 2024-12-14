@@ -1,0 +1,8148 @@
+KEVIN OWOCKI
+
+CAPITAL ALLOCATION
+THE NEXT FRONTIER
+Capital allocation is a simple concept: it’s the act of deciding how to distribute funding
+or resources. If you’ve ever paid bills, taxes, or repaid friends for a meal, you’ve allocated
+capital.
+
+BY KEVIN OWOCKI
+
+Capital allocation can become a full time job: governments and grant-making organizations spend vast amounts of time and money figuring out the process, logistics, and
+decision-making involved in allocating capital. At scale, capital allocation inevitably becomes mired in gatekeeping, rivalrous decision making, and lack of transparency and
+accountability.
+
+ONCHAIN CAPITAL ALLOCATION
+HANDBOOK
+
+Crypto with its programmable smart contracts, present incredible advantages towards
+allocating capital in an efficient, effective, and transparent manner.
+The internet revolutionized how information was distributed in society. If crypto succeeds
+in revolutionizing how society distributes scarce resources, it follows that it will upend,
+and improve, how we do capital allocation.
+
+A PRACTICAL JOURNEY FROM PRESENT MECHANISMS TO FUTURE POSSIBILITIES
+
+The next horizon is hard to see alone, but by exploring it together, we can grasp it.
+This book is a celebration of the design space, and your no-hype resource to understanding the emergent pluralistic ecology of capital allocation developing in the web3 space.
+I’ve enjoyed putting together this handbook of the latest and greatest in what’s possible.
+It is my great pleasure to have a front row seat to this movement as a member of Gitcoin.
+My hope for this book is that I can pay it forward to you.
+- Owocki
+
+ONCHAIN CAPITAL ALLOCATION HANDBOOK
+
+What if we could solve coordination failures with capital allocation? What if we could
+create better, more sovereign, collective action? How might we bring centuries old capital
+allocation strategies onchain? Can we invent new onchain capital allocation strategies
+that were not possible before Ethereum?
+
+INNOVATORS
+EDITION
+
+1
+
+2
+
+WRITTEN BY KEVIN OWOCKI
+
+EDITED BY MATHILDA DV
+
+DESIGNED BY ANYA BIAROZKA
+
+3
+
+ONCHAIN CAPITAL ALLOCATION
+HANDBOOK
+
+4
+
+FOR THE ETHEREUM
+ECOSYSTEM CIRCA GITCOIN 2.1
+
+5
+
+...UNTIL IT ALL LOOKS OBVIOUS WITH HINDSIGHT.
+
+...AND THEN ALL AT ONCE...
+
+...SLOWLY...
+
+...PAINFULLY...
+MAY WE FUND WHAT MATTERS...
+
+TA B L E O F C O N T E N T S
+
+6
+
+TABLE OF
+CONTENTS
+Intro
+
+8
+
+Meta: Onchain Capital Allocation
+
+12
+
+Mechanisms
+
+20
+
+Direct Grants
+
+26
+
+Quadratic Funding
+
+30
+
+Private Quadratic Funding
+
+40
+
+Streaming Quadratic Funding
+
+41
+
+Retro Funding
+
+42
+
+Conviction Voting
+
+52
+
+Request for Proposal
+
+60
+
+Self Curated Registries
+
+64
+
+Delegated Domain Allocation
+
+74
+
+Gift Circles
+
+82
+
+Evolutionary Grants Games
+
+92
+
+Assurance Contracts
+
+98
+
+Dominant Assurance Contracts
+
+100
+
+Social Media Based Capital Allocation
+
+108
+
+Direct to Contract Incentives
+
+114
+
+Impact Attestations
+
+118
+
+Universal Basic Income
+
+124
+
+Cookie Jar
+
+128
+
+Community Currencies
+
+132
+
+Futarchy
+
+128
+
+Angel Investment
+
+144
+
+MolochDAO
+
+148
+
+Stokvel
+
+154
+
+TA B L E O F C O N T E N T S
+
+7
+
+Buidl Guidl Streams
+
+158
+
+Sourcecred
+
+160
+
+Gnosis Safe
+
+162
+
+Honour
+
+164
+
+Mutual Aid Networks
+
+166
+
+Waqf
+
+168
+
+Zakat
+
+170
+
+Bonding Curves
+
+172
+
+Revnets
+
+174
+
+Decentralized Validators
+
+176
+
+Bounties & Hackathons
+
+178
+
+Ranked Choice Voting
+
+180
+
+Meta: Stacking Mechanisms
+
+182
+
+Meta: Mechanism Taxonomy
+
+186
+
+Meta: Slime Mold
+
+198
+
+Meta: MyCoFi
+
+206
+
+Meta: Ephemeral DAOs
+
+214
+
+Meta: DAO of DAOs
+
+220
+
+Meta: Allo Protocol
+
+226
+
+Meta: Gitcoin: The Capital Allocation
+Strategy Exchange
+
+236
+
+Meta: Practical Pluralism
+
+244
+
+Meta: Parting Thoughts
+
+250
+
+Meta: Call to Action
+
+260
+
+Meta: Shill Zone
+
+264
+
+INTRO
+
+8
+
+IT’S SPRINGTIME
+FOR ONCHAIN
+COORDINATION
+Crypto, with its programmable smart contracts and
+properties of trustlessness and tamper resistance,
+presents incredible advantages towards allocating
+capital in an efficient, effective, democratic, and transparent manner.
+Since these systems are built open source, we can all
+learn from them or even fork them when we want to
+use or improve them. The result is a rapidly evolving
+multiplayer exploration of the design space that compounds and accelerates exponentially over time.
+The old world is decaying and a new world is sprouting.
+We are in a springtime of onchain coordination. What a
+moment to be alive!
+It is my great pleasure to have a front-row seat to this
+moment as a co-founder of Gitcoin and host of the
+Greenpill Podcast. My gift to you is paying it forward
+through this book and it’s digital community. This book
+is a labour of love & a celebration of this design space.
+I’ve put countless hours of research, networking, weaving, and writing into this handbook to give a reader a
+peek into the latest and greatest in what’s possible. The
+next horizon is hard to see alone, but by exploring it together & sharing our findings we will discover it faster
+and more effectively traverse its cartography.
+You will notice that the mechanisms featured in this
+book are visualized as though they are ecological net-
+
+INTRO
+
+9
+
+works. This is not an accident. I believe that tending
+to communities is like tending to a garden.
+Just as organisms in a garden require sun, fertile
+ground, water, and nutrients, open-source communities require care, tending, data, and financial
+resources. Just as different nutrients can change
+the expression of a flower, different approaches to
+capital allocation can change how onchain communities express themselves.
+While a primary lense through which I study the
+space is through Gitcoin, this book goes way beyond
+Gitcoin’s ambitions or roadmap. Given the volume of
+grants we’ve managed, Gitcoin is a significant vehicle
+for me to explore the space. However, our vantage
+point is limited, and our primary mechanisms as of
+2024 (QF, RetroPGF) are just scratching the surface
+of the possibilities. In places where I mention Gitcoin,
+I have gone to lengths to do so as a vehicle for creating understanding for the reader of the design space
+(shilling Gitcoin is only secondary).
+The book is not designed to be consumed strictly
+linearly. While I have laid out the chapters in a way
+that provides a reader with an end-to-end download
+of my vision, I invite you to jump around the book
+and follow your interests. Just as a hiker uses a field
+guide to identify organisms, you can use this book as
+your field guide as you explore this frontier of web3.
+As you dive in,
+note that there are
+two types of chapters
+in this book.
+
+Mechanism chapters
+
+Meta chapters
+
+Describes capital allocation
+strategies and what they’re
+good at.
+
+Gives context for how to think
+about the patterns or space in
+between mechanisms.
+
+These two types of content are designed to complement one another.
+
+INTRO
+
+10
+
+As you explore this design space, I invite you to
+envision an emergent pluralistic ecology of capital
+allocation mechanisms. Each excels at one thing, but
+together they create a diverse tapestry of effective
+capital allocation for the entire web3 space. This
+book is your guide to progressive elaboration of this
+ecosystem!
+And it gets better. We are not only mapping this
+design space; we are manifesting it. We are in an
+strange loop of (1) discovering & (2) creating this
+beautiful design space. By following this strange
+loop recursively, we are memeing a pluralistic ecology of capital allocation mechanisms into existence.
+The infinite garden grows & thrives the more we
+tend to it.
+I believe that we will see these onchain coordination
+networks increase in usefulness and proliferate into
+many places in the web3 ecosystem (and eventually in the real world) in the coming years. While
+I’ve attempted to make this book timeless, some of
+its content will invariably become dated given how
+fast the space evolves. If you wish to continue the
+discussion, feel free to join the Telegram group of
+readers of this book. Maybe we can create a second
+edition (or translate it to new languages) together in
+the coming years.
+
+Join the telegram
+group for this book @
+
+In this spirit, this book is licensed CC BY 4.0. You
+may permissionlessly fork this book, make changes, and republish them with attribution as long as
+proceeds go to the public good or charitable causes.
+I especially welcome translations!
+Owocki
+
+INTRO
+
+1111
+
+12
+
+META
+
+ONCHAIN CAPITAL
+ALLOCATION
+
+Capital allocation is a simple concept: it’s the act of
+deciding how to distribute funding or resources. If
+you’ve ever paid bills, taxes, or repaid friends for a
+meal, you’ve allocated capital.
+Capital allocation is a task for most individuals but a
+full-time job for many: governments and grant-making organizations spend vast amounts of time and
+money figuring out the process, logistics, and
+decision-making involved in allocating capital. At
+scale, capital allocation inevitably becomes mired in
+gatekeeping, rivalrous decision making, and lack of
+transparency and accountability.
+Blockchain and crypto, with their programmable
+smart contracts, present novel opportunities in (1)
+accumulating (2) allocating & (3) distributing capital
+in an efficient, effective, and transparent manner.
+Gitcoin has seized this advantage by moving the
+entirety of our grants program onchain:
+
+O N C H A I N C A P I TA L A L L O C AT I O N
+
+13
+
+from governance, creation, management, and
+disbursement. Moving the grants program onchain
+and it being open source also allows us to build a
+network of developers, grants programs, and capital
+allocators in web3 – all of which ultimately benefit
+the Gitcoin ecosystem.
+Gitcoin has previously experimented deeply with a
+few forms of grantmaking, primarily focused on fair
+and effective ways to implement Quadratic Funding.
+We’ve created a market for this grants mechanism
+and scaled it from $0 to $millions distributed per
+year. We’re now starting to see traction with new
+mechanisms, like Direct Grants and Retro PGF, and
+are poised to scale those as well.
+The crypto ecosystem has funded over $1B across
+5,900 grants and is continuing to scale to support
+blockchain’s enormous growth goals. The potential
+of capital allocation extends beyond grants and
+represents a game-changing category that Gitcoin
+and its extended network of partners and protocol
+builders is poised to help accelerate. Our north
+star of funding $1B in grants is both an aggressive
+growth target for Gitcoin, and only the start of what’s
+possible.
+
+CAPITAL ALLOCATION:
+THE NEXT GROWTH
+FRONTIER
+One of the most recognizable forms of capital
+allocation is government spending. It also perfectly
+depicts many of the limitations of traditional capital
+allocation.
+
+O N C H A I N C A P I TA L A L L O C AT I O N
+
+14
+
+LEGACY CAPITAL
+ALLOCATION
+Governments accumulate funds through levying
+taxes – something each citizen is obligated to participate in. The funds collected are, in theory, spent
+in order to benefit the collective group of taxpayers.
+This system also illustrates many of the problems
+that traditional capital allocation methodologies
+suffer from:
+
+GATEKEEPING
+
+NOT SCALABLE
+
+NOT PRECISE
+
+Small groups of decision makers, who may become power
+brokers, and are unwilling or
+unable to be democratic.
+
+Not taking advantage of the
+primitives the internet (easy
+access, direct to consumer
+interfaces) and Ethereum
+(credible neutrality, composability, transparency, democratic decision making, censorship
+resistance) have to offer.
+
+Without the ability to
+programmatically manage
+large amounts of information
+at scale, they are not able
+to precisely allocate capital
+resources.
+
+Over the past 30 years, advancements in technology
+have created opportunities to solve previously intractable problems of capital allocation. The internet
+has introduced the ability to communicate at a scale
+that was formerly infeasible.
+Blockchains have created a transparent ledger to report on activities and create accountability through
+easy data availability and the immutability of onchain
+actions. By combining internet-speed innovation and
+
+15
+
+O N C H A I N C A P I TA L A L L O C AT I O N
+
+blockchain-level transparency, we will unlock a new
+frontier of capital allocation – one where communities can fund what matters to them in ways that
+are not only more effective, but also more aligned to
+their values.
+
+ETHEREUM-BASED
+CAPITAL ALLOCATION
+CAN BE:
+Accessible
+
+Democratic
+
+Anyone with an internet
+connection can participate
+through web or mobile applications.
+
+The ability to easily create and
+run onchain voting enables
+governance that reflects the
+will of the people.
+
+Evolutionary
+
+Incorruptable
+
+Anyone working with open
+source software can easily fork
+and modify existing methods
+to evolve according to their
+own needs.
+
+Leveraging blockchain’s core
+feature of an incorruptible
+public ledger, with audit trails
+available to anyone.
+
+Transparent
+
+Precise & Scalable
+
+Using programmable smart
+contracts able to precisely
+allocate resources at scale.
+
+The mechanisms invented
+in web3 can scale with high
+levels of precision.
+
+The time to solve the problems of capital allocation
+is now. We can build capital allocation systems that
+solve the constraints noted above. We can remove
+barriers to adoption by emphasizing the transparency and extensibility of these systems. We can build
+
+O N C H A I N C A P I TA L A L L O C AT I O N
+
+16
+
+more effective, efficient or novel capital allocation
+methodologies by using democratic voting and creating accessible systems of participation.
+
+ONCHAIN CAPITAL
+ALLOCATION
+Today in web3, there are hundreds of DAOs with
+$millions of capital to distribute to fund growth in
+their ecosystems. These DAOs have unlocked new
+global markets to turn ideas and APIs into products
+and adoption so much faster than before.
+Gitcoin is positioned to help stimulate the creation
+of this new category of capital allocation, building on
+the success of Quadratic Funding and web3 grants.
+Through its grants program, Gitcoin has more experience with onchain capital allocation than anyone
+else. We believe in the potential so strongly that we
+spent two years architecting a protocol and product
+suite that will easily allow anyone in web3 to participate in new methods of capital allocation.
+
+GITCOIN STATS
+AS OF JUNE 2024
+4.2m unique
+donations
+
+4k Grantees
+
+$60m funded
+
+We believe the impact and reach of next-generation
+capital allocation will be felt across many industries – from web3 social and marketing to traditional
+industries like crowdfunding, real estate, scientific
+
+O N C H A I N C A P I TA L A L L O C AT I O N
+
+17
+
+research, and more. Next-generation capital allocation represents not just a technological evolution,
+but an evolution in our social practices around how
+we organize, exercise buying power, and own assets.
+While Gitcoin’s initial focus is on grant-making for
+DAOs and other tokenized communities, we believe
+that as more assets become tokenized in various
+industries, a wide open design space will emerge
+to reimagine how capital allocation is done. These
+industries include but are not limited to:
+
+WHO NEEDS CAPITAL
+ALLOCATION?
+Environmental
+& Social Impact
+
+City, Country and
+State Development
+projects
+
+Capital
+Formation
+and Economic
+Growth
+
+Philanthropic
+Initiatives
+
+Scientific
+Research
+DAO Ecosystem
+development
+
+Each of these industries will demand new levels of
+strategy development, thought leadership, constituent engagement, and new applications that
+serve their specific needs. The Gitcoin network
+has already run pilots in many of these industries,
+including collaborations with the American Cancer
+Society, DeSci projects, UNICEF, in Boulder Colorado, and more.
+
+O N C H A I N C A P I TA L A L L O C AT I O N
+
+18
+
+The potential of capital allocation in each of these
+industries feels underexplored yet transformative.
+One way to reason about it is by analogy to how
+email changed written communications. The average
+human sends 100x more messages now than they
+sent physical mail decades ago. We believe that the
+future of capital allocation will entail 100x higher
+volume and higher resolution funding decisions than
+are available now.
+The evolution of capital allocation has occured in a
+skeuomorphic fashion over the last few decades:
+physical cash was supplemented by physical checks,
+which were supplemented by virtual checks (credit
+cards). Credit cards and the internet introduced a
+higher speed banking that enabled ecommerce and
+crowdfunding platforms like Patreon, Kickstarter, or
+Gitcoin Grants.
+
+This essay originally appeared in the Gitcoin 2.0
+whitepaper. It has been
+edited and condensed
+to fit this book). Read the
+whole thing @
+
+The next horizon is hard to see today, but by exploring it through this book & through the Gitcoin network we will discover it together. And because it is
+built upon blockchains, we believe it will bring more
+transparency and accountability to organizations
+and more buying power to individuals through new
+methods of collective ownership. We can reason
+about what this frontier looks like by looking at the
+properties of blockchains that it will be built upon. It
+will be faster, more democratic, more emergent, and
+more powerful than what has existed in the past.
+
+O N C H A I N C A P I TA L A L L O C AT I O N
+
+19
+
+MECHANISMS
+
+20
+
+Direct Grants
+
+Quadratic Funding
+
+Retroactive Public
+Goods Funding
+
+Keep it simple. Just send $$$
+to projects.
+
+Send $$$ to projects,
+matched by a matching pool
+according to QF formula
+(sum(sqrt(c))^2).
+
+Requests for Proposal
+
+Conviction Voting
+
+Assurance Contracts
+
+RFPs, or Requests for Proposals, are formal documents issued by organizations seeking
+to procure services, products,
+or solutions from external
+vendors.
+
+Conviction voting is a decision-making process where
+participants allocate continuous support to proposals,
+with the weight of their vote
+increasing over time the longer
+they support the same option.
+
+Assurance contracts are
+agreements where participants
+pledge to fund a project only if
+a minimum number of contributions is reached.
+
+Send $$$ to projets based
+on expert (badgeholder) votes
+after completion of goal. In a
+mature Retro PGF ecosystem,
+proactive funding sources may
+emerge over time because of
+the reliability of retroactive
+sources.
+
+MECHANISMS
+
+21
+
+Self-Curated Registry
+
+Gift Circles
+
+Delegated Domain
+Allocation
+
+A self-curated registry, like Protocol Guild, is a decentralized
+list where members maintain
+and manage their own entries,
+typically to organize contributions or credentials within a
+community.
+
+Gift circles are a method
+where team members allocate
+tokens to each other to reward
+contributions, enhancing
+collaboration and mutual recognition within the group.
+
+Universal Basic Income
+
+Bounties & Hackathons
+
+Stokvel
+
+A guaranteed, unconditional
+payment given regularly to all
+individuals regardless of their
+circumstances.
+
+A bounty is a reward offered
+for completing a specific
+task or project, often used in
+contexts such as software
+development, security, and
+community contributions.
+
+A Stokvel is a communal
+savings and social group in
+South Africa where members
+contribute fixed sums of money to a central fund for mutual
+financial benefit.
+
+Delegated Domain Allocation
+is a system where domain-specific experts are empowered
+to allocate resources or make
+decisions within their area of
+expertise, as implemented by
+platforms like Questbook.
+
+22
+
+MECHANISMS
+
+Buidl Guidl Streams
+
+Sourcecred
+
+Mutual Aid Networks
+
+Buidl Guild Streams are
+streams of money that fill up,
+and the streamee can then
+“pull” the funds out and leave
+a note with what they worked
+on. The streamer can then go
+back and see who is contributing and decide to top up (or not
+top up) the stream.
+
+SourceCred is an opensource tool for measuring
+and rewarding contributions
+within online communities by
+assigning scores based on the
+value of work done. It enables
+decentralized and transparent
+recognition of contributions
+using a reputation system.
+
+A mutual aid network is a community-driven system where
+members voluntarily support
+each other by sharing resources, skills, and services without
+monetary exchange. It emphasizes collective well-being and
+solidarity, often organized to
+address social and economic
+needs within a community.
+
+Honour
+
+Dominant Assurance
+Contracts
+
+Impact Attestations
+
+Honour is a currency that is
+minted into existence when
+needed and is burned when
+no longer needed. Each HON
+doesnt represent an asset, but
+instead is a liability.
+
+Ensure a public good is funded
+by refunding contributions
+with a bonus if the funding
+goal is not met.
+
+Impact Attestations are verified statements confirming the
+positive outcomes of a project
+or initiative.
+
+23
+
+MECHANISMS
+
+Zakat
+
+Social Media Based
+Capital Allocation
+
+Revnets
+
+Zakat is one of the Five Pillars
+of Islam, requiring Muslims to
+donate a fixed portion of their
+wealth to charity, typically
+2.5% of their savings and
+investments annually. It aims
+to redistribute wealth and
+support those in need within
+the community.
+
+Revnets are onchain cap table
+and incentive machines. With
+a revnet, you can bootstrap
+and sustain your open source
+project, campaign, business,
+scene, or meme. No governance, no management
+overhead.
+
+With an onchain social graph
+and distribution to tens of
+thousands of active users,
+web3 social media can shift
+from maximizing attention
+to maximizing earnings by
+programming values into the
+platform.
+
+Decentralized Validators
+
+Futarchy
+
+Ranked Choice Voting
+
+Decentralized Validators are
+networks of volunteers who
+run hardware that ensures
+the operation of the network.
+In exchange for running the
+hardware, node operators are
+rewarded with cryptocurrency.
+
+Futarchy is a governance system where policies are chosen
+based on prediction markets
+that forecast their outcomes.
+
+Ranked Choice Voting is an
+electoral system where voters
+rank proposals or candidates
+by preference, and votes are
+redistributed until a candidate
+achieves a majority.
+
+24
+
+MECHANISMS
+
+Community Currencies
+
+Evolutionary Grants
+Games
+
+Cookie Jar
+
+Community Currencies are
+local currencies designed
+to complement the national
+currency within a specific community or region. They aim to
+boost local economic activity,
+encourage spending within the
+community, and strengthen
+social ties.
+
+A competitive grants game
+where subDAOs in an ecosystem distribute funds, report activities, and are ranked by the
+community, with successful
+ones receiving more funding in
+subsequent rounds.
+
+Cookie Jar is an optimistic
+governance mechanism that
+relies on high social trust and
+low amounts of funds at stake.
+It help DAOs reduce governance overhead (no one has to
+vote on Cookie Jar proposals)
+and track contributions transparently.
+
+Gnosis Safe
+
+Direct-to-Contract
+
+Waqf
+
+A Gnosis Safe is a smart contract-based Ethereum wallet
+that allows for multi-signature
+transactions, enhancing
+security by requiring multiple
+approvals for transactions.
+
+Direct-to-Contract rewards are
+incentives that are automatically distributed to users who
+complete specific tasks or
+achievements onchain.
+
+A Waqf is an Islamic endowment of property or funds,
+typically for religious or charitable purposes, that is held
+in trust and cannot be sold or
+transferred.
+
+25
+
+MECHANISMS
+
+MolochDAO
+
+Bonding Curves
+
+Angel Investment
+
+MolochDAO is a decentralized
+autonomous organization
+(DAO) designed to fund
+Ethereum-based projects
+and improve the Ethereum
+ecosystem.
+
+A bonding curve is a mathematical curve used in economics and finance to define the
+relationship between the price
+and supply of a token or asset.
+It ensures that as more tokens
+are purchased, the price
+increases along the curve, and
+conversely, as tokens are sold,
+the price decreases, allowing
+for dynamic pricing based on
+demand.
+
+Angel Investments are financial contributions made by
+affluent individuals, known as
+angel investors, to early-stage
+startups in exchange for equity
+ownership or convertible debt.
+These investments provide
+crucial funding to startups
+that may struggle to secure
+traditional financing.
+
+Its primary innovation was
+Ragequit is a mechanism in
+MolochDAO allowing members
+to exit and withdraw their
+share of funds if they disagree
+with the group’s decisions.
+
+26
+
+MECHANISM
+
+DIRECT
+GRANTS
+
+01
+
+Skeumorphic
+
+MOST SIMPLE
+
+Existed before onchain
+primitives
+
+D IRECT GRANTS
+
+27
+
+TL;DR
+
+Direct Grants are financial awards provided by
+governments, foundations, or other organizations
+directly to individuals, businesses, or institutions
+without requiring repayment. They are often given
+to support specific projects, research, education, or
+community programs. Recipients typically must meet
+certain eligibility criteria and may need to report on
+how the funds are used to ensure they achieve the
+intended goals.
+
+D IRECT GRANTS
+
+28
+
+WHO SHOULD
+USE IT?
+Direct Grants should be used by individuals or projects that need financial support for specific projects,
+research, educational initiatives, or community
+programs.
+They are ideal for those who meet the eligibility criteria set by the grantor and can demonstrate a clear
+plan for utilizing the funds to achieve specific goals.
+Direct Grants are particularly beneficial for startups,
+researchers, educators, and community organizations looking to fund innovative ideas or expand their
+impact without incurring debt.
+
+WHO USES IT?
+Uniswap Grants
+
+MolochDAO
+
+The Uniswap Grants Program
+Funds Projects That Help
+Grow the Uniswap Ecosystem,
+including content, events, developer tools, and governance.
+
+MolochDAO is a Decentralized Autonomous Organization, deployed on Ethereum
+mainnet. Members contribute
+capital with the sole intention
+of giving it all away to fund
+Ethereum infrastructure as an
+essential digital public good.
+
+Ethereum Foundtion
+The Ethereum Foundation
+Ecosystem support program
+provides grants and other
+support to the builders of the
+Ethereum ecosystem.
+
+D IRECT GRANTS
+
+29
+
+A RICH
+HISTORY
+Direct Grants are a great starting
+point in understanding capital allocation strategies because they are
+simple, and they have a rich history.
+Some notable Direct Grant programs include the National Institutes of Health (NIH) grants in the United
+States, which provide funding for medical research
+projects to advance public health. The Small Business Innovation Research (SBIR) and Small Business
+Technology Transfer (STTR) programs also offer
+Direct Grants to small businesses to support technological innovation and commercialization of new
+products.
+Another well-known program is the Fulbright Program, which offers grants for international educational exchange for students, scholars, and professionals
+to study, teach, or conduct research abroad.
+Another is the European Union’s Horizon 2020
+and Horizon Europe programs provide substantial
+funding for research and innovation projects across
+various fields, aiming to enhance Europe’s global
+competitiveness.
+
+30
+
+MECHANISM
+
+02
+
+QUADRATIC
+FUNDING
+
+Good at
+1. Democratic Capital
+Allocation
+2. Getting small donors and
+large donors to fund things
+together
+
+Dependencies
+Sybil and collusion resistence
+- assumes you cannot make up
+identities and that people will
+not collude with each other.
+There are ways to mitigate
+collusion such as cluster
+mapping.
+
+Not good at
+
+MOST DEMOCRATIC
+
+Taking into account the
+opinions of experts
+
+Q U A D R AT I C F U N D I N G
+
+31
+
+TL;DR
+INVENTED BY VITALIK BUTERIN,
+GLEN WEYL, AND ZOE HITZEG
+
+Quadratic Funding is a crowd-funding mechanism
+that amplifies available resources by inviting community members to make donations (big or small) that
+act as votes on where to allocate funds.
+Quadratic Funding uses quadratic voting to aggregate individual preferences and democratically
+allocate funding to public good. Matching funds are
+distributed to recipients more based on the number
+of contributors rather than the amount contributed,
+ensuring that projects with a larger base get more
+funding.
+QF encourages wide participation and aligns funding
+with the broader preferences of a community, so
+it’s useful for allocating funding democratically and
+for accurately revealing the preferences of a large
+group.
+
+Q U A D R AT I C F U N D I N G
+
+32
+
+WHO SHOULD
+USE IT?
+Quadratic Funding is particularly well-suited for communities that can provide a matching pool and have
+members decide on the allocation of the matching
+funds. This includes:
+
+DAOs
+Decentralized Autonomous Organizations (DAOs) with large
+treasuries: Quadratic Funding
+can help DAOs allocate their
+treasuries towards public
+goods that benefit the broader
+community, aligning incentives
+and fostering a more participatory decision-making process.
+
+Networks & Network
+States
+Networks and network states
+that rely on community participation and collaboration can
+benefit from Quadratic Funding
+by incentivizing the development of public goods that improve the network’s infrastructure, security, or usability. By
+allowing network participants
+to vote on funding allocation,
+blockchain networks can harness the collective wisdom of
+their communities to support
+projects that drive long-term
+growth and adoption.
+
+Large Protocols
+Established blockchain protocols with substantial treasuries can leverage Quadratic
+Funding to incentivize the
+development of public goods
+that benefit the protocol’s
+ecosystem. By allowing token
+holders to vote on project
+funding, protocols can ensure
+that resources are allocated
+towards initiatives that contribute to the protocol’s growth
+and success.
+
+33
+
+Q U A D R AT I C F U N D I N G
+
+Quadratic Funding is particularly
+valuable for groups that expect to run
+multiple rounds over time and leverage the preferences revealed by their
+community.
+By iteratively funding public goods
+projects based on community input,
+these groups can continuously adapt
+and refine their funding strategies,
+ensuring that resources are allocated
+towards initiatives that consistently
+provide value to the community.
+
+VALUE CREATION
+
+POTENTIAL
+FUTURE
+ROUNDS
+
+SMALL
+PILOT
+ROUND
+
+TIME
+
+Q U A D R AT I C F U N D I N G
+
+34
+
+FUNDING
+STRATEGY
+
+Who is eligible
+to receive funding
+from the pool?
+
+Public goods projects submit an application to be
+included in a Quadratic Funding round. These applications are typically reviewed by program managers:
+the group of people tasked with operating the round.
+Eligibility should be determined by some preset
+requirements. Projects that are accepted through
+this application process are then eligible to receive
+individual contributions from community members
+and their share of the matching pool.
+
+Q U A D R AT I C F U N D I N G
+
+35
+
+Who is eligible
+to allocate?
+
+Community members, usually represented by token
+holders. These are the “voters” in this case, but they
+vote by donating tokens to the projects they want
+supported, in proportion to how much they want to
+support that project.
+
+How are payouts
+calculated?
+
+Payouts are calculated after the voting window has
+closed and all the contributions are in.
+The share of the matching pool that each project
+gets is equal to the sum of the square roots of
+their contribution amounts. As a rule of thumb, the
+number of contributions a project received is used
+to determine their share of the matching funds. This
+is what makes QF so democratic: it’s the number of
+community members who support a project that determines how much funding it will receive. Libraries
+like Pluralistic.js or the Allo Starter kit can help in
+doing these calculations.
+Note that calculations are generally done off-chain
+because the math required would otherwise incur a
+high gas cost.
+
+How is the pool
+distributed?
+
+After calculating the matching pool distribution in
+the previous step, the managers of the QF round
+then distribute the pool. In Allo Protocol (Gitcoin’s
+capital allocation protocol), they upload this distribution to the strategy, then distribute it to the accepted
+projects in one transaction.
+
+Q U A D R AT I C F U N D I N G
+
+36
+
+HOW DOES
+IT WORK?
+
+1. Someone who wants
+to support a community
+sets up a funding pool.
+This could be a wealthy philanthropist that wants to give
+back, or a local government
+that wants to support community projects.
+
+2. Projects that service
+the community sign up.
+These projects could be anything that helps the community (businesses or local civic
+groups).
+
+3. A crowdfunding campaign is run where each
+contribution is matched
+by the matching pool.
+
+NETWORK UTILITY
+
+Citizens
+Value
+
+$$$
+
+QF
+Marketplace
+Grantees
+
+Ecosystems
+$$$$
+
+INTEGRATIONS
+
+Q U A D R AT I C F U N D I N G
+
+37
+
+Here’s the cool thing about Quadratic
+Funding. This is the one weird trick that
+makes QF into a funding powertool.
+Each crowdfund contribution is matched. The match is
+based more on the number of contributors than the $
+amount given.
+Quadratic Funding uses quadratic voting to determine how
+funds are allocated. Instead of voice credits (as in quadratic
+voting), donating to a public good is how you cast a vote;
+the amount you donate is your voice or voting power.
+
+As an example, let’s
+say a community puts
+forward $10,000 for
+a matching fund and
+three projects are
+eligible to receive
+funding.
+
+Each project receives
+their $10,000 from
+the contributors in full
+while the round is live.
+After voting ends, we
+can calculate and distribute the matching
+pool.
+
+PROJECT 1
+
+PROJECT 2
+
+PROJECT 3
+
+Receives $10,000
+from 2 contributors
+
+Receives $10,000
+from 5 contributors
+
+Receives $10,000
+from 20 contributors
+
+PROJECT 1
+
+PROJECT 2
+
+PROJECT 3
+
+Receives $740 of the
+matching funds
+
+Receives $1,8851 of
+the matching funds
+
+Receives $7,407 of
+the matching funds
+
+Q U A D R AT I C F U N D I N G
+
+38
+
+WHAT MAKES
+IT POWERFUL?
+We’re giving money to causes supported by everyday people. This creates crazy matching multiples for
+popular projects.
+When you give $1 and a community project gets
+$100, lots of people open their wallet
+and participate.
+A regular crowdfunding campaign wouldn’t get as
+many contributions from as many people. What’s
+better?
+Give a $1 and the project gets $2?
+Give a $1 and the project gets $100?
+
+AS YOU DONATE MORE...
+
+MORE MATCHING IS UNLOCKED
+
+Your Donation:
+$134
+
+$0
+DONATION SIZE
+
+$1000+
+
+MATCHING SIZE
+
+MATCHING SIZE
+
+$5000
+
+Estimated Match:
+$243
+
+$0
+DONATION SIZE
+
+Q U A D R AT I C F U N D I N G
+
+39
+
+Quadratic Funding stimulates engagement from a broader range of
+donors living in these communities.
+What’s neat about this is that it lets civic leaders
+know which projects their constituents care about.
+This map shows what goods people care about.
+Each dot is a contributor or a project and each line
+is a contribution. Using this data, we can give local
+civic leaders a high resolution view of their constituent preferences, when before they mostly had low
+resolution data.
+
+In analogue democracies civic leaders know what
+their constituents want every couple years through
+elections. Quadratic Funding campaigns can be a
+more frequent (and more high resolution - thousands of data points) signal for democratic leaders.
+This data can then be used to create relationships
+between civic leaders and the members of their
+community doing the most good.
+
+40
+
+MECHANISM VARIANT
+
+PRIVATE
+QUADRATIC
+FUNDING
+
+2.1
+
+QF + Vote Privately
+1. MACI - Minimum Anti Collusion Infrastructure
+2. Uses Zero Knowledge Proofs
+to hide who you vote for, so
+that information can’t be leaked
+or used to bribe you.
+
+MECHANISM VARIANT
+
+STREAMING
+QUADRATIC
+FUNDING
+
+41
+
+2.2
+
+QF + Vote Continuously
+1. Uses Superfluid - streaming
+money
+2. Uses Allo Protocol to allocate capital
+3. Pilot Application built by
+Geoweb
+
+42
+
+MECHANISM
+
+RETRO
+FUNDING
+
+03
+
+Good at
+1. Decision making by experts
+2. With benefit of hindsight
+
+Dependencies
+A large ecosystem with
+enough history to fund retroactively
+
+Not good at
+1. Creating opportunities for
+everyday people to allocate
+capital
+2. Funding proactively
+
+BEST AT DECISION
+MAKING BY EXPERTS
+WITH HINDSIGHT
+
+RETRO FUNDING
+
+43
+
+TL;DR
+INVENTED BY VITALIK BUTERIN,
+& OPTIMISM, POPULARIZED BY
+OPTIMISM
+
+Retroactive Funding is a financial model that rewards
+creators and developers of public goods—such
+as open-source software, scientific research, and
+community projects—after they have demonstrated a significant positive impact. Instead of funding
+these projects upfront, funders assess the outcomes
+and benefits generated and then provide grants or
+financial rewards based on the achieved results.
+This approach incentivizes high-quality work and
+impactful projects by ensuring that resources are
+allocated to initiatives that have proven their value
+and effectiveness.
+
+RETRO FUNDING
+
+44
+
+WHO SHOULD
+USE IT?
+Retroactive Public Goods Funding should be used by
+ecosystems who are looking to establish long term
+incentives for contributors.
+This funding model rewards impactful work after its
+positive effects are demonstrated, encouraging the
+development of high-impact public goods over the
+long term.
+
+WHO USES IT?
+Optimism
+
+EasyRetroPGF.xyz
+
+Optimism has been the pioneer of Retroactive Funding,
+using it to reward impact within the Optimism and Ethereum
+ecosystems. This program has
+distribued over $100m worth
+of rewards in rounds 1-3.
+
+Gitcoin has partnered with
+Optimism to build voting interfaces for Retro Funding. Then it
+has packed up this experience up into a product called
+easyretropgf.xyz which allows
+anyone to do Optimism-style
+Retro Funding. This is being
+used by Filecoin, Celo, Libp2p.
+
+DAO Drops
+DAO Drops is an experiment in
+retroactive funding that directly empowers Ethereum users
+to allocate ecosystem funds.
+In Round 1, DAO Drops
+distributed $250,000 DAI to
+nominees.
+
+45
+
+RETRO FUNDING
+
+PIONEERED BY
+OPTIMISM
+Here is a summary of Optimism Retro
+Funding Rounds 1-3:
+
+Round 1
+(Q4 2021)
+
+Round 2
+(Q1 2023)
+
+Round 3
+(Fall 2023)
+
+Distributed $1 million among
+76 nominated projects. 24
+badgeholders were appointed,
+with 22 participating in the
+voting process. 58 projects
+received funding.
+
+Distributed 10 million OP
+tokens among 195 nominated
+projects. 90 voting badges
+were offered, and 69 badgeholders voted. This round also
+saw the launch of the Citizens’
+House.
+
+Allocated 30 million OP
+tokens. 145 badgeholders participated in the voting process,
+with projects self-nominating
+for funding. There were a total
+of 1596 applications.
+
+Learnings: The process
+highlighted the importance of
+means testing and identified
+unconscious biases among
+badgeholders. The round also
+stressed the need for balancing democratic and technocratic elements in governance.
+
+Learnings: The round underscored the need for improved
+means testing of applicants
+and emphasized the benefits
+of including a broader range of
+contributors. It also explored
+the impacts of nomination versus self-nomination processes.
+
+Learnings: This round highlighted the limited scalability
+of experts voting on individual
+projects. The process highlighted the need for standardized and verifiable impact
+metrics to reward projects
+accurately
+
+RETRO FUNDING
+
+46
+
+FUNDING
+STRATEGY
+
+Who is eligible
+to receive funding
+from the pool?
+
+In Optimism RetroPGF Round 3, the eligibility criteria
+for receiving funding included:
+1. Contributors to the Optimism Ecosystem: This
+includes developers, educators, artists, writers,
+builders, and evangelists who have made impactful
+contributions to the development and adoption of
+Optimism.
+2. All Contributions Considered: Any contribution
+that supports the Optimism ecosystem is eligible,
+regardless of when it was made. This means past
+contributions are also eligible for funding.
+3. Inclusivity: Both VC-funded teams and teams
+that have received grants from the Optimism Token
+House are eligible for retro funding.
+
+RETRO FUNDING
+
+47
+
+Who is eligible
+to allocate?
+
+Optimism RetroPGF Round 3, badgeholders were
+eligible to allocate the funding. All badgeholders
+have equal voting power. There were 208 badgeholders selected through various methods. This
+included Round 2 bagdeholders, top 50 recipients
+of RetroPGF 2, and 10 badges from the Optimism
+Foundation. This diverse selection approach aimed
+to ensure a broad representation of knowledgeable
+individuals capable of fairly assessing and allocating
+the funding.
+
+How are payouts
+calculated?
+
+In Optimism RetroPGF Round 3, payouts were calculated using a median voting system. Badgeholders
+could allocate up to 30 million OP tokens among
+the projects, with each badgeholder able to allocate
+between 0 and 30 million OP to a single project.
+To qualify for payouts, a project needed to receive
+17 votes or more. The results were then normalized
+to ensure the total allocated amount matched the
+round size of 30 million OP.
+
+How is the pool
+distributed?
+
+In RetroPGF 3, following KYC completion with the
+Optimism Foundation, projects received their rewards via a 90 day stream using Superfluid.
+In EasyRetroPGF, the payout strategy is configurable. Funders may send different types of tokens on
+any network, and may opt to use streaming protocols
+like Superfluid or Hedgey to distribute the tokens.
+
+RETRO FUNDING
+
+48
+
+HOW DOES
+IT WORK?
+
+1. Project Applications
+Projects self-nominated and/or
+submitted their applications.
+
+2. Badgeholder Voting
+Badgeholders, who were selected through various methods, reviewed the applications
+and allocated OP tokens to
+projects.
+
+3. Calculation of Results
+& Distribution of Funds
+The results were calculated, a
+conflict of interest check was
+made, and projects applied to
+receive distributed funds.
+
+While each Retroactive Funding
+round is a discrete event, Retroactive
+Funding rounds can be run periodically over time in order to reinforce new
+behaviors in an ecosystem. The more
+predictability, the stronger the assurance that current actions could be
+rewarded retroactively in the future.
+
+RETRO FUNDING
+
+49
+
+RetroPGF 3 projects received a power law distribution of
+tokens.
+
+Received OP
+
+RetroPGF3 token distributions
+Stats: total = 30.0M OP, n = 501 projects = 45K OP
+
+The top 50 projects received
+over 100K OP
+
+Num Projects
+
+There was not a strong correlation between the number
+of team members and the amount funded.
+
+Received OP per active developer
+
+RetroPGF3 token distributions as a function of team size
+
+OSO: Avg Monthly Active Devs Last 6 Months
+
+RETRO FUNDING
+
+YOU DON’T NEED
+A TIME MACHINE
+
+UNLOCK THE POWER OF RETROACTIVE FUNDING
+
+Feel free to visit the
+website for more
+detailed information:
+easyretropgf.xyz.
+
+50
+
+RETRO FUNDING
+
+51
+
+52
+
+MECHANISM
+
+CONVICTION
+VOTING
+
+04
+
+Good at
+1. Bottoms-up decision making
+2. Addressing voter apathy
+
+Dependencies
+Tokenized ecosystem
+
+Not good at
+Immediate decision making
+
+BEST AT BOTTOMS-UP
+DECISION MAKING
+
+CO NVI CTI O N VOTIN G
+
+53
+
+TL;DR
+DESIGNED BY DR. MICHAEL ZARGHAM,
+POPULARIZED BY 1HIVE
+
+Conviction Voting is a decision-making process
+where participants allocate their voting power to
+proposals over time, with the intensity of their support increasing the longer they back a proposal. This
+system allows voters to express the strength of their
+preferences and aims to balance minority and majority interests by emphasizing sustained commitment
+over fleeting majority opinions.
+
+CO NVI CTI O N VOTIN G
+
+54
+
+WHO SHOULD
+USE IT?
+Conviction Voting is ideal for decentralized organizations, cooperatives, and communities where
+long-term commitment to decisions is valued. It is
+particularly useful in environments where balancing
+minority and majority interests is crucial and where
+participants need a nuanced way to express the
+strength of their preferences over time.
+
+WHO USES IT?
+Gardens.fund
+
+1Hive
+
+1Hive recently launched Gardens v2, a tool that allows any
+DAO to implement Conviction
+Voting with their own governance token.
+
+1Hive uses conviction voting to
+allocate community funds to
+various projects and initiatives.
+This system allows members
+to continuously express
+their support, with proposals
+gaining more funding as they
+accumulate sustained backing
+from the community.
+
+Gardens is a coordination platform that fosters vibrant ecosystems of shared wealth by
+providing healthy funding
+mechanisms to communities
+in web3.
+
+CO NVI CTI O N VOTIN G
+
+55
+
+ATTRIBUTES
+OF CV
+Dynamic Support
+
+Intensity over Quantity
+
+Voters can continuously adjust
+their support, allowing for
+real-time preference shifts
+and more responsive decision-making. This is a strong
+hedge against last minute vote
+swings.
+
+Conviction Voting measures
+the strength of commitment
+rather than just counting votes,
+reflecting true preference
+intensity.
+
+Enhanced Participation
+
+Funding Allocation
+
+Encourages active and
+ongoing engagement from
+participants, fostering a more
+involved and committed
+community.
+
+It has practical applications,
+like in 1Hive, where community
+funds are allocated based
+on sustained support for
+proposals.
+
+Minority Protection
+It prevents transient majorities from dominating, giving
+minority opinions a chance to
+gain support over time.
+
+CO NVI CTI O N VOTIN G
+
+56
+
+FUNDING
+STRATEGY
+Who is eligible
+to receive funding
+from the pool?
+
+In conviction voting systems like the one used by
+1Hive, any member of the community can typically
+propose initiatives to receive funding from the pool.
+These proposals are then subject to the voting
+process, where community members allocate their
+voting power to support proposals. The eligibility
+to propose and receive funding often depends on
+the specific rules and governance structure of the
+organization using conviction voting.
+
+Who is eligible
+to allocate?
+
+In conviction voting systems any member of the
+community who holds voting tokens or has voting
+rights is eligible to allocate their votes to proposals.
+The specific requirements for eligibility to vote, such
+as holding a minimum amount of tokens or having
+a certain level of participation, depend on the rules
+set by the organization implementing the conviction
+voting system.
+
+How is Conviction Calculated?
+
+In conviction voting systems, voting weight is typically calculated based on the accumulated “conviction” or voting weight that accrues by supporting
+a proposal over time. Here are some of the setup
+elements affecting this calculation:
+1. Proposal Types: conviction voting systems can be
+used simply to signal community sentiment, or linked
+to funding pools where proposals can request tokens in discrete amounts or through token streams.
+2. Conviction Growth: a parameter determining the
+
+CO NVI CTI O N VOTIN G
+
+57
+
+rate that a voter’s conviction grows or shrinks over
+time. Typically logarithmic and set as a half life.
+3. Threshold: Funding proposals must surpass a
+conviction threshold to qualify for funding. This
+threshold often depends on the total funds available
+and the relative support for other proposals.
+4. Spending Limit and Minimum Conviction: additional parameters often used to limit the amount of
+funds going to a single proposal, or require a quorum
+of community support for proposals to pass.
+5. Voting Weight System: separate from the time
+weighted element of conviction, various strategies
+can also be used to determine total weight, such
+as 1 token = 1 vote, quadratic voting, or equal voting
+power for all.
+The exact formulas and mechanisms can vary, but
+the core idea is that sustained and strong support
+increases the likelihood and amount of funding a
+proposal receives.
+
+How is the pool
+distributed?
+
+By nature, conviction voting systems are continuous,
+allowing proposals to be created and considered
+over time rather than in epochs or seasonal funding
+events.
+In this way, conviction voting sacrifices the ability
+to make decisions quickly and resolutely, favoring
+a more truthful representation of community sentiment uncovered over time. Pool distributions can
+then happen either continuously or approved oneby-one as thresholds are met.
+In Allo, the funds can be distributed to the accepted
+projects in one transaction, or via stream protocols
+like Superfluid or drips.
+
+CO NVI CTI O N VOTIN G
+
+58
+
+HOW DOES
+IT WORK?
+
+1. Setup
+A DAO sets up a treasury of
+tokens allocated to Conviction
+Voting
+Usually this is a DAO that
+wants to incentivize and grow
+its own ecosystem.
+
+2. Proposal Submission
+Community members submit
+proposals for funding.
+
+3. Continuous Voting
+Members allocate their voting
+power to proposals they support, with conviction growing
+over time as votes remain
+allocated.
+
+4. Threshold and
+Distribution
+Once proposals reach the
+required conviction threshold,
+they receive funding from the
+pool, with funds distributed
+proportionally based on the
+accumulated conviction.
+
+CO NVI CTI O N VOTIN G
+
+59
+
+HOW DOES
+CONVICTION GROW
+OVER TIME?
+Typically, a mathematical formula, such as a weighted average or a decaying logarithmic function, is
+used to calculate the conviction, ensuring that
+sustained support leads to higher conviction levels.
+Conviction Voting emphasizes long-term commitment and sustained support for proposals rather
+than short-term, transient voting.
+
+MORE
+voting weight
+
+Logarithmic Growth
+Curve
+
+support added
+
+LESS
+2
+
+MORE
+
+6
+
+8
+
+10
+
+12
+
+14
+
+10
+
+12
+
+14
+
+support removed
+time
+
+voting weight
+
+Logarithmic Growth
+Curve after support
+removed
+
+4
+
+time
+
+LESS
+2
+
+4
+
+6
+
+8
+
+60
+
+MECHANISM
+
+REQUEST FOR
+PROPOSAL
+
+05
+
+Skeumorphic
+Existed before onchain
+primitives
+
+Good at
+1. Specific complex scopes
+2. Creating competitive bidding
+processes
+
+Dependencies
+Clear requirements
+
+Not good at
+RFPs can be time and resource
+intensive
+
+BEST FOR GETTING
+VERY SPECIFIC BIDS
+FOR PREDEFINED SCOPES
+OF WORK
+
+REQUEST FO R PRO POSAL
+
+61
+
+TL;DR
+
+RFPs, or Requests for Proposals, are formal documents issued by organizations seeking to procure
+services, products, or solutions from external vendors.
+They outline the project’s requirements, objectives,
+and criteria for selection, inviting potential suppliers
+to submit detailed proposals. This process allows the
+issuing organization to evaluate and compare various
+bids to select the most suitable provider based on
+factors like cost, expertise, and proposed solutions.
+
+REQUEST FO R PRO POSAL
+
+62
+
+WHO SHOULD
+USE IT?
+Organizations seeking to procure specialized services, products, or solutions that require detailed
+proposals and competitive bidding should use RFPs.
+RFPs are particularly beneficial when the project
+scope is complex, requires specific expertise, or
+when the organization needs to evaluate multiple potential suppliers to find the best fit based on criteria
+such as cost, quality, and innovation.
+
+WHO USES IT?
+Uniswap Grants
+
+Optimism
+
+The Uniswap Grants Program
+(UGP) issues RFPs to identify
+and fund projects that can
+contribute to the growth and
+development of the Uniswap
+ecosystem. These RFPs target
+specific areas such as protocol enhancements, tooling,
+educational content, and
+other initiatives that align with
+Uniswap’s mission to support
+decentralized finance (DeFi)
+and the broader Ethereum
+community.
+
+This Layer 2 scaling solution
+uses RFPs for projects that
+align with its vision of promoting scalability and user-friendly
+applications on Ethereum.
+
+Ethereum Foundtion
+Uses RFPs to fund research
+and development projects that
+enhance the Ethereum protocol and its ecosystem.
+
+REQUEST FO R PRO POSAL
+
+63
+
+A TYPICAL RFP
+PROCESS:
+1. Preparation and
+Planning
+Define the project scope, objectives, budget, and timeline.
+Identify the evaluation criteria
+and assemble an RFP team.
+
+3. Issuing the RFP
+Distribute the RFP to potential
+vendors or make it publicly
+available through appropriate
+channels.
+
+5. Proposal Evaluation
+Review and evaluate the
+submitted proposals based on
+the predefined criteria. This
+may include scoring, internal
+discussions, and possibly
+interviews or presentations by
+vendors.
+
+7. Contract Negotiation
+and Award
+Negotiate contract terms with
+the selected vendor(s) and
+finalize the agreement.
+
+2. Drafting the RFP
+Create the RFP document,
+including a detailed description
+of requirements, submission
+guidelines, deadlines, and
+evaluation criteria.
+
+4. Vendor Response
+Period
+Allow sufficient time for
+vendors to prepare and submit
+their proposals. Provide a
+mechanism for vendors to
+ask questions and receive
+clarifications.
+
+6. Vendor Selection
+Select the vendor(s) that best
+meet the project requirements
+and provide the best value.
+Notify all participants of the
+decision.
+
+8. Project Execution
+and Monitoring
+Begin the project according to
+the agreed terms, monitoring
+progress and performance to
+ensure compliance with the
+contract.
+
+64
+
+MECHANISM
+
+SELF-CURATED
+REGISTRIES
+
+06
+
+Good at
+1. Bottoms-up curation
+2. Definition of important
+domains
+
+Dependencies
+Clear domain definitions
+proposal submission to get
+funding
+
+Not good at
+1. Scalability
+2. Working in domains
+without clear boundaries
+
+BEST AT MAINTAINING
+BOTTOMS-UP CURATION
+OF CONTRIBUTORS IN
+IMPORTANT DOMAINS
+
+S E L F - C U R AT E D R E G I S T R I E S
+
+65
+
+TL;DR
+POPULARIZED BY PROTOCOL GUILD
+
+Self-Curated Registries were popularized by Protocol
+Guild - a group of Ethereum protocol developers. The
+guild is a self curated registry, an onchain list maintained by the members of Protocol Guild themselves.
+This registry allows members to add, update, or
+remove entries without external oversight, ensuring
+that the information remains accurate and relevant to
+the community’s needs. It empowers participants by
+giving them control over the registry’s content, fostering a sense of ownership and responsibility - and
+enabling projects built upon Ethereum to directly
+contribute to Ethereum developers upon which they
+depend.
+
+S E L F - C U R AT E D R E G I S T R I E S
+
+66
+
+WHO SHOULD
+USE IT?
+A self-curated registry should be used by communities with clear boundaries. This is particularly beneficial for groups focused on domains where there is no
+shared funding source, such as Ethereum protocol
+developers.
+By allowing members to directly curate the registry, self-curated registries ensure the information
+remains accurate, relevant, and reflective of the
+community’s evolving needs and contributions. This
+makes it easy for parties to fund their shared needs
+by just sending tokens to the self curated registry.
+
+WHO USES IT?
+Protocol Guild V1
+Protocol Guild ran a one year pilot from May ‘22 - May ‘23 to test
+their assumptions about the Protocol Guild’s funding mechanism
+and how to operate it. As of July 2024, Protocol Guild has received 7.9k donations from 600 donors, totalling $88mm in value
+at the time of donation The top donors include Ether Fi ($30m),
+Taiko ($24m), Layer Zero ($5m) and Arbitrum($2.4m).
+
+S E L F - C U R AT E D R E G I S T R I E S
+
+67
+
+THE PROTOCOL
+GUILD PILOT
+Protocol Guild was initially conceived as a way to
+“boost the incentives around stewarding the core
+protocol.” In retrospect, this goal was perhaps not
+ambitious enough. A significant portion of core
+protocol development is currently being funded by
+centralized—and potentially unsustainable—sources,
+including the Ethereum Foundation (EF), ConsenSys,
+and a few others. To secure the future of Ethereum’s
+core development work, the goal was to create a
+new equilibrium in core protocol funding, sustained
+by the ecosystem built on top of it.
+
+PROTOCOL GUILD’S GOALS:
+To serve as a counterbalance
+to EF/corporate-funded core
+protocol development, or at
+worst, a funder of last resort.
+
+To enable a one-stop-shop for
+funding the entire core protocol (research, implementation,
+coordination, testing).
+
+To incentivize new contributors
+to join core protocol development.
+
+To help retain existing core
+protocol developers over the
+long term.
+
+To normalize setting aside a
+portion of ecosystem revenues
+to fund core protocol development.
+
+Achieving the above in a sustainable and decentralized way will be a years-long process, and require
+buy-in from across the Ethereum ecosystem.
+Fortunately, it’s the exact kind of challenge that our
+community is uniquely suited to rally around!
+
+S E L F - C U R AT E D R E G I S T R I E S
+
+68
+
+FUNDING
+STRATEGY
+
+Who is eligible
+to receive funding
+from the pool?
+
+In Protocol Guild, the registry is maintained through
+a self-curation process by its members, who are
+typically key contributors to the protocol. Members
+coordinate to add, update, or remove entries on a
+quarterly basis, ensuring that the registry remains
+accurate over time.
+
+Who is eligible
+to allocate?
+
+Protocol Guild’s eligibility framework includes individuals who have made significant contributions to
+the protocol, such as developers, researchers, and
+other essential contributors. This ensures that the
+registry is curated by those with the most knowledge and investment in the protocol’s success.
+
+S E L F - C U R AT E D R E G I S T R I E S
+
+How are payouts
+calculated?
+
+69
+
+Protocol Guild is funded by projects built on Ethereum, who have a dependency on the continued
+development and maintenance of the protocol.
+Projects are encouraged to donate their native token
+to the Protocol Guild, to give its members access to
+a diversified basket of funds representing the value
+being created in the ecosystem.
+Funds are managed via smart contracts, which ensure transparency and automate the disbursement
+process. Members receive their allocated funds
+according to a linear 4 year vesting schedule.
+Each members’ individual allocation is proportional
+to the number of months they have been contributing to eligible projects.
+Vesting and time-weighting ensure that the distribution is fair, efficient, and aligned with the long-term
+goals of the protocol.
+
+S E L F - C U R AT E D R E G I S T R I E S
+
+HOW DOES
+IT WORK?
+
+70
+
+1. Registry Curation
+Objective criteria are set up
+for inclusion in the registry.
+Proposals can be made to add
+or remove members to the
+registry.
+
+2. Fundraising
+Once a registry is deemed to
+have met the attributes of the
+desired domain, fundraising
+can begin. DAOs are then approached to fund the registry.
+Governance proposals are
+submitted.
+
+3. Vesting & Payouts
+Funds sent to the contract
+will vest over the course of 4
+years. Members of the registry
+can withdraw vested funds
+from the contract.
+
+4. Repeat
+Protocol Guild and other Self
+Curated Registries are ongoing
+processes - registry curation
+can happen in parallel with
+fundraising and vesting.
+
+S E L F - C U R AT E D R E G I S T R I E S
+
+71
+
+Protocol Guild has several distinctive
+attributes that set it apart from other
+onchain mechanisms:
+Focus on Protocol
+Development
+
+Funding from Ecosystem
+Stakeholders
+
+The guild is designed to
+support and incentivize key
+contributors to the protocol,
+such as developers, researchers, and other critical roles,
+fostering an ecosystem of
+continuous improvement and
+innovation.
+
+The guild is typically funded
+by stakeholders within the
+ecosystem who have a vested
+interest in the protocol’s
+success, such as apps, L2s or
+DAOs built on Ethereum,, as
+well as philanthropic entities
+focused on funding public
+goods.
+
+Contributor-Centric
+Vesting
+
+Self-Curated Registry
+
+Tokens or rewards are vested
+to contributors over time,
+aligning their incentives with
+the long-term success of the
+protocol and encouraging
+sustained contributions.
+
+Members of Protocol Guild
+maintain and update the registry autonomously, ensuring
+that the most knowledgeable
+contributors manage the relevant information.
+
+Decentralized
+Governance
+Decisions about the registry
+and other guild activities
+are made collectively by the
+members, often through proposals and voting, ensuring a
+decentralized and democratic
+governance structure.
+
+S E L F - C U R AT E D R E G I S T R I E S
+
+72
+
+Differences from other onchain
+mechanisms (cont’d):
+Member-Driven Curation
+
+Long-Term Incentives
+
+Unlike many other onchain
+mechanisms that might rely on
+external parties or automated
+systems for updates, Protocol
+Guild relies on its members
+for maintaining the registry,
+ensuring that the information is
+curated by those most involved
+in the protocol.
+
+The vesting schedule for
+rewards in Protocol Guild is
+designed to promote long-term
+engagement, whereas other
+mechanisms might provide
+immediate or short-term
+incentives.
+
+Direct Community
+Funding
+
+Targeted Support for
+Key Contributors
+
+Protocol Guild only works
+when ecosystem stakeholders
+opt-in to fund the mechanism,
+as opposed to mechanisms
+that might rely on transaction
+fees or other indirect funding
+sources.
+
+The guild aims to support individuals who play critical roles
+in the protocol’s development,
+whereas other mechanisms
+might distribute rewards more
+broadly or based on different
+criteria
+
+Wen Protocol Guild forks?
+“The ecosystem needs to more fully recognize
+that cross-L2 infrastructure is a type of Ethereum
+infrastructure, alongside L1 clients, dev tools and
+programming languages, and should be valorized
+and funded as such. We have Protocol Guild; maybe
+we need Basic Infrastructure Guild.” - Vitalik Buterin,
+2024
+
+S E L F - C U R AT E D R E G I S T R I E S
+
+73
+
+74
+
+MECHANISM
+
+DELEGATED DOMAIN
+ALLOCATION
+
+07
+
+Good at
+1. Targeting funding
+2. Driving decisions by experts
+
+Dependencies
+Clear requirements
+
+Not good at
+1. Involving everyday citizens in
+decision making
+2. May require more setup than
+other types of rounds
+
+BEST AT DOMAIN BASED
+FUNDING BY EXPERTS
+
+D E L E G AT E D D O M A I N A L L O C AT I O N
+
+75
+
+TL;DR
+POPULARIZED BY QUESTBOOK
+
+Dedicated Domain Allocation, as popularized by
+Questbook, refers to the practice of assigning
+specific funding streams or resources to particular
+domains or areas within a project or organization.
+This method ensures that resources are consistently directed towards designated areas, facilitating better management and tracking of funds. By
+clearly delineating which resources are allocated to
+which domains, DDA aims to enhance transparency,
+accountability, and efficiency in the management of
+project resources and funding.
+
+D E L E G AT E D D O M A I N A L L O C AT I O N
+
+76
+
+WHO SHOULD
+USE IT?
+Dedicated Domain Allocation is best suited for organizations that require precise control and accountability over the allocation of resources to different
+areas or projects. This approach is particularly
+beneficial for large enterprises, government agencies, and non-profit organizations managing complex
+operations with diverse funding streams and distinct
+project domains. By implementing Dedicated Domain
+Allocation, these organizations can enhance transparency, streamline resource management, and
+ensure that funds are directed towards priority areas
+in alignment with their strategic objectives.
+
+WHO USES IT?
+Questbook
+Questbook has been the pioneer of DDA. They have used it to
+power the Compound Grants Fund of $800K USD (22k COMP),
+spread across two quarters, to find and fund a wide variety of
+teams building on Compound.
+They’ve also used it to run an Arbitrum grants program with a budget of $1M spread across two quarters to fund a wide variety of
+teams building apps on top of Arbitrum in a transparent manner.
+Each of these programs have budget that is managed by four individuals called domain allocators - chosen from the community and
+by the community. These domain allocators manage grants for a
+domain. These domains are strategic areas of focus for which the
+customer wants to disburse grants.teams building apps on top of
+Arbitrum in a transparent manner.
+
+77
+
+D E L E G AT E D D O M A I N A L L O C AT I O N
+
+ATTRIBUTES
+OF DDA
+These attributes collectively
+contribute to the effectiveness and success of
+dedicated domain allocation
+strategies.
+
+Resource Segregation
+
+Transparency
+
+Clearly delineates and segregates resources for specific
+domains or areas.
+
+Enhances transparency by
+making resource allocation
+visible and accountable.
+
+Efficiency
+
+Accountability
+
+Streamlines resource management processes by allocating
+resources directly to designated domains.
+
+Facilitates accountability as
+resources are allocated based
+on predefined criteria and
+objectives.
+
+Flexibility
+
+Focus
+
+Provides flexibility to adjust
+resource allocation according
+to changing needs within each
+domain.
+
+Enables focused investment
+and attention on particular
+areas or projects within an
+organization.
+
+Optimization
+
+Risk Mitigation
+
+Supports optimization of
+resource utilization by aligning
+allocations with domain-specific goals.
+
+Helps mitigate risks by ensuring resources are allocated
+strategically and monitored
+effectively.
+
+Performance Evaluation
+
+Collabortion
+
+Facilitates performance evaluation and impact assessment
+within each domain.
+
+Promotes collaboration and
+coordination within and across
+domains to achieve common
+goals.
+
+D E L E G AT E D D O M A I N A L L O C AT I O N
+
+78
+
+FUNDING
+STRATEGY
+
+Who is eligible
+to receive funding
+from the pool?
+
+Eligibility often hinges on demonstrating how the
+proposed activities will contribute to the advancement of domain-specific objectives, address identified needs or challenges, and align with the overarching mission of the organization or project.
+
+Who is eligible
+to allocate?
+
+Eligibility to allocate funding is often based on
+factors such as expertise in the domain, knowledge
+of project priorities, and accountability for ensuring
+effective resource utilization.
+These individuals are entrusted with making informed decisions about how to distribute resources
+within the allocated domain, aligning allocations with
+strategic objectives, and maximizing the impact of
+the funding to achieve desired outcomes.
+
+D E L E G AT E D D O M A I N A L L O C AT I O N
+
+How are payouts
+calculated?
+
+79
+
+In Dedicated Domain Allocation, payouts are typically calculated based on predetermined criteria and
+guidelines established for each domain.
+Each domain can use a different capital allocation
+strategy. Typically, decision-makers responsible for
+allocating funds assess funding requests submitted
+by eligible entities within the domain, taking into
+account the alignment of proposed projects with
+domain objectives, available resources, and overall
+strategic priorities.
+Payouts are then determined through a systematic
+evaluation process that aims to ensure equitable
+distribution of resources while maximizing the effectiveness and efficiency of funding allocation within
+the designated domain.
+
+How is the pool
+distributed?
+
+The pool may be distributed at the end of each DDA
+rouind, via a normal ERC20 txn on an L2.
+In Allo DDA build (coming soon), the funds can be
+distributed it to the accepted projects in one transaction, or via stream protocols like Superfluid
+or drips.
+
+D E L E G AT E D D O M A I N A L L O C AT I O N
+
+80
+
+START AT THE
+BEGINNING
+When contemplating a dedicated domain allocation
+round, it’s crucial to begin by clearly defining the domains and their objectives, ensuring they align with
+the organization’s overarching goals. Understanding
+the specific needs and priorities within each domain
+will inform resource allocation decisions and facilitate targeted investments.
+Next, establish transparent and legible processes
+for soliciting and evaluating funding requests. This
+involves developing clear guidelines for proposal
+submission, outlining evaluation criteria, and establishing decision-making mechanisms that involve
+stakeholders from relevant domains. By fostering inclusivity and accountability in the allocation process,
+organizations can ensure that resources are distributed effectively and in accordance with domain-specific objectives.
+Finally, prioritize communication and collaboration
+throughout the allocation round to foster engagement and buy-in from stakeholders. Regularly communicate updates on the allocation process, solicit
+feedback from stakeholders, and provide opportunities for input to enhance transparency and trust. By
+actively involving stakeholders in the decision-making process and maintaining open lines of communication, organizations can maximize the success of
+their dedicated domain allocation round and drive
+meaningful impact within targeted areas.
+
+D E L E G AT E D D O M A I N A L L O C AT I O N
+
+& GO STEP
+BY STEP
+
+81
+
+Needs Assessment
+Evaluate the resource
+requirements and priorities
+within each domain.
+
+Funding Request
+Submission
+Entities eligible for funding
+submit proposals outlining
+their projects or initiatives
+aligned with domain objectives.
+
+Review and Allocation
+Decision-makers assess
+funding requests, considering
+alignment with domain goals,
+available resources, and
+impact potential, and allocate
+funds accordingly.
+
+Monitoring and
+Evaluation
+Track the progress and
+outcomes of funded projects,
+ensuring accountability and
+effectiveness in achieving
+domain-specific objectives.
+
+82
+
+MECHANISM
+
+GIFT
+CIRCLES
+
+08
+
+Good at
+1. Decentralized recognition
+2. Community engagement
+3. Transparency
+
+Dependencies
+Tokenized ecosystem
+
+Not good at
+1. Objective evaluation
+2. Preventing bias
+3. Scalability
+
+GOOD AT FACILITATING
+BOTTOMS-UP COMPENSATION/
+TRUST NETWORKS
+
+GIFT CIRCLES
+
+83
+
+TL;DR
+POPULARIZED BY CHARLES EISENSTEIN
+& COORDINAPE
+
+A gift circle, as popularized on Coordinape, is a
+decentralized, community-driven process where
+members of a team or organization allocate virtual
+tokens, known as GIVE, to recognize and reward
+each other’s contributions. Participants receive a
+set amount of GIVE tokens to distribute among their
+peers based on perceived value and impact. This
+method fosters collaboration and appreciation within
+the community, ensuring that rewards are aligned
+with collective insights and efforts.
+
+GIFT CIRCLES
+
+84
+
+WHO SHOULD
+USE IT?
+Gift Circles are best suited for decentralized organizations, collaborative teams, and communities that
+value peer recognition and collective decision-making.
+They are particularly effective in environments
+where contributions are diverse and not easily quantified by traditional metrics. Teams in open-source
+projects, DAOs, and cooperative groups can benefit
+from gift circles to foster a sense of appreciation,
+enhance engagement, and align rewards with community values.
+
+WHO USES IT?
+Coordinape ecosystem
+Coordinape is a decentralized platform designed to facilitate
+peer-to-peer recognition and reward distribution within communities, particularly in DAOs. It leverages a system where members
+allocate virtual tokens, known as GIVE, to each other based on
+perceived contributions and value added. This process, known as
+a gift circle, promotes a more bottoms-up and transparent method
+of acknowledging efforts and distributing rewards, reflecting the
+collective insights and values of the community.
+By utilizing Coordinape, organizations can enhance collaboration
+and engagement, ensuring that rewards are aligned with the
+actual contributions recognized by peers rather than top-down
+management. The platform’s decentralized nature helps fosters a
+sense of community and mutual appreciation, making it particularly suited for collaborative environments and projects where
+traditional hierarchical reward systems might fall short.
+
+GIFT CIRCLES
+
+85
+
+ATTRIBUTES
+OF GIFT CIRCLES
+Decentralized
+
+Peer-to-Peer Recognition
+
+Contributions are recognized
+and rewarded by peers rather
+than centralized management.
+
+Members allocate virtual
+tokens to each other based on
+perceived value.
+
+Transparent
+
+Flexible
+
+The process is open, allowing
+everyone to see how rewards
+are distributed.
+
+Adaptable to various types of
+contributions and efforts.
+
+Engaging
+
+Community-Driven
+
+Encourages active participation and appreciation among
+community members.
+
+Reflects the collective values
+and insights of the community.
+
+Incentive Alignment
+
+Bias-Prone
+
+Rewards are aligned with the
+community’s understanding
+of value.
+
+Can be susceptible to favoritism or popularity contests.
+
+Scalability Challenges
+
+Inconsistent Evaluations
+
+May become less effective in
+larger organizations.
+
+Variability in how different
+members perceive contributions.
+
+GIFT CIRCLES
+
+86
+
+FUNDING
+STRATEGY
+
+Who is eligible
+to receive funding
+from the pool?
+
+In gift circles, all participating members of the community or organization are eligible to receive funding
+from the pool. Each member is typically allocated a
+set amount of virtual tokens, which they can distribute to their peers based on perceived contributions
+and value. This ensures that anyone who actively
+contributes to the community has the opportunity to
+be recognized and rewarded by their peers.
+
+Who is eligible
+to allocate?
+
+In gift circles, all participating members of the
+community or organization are eligible to allocate
+virtual tokens. Each member is given a set amount
+of tokens, which they can distribute to their peers
+based on their perceived contributions and impact.
+This peer-to-peer allocation process ensures that
+recognition and rewards are distributed according
+to the collective judgment of the community rather
+than a centralized authority.
+
+GIFT CIRCLES
+
+87
+
+How are payouts
+calculated?
+
+In gift circles, payouts are calculated based on the
+virtual tokens allocated by participants to their
+peers. Each member distributes a set amount of
+tokens to others based on their perceived contributions. The total amount of tokens received by each
+participant determines their share of the funding
+pool. The more tokens a member receives from their
+peers, the larger their payout from the pool, ensuring
+that rewards are proportional to the community’s
+recognition of their efforts.
+
+How is the pool
+distributed?
+
+Typically, DAOs use their own tokens to reward
+contributors to a gift circle. These tokens can be sent
+out in an ERC20 transfer.
+In Allo Gift Circles (coming soon), the funds can
+be distributed it to the accepted projects in one
+transaction, or via stream protocols like Superfluid or
+drips.
+
+GIFT CIRCLES
+
+88
+
+HOW DOES
+IT WORK?
+
+Preparation
+Before the ceremony begins,
+participants are informed
+about the process, rules, and
+timeline. They are given a set
+amount of virtual tokens to
+allocate.
+
+Funding Request
+Submission
+During the ceremony, each
+participant distributes their
+tokens to peers whom they
+believe have made valuable
+contributions.
+
+Review and Allocation
+During the ceremony, each
+participant distributes their
+tokens to peers whom they
+believe have made valuable
+contributions.
+
+Conclusion
+The ceremony concludes after
+a set period, and the final token
+distributions are recorded.
+Once the ceremony is over,
+the tokens each participant
+received are tallied, and the
+payouts are calculated and
+distributed accordingly.
+
+GIFT CIRCLES
+
+89
+
+After gift circles, participants often receive various
+types of feedback, which can facilitate meaningful conversations and cultural changes within the community.
+Here are some key aspects:
+
+Types of Feedback:
+
+Qualitative Feedback
+
+Quantitative Feedback
+
+Comments and notes from
+peers explain why they
+allocated tokens to specific
+individuals, offering insights
+into what contributions were
+most appreciated.
+
+Participants see how many
+tokens they received, providing
+a clear numerical representation of their contributions’
+perceived value.
+
+Comparative Feedback
+Participants can see how their
+token allocation compares to
+others, helping them understand their standing within the
+community.
+
+Facilitated
+Conversations and
+Cultural Changes:
+
+Appreciation and
+Recognition
+Regular feedback fosters a
+culture of appreciation, where
+members feel valued for their
+contributions.
+
+Transparency
+The open nature of token distribution and comments promotes transparency, making it
+clear why certain contributions
+are valued.
+
+GIFT CIRCLES
+
+90
+
+Collaboration
+
+Constructive Criticism
+
+Understanding what contributions are most valued can lead
+to more effective collaboration
+and alignment on goals.
+
+Qualitative feedback can highlight areas for improvement,
+encouraging personal and
+professional growth.
+
+Open Dialogue
+The feedback process can
+open lines of communication,
+allowing for discussions about
+roles, responsibilities, and
+expectations.
+
+Addressing Tensions:
+
+Community Cohesion
+
+Conflict Resolution
+
+By addressing and resolving
+tensions openly, the community can become more cohesive
+and supportive, fostering a
+healthier working environment.
+
+The transparency and open
+feedback can help bring underlying tensions to the surface,
+allowing for constructive
+conflict resolution.
+
+Mutual Understanding
+Through feedback and
+dialogue, participants can
+gain a better understanding
+of each other’s perspectives
+and contributions, reducing
+misunderstandings.
+
+Overall, the feedback from gift circles can significantly
+impact the community’s culture, encouraging recognition,
+transparency, and open communication while addressing
+and resolving tensions constructively.
+
+GIFT CIRCLES
+
+91
+
+92
+
+MECHANISM
+
+EVOLUTIONARY
+GRANTS
+GAMES
+
+09
+
+Good at
+1. Pluralistic design
+2. Capture resistance
+
+Dependencies
+Grants SubDAOs
+
+Not good at
+Low Turnout
+
+BEST FOR CONTINUALLY
+IMPROVING CAPITAL
+ALLOCATION
+
+E VO LUTI O N A RY G R A NTS GA M ES
+
+93
+
+TL;DR
+INVENTED BY DAO MASONS
+
+Grant Ships is an “evolutionary grants game” where
+subDAOs (Grant Ships) compete to effectively
+distribute funds within any ecosystem. The process
+begins with electing and funding Grant Ships and
+a game facilitator team. Each round, Grant Ships
+receive capital, evaluate applications, and distribute
+funds. They report their activities, which the ecosystem community then ranks through a weighted
+token vote. Successful Grant Ships get more funding
+in subsequent rounds, while underperforming ones
+may be replaced. This system emphasizes pluralism,
+accountability, and adaptive improvement.
+
+E VO LUTI O N A RY G R A NTS GA M ES
+
+94
+
+WHO SHOULD
+USE IT?
+The customer is an ecosystem such as a DAO or
+large grants program that can recruit and field multiple such Ships. It is a useful tool for compressing
+governance overhead and fractalizing funding from
+large sources
+Grant Ships is ideal for subDAOs within an ecosystem aiming to receive and distribute funds for ecosystem projects. It suits teams seeking to prove their
+efficiency in managing and allocating resources, as
+well as communities interested in fostering pluralism,
+accountability, and adaptive improvement through a
+competitive and evolutionary grants mechanism.
+
+BEST WHEN COMBINED WITH
+OTHER MECHANISMS...
+Meta Grants Framework
+Evolutionary Grants Games like Grant Ships are less of a grant
+giving or capital allocation framework, and more of a Meta grant
+framework. Instead of designing a grants program, Grant Ships
+allows many grants programs to co-exist and compete for funding
+within the same ecosystem.
+
+95
+
+E VO LUTI O N A RY G R A NTS GA M ES
+
+ATTRIBUTES
+Accountability
+
+Pluralism
+
+Grant Ships report their
+activities and are ranked by
+the community.
+
+Multiple subDAOs participate
+in the ecosystem.
+
+Adaptive
+Improvement
+
+Competitive
+Distribution
+
+Successful Grant Ships receive
+more funding in future rounds.
+
+Grant Ships compete to distribute funds effectively.
+
+Community
+Involvement
+
+Enhanced UX
+
+The community votes to rank
+the performance of Grant
+Ships.
+
+Increased Capture
+Resistance
+Funds can only be withdrawn
+by specific roles to one
+address.
+
+Improved user experience with
+aligned data sources.
+
+Better Record-Keeping
+Improved data handling and
+storage for better reporting.
+
+E VO LUTI O N A RY G R A NTS GA M ES
+
+96
+
+ROLES AND
+MAJOR ACTIONS
+GAME FACILITATORS
+
+GRANT SHIP(S)
+
+RECIPIENTS
+
+Create Funding
+Round
+
+Register / Apply
+
+Approve
+
+Reject
+
+Create Ship
+
+Allocate
+
+Distribute
+
+Start Funding Round
+
+Register / Apply
+
+Approve
+
+Reject
+Declare Milestones
+
+Accept Milestones
+Allocate Funds
+Submit Milestones
+Distribute Milestone Payment
+Stop Funding Round
+
+E VO LUTI O N A RY G R A NTS GA M ES
+
+97
+
+STEP BY
+STEP
+
+1. Create Funding
+Round
+Then Grant Ships (grant
+SubDAOs) are invited to apply.
+
+2. Allocate
+Individual Grant Ships will
+compete to allocate capital
+against each other.
+
+3. Reporting
+Grant Ships report their
+activities.
+
+4. Ranking
+The community ranks Grant
+Ships through a weighted
+token vote, influencing future
+funding allocations.
+
+3-SIDED MARKETPLACE
+
+NETWORK UTILITY
+
+Ecosystems
+Outcomes
+
+$$$$
+
+Grant
+Ships
+Recipients
+
+Ships
+$$$$
+
+INTEGRATIONS
+
+98
+
+MECHANISM
+
+ASSURANCE
+CONTRACTS
+
+10
+
+Good at
+Funding projects that need to
+be kickstarted
+
+Dependencies
+Clear goals
+
+Not good at
+1. Low engagement fundraises
+2. Projects that require ongoing funding
+
+BEST AT KICKSTARTING
+PROJECTS
+
+ASSURAN CE CO NTRACTS
+
+99
+
+TL;DR
+INVENTED BY GORDON TULLOCK
+
+An Assurance Contract is where people agree to
+contribute money to a project, but only if enough
+others also commit to funding it. If the project
+meets its funding goal, everyone pays their pledged
+amount, and the project goes ahead. If the goal isn’t
+met, the project is canceled, and no one has to pay.
+This way, contributors are assured that their money
+will only be used if there are sufficient funds to complete the project.
+
+100
+
+MECHANISM VARIANT
+
+DOMINANT
+ASSURANCE
+CONTRACTS
+
+11
+
+Good at
+Funding projects that need
+to be kickstarted and with
+clear leadership and aligned
+incentives
+
+Dependencies
+Clear goals and charismatic
+leader
+
+Not good at
+
+BEST AT KICKSTARTING
+PROJECTS
+
+1. Low engagement fundraises
+2. Projects that require ongoing funding
+
+(D O MINANT) ASSURAN CE CO NTRACTS
+
+101
+
+TL;DR
+INVENTED BY ALEX TABBARROK
+
+A Dominant Assurance Contract is a variant of
+an assurance contract with additional incentives.
+People pledge money with the promise that if the
+project doesn’t get enough funds to proceed, they
+will get their money back, plus a bonus. This bonus
+comes from the project organizer and serves as an
+extra incentive to encourage people to contribute,
+making it a smart choice to pledge money regardless
+of what others do.
+
+(D O MINANT) ASSURAN CE CO NTRACTS
+
+102
+
+WHO SHOULD
+USE IT?
+Assurance Contracts and Dominant Assurance
+Contracts should be used by project organizers
+and fundraisers who are seeking to overcome the
+free-rider problem and ensure sufficient participation
+in funding public goods or collective projects. They
+are particularly useful for crowdfunding campaigns,
+community initiatives, and other collective endeavors where reaching a funding threshold is critical for
+project viability. By offering a financial incentive to
+contributors if the funding goal isn’t met, organizers
+can significantly increase the likelihood of achieving
+the required funding.
+
+WHO USES IT?
+Public Radio and
+Television
+Assurance Contracts are often
+used in fundraising campaigns
+for public radio and television.
+Stations pledge to provide
+programming if they reach a
+certain funding threshold.
+
+Kickstarter
+Kickstarter operates similarly
+to an assurance contract. On
+Kickstarter, project creators set
+a funding goal and a deadline. People pledge money to
+support the project, but their
+contributions are only collected if the total pledges meet or
+exceed the funding goal by the
+deadline. If the goal is not met,
+no money is collected, and
+backers are not charged.
+
+Environmental
+Campaigns
+In 1999, the Save the
+Redwoods League used an
+assurance contract to secure
+the purchase of the Headwaters Forest in California. The
+campaign required raising a
+significant amount of money
+from donors, which was only
+collected once the target
+amount was reached.
+
+(D O MINANT) ASSURAN CE CO NTRACTS
+
+103
+
+HOW DOES
+IT WORK?
+Proposal
+A project proposer outlines a
+public good or project and sets
+a funding goal.
+
+Pledging
+Individuals pledge contributions towards the project,
+contingent on the total pledges
+meeting the funding goal.
+
+Assurance Premium
+An assurance premium is
+promised to contributors if
+the funding goal is not met,
+incentivizing participation.
+
+Funding Goal Met
+
+Funding Goal Not Met
+
+If the total pledges meet or
+exceed the funding goal, the
+funds are collected and given
+to the project proposer.
+
+If the funding goal is not
+reached, the pledged funds
+are returned to the contributors along with the assurance
+premium.
+
+(D O MINANT) ASSURAN CE CO NTRACTS
+
+104
+
+FUNDING
+STRATEGY
+
+Who is eligible
+to receive funding
+from the pool?
+
+In a Dominant Assurance Contract, the project
+proposer(s) are eligible to receive funding from the
+pool if the contract’s conditions, such as reaching a
+sufficient number of pledged contributions, are met.
+If these conditions are not met, the contributors are
+refunded their money, and they may also receive an
+assurance premium as an incentive for their initial
+pledge.
+
+Who is eligible
+to allocate?
+
+In a Dominant Assurance Contract, the eligibility
+to allocate typically lies with the contributors who
+pledge funds to the project. These contributors
+decide whether to pledge their money, effectively
+allocating funds toward the project if the funding
+goal is reached. If enough pledges are made to meet
+the contract’s conditions, the project receives the
+funding; otherwise, the funds are refunded to the
+contributors, along with any assurance premium.
+
+(D O MINANT) ASSURAN CE CO NTRACTS
+
+105
+
+How are payouts
+calculated?
+
+In dominant assurance contracts, payouts are calculated based on whether the funding goal is met.
+If the required amount of contributions is pledged,
+the project proposer receives the pledged funds
+to carry out the project. If the goal is not met, the
+pledged funds are returned to the contributors, often
+with an additional assurance premium paid to them
+as an incentive for their participation. The premium
+compensates contributors for the risk they took in
+pledging to a potentially unfunded project.
+
+How is the pool
+distributed?
+
+In dominant assurance contracts, the pool is distributed based on the project’s funding outcome. If the
+funding goal is met, the entire pool of pledged contributions is given to the project proposer to carry out
+the project. If the funding goal is not met, the pool is
+returned to the contributors, with each contributor
+receiving their pledged amount plus an assurance
+premium. This premium serves as an incentive for
+their participation, compensating them for the risk
+they took in pledging to the project.
+The funds can be sent as an ETH or ERC20 txn. In
+Allo, the funds can be distributed it to the accepted
+projects in one transaction, or via stream protocols
+like Superfluid or drips.
+
+(D O MINANT) ASSURAN CE CO NTRACTS
+
+106
+
+THE GAME
+THEORY
+A Dominant Assurance Contract is a mechanism in
+game theory designed to overcome the free-rider
+problem often encountered in the provision of public
+goods. In a traditional assurance contract, individuals pledge to contribute to a project only if enough
+others do the same, ensuring that the project will
+only proceed if it is sufficiently funded. However, this
+can still lead to suboptimal outcomes if individuals
+choose to wait for others to contribute first, hoping
+to free-ride on others’ contributions.
+To address this, the Dominant Assurance Contract
+introduces an additional incentive structure. The
+organizer promises to compensate contributors if
+the project fails to reach its funding goal, typically by
+offering a bonus or refund that exceeds their initial
+contribution. This turns the decision to contribute
+into a dominant strategy, meaning that contributing
+is the best option regardless of what others do. Even
+if the project does not go ahead, contributors are
+better off than if they had not contributed, due to the
+compensation offered.
+By aligning individual incentives with the collective
+goal, dominant assurance contracts ensure higher
+participation rates. Participants are motivated to
+contribute because they are guaranteed to benefit
+either from the successful completion of the project
+or from the compensation if the project fails. This
+mechanism effectively solves the coordination problem and leads to the successful provision of public
+goods that might otherwise be underfunded.
+
+(D O MINANT) ASSURAN CE CO NTRACTS
+
+107
+
+AN ASSURANCE GAME
+
+AGENT I / OTHERS
+
+DO NOT CONTRIBUTE
+
+CONTRIBUTE
+
+Do Not Contribute
+
+(0,0)
+
+(0,0)
+
+Contribute
+
+(0,0)
+
+(900,900)
+
+A DOMINANT ASSURANCE CONTRACT
+
+COLUMN PLAYER
+
+DO NOT CONTRIBUTE
+
+CONTRIBUTE
+
+Do Not Contribute
+
+(0,0)
+
+(0, Bonus)
+
+Contribute
+
+(Bonus, 0)
+
+(900,900)
+
+108
+
+MECHANISM
+
+SOCIAL MEDIA BASED
+CAPITAL ALLOCATION
+
+12
+
+Good at
+Leveraging torrents of attention social media provides
+
+Dependencies
+Social Graph
+
+GOOD AT BEING
+WHERE THE FLOW OF
+ATTENTION IS
+
+Not good at
+Funding non-visible things
+
+WEB3 SOCIAL MEDIA
+
+109
+
+TL;DR
+
+What kind of onchain coordination would you be
+able to create if you had an onchain social graph and
+distribution to tens of thousands of active users?
+In 2024, people worldwide spend an average of
+approximately 2 hours and 23 minutes per day on
+social media. The design space of web3 social media
+is exciting because there are lots of opportunities to
+leverage open social graphs and the attention that
+people spend on social media. What will we design
+now that we can program our values into social
+media?
+
+WEB3 SOCIAL MEDIA
+
+110
+
+WHO SHOULD
+USE IT?
+Software developers who want distribution into active social media communities or need a social graph
+can leverage web3 social networks to build their
+killer onchain coordination networks.
+
+WHO USES IT?
+Farcaster Frames
+
+Quadratic Lenster
+
+Farcaster Frames are interactive elements embedded
+within Farcaster posts, allowing users to create and engage
+with dynamic content such as
+polls, live feeds, and interactive
+galleries. As of mid 2024, there
+are over 100 applications built
+using Farcaster Frames.
+
+In the summer of 2023, we
+built microtips with Quadratic
+Funding matching directly into
+Lenster. The pilot round which
+allowed for QF tips on top of
+posts about #ethcc received
+581 contributions from 181
+unique contributors and allocated $14.9k (18.9k wMATIC).
+
+IDriss Twitter Plugin
+
+Rounds.wtf
+
+During GG18, IDriss released a
+browser extension that allowed
+users to contribute to Gitcoin
+Grants directly on Twitter.
+
+Rounds.wtf is an experiment in
+doing capital allocation in Farcaster channels. Using rounds.
+wtf, channel participants
+can stimulate activity in their
+channel by providing tokenized
+incentives. And participants
+can tip creators of posts.
+
+By replacing likes with microtips (augmented by Quadratic
+Funding matches), creators are
+now earning a living based on
+the public goods they create.
+
+WEB3 SOCIAL MEDIA
+
+111
+
+A social graph is a digital representation of the relationships and interactions between individuals within a
+social network. It maps out the connections between people, such as
+friendships, family ties, professional
+relationships, and other social interactions.
+This graph helps social media platforms and other
+online services understand user behavior, suggest
+connections, and provide personalized content.
+Essentially, it visualizes how users are linked to each
+other, enabling better insights into social dynamics
+and network structures.
+
+WEB3 SOCIAL MEDIA
+
+112
+
+SOCIAL TRUST
+--> VALUE
+CREATION
+Using Social Graphs, anyone can build advanced
+capital allocation networks that significantly enhance
+funding processes and investment efficiency. One
+possible example is a decentralized venture network
+that leverages social graphs to map relationships
+between entrepreneurs, startups, and investors.
+This network could facilitate precise matchmaking,
+ensuring that capital is directed to startups with the
+highest potential based on trust and previous successes within the network. It would streamline the
+investment process by enabling investors to identify
+promising ventures through trusted connections and
+shared interests.
+Another innovative application is peer-to-peer
+lending platforms that utilize social graphs to create
+trust-based lending networks. These platforms would
+allow individuals to lend money to peers within their
+social network or extended community, reducing default risks and fostering a sense of community-based
+financial support. Additionally, social graphs can enhance crowdfunding efforts by identifying potential
+backers within a project’s social network, increasing
+engagement and funding success rates.
+In summary, these networks leverage the power
+of social connections and trust to optimize capital
+distribution, improve funding outcomes, and promote
+collaborative financial ecosystems.
+
+WEB3 SOCIAL MEDIA
+
+113
+
+114
+
+MECHANISM
+
+DIRECT - TO - CONTRACT
+
+13
+
+Good at
+1. Incentivizing growth
+2. Definition of important
+domains
+
+Dependencies
+1. Clear specifications of what
+to incentivize
+2. Onchain data about important events.
+
+Not good at
+Manipulation of inceitives
+
+GOOD AT PROVIDING
+VERY MODULAR INCENTIVES
+TO EVM EVENTS
+
+D IRECT TO CO NTRACT IN CENTIVES
+
+TL;DR
+POPULARIZED BY BOOST
+(FORMERLY RABBITHOLE)
+
+Direct-to-Contract rewards are incentives that are
+automatically distributed to users who complete
+specific tasks or achievements onchain.
+These rewards are sent directly to users’ smart
+contract addresses, ensuring a decentralized and
+transparent distribution process. This mechanism
+encourages participation and engagement by providing immediate and verifiable compensation for
+contributions and accomplishments.
+
+115
+
+D IRECT TO CO NTRACT IN CENTIVES
+
+116
+
+WHO SHOULD
+USE IT?
+Communities who want to incentivize certain activity
+within their ecosystems.
+Service Provider
+Discovery
+
+Network-Wide
+Campaigns
+
+Direct-to-Contract Incentives
+are open access. So SPs can
+independently and concurrently test strategies at low cost,
+proving viability in the system
+and disrupting competitors.
+
+Challenges represent some of
+the most interesting gamification campaigns in incentives
+DTC infrastructure allows challenges to take place across
+dozens of projects.
+
+Standardized Data
+
+Modularity
+
+Structurally consistent
+infrastructure means incentive
+data is standardized across
+each action type. This allows
+easy comparison, streamlined
+analysis, and accessible public
+data.
+
+When built on scalable
+infrastructure, this degree
+of modularity creates a new
+design space and a playground
+for innovation in network-level
+incentives.
+
+One to Many
+Incentives
+Incentives can be created for
+strategic pairs (ETH/stETH),
+validated across 1 of X Dexes
+on the network.
+
+117
+
+D IRECT TO CO NTRACT IN CENTIVES
+
+DIRECT-TO-CONTRACT
+INCENTIVES PROGRAMS
+Quest Protocol introduces open-source plugins that
+establish a network-wide distribution infrastructure.
+This infrastructure allows for the scalable distribution of incentives across an entire ecosystem. As
+a result, networks can now strategically implement
+objective-based approaches rather than relying on
+protocol-based strategies for the first time.
+
+INCENTIVE BUDGET
+
+Users
+
+Complete
+Actions
+
+Incentive
+Marketplace
+
+Fees
+
+Rewards
+
+INCENTIVE MARKETPLACE
+Incentives
+
+Incentive
+Creators
+Fees
+
+Incentive
+FrontEnd
+Users
+
+PROTOCOLS
+
+Thanks to @t__norm
+for spelling this out
+for us!
+
+CONTRACTS
+
+118
+
+MECHANISM
+
+IMPACT
+ATTESTATIONS &
+CERTIFICATES
+
+14
+
+Good at
+1. Rewarding some types of
+value creation
+2. Transparency and verifiability domains
+
+Dependencies
+Accurate data collection and
+methodological rigor
+
+Not good at
+1. Predicting future impact
+2. Addressing all nuances
+
+GOOD AT CREATION OF
+MARKETS FOR IMPACT
+
+I M PA C T AT T E S TAT I O N S
+
+119
+
+TL;DR
+
+An Impact Attestation is a formal declaration or
+documentation that verifies the positive effects or
+outcomes of a specific project, action, or intervention. It often includes quantitative and qualitative
+data to support claims of impact, providing evidence
+that the initiative has achieved its intended goals
+and benefited its target audience or community. This
+process is crucial for transparency, accountability,
+and demonstrating the value of investments in public
+goods or social projects.
+An Impact Certificate is a transferrable financial
+asset that represents a financial stake in the impact.
+Impact Certificates are built upon Impact Attestations, and have the important function that they are
+owned by the funders who can claim the impact
+they bought, i.e. it is also a signalling device for the
+funders (could be used for industry norms, e.g. it
+becomes an industry norm to buy XX “impact” every
+year, or for proving to comply with some regulation,
+esp. regarding nature regeneration, for the prestige,
+etc.).
+
+I M PA C T AT T E S TAT I O N S
+
+120
+
+WHO SHOULD
+USE IT?
+DAOs can benefit from Impact Attestations to
+demonstrate the effectiveness of their programs,
+ensure accountability to donors and supporters,
+and guide strategic decision-making for future
+investments. Additionally, Impact Attestations can
+be valuable for researchers to assess and compare
+the outcomes of different interventions and promote
+evidence-based practices.
+
+WHO IS USING IT?
+The Gates Foundation
+The Gates Foundation uses
+Impact Attestations to evaluate
+the effectiveness of its global
+health initiatives, ensuring that
+their funding leads to measurable improvements in health
+outcomes.
+
+The Rockefeller
+Foundation
+The Rockefeller Foundation
+employs Impact Attestations
+to validate the success of its
+climate resilience projects,
+demonstrating the tangible
+benefits to communities affected by climate change.
+
+Gavi, the vaccine
+alliance
+Gavi uses Impact Attestations
+to measure the success of its
+vaccination programs in low-income countries, verifying that
+millions of children have been
+immunized against deadly
+diseases and that vaccination
+coverage rates have increased
+significantly.
+
+I M PA C T AT T E S TAT I O N S
+
+121
+
+THE GAME
+THEORY
+The Strategic Interaction of
+Stakeholders
+In a game theoretic context, Impact Attestations can
+be seen as a strategic tool used by various stakeholders to align incentives and ensure cooperation.
+For funders, such as governments, non-profits, and
+philanthropic organizations, the attestation acts as a
+verification mechanism to ensure that their resources are being used effectively. By providing transparent, evidence-based reports on the outcomes
+of funded projects, Impact Attestations encourage
+recipients to align their actions with the desired
+outcomes. This creates a scenario where both
+parties benefit: funders achieve their social or policy
+objectives, and recipients gain continued support
+and credibility.
+
+Signaling and Credibility
+Impact Attestations also function as a signaling
+mechanism. Organizations that can provide credible
+attestations signal to potential funders and stakeholders their capability and effectiveness. This helps
+in differentiating them from less effective organizations, thereby attracting more funding and support.
+For funders, requiring impact attestations from
+grantees reduces the information asymmetry, as it
+provides a reliable means to assess the true impact
+
+I M PA C T AT T E S TAT I O N S
+
+122
+
+of their investments. This signaling leads to a more
+efficient allocation of resources, as funders can identify and support the most effective initiatives.
+
+Risk Management and Assurance
+Funders face the risk of their resources being
+misallocated or not achieving the desired impact.
+By requiring Impact Attestations, funders shift
+some of this risk onto the recipients, who must then
+prove the efficacy of their projects. This creates an
+environment where recipients are incentivized to
+design and implement high-quality interventions
+that can withstand rigorous evaluation. Additionally,
+Impact Attestations serve as a form of assurance
+for funders, providing them with the confidence that
+their investments are yielding the intended social
+benefits. This assurance can encourage further
+investment and long-term partnerships, fostering
+a sustainable ecosystem of funding and impactful
+social initiatives.
+
+NETWORK UTILITY
+
+3-SIDED MARKETPLACE
+
+Impact
+Evaluation
+
+Impact
+Funders
+
+$$$$
+
+Impact
+Marketplace
+Impact
+Evaluatuators
+
+Impact
+Creators
+Impact
+Claims
+
+INTEGRATIONS
+
+I M PA C T AT T E S TAT I O N S
+
+123
+
+124
+
+MECHANISM
+
+UNIVERSAL BASIC
+INCOME
+
+15
+
+Good at
+Providing financial footing to
+citizens of your ecosystem
+
+Dependencies
+Ongoing source of funds
+Citizen Registry
+
+GOOD AT PROVIDING
+A FINANCIAL FOOTING
+TO CITIZENS
+
+UNIVERSAL BASIC INCOME
+
+125
+
+TL;DR
+INVENTED BY THOMAS PAINE
+
+Universal Basic Income is a social welfare program
+where all citizens receive a regular, unconditional
+sum of money from the government, regardless of
+their income, employment status, or wealth. The
+primary goal is to reduce poverty and inequality,
+provide financial security, and support economic
+stability by ensuring that everyone’s basic needs
+are met.
+
+UNIVERSAL BASIC INCOME
+
+126
+
+WHO SHOULD
+USE IT?
+Universal Basic Income should be considered by
+policymakers seeking to address economic inequality, reduce poverty, and provide a safety net for all
+citizens, especially in economies facing job automation, unemployment, or underemployment. It can also
+benefit individuals in precarious employment situations, ensuring everyone has a basic level of financial
+security regardless of their work status.
+
+WHO IS USING IT?
+Finland
+(2017-2018)
+
+Ontario, Canada
+(2017-2019)
+
+Finland conducted a two-year
+experiment providing 2,000
+unemployed individuals with
+a monthly payment of €560,
+unconditionally, to study the
+effects on employment and
+well-being.
+
+Ontario launched a pilot program offering a basic income
+to 4,000 low-income individuals aimed at understanding the
+impact on health, education,
+and employment.
+
+Stockton, California
+(2019-2021)
+Stockton’s SEED program
+provided 125 residents with
+$500 per month for two years,
+with results showing increased
+financial stability, improved
+mental health, and higher fulltime employment rates.
+
+UNIVERSAL BASIC INCOME
+
+127
+
+THE GAME
+THEORY
+In game theory, UBI can be viewed as a mechanism
+to shift the Nash equilibrium in a society. Without
+UBI, individuals might compete intensely for limited
+resources, often leading to suboptimal outcomes
+like poverty and inequality. UBI aims to change this
+dynamic by ensuring a basic level of resources for
+everyone, potentially leading to more cooperative
+behaviors and reducing the competition for survival.
+In a UBI, the assurance of a basic income reduces
+the desperation that drives individuals to accept
+poor working conditions or exploitative wages. This
+could result in a new equilibrium where employers
+must offer better wages and working conditions to
+attract and retain employees, as workers are not
+forced to take any job out of necessity. This change
+can lead to a more balanced labor market, where
+power is more evenly distributed between employers
+and employees.
+UBI can impact social cooperation and trust. In
+game theory, trust and cooperation are crucial for
+achieving optimal outcomes in repeated interactions.
+By providing a financial safety net, UBI may reduce
+the economic stress that often drives short-term,
+self-interested behaviors, encouraging long-term
+cooperative strategies instead. As individuals feel
+more secure, they might be more willing to invest
+in education, entrepreneurship, and community
+engagement, fostering a more inclusive and resilient
+economy.
+
+128
+
+MECHANISM
+
+COOKIE
+JAR
+
+16
+
+Good at
+1. Reducing governance
+overhead
+2. Creating bottoms-up leadership
+
+Dependencies
+Clear data about membership
+in a group.
+
+Not good at
+1. Low trust environments
+2. High funding amounts
+
+GOOD AT BOTTOMS-UP
+FUNDING
+
+129
+
+COOKIE JAR
+
+TL;DR
+INVENTED AT RAID GUILD
+
+Cookie Jar is a smart contract that contains a small
+amount of tokens in it that anyone in a DAO can
+withdraw from. The withdrawer must leave a note
+saying what the tokens are going to be used for, and
+DAO members can upvote/downvote those notes.
+Cookie Jar is an optimistic governance mechanism
+that relies on high social trust and low amounts of
+funds at stake. It helps DAOs reduce governance
+overhead (no one has to vote on Cookie Jar proposals) and tracks contributions transparently.
+
+COOKIE JAR
+
+130
+
+WHO SHOULD
+USE IT?
+People who want to reduce governance overhead
+and create more bottoms-up leadership should use
+Cookie Jar.
+
+USE CASES
+Want to host a party?
+Don’t make a proposal that the
+whole DAO has to vote on.
+Just take the money out of the
+Cookie Jar.
+
+Spend $20 on a saas
+tool?
+Don’t ask your boss for the
+funding. Withdraw it from the
+Cookie Jar.
+
+Went above and beyond
+at work last week?
+Grab some $$$ from the
+Cookie Jar and treat yourself.
+
+COOKIE JAR
+
+WHO IN YOUR
+DAO DESERVES
+A TREAT?
+
+131
+
+132
+
+MECHANISM
+
+COMMUNITY
+CURRENCIES
+
+17
+
+Good at
+1. Stimulating local economies
+2. Creating economic resilience
+
+Dependencies
+1. Community buy-in
+2. Trust and legitimacy
+3. Economic health
+
+Not good at
+1. Wide aceptance
+2. Scalability
+
+GOOD AT COORDINATING
+AROUND LOCAL GOODS
+& VALUES
+
+CO MMUNITY CURREN CIES
+
+133
+
+TL;DR
+POPULARIZED BY MICHAEL UNTERGUGGENBERGER
+
+Community Currencies are local currencies designed
+to complement the national currency within a specific community or region. They aim to boost local
+economic activity, encourage spending within the
+community, and strengthen social ties. By circulating
+only within a defined area, these currencies help
+keep money within the community, support local
+businesses, and often promote sustainable and ethical economic practices.
+
+CO MMUNITY CURREN CIES
+
+134
+
+WHO SHOULD
+USE IT?
+Community Currencies are best suited for use by
+geographically or memetically local communities
+seeking to strengthen their local economies, support small businesses, and foster social cohesion.
+They are particularly beneficial in areas looking to
+enhance economic resilience, promote sustainable
+practices, and encourage community engagement.
+Community currencies can be valuable for DAOs
+towns, cities, and regions aiming to keep wealth
+circulating locally and reduce reliance on national
+currencies.
+
+WHO IS USING IT?
+Bristol Pound (UK)
+
+BerkShares (USA)
+
+Launched in 2012, the Bristol
+Pound is a local currency
+designed to support independent businesses in Bristol. It
+can be used in physical and
+digital forms, promoting local
+spending and sustainability.
+
+Started in 2006 in the Berkshires region of Massachusetts, BerkShares are a local
+currency aimed at boosting the
+local economy. Businesses and
+residents can use BerkShares
+to support local enterprises,
+with over 400 businesses
+accepting them.
+
+Ithaca HOURS (USA)
+Introduced in 1991 in Ithaca,
+New York, Ithaca HOURS is
+one of the oldest and largest
+local currency systems in the
+U.S. One HOUR is valued at ten
+dollars, and the currency can
+be used for various goods and
+services within the community.
+
+CO MMUNITY CURREN CIES
+
+135
+
+THE GAME
+THEORY
+Game Theory and Community
+Currencies: Incentives and
+Cooperation
+The success of a community currency hinges on the
+cooperation and participation of local businesses
+and consumers. From a game-theoretic perspective,
+individuals are incentivized to use the currency if
+they believe others will also participate. This creates
+a positive feedback loop where increased usage by
+some members encourages others to join, enhancing
+the overall utility and acceptance of the currency.
+The key to initiating this loop is ensuring enough
+initial buy-in and trust in the system’s value, akin to
+achieving a critical mass in a coordination game.
+
+Trust and Reciprocity in Community
+Currency Systems
+Trust and reciprocity are fundamental components in
+the game theory of Community Currencies. Participants must trust that the currency will be widely
+accepted and retain its value over time. This trust
+can be modeled as a repeated game, where ongoing
+interactions between participants foster mutual trust
+and cooperation. In such a setting, businesses and
+consumers engage in reciprocal behavior: businesses accept the currency, expecting customers to use
+it, and vice versa. Successful community currencies
+
+CO MMUNITY CURREN CIES
+
+136
+
+often employ strategies to build and maintain this
+trust, such as transparent governance, community
+involvement in decision-making, and backing the
+currency with tangible assets or services.
+
+Overcoming Free-Rider Problems and
+Ensuring Stability
+Community Currencies face potential free-rider
+problems, where some individuals might benefit from
+the system without actively participating or contributing. Establishing clear rules and ensuring consistent enforcement can help maintain the currency’s
+integrity and stability, creating a sustainable system
+where all participants benefit from mutual cooperation and contribution.
+
+NETWORK UTILITY
+
+2-SIDED MARKETPLACE
+
+Supply
+Consumers
+
+Community
+Currency
+Producers
+Demand
+
+INTEGRATIONS
+
+CO MMUNITY CURREN CIES
+
+137
+
+138
+
+MECHANISM
+
+FUTARCHY
+
+18
+
+Good at
+1. Reducing governance
+overhead
+2. Creating bottoms-up leadershipience
+
+Dependencies
+1. Onchain data
+2. Prediction market
+
+GOOD AT CREATING MARKETS
+FOR CAPITAL ALLOCATION
+DECISIONS
+
+F U TA R C H Y
+
+139
+
+TL;DR
+POPULARIZED BY ROBIN HANSON
+
+Futarchy is a form of governance where policies are
+chosen based on prediction markets. In a futarchy,
+elected representatives define and measure the
+metrics that reflect the well-being of the population.
+Then, prediction markets are used to forecast the
+impact of proposed policies on these metrics. The
+policies predicted to have the best outcomes are implemented. This system aims to combine democratic
+values with the informational efficiency of markets to
+make better-informed decisions.
+
+F U TA R C H Y
+
+140
+
+WHO SHOULD
+USE IT?
+Futarchy is best suited for organizations, governments, or communities seeking to make evidence-based decisions using the predictive power
+of markets. It is particularly useful in contexts where
+there is significant uncertainty about the outcomes
+of various policies and where stakeholders value
+empirical, data-driven approaches to governance.
+Futarchy can be effective for entities that prioritize
+optimizing for well-defined metrics of well-being
+and are open to innovative governance models that
+leverage collective intelligence.
+
+PREDICT THIS
+Predictive Power
+Futarchy relies on prediction
+markets, which have been
+shown to outperform traditional forecasting methods by
+aggregating diverse information from multiple participants
+with financial incentives to be
+accurate.
+
+Founding Story
+The concept was proposed
+by economist Robin Hanson
+in 2000, aiming to combine
+democratic values with the efficiency of market mechanisms
+to improve policy decisions.
+
+Outcome-based
+governance
+Unlike traditional governance,
+which often relies on elected
+officials’ judgment, Futarchy
+bases decisions on measurable
+outcomes of well-being, determined and agreed upon by the
+electorate.
+
+F U TA R C H Y
+
+141
+
+THE GAME
+THEORY
+Futarchy leverages the principles of game theory to
+enhance decision-making processes by aligning incentives with accurate predictions. At its core, Futarchy relies on prediction markets, where participants
+buy and sell shares based on their expectations of
+future outcomes. These markets harness the collective wisdom of participants, who have a financial
+stake in predicting correctly, thus incentivizing them
+to utilize all available information and expertise. This
+setup ensures that the market prices reflect a consensus forecast, which theoretically represents the
+best possible prediction of future events, reducing
+the likelihood of biases or uninformed decisions.
+In Futarchy, the interplay of incentives is crucial. Participants are motivated to provide truthful information because their financial gains or losses depend
+on the accuracy of their predictions. This creates
+a self-correcting mechanism where misinformation
+or poor predictions are penalized, and accurate,
+informed predictions are rewarded. The competitive
+nature of prediction markets, a fundamental aspect
+of game theory, ensures continuous improvement
+of the information available to decision-makers. As
+more participants engage in the market, the aggregate knowledge increases, leading to more reliable
+and precise forecasts.
+Futarchy addresses common issues in traditional
+governance, such as information asymmetry and the
+principal-agent problem. In traditional systems,
+
+F U TA R C H Y
+
+142
+
+decision-makers might not have access to all relevant information or may act in their self-interest
+rather than the public good. In contrast, Futarchy
+decentralizes the decision-making process, distributing it across a diverse group of market participants.
+This diffusion of power and reliance on market-driven
+predictions helps mitigate the risks associated with
+centralized decision-making and the potential for
+corruption or misalignment of interests. By using
+game theory to structure these markets, Futarchy
+aims to create a more efficient, transparent, and
+accountable governance system.
+
+3-SIDED MARKETPLACE
+
+NETWORK UTILITY
+
+Cititzens
+Incentives
+
+Bets
+
+Prediction
+Policy
+Makers
+
+Outcomes
+$$$$
+
+INTEGRATIONS
+
+F U TA R C H Y
+
+143
+
+144
+
+MECHANISM
+
+ANGEL
+INVESTMENT
+
+19
+
+Good at
+1. Reducing governance
+overhead
+2. Creating bottoms-up leadership
+
+Dependencies
+For-profit projects to invest in
+
+Not good at
+1. Non profit projects
+2. Projects without value
+capture
+
+GOOD AT STIMULATING
+FOR PROFIT
+ENTREPRENEURSHIP
+
+AN GEL INVESTMENTS
+
+145
+
+TL;DR
+
+Angel Investments are financial contributions made
+by affluent individuals, known as angel investors, to
+early-stage startups in exchange for equity ownership, convertible debt, or tokens.
+These investments provide crucial funding to startups that may struggle to secure traditional financing.
+Angel Investors not only offer capital but often bring
+valuable expertise, mentorship, and industry connections to help startups grow and succeed.
+
+AN GEL INVESTMENTS
+
+146
+
+WHO SHOULD
+USE IT?
+Angel Investment is ideal for early-stage startups
+and entrepreneurs who need capital to launch or
+scale their businesses but may not qualify for other
+types of loans. These startups often have innovative ideas or products but require financial support
+and mentorship to navigate the challenges of early
+growth. Angel Investment is particularly beneficial
+for companies seeking not only funding but also strategic guidance and networking opportunities from
+experienced investors.
+
+FAMOUS ANGEL
+INVESTORS
+Esther Dyson
+
+Ron Conway
+
+Esther Dyson is a prominent
+angel investor and entrepreneur with investments in startups such as Flickr, 23andMe,
+and Evernote.
+
+Ron Conway is often referred
+to as the “Godfather of Silicon
+Valley.” He has invested in
+numerous successful startups,
+including Google, Facebook,
+and Twitter.
+
+Chris Sacca
+Chris Sacca is the founder
+of Lowercase Capital and is
+known for his early investments in companies like Twitter, Uber, and Instagram.
+
+AN GEL INVESTMENTS
+
+147
+
+NOVEL ANGEL
+INVESTMENT
+EXPERIMENTS:
+Equity Crowdfunding
+
+Revenue-Based
+Financing
+
+Platforms like SeedInvest and
+Republic let startups raise
+funds from a large number of
+smaller investors, democratizing access to investment
+opportunities and allowing
+non-accredited investors to
+participate in early-stage
+funding.
+
+This model offers startups
+funding in exchange for a percentage of future revenue, providing a non-dilutive alternative
+to traditional equity financing
+and aligning investor returns
+with company performance.
+
+Syndicates
+
+Composable Funding
+
+AngelList Syndicates enable
+lead investors to pool capital
+from multiple backers, allowing
+smaller investors to participate in deals they otherwise
+couldn’t access while diversifying risk across many investors.
+
+Angel Investments can be
+composed with other web3
+capital allocation protocols to
+provide novel ways of gaining
+exposure to the ecosystem.
+
+Rolling Funds
+Platforms like AngelList Rolling
+Funds allow investors to commit smaller amounts of capital
+on a quarterly basis, providing
+continuous funding to startups
+and more flexible entry points
+for investors.
+
+148
+
+MECHANISM
+
+MOLOCH
+DAO
+
+20
+
+Good at
+Cohering a group of people
+around a treasury
+
+Dependencies
+Funding sources and engaged
+community
+
+Not good at
+Minimizing governance
+
+BEST FOR MINIMUM
+VIABLE DAOS
+
+M O LO C H DAO
+
+149
+
+TL;DR
+INVENTED BY AMEEN SOLEMANI
+
+The original MolochDAO was a decentralized autonomous organization (DAO) focused on funding and
+advancing Ethereum infrastructure and public goods.
+It operates with a minimal governance model to
+reduce complexity and streamline decision-making.
+Members contribute funds, which are then allocated to projects through a collective voting process.
+MolochDAO aimed to overcome the “tragedy of the
+commons” by incentivizing collaborative funding
+efforts within the Ethereum community.
+
+M O LO C H DAO
+
+150
+
+WHO SHOULD
+USE IT?
+MolochDAO forks are ideal for groups focused on
+funding and developing public goods, particularly
+within the Ethereum ecosystem. They are well-suited
+for communities and organizations seeking a streamlined, low-governance model to collaboratively
+allocate resources to public goods and infrastructure
+projects. Members who value the ability to easily exit
+the organization and withdraw their contributions if
+they disagree with its direction will find the ragequit
+feature particularly beneficial.
+
+WHO USES IT?
+MolochDAO
+
+LAO
+
+The original DAO designed to
+fund Ethereum infrastructure
+projects and public goods,
+known for its minimal governance and ragequit feature.
+
+A MolochDAO-inspired organization that funds blockchain
+startups, providing a venture
+capital-like structure within a
+decentralized framework.
+
+Metacartel
+A MolochDAO fork focused
+on funding and supporting
+decentralized applications
+(dApps) and early-stage Ethereum projects.
+
+M O LO C H DAO
+
+151
+
+WHAT IS
+RAGEQUIT?
+Ragequit is a mechanism in certain DAOs, notably
+MolochDAO, that allows members to exit the organization and withdraw their share of the treasury at
+any time. This feature is designed to provide security
+and flexibility, enabling members to leave if they disagree with the direction of the DAO or its decisions.
+By offering a way out, ragequit helps mitigate risks
+and conflicts, ensuring that members can always reclaim their proportional share of the collective funds.
+
+M O LO C H DAO
+
+152
+
+HOW HAS
+MOLOCHDAO
+EVOLVED?
+MolochDAO V1
+
+MolochDAO V2
+
+1. Launch Date: February 2019
+2. Focus: Funding Ethereum
+2.0 development
+3. Key Features: Simple
+structure, ragequit mechanism,
+single token standard.
+
+1. Launch Date: March 2020
+2. Focus: Enhancing flexibility
+and inclusivity
+3. Key Features: Guild bank,
+multiple token support, granular permissions, improved voting and proposal mechanisms,
+shares and loot.
+
+MolochDAO V3
+1. Launch Date: August 2021
+2. Focus: Advanced governance and modularity
+3. Key Features: Plugin architecture, advanced treasury
+management, DAO-to-DAO
+interactions, customizable governance modules, enhanced
+security features.
+
+M O LO C H DAO
+
+153
+
+154
+
+MECHANISM
+
+STOKVEL
+
+21
+
+Good at
+Creating mutual aid
+
+Dependencies
+Community buy-in
+
+BEST FOR CREATING
+MUTUAL AID
+
+STO KVEL
+
+155
+
+TL;DR
+INVENTED IN SOUTH AFRICA
+
+A Stokvel is a type of informal savings club or rotating credit association commonly found in South
+Africa. Members of a Stokvel regularly contribute
+a set amount of money to a common fund, which is
+then distributed to each member in turn. This system
+allows individuals to save collectively and access
+larger sums of money for significant expenses or
+investments. Stokvels also often serve as social and
+support networks, fostering a sense of community
+and mutual aid among members.
+
+156
+
+STO KVEL
+
+WHO SHOULD
+USE IT?
+A Stokvel is suitable for individuals who:
+Need access
+to lump sums
+
+Value community
+and support
+
+Those who might need access
+to larger amounts of money
+periodically for significant
+expenses like education, home
+improvements, or starting a
+business.
+
+Individuals who appreciate
+the social and mutual support
+aspects of pooling resources
+and sharing financial responsibilities with others.
+
+Lack access to formal
+banking services
+
+Desire financial
+education
+
+Those who may not have
+access to traditional banking
+or credit facilities and need an
+alternative means of saving
+and borrowing.
+
+People interested in learning
+about money management
+within a trusted community
+setting.
+
+Want to save collectively
+People who prefer a disciplined approach to saving with
+the support of a group.
+
+STO KVEL
+
+157
+
+158
+
+MECHANISM
+
+BUIDL GUIDL
+STREAMS
+
+22
+
+Good at
+Optimistic hiring
+
+Dependencies
+Benevolent dictator
+
+BEST FOR OPTIMISTIC
+HIRING
+
+BUIDL GUIDL STREAMS
+
+159
+
+TL;DR
+INVENTED BY AUSTIN GRIFFITH
+
+When Austin Griffith meets a new developer that he
+likes, he hires them by streaming them money. The
+streams fill up, and the developer can then “pull” the
+funds out and leave a note with what they worked
+on. Austin can then go back and see who is contributing and decide to top up (or not top up) each
+stream across his developer collective, the Buidl
+Guidl.
+Buidl Guidl Streams allow Austin to give new devs
+$$$ without a bunch of hiring process (several
+rounds of interviews, ref checks). This form of optimistic funding has attracted dozens of great developers into the space.
+
+160
+
+MECHANISM
+
+SOURCECRED
+
+23
+
+Dependencies
+Rich contribution graph
+Reliable data sources
+
+GOOD AT MEASURING AND
+REWARDING CONTRIBUTIONS
+IN OSS PROJECTS
+
+SOURCECRED
+
+161
+
+TL;DR
+INVENTED BY DANDELION MANÉ
+
+SourceCred is an open-source project that creates a
+reputation protocol for open collaboration, enabling
+communities to measure and reward contributions.
+It uses a graph-based algorithm to track contributions and interactions within a community, assigning
+“cred” to contributors based on the value and impact
+of their work. This system aims to fairly recognize
+and compensate contributors, fostering more sustainable and equitable open-source ecosystems.
+
+162
+
+MECHANISM
+
+GNOSIS
+SAFE
+
+24
+
+Good at
+1. Simplicity
+2. Creating new DAOs
+
+BEST FOR SIMPLICITY
+& CREATING NEW DAOS
+
+GNOSIS SAFE
+
+163
+
+TL;DR
+INVENTED @ GNOSIS
+
+Gnosis Safe is a multi-signature wallet that allows
+users to manage digital assets securely and collaboratively. It requires a predefined number of signatures to execute transactions, enhancing security by
+reducing the risk of unauthorized access.
+Gnosis Safe supports various digital assets and
+integrates with DeFi applications, providing a robust
+solution for individuals, teams, and organizations to
+manage their crypto funds safely.
+Using Gnosis Guild and Zodiak, DAOs built on Gnosis
+can evolve new constraints and abilities over time.
+
+MECHANISM
+
+HONOUR
+
+WEIRD MONEY
+
+164
+
+25
+
+HONOUR
+
+165
+
+TL;DR
+INVENTED BY ANDY THUDHOPE
+
+Honour is a currency that is minted into existence
+when needed and is burned when no longer needed.
+Each HON doesn’t represent an asset, but instead is
+an obligation. Honour implements social credit of a
+kind inspired by David Graeber, in a single smart contract which could, if widely adopted, lead to many
+communities of use who all price and use a single,
+global token differently.
+
+MECHANISM
+
+MUTUAL AID
+NETWORKS
+
+HIGHEST LINDY
+
+166
+
+26
+
+MUTUAL AID NETWORKS
+
+167
+
+TL;DR
+Mutual Aid Networks are community-based groups
+where members voluntarily support each other
+through the exchange of resources, services, and
+assistance. These networks operate on principles of
+solidarity, cooperation, and reciprocity, often filling
+gaps left by traditional social services. Mutual Aid
+Networks are as old as humanity, can address a variety of needs, such as food, healthcare, housing, and
+financial support, fostering a sense of community
+and collective responsibility among participants.
+Mutual Aid Networks are not so much a mechanism
+in themself, but a category of mechanisms. They
+might include:
+
+1. Social Credit Systems
+
+2. Work Vouchers
+
+A social credit system is a program that assigns individuals
+a score based on their social
+behaviors and trustworthiness,
+influencing access to services
+and opportunities.
+
+Work vouchers are a form of
+currency or credit given in
+exchange for labor, which can
+be used to obtain goods and
+services within a specific economic system or community.
+
+3. Rotational Labor
+System
+
+4. Mutual Credit Systems
+
+A rotational labor system is
+a work arrangement where
+employees rotate through
+different jobs or shifts on a
+scheduled basis to ensure a
+balanced distribution of tasks
+and skills.
+
+A mutual credit system is a
+community-based exchange
+network where members trade
+goods and services using a
+credit system that balances
+accounts to zero, eliminating the need for traditional
+currency.
+
+MECHANISM
+
+168
+
+WAQF
+
+27
+
+Good at
+Creating sustainable public
+goods funding
+
+Proper Management
+Proper management, adherence to Islamic legal principles,
+and community support for its
+ongoing effectiveness
+
+GOOD AT PROVIDING
+SUSTAINABLE FUNDING
+FOR PUBLIC GOODS
+
+WA Q F
+
+169
+
+TL;DR
+INVENTED IN ISLAMIC FINANCE
+
+A Waqf is an Islamic endowment of property or
+funds for religious, educational, or charitable purposes, where the assets are held in trust and managed
+to benefit the community perpetually. The Waqf
+assets cannot be sold or inherited, and the income
+generated is used for specific purposes defined by
+the founder, such as supporting mosques, schools,
+hospitals, or helping the poor. This system ensures
+long-term community support and preserves the
+donor’s legacy.
+Like Endowments, Waqf’s can be based upon yield
+(not interest) for more stability. Yield is the returns
+from productive assets, whereas interest is an invented monetary phenomenon.
+
+170
+
+MECHANISM
+
+ZAKAT
+
+28
+
+Good at
+Creating sustainable public
+goods funding
+
+Proper Management
+Proper management, adherence to Islamic legal principles,
+and community support for its
+ongoing effectiveness
+
+GOOD AT PROVIDING
+SUSTAINABLE FUNDING
+FOR PUBLIC GOODS
+
+Z A K AT
+
+171
+
+TL;DR
+INVENTED IN ISLAMIC FINANCE
+
+Zakat is a form of almsgiving in Islam that requires
+Muslims to donate a fixed portion of their accumulated wealth, typically 2.5%, to those in need. It is
+mandatory for eligible Muslims and aims to redistribute wealth, alleviate poverty, and support the welfare
+of the community, encompassing various categories
+such as the poor, the needy, those in debt, and others specified in Islamic law.
+
+MECHANISM
+
+BONDING
+CURVES
+
+GOOD AT CREATING AUTOMATED,
+SCALABLE PRICE DISCOVERY, &
+LIQUIDITY MANAGEMENT
+FOR TOKENS
+
+172
+
+29
+
+BO ND IN G CURVES
+
+173
+
+TL;DR
+POPULARIZED BY SIMON DE LA ROUVIERE
+
+A Bonding Curve is a mathematical concept used in
+economics and blockchain to describe the relationship between the price and supply of a token or
+asset. As more tokens are bought and the supply
+increases, the price rises along the curve; conversely, as tokens are sold and the supply decreases, the
+price falls. Bonding Curves are often used in decentralized finance (DeFi) to create automated market
+makers (AMMs) and to manage the issuance and
+redemption of tokens, ensuring liquidity and price
+stability based on demand.
+
+174
+
+MECHANISM
+
+REVNETS
+
+30
+
+Dependencies
+Tokenized Treasuries
+
+GOOD AT STIMULATING
+FOR-PROFIT
+ENTREPRENEURSHIP
+
+REVNETS
+
+175
+
+TL;DR
+INVENTED BY JUICEBOX
+
+Revnets are onchain cap table and incentive machines. With a Revnet, you can bootstrap and sustain your open source project, campaign, business,
+scene, or meme. No governance, and no management overhead.
+Revnet contracts are designed to be safer than
+SAFEs, more powerful than SAFTs, and are easy to
+use across borders and blockchains. Simple enough
+for a group of friends, and powerful enough for high
+net-worth, global communities, products, and brands.
+
+176
+
+MECHANISM
+
+DECENTRALIZED
+VALIDATORS
+
+31
+
+Good at
+Creating distributed compute
+networks
+
+Dependencies
+Very well-defined protoocol
+
+BEST FOR CREATING
+DISTRIBUTED COMPUTE
+NETWORKS
+
+D E C E N T R A L I Z E D VA L I D AT O R S
+
+177
+
+TL;DR
+INVENTED BY SATOSHI NAKAMOTO
+
+Bitcoin is a decentralized digital currency that operates on a peer-to-peer network without a central
+authority, using blockchain technology to secure
+transactions.
+Ethereum is a decentralized platform that enables
+the creation and execution of smart contracts and
+decentralized applications (dApps) using blockchain
+technology.
+Hivemapper is a decentralized mapping platform that
+uses dashcam footage from contributors to build and
+maintain up-to-date maps.
+Helium is a decentralized wireless network that uses
+blockchain technology to incentivize the creation
+and maintenance of a global network of hotspots for
+IoT devices.
+What do each of these have in common? They are
+networks of volunteers who run hardware that ensures the operation of the network. In exchange for
+running the hardware, node operators are rewarded
+with cryptocurrency.
+
+178
+
+MECHANISM
+
+BOUNTIES
+& HACKATHONS
+
+32
+
+Dependencies
+Well-defined tasks
+
+BEST FOR INCENTIVIZING
+ACTION
+
+B O U N T I E S & H A C K AT H O N S
+
+179
+
+TL;DR
+
+Bounties are incentives or rewards offered for
+completing specific tasks or challenges, often used
+in open-source projects, cybersecurity, and community-driven initiatives to motivate individuals to
+contribute skills, solve problems, or find vulnerabilities. These rewards can be monetary or in the form
+of recognition and aim to harness collective effort for
+achieving particular goals.
+Bounties can be organized into Hackathons, where
+participants work intensively over a short period
+to solve challenges or complete tasks for rewards.
+Hackathons provide a collaborative environment
+that encourages innovation and rapid problem-solving, attracting diverse talent to tackle the bounties,
+which can lead to creative solutions and accelerated
+project development.
+
+MECHANISM
+
+RANKED CHOICE
+VOTING
+
+GOOD AT ENSURING
+A WINNING PROPOSAL
+OR CANDIDATE HAS
+BROAD SUPPORT
+
+180
+
+33
+
+RANKED CHO I CE VOTIN G
+
+181
+
+TL;DR
+INVENTED BY WILLIAM ROBERT WARE
+
+Ranked Choice Voting is an electoral system where
+voters rank candidates or proposals in order of
+preference. If no candidate wins a majority of firstchoice votes, the candidate with the fewest votes
+is eliminated, and their votes are redistributed to
+the remaining candidates based on the voters’ next
+preferences. This process continues until one candidate has a majority, promoting broader support and
+reducing the likelihood of strategic voting.
+
+META
+
+STACKING
+MECHANISMS
+
+182
+
+S TA C K I N G M E C H A N I S M S
+
+183
+
+WHAT IF THESE
+MECHANISMS COULD
+FEED INTO EACH
+OTHER?
+In 2023, tens of millions of $$ flowed through
+public goods funding mechanisms.
+New easy to use products will
+come online allowing anyone
+to do PGF.
+
+Two things will change
+in 2024 & beyond:
+
+There will be more funding
+than ever to PGF.
+
+What if these mechanisms start to interoperate with
+each other?
+
+$$$
+
+NESTED PUBLIC GOODS FUNDING
+
+RetroPGF
+
+$
+$
+$
+$
+
+$
+Project
+
+$
+
+Project
+Project
+
+$
+RetroPGF
+
+$
+
+$
+$
+
+CV
+Project
+Project
+
+$
+
+$
+
+$
+$
+
+QF
+
+$
+$
+
+$
+
+$
+$
+
+Project
+Project
+
+Project
+
+$
+QF
+
+Project
+
+Project
+
+Project
+
+RetroPGF
+
+RetroPGF
+$
+
+$
+
+Project
+
+$
+
+$
+QF
+
+$
+
+Project
+Project
+Project
+Project
+Project
+
+S TA C K I N G M E C H A N I S M S
+
+184
+
+This presents many opportunities
+ahead:
+Lots of bottom-ups
+curation now becomes
+possible
+
+A community should decide
+the distribution of PG within its
+own ecosystem.
+
+This will help create pockets
+of bottom-up governance that
+makes top-down decisions
+easier, because you can abstract away capital allocation
+decisions to subsidiary local
+communities.
+
+As more and more
+communities do this
+
+A. it diversifies funding sources and mechanisms, helping us
+reach fund the commons in a
+more pluralistic way.
+
+B. as more and more tools
+come online to make it happen,
+it could become (1) very easy
+(2) very powerful to run PGF.
+
+C. As the funding trickles out,
+there will be more long tail
+public goods funding.
+
+There’s an opportunity to
+
+Read the whole
+thing @
+
+A. build Impact Attestations
+through open standards
+(EAS, Hypercerts), creating
+an emergent web of trust that
+measures impact throughout
+web3.
+
+B. help web3 communities see
+that funding their public goods
+is a sustainable competitive
+advantage. Over time, this will
+grow into an arms race to fund
+public goods.
+
+C. build a “web3 grants common app.” Such an app would
+allow people to manage their
+grant in one place and push
+it to multiple grant programs.
+
+D. get many different types
+of projects flowing tokens
+between them.
+
+saving time and energy, saving
+time and energy in a world
+where there are many grant
+programs running concurrently.
+
+S TA C K I N G M E C H A N I S M S
+
+185
+
+META
+
+186
+
+EXPLORING
+THE DESIGN
+SPACE
+
+WITH MECHANISM
+TAXONOMIES
+
+M E C H A N I S M TA X O N O M Y
+
+187
+
+HOW DO WE
+CLASSIFY THESE
+MECHANISMS?
+Taxonomy is the science of naming, describing and
+classifying organisms.
+How might we arrive at a way of classifying the
+mechanisms we’ve discussed in this book? In this
+chapter, I will try to cut through the “fog of war” of
+the design space and sketch out a path to a taxonomy of mechanisms.
+
+THE DESIGN SPACE
+By reflecting on the growth of the internet empirically, and by reasoning about the a priori parallels
+between web1 and web2, we can reason about how
+web3 might play out…
+The internet of
+information
+
+The internet of
+money
+
+- Computers can send information across a computer
+network
+
+- Computers can send value
+across a computer network
+- This radicaly changed any-
+
+- This radicaly changed anything in society that relies on
+information
+- (entertainment, media, politics, social media)
+
+thing in society that relies on
+value transfer
+- (banking, insurance, finance,
+art, jobs)
+
+M E C H A N I S M TA X O N O M Y
+
+188
+
+Just as email, IMs, Twitter and Tik Tok, and LLMs
+changed how we transfer information, the internet of
+money could change how we transfer money. How
+we Fund What Matters.
+We have Massively Multiplayer Online Role Playing
+Games (MMORPGs). Now that we’ve got web3,
+will we have Massively Multiplayer Online Funding
+Games (MMOFPs)? Can large networks of people
+coordinating resources be more powerful than large
+corporations/governments/billionaires?
+I have an instinct that peer-to-peer funding games
+may be the biggest wedge we have to create 21st
+century collective action. There is a greenfield
+opportunity to explore the design space around
+Gitcoin’s mission, to “Fund What Matters.”
+
+FUNDING WHAT MATTERS
+Gitcoin’s mission, “Fund What Matters,” is a directive emphasizing the importance of investing in or
+financially supporting causes, projects, or initiatives
+that hold significant value or impact. It suggests
+prioritizing spending in areas that make a meaningful
+difference, whether socially, environmentally, culturally, or economically.
+This phrase often encourages individuals or organizations to think critically about where their money
+can have the greatest positive effect. It’s a call to
+action for responsible and purpose-driven allocation
+of resources, aligning financial decisions with core
+values and priorities.
+
+M E C H A N I S M TA X O N O M Y
+
+189
+
+THE MISSION
+X THE DESIGN SPACE
+By leveraging blockchain technology, the attributes
+of it that make it powerful (transparency, corruption
+resistance, global, open source, programmable), and
+the wave of innovation surrounding the EVM, we
+can help evolve how people “Fund What Matters” to
+them.
+Just as the internet accelerated the flow of information, web3 can accelerate the flow of capital. We
+can ride this wave to build and scale new funding
+experiments.
+
+THE PAST
+In 2019, the bear market had just hit, and projects
+in the Ethereum ecosystem needed funding. At the
+time, the major forces in Eth public goods funding
+were the Ethereum Community Fund, the Ethereum
+Foundation, and Consensys. The EF/ECF had grants
+programs or you could get hired at Consensys.
+Gitcoin discovered Quadratic Funding in late 2018
+and launched Gitcoin Grants in January 2019. We
+were differentiated from the existing players by the
+decentralized decision making introduced by Quadratic Funding.
+I think the design space kind of looked like this:
+1. Technocratic = small group of decision makers.
+At the ECF/EF back then, you had to go through a
+grantmaking process where a small commitee would
+
+M E C H A N I S M TA X O N O M Y
+
+190
+
+got funding. At Consensys, you had to be hired by
+Joe Lubin or his disciples.
+2. Democratic = larger more permissionless group of
+decision makers. At Gitcoin, anyone can help allocate
+the funding due to Quadratic Funding. This scales
+because 1000s of projects can get funded at once.
+
+ECF
+Early EF Grants
+
+Gitcoin
+
+Consensys
+TECHNOCRATIC
+
+DEMOCRATIC
+
+AMOUNT OF FUNDING
+
+Of course, this doesn’t tell the full story. If you were
+to add a 2nd axis showing the amount of funding
+being deployed, the design space would look something like this:
+
+Consensys
+Early EF Grants
+
+Gitcoin GR12
+Gitcoin GR1
+
+ECF
+
+TECHNOCRATIC
+
+DEMOCRATIC
+
+M E C H A N I S M TA X O N O M Y
+
+191
+
+THE PRESENT
+Over the course of 2022, more players entered the
+space and we began to see the rise of retroactive
+public goods funding experiments like Optimism
+RetroPGF and very simple but effective mechanisms
+like the Protocol Guild’s self-curating registry.
+
+AMOUNT OF FUNDING
+
+Trying to further map the design
+space, adding another 3rd dimension
+looks like this:
+Optimism RetroPGF
+Consensys
+EF Grants
+
+Gitcoin GR12
+
+retroactive
+
+proactive
+Gitcoin GR1
+
+ECF
+TECHNOCRATIC
+
+DEMOCRATIC
+
+AMOUNT OF FUNDING
+
+If we were to make the 3rd dimension
+“simplicity,” then it would kind of look
+like this:
+
+Protocol Guild
+Consensys
+EF Grants
+Gitcoin GR12
+
+ECF
+TECHNOCRATIC
+
+simple
+
+complicated
+Gitcoin GR1
+DEMOCRATIC
+
+M E C H A N I S M TA X O N O M Y
+
+192
+
+Optimism & Protocol Guild evolved
+the design space forward in important ways
+1. Retroactive Public Goods Funding is based off the
+idea that it is easier to fund projects based on the
+impact they’ve already had. As opposed to speculating on the impact they might have in the future.
+After RetroPGF is established, we can then bet that
+projects could receive proactive funding based on
+future retroactive rewards.
+2. Protocol Guild built a very simple mechanism, a
+self-curating registry. This registry allowed projects
+to easily contribute to protocol development.
+
+LET’S GET WEIRD
+Lets look at what this new design space looks like all
+together. If we combine the two 3D cubes, we get a
+tesseract (4-dimensional cube) showing us the new
+design space.
+retroactive
+Optimism RetroPGF
+AMOUNT OF FUNDING
+
+proactive
+
+Consensys
+
+EF
+Grants
+
+ECF
+
+Protocol Guild
+
+ECF
+simple
+
+Gitcoin GR12
+complicated
+Gitcoin GR1
+TECHNOCRATIC
+
+DEMOCRATIC
+
+M E C H A N I S M TA X O N O M Y
+
+193
+
+Since us humans have evolved to understand 3D
+images, this 4D visualization is a bit hard to grok
+visually. That said, once you spend some time staring
+at it, you will can internalize that we’ve found a way
+to conceptualize the entire design space across all 4
+dimensions:
+1. Technocratic vs democratic
+2. Amount of funding
+3. Proactive vs retroactive
+4. Simple vs complex
+This is where things get interesting to me. As people
+begin launching projects that are empirically effective at funding what matters to them (maybe using
+the mechanisms in this book), we can start to build
+up a multi-dimensional space of what the design
+space looks like.
+1D DESIGN SPACE
+
+ECF
+EF Grants
+
+Gitcoin
+
+Consensys
+TECHNOCRATIC
+
+DEMOCRATIC
+
+AMOUNT OF FUNDING
+
+2D DESIGN SPACE
+Consensys
+EF Grants
+
+Gitcoin GR12
+Gitcoin GR1
+
+ECF
+TECHNOCRATIC
+
+DEMOCRATIC
+
+194
+
+M E C H A N I S M TA X O N O M Y
+
+AMOUNT OF FUNDING
+
+3D DESIGN SPACE
+
+Optimism RetroPGF
+Consensys
+EF Grants
+Gitcoin GR12
+
+retroactive
+
+proactive
+ECF
+
+Gitcoin GR1
+
+TECHNOCRATIC
+
+DEMOCRATIC
+
+4D DESIGN SPACE
+retroactive
+
+AMOUNT OF FUNDING
+
+proactive
+
+Consensys
+EF
+Grants
+Protocol Guild
+
+Optimism RetroPGF
+
+ECF
+simple
+Gitcoin GR12
+complicated
+Gitcoin GR1
+TECHNOCRATIC
+
+DEMOCRATIC
+
+Now we are really starting to cartography the design
+space. By creating visualizations of how these
+mechanisms relate to each other, and extracting the
+criteria that makes them different, we’re starting to
+get a visual of the design space! We’ve started to
+beat back the fog of war of the possibilities.
+
+M E C H A N I S M TA X O N O M Y
+
+195
+
+What dimensions would we even care to splice the
+design space by? And would each dimension justify
+the complexity of thinking in higher dimensional
+thinking? Since it’s hard to think in higher than 3
+dimensions, maybe we’d be better off focusing on
+design spaces 3 dimensions or less.
+That said, there might be value in exploring what
+dimensions to even look at. We can make some
+educated guesses here. Here are all of the additional dimensions I think would ever matter within the
+design space of “how do you build a mechanism that
+helps people fund what matters?”
+
+1. Mature projects vs seed projects - Is the mechanism more for
+mature projects or seed stage projects?
+2. Age of the mechanism - Was it invented in pre-history, during
+the industrial era, early internet, or the onchain internet era?
+3. Web2 vs web3 UX - Is the UX usable for web2 natives?
+4. Effective or not - Is the mechanism actually effective at whatever its goal is (in Gitcoin’s case, funding what matters)? How big
+is the TAM?
+5. Return expected vs not - Is a return expected as part of the
+fundraise? Or not?
+6. Virality vs no is virality - a big part of the mechanism? Like for
+Quadratic Funding, where people tend to share their grants on
+social media.
+7. Does it depend on Impact Attestations? Does the mechanism
+depend on impact attestations? Do we have a reliable proof-ofimpact?
+8. Oracle-limited or not? If the mechanism depends on some
+external data source, is it limited by having reliable oracles or not?
+Eg if you were trying to fund a project to stop deforestation, what
+is the data-trail between the forest and the blockchain?
+9. Credibly neutral vs not - Does the mechanism’s constituents
+care that its credibly neutral, or does it allow for rent-seeking
+intermediaries?
+10. Desktop vs mobile - Is the mechanism experience desktop first
+(okcupid, match.com), or mobile-first? (like Tinder)
+11. Built into social media? Is the mechanism a standalone website,
+
+M E C H A N I S M TA X O N O M Y
+
+196
+
+or built onto a web3 social network like Farcaster/Lens Protocol?
+12. Massively multiplayer? Will the mechanism work at scale?
+Will it enable Massively Multiplayer Online Funding Games
+(MMOFPs)?
+13. Are assets fungible or not? Do the primary assets in the mechanism resemble fungible things like ERC-20s? Or are they more
+based on ERC-721 like assets?
+14. Are they stateful or stateless? Ephemeral like a QF round or
+persistent like Protocol Guild?
+15. Can it be built on top of Allo? This is a germane question for
+Gitcoin. Does Allo help make it easier to bring to market?
+16. Can it be built on top of Passport? Does the mechanism benefit from sybil resistance? If so, does Passport newly enable it?
+17. Where does the coordination breakthrough happen? Through
+novel onchain primitives, shared identity/high trust communities,
+novel game theory?
+18. Single mechanism or multi-mechanism. These mechanism are
+composable after all..
+19. Is the funding continuous/recurring? Is it based off dependably
+economically exothermic funding sources? Does the mechanism
+depend on fickle things like people donating? Or does it depend
+on continuous sources of funding (like sequencer fees or yield)?
+20. There are probably more ....
+
+Which combinations of these criteria have billion$$$ potential to ‘Fund What Matters’? Where
+is the TAM very large now, and what design spaces
+have billion $$$ potential next cycle? Which will only
+be enabled by new UX breakthroughs (like PWAs,
+gasless apps, account abstraction)?
+Would we be served well by building/researching
+many of these tools internally, or enabling 1000s of
+devs to build in these design spaces, on top of Allo?
+And perhaps finding (3,3s) with these builders?
+Right now Gitcoin Grants Lab is focused on
+Grants-centric mechanisms. But there is a roadmap
+beyond that, which we call Grants+ and Grants++ for
+things that are over the horizon.
+
+M E C H A N I S M TA X O N O M Y
+
+197
+
+IN CLOSING
+In this chapter, we reasoned about how the design
+space for Funding What Matters has evolved so far.
+We attempted to sketch out what a taxonomy of
+mechanisms might look like. We then visualized it.
+From there, we made some educated guesses about
+what other types of experiments for Funding What
+Matters may exist in the future. The design space is
+vast, and we expect it will be cartographied emergently as it is explored in the coming years.
+I hope that articulating these dimensions of self-similarity between mechanisms helps orient you into the
+rapidly evolving world of onchain capital allocation.
+There is still much to do to cartography the design
+space, build taxonomies, and build awareness of
+these mechansisms. I hope to see members of this
+books telegram community step up and help each
+other progressively elaborate the design space together. Maybe this book will become a shelling point
+for those efforts :)
+
+This essay was originally
+published on the Gitcoin gov
+forum. It has been edited and
+condensed. Read the original @
+
+198
+
+META
+
+EXPLORING
+THE DESIGN
+SPACE
+
+LIKE A SLIME MOLD
+
+SLIME MOLD
+
+199
+
+SLIME MOLD
+
+200
+
+SLIME MOLDS
+ARE A SOURCE OF
+INSPIRATION
+Slime molds are a source of inspiration for me
+because they are a networked organism. This makes
+them a rich source of biomimetic inspiration for how
+to design DAOs. Some may even say your DAO is a
+slime mold.
+Slime molds have a unique and fascinating method
+of finding food. They do not have a brain or central
+nervous system, but they use a form of spatial memory and optimized search patterns.
+When a slime mold encounters a food source like
+bacteria, fungal spores, or decaying organic matter,
+it forms a network of tube-like structures, or pseudopodia, to engulf and absorb the nutrients. As it
+moves, it leaves behind a trail of extracellular slime.
+This slime trail plays a critical role in the organism’s
+search for food. It acts as a memory system, allowing
+the slime mold to avoid revisiting areas it has already
+explored. This efficient search strategy, where it
+extends its network towards unexplored areas while
+retracting from nutrient-poor or already explored
+regions, enables slime molds to find the most direct
+routes to food sources and optimize their foraging
+efficiency. Remarkably, this simple organism can
+solve complex mazes and spatial problems to locate
+food, demonstrating a form of intelligence and problem-solving ability without a brain.
+
+SLIME MOLD
+
+201
+
+HOW DOES THIS
+APPLY TO US?
+We are economic agents searching for value in a
+multidimensional design space with multiple billion
+$$$ opportunities to build new crowdfunding mechanisms/applications within it.
+
+billion $$ oppy?
+
+billion $$ oppy?
+
+billion $$ oppy?
+
+As we traverse this design space, we can be mindful
+of the two modes slime molds have when looking for
+resources:
+1. Explore - how do we find the resources?
+2. Enrich - how do we use the resources when we
+find them?
+
+SLIME MOLD
+
+202
+
+1. EXPLORE
+How do we find the biggest (ideally billion $$$ +)
+opportunities?
+Memory - In biology, the slime trail plays a critical
+role in the organism’s search for food. It acts as a
+memory system, allowing the slime mold to avoid
+revisiting areas it has already explored.
+Perhaps the lesson for us here could be to learn in
+public. What if we created some sort of memory
+system wherein we (or anyone else in the regen
+space) learns about something new and important,
+they publish it. We could all then benefit from each
+other’s explorations of the design space. Groups like
+regenlearnings.xyz can serve this purpose.
+Efficiency - The slime mold’s efficient search strategy, where it extends its network towards unexplored
+areas while moving on from from nutrient-poor or
+already explored regions, enables slime molds to find
+the most direct routes to food sources and optimize
+their foraging efficiency.
+Perhaps the lesson for us here could be to search
+efficiently and in parallel. We should retract from nutrient poor regions. We should be lean as we explore
+new design spaces. In particular, I think its really
+exciting how new Allo Protocol-enabled apps can be
+created in a matter of days/weeks.
+
+2. ENRICH
+When a slime mold finds food, such as bacteria or
+organic particles, it engulfs these particles using a
+part of its cell membrane. This process is known as
+
+SLIME MOLD
+
+203
+
+phagocytosis. Essentially, the slime mold surrounds
+and encapsulates the food source with its membrane, creating a small internal pocket or vacuole.
+Enzymes are then secreted into this vacuole to
+break down the food into smaller, absorbable nutrients. These nutrients are absorbed into the slime
+mold’s cytoplasm, providing energy and materials
+for growth. This method allows the slime mold to
+efficiently process a variety of food sources in its
+environment.
+
+Takeaways
+1. The tactics used in finding
+resources are completely
+different than those used once
+they have been found.
+
+2. Engulf the problem and
+break it down into composite
+parts.
+
+3. The resources we invest into
+finding/exploiting opportunities should be relative to how
+big the resources we find are.
+
+EXPLORATION SO FAR
+The design space we are aware of
+so far, as identified by Gitcoin DAO,
+includes three resource-rich areas:
+QF
+
+RetroPGF
+
+TAM of ~ $20m/year - Located
+in the democratic and sybil-resistant part of the design.
+
+TAM of ~ $100m/year - Located in the retroactive part of the
+design space.
+
+SLIME MOLD
+
+204
+
+Direct Grants
+TAM of ~$10-100m/year Located in the “simple” part of
+the design space.
+
+The Grants Labs team is working within those opportunities.
+Yet, there is a lot of potential in the design space
+we’ve not yet explored yet. But the ecosystem is
+exploring those areas in parallel to the threads focused on the known opportunities (QF, Direct Grants,
+RetroPGF).
+
+unexplored design space
+
+QF
+
+unexplored design space
+unexplored design space
+
+Direct Grants
+This essay was
+originally published on
+the Gitcoin gov forum.
+It has been edited and
+condensed. Read the
+original @
+
+unexplored design space
+
+RetroPGF
+
+unexplored design space
+
+unexplored design space
+
+SLIME MOLD
+
+205
+
+206
+
+META
+
+EXPLORING
+THE DESIGN
+SPACE
+
+LIKE A MUSHROOM
+
+MYCOFI
+
+207
+
+DESIGNING
+FROM FUNGAL
+FOUNDATIONS
+In our search for regenerative economic design
+patterns, the answers we seek may be hidden right
+beneath our feet. Over billions of years of evolution,
+mushrooms - and the underground mycelial networks to which they belong - have been iterating
+design patterns for distributed, autonomous infrastructures used for intelligent resource distribution
+and collective signaling between countless living
+organisms worldwide. Decades of study into the
+interaction patterns of mycelial networks in natural
+ecologies have offered us a glimpse into a cooperative underground world where resources flow
+dynamically between flora, fauna, and funga to generate thriving ecosystems. If web3 technology holds
+the potential to craft new economic paradigms,
+mycelial design patterns may just show us the way
+back to a more ecological future.
+
+MYCELIUM = NATURE’S
+PUBLIC GOODS
+INFRASTRUCTURE
+As one of the oldest and largest organisms alive,
+mycelium is a grand architect of nature. Fungi were
+among the planet’s earliest multicellular
+lifeforms, and along with their algae symbiotes,
+they terraformed Planet Earth from a ball of cooled
+
+MYCOFI
+
+208
+
+magma into the green paradise we know today.
+Mycelia form underground in a structure of networked tubes, which provide the “pipes” for a
+large proportion of nutrient distribution within and
+between most plants worldwide. From the earliest
+days of life on earth, fungi have been breaking rock
+and networking through the soil, building a vast and
+interconnected mesh across the face of the planet.
+Like most well-operating public goods infrastructure, they remain underground and almost entirely
+invisible, even as they serve as a keystone network
+of species sustaining life on earth.
+
+MYCOFI IS ECONOMIC
+BIOMIMICRY
+MyCoFi is a movement to consciously apply lessons
+from the mycelial world to cryptoeconomics, and
+encourage web3 builders to “think like a mushroom”
+about the systems they are designing. Incorporating
+nature’s evolutionary design patterns into our economies could alleviate much of the disharmony we see
+between human economies and nature’s ecologies,
+gesturing towards a future of economic permaculture. This is also the basic premise of ecological
+economics - that we must move away from singular
+notions of value and orient our economies to reflect
+the interdependent coevolution of multiple forms of
+value flows, just as we see in nature.
+
+MYCOFI
+
+209
+
+MYCOFI
+
+210
+
+BLOCKCHAINS
+ARE COORDINATIVE
+INFRASTRUCTURES
+One of the core value propositions of blockchain
+technology is based on the use of distributed network architectures to serve as coordination substrates for new forms of organizing. This offers us
+a unique opportunity to rethink many of the power
+asymmetries we see in legacy systems, some of
+which were the inspiration for blockchain technology
+in the fi rst place. Every time technology has opened
+a path toward new coordinative infrastructures from
+the printing press to the telegraph, to the internet,
+the world has experienced massive shifts in geopolitical structure. Distributed ledger technology holds
+the same potential for paradigmatic and socio-evolutionary shifts.
+
+DAOS AS DIGITAL FUNGI
+Mammals are more closely related to fungi than to
+any other kingdom of life. A key difference is that
+while mammals internalize digestion by putting food
+into their bodies, mycelia externalize it by putting
+their bodies into the food, breaking down and consuming the environment around them. Some of the
+nutrients are absorbed and transported throughout
+the mycelial network to other organisms, while other
+nutrients are left to enrich the soil, enabling new life
+to form and thrive. When a mushroom feasts, it is
+a communal banquet, a public good for the whole
+ecology.
+In contrast to mammalian private corporations that
+
+MYCOFI
+
+211
+
+MYCOFI
+
+212
+
+enclose resources and intellectual property within
+the boundaries of the firm, DAOs could be considered the mycelia of the digital world; they network
+amongst themselves and expand into emergent
+collaborations to build shared value through opensource tooling and an ethos of permissionless
+participation.
+
+If we were to ask this ancient, sentient network its secrets, perhaps it
+would whisper to us of design patterns it has iterated in the depths of
+deep time, patterns such as:
+Network Infrastructure
+
+Fractal Nature
+
+“We are the mycelial networks,
+the ancient weavers of nature’s
+oldest decentralized web.
+Our threads stretch across
+the world, silently sharing resources with all, creating life’s
+sustaining mesh.”
+
+“In us, the fractal patterns of
+the cosmos are echoed. With
+minimal energy, we replicate
+these universal designs of
+self-similarity, from
+the smallest seashell to the
+vastest galaxysustaining
+mesh.”
+
+Adaptive Sense and
+Response
+
+Mutual Reciprocity
+
+“At the edge of the known, we,
+the mycelium, innovate without
+requiring permission from our
+ancient roots. Here we thrive,
+at the frontier, adapting to the
+mysteries of life’s sustaining
+mesh.”
+
+“In our world, a delicate balance of give-and-take prevails.
+We, the fungi, alongside flora
+and fauna, partake in a life-sustaining dance, each exchange
+nurturing the reciprocal cycle
+of existence.”
+
+MYCOFI
+
+213
+
+Polycentric Pluralism
+
+Dynamic Flow
+
+“Within us thrives diversity, a
+celebration of life’s myriad of
+forms. Responsive and varied,
+each part of our network contributes its unique voice to the
+chorus of nature.”
+
+“Our network pulses with
+life, a never-ending flow of
+resources. Like a symphony,
+nourishment courses through
+us, shared freely, never still,
+never hoarded.”
+
+“In our search for regenerative economic design patterns, the answers
+we seek may be hidden right beneath
+our feet.” - MyCoFi book
+
+This essay was
+originally published in
+the MyCoFi book by
+Jeff Emmet & Jessica
+Zartler. It has been
+edited and condensed.
+Read the original @
+
+214
+
+META
+
+EXPLORING
+THE DESIGN
+SPACE
+
+WITH EPHEMERAL DAOS
+
+215
+
+EPHEMERAL DAOS
+
+EPHEMERAL DAOS:
+VEHICLES FOR FASTER
+EXPERIMENTATION
+Ephemeral DAOs exist for a finite period of time to
+achieve specific goals or objectives. Once the goals
+or objectives of the Ephemeral DAO have been
+achieved, the DAO is dissolved, and its assets, if any,
+are distributed back to the participants or transferred to another entity.
+Ephemerality and
+DAO-iness are powerful
+because:
+
+We can learn from decentralized movements of the past,
+many of which ebbed and
+flowed, (Occupy Wall St or the
+Civil Rights movement are two
+examples) and transcribe their
+lessons into our ephemeral
+DAO experiments.
+
+Without the burden of having
+to last forever, we can make
+more pragmatic decisions
+about what to do over a short
+period of time without worrying about entrenching power.
+
+Without the burden of having
+to last forever, the stakes are
+lower, which enables more
+experimentation.
+
+Examples of
+Ephemeral DAOs:
+
+Gitcoin-style Quadratic Funding rounds (weeks long)
+
+Optimism style Retro Funding
+Rounds (weeks long)
+
+Point in time fundraisers like
+ConstitutionDAO or The Free
+Alexey & Roman Legal Defense
+Fundraise 1 (weeks long)
+
+Protocol Guild’s first cohort
+(1 year long)
+
+EPHEMERAL DAOS
+
+Examples (cont’d)
+
+216
+
+Projects like Meta Cartel,
+which dissolved itself after
+transferring all their remaining
+assets to the lawyers of tornado cash devs (years long).
+
+Investment DAOs like those
+created by Hydra Ventures 1 last only as long as they
+have capital to deploy (years
+long).
+
+(other capital allocation
+experiments built on ideas in
+this book)
+
+There is a spectrum of “how much longevity is baked
+into each Ephemeral DAO?” Ephemeral DAOs can
+be shorter lasting (like a SealOrg Whitehat op which
+could be hours-long) or longer lasting (or MetaCartel,
+which wound down after several years).
+
+MetaCartel
+(years)
+
+RetroPGF
+Round (weeks)
+
+SECONDS
+
+LONG LASTING
+
+SHORT LASTING
+
+QF Round
+(weeks)
+
+Point in time
+fundraise
+(moments)
+
+MINUTES
+
+HOURS
+
+DAYS
+
+WEEKS
+
+MONTHS
+
+YEARS
+
+EPHEMERAL DAOS
+
+217
+
+The faster the Ephemeral DAOs lifecycle, the faster
+designers can spin its OODA Loop. The loop of Observe Orient Decide Act is how mechanism designers can iterate towards their potential. Iteration is
+the key to Ephemeral DAOs becoming evolutionary.
+By launching ephemeral DAOs that last for only a
+short amount of time, then tweaking their designs,
+and then launching the next one, DAO designers can
+iterate towards a design goal. Here is a visual example of how Public Goods Funding rounds (each is a
+Ephemeral DAO) can be evolutionary experiments
+creating more value over time through learning and
+iteration.
+
+Observe
+Orient
+Decide
+Act
+Observe
+Orient
+Decide
+Act
+
+Observe
+Orient
+Decide
+Act
+
+PGF Round
+
+LEARNING
+
+VALUE CREATION
+
+PGF Round
+
+PGF Round
+
+TIME
+
+EPHEMERAL DAOS
+
+218
+
+From the perspective of this evolution, software
+communities like Gitcoin are kind of an Ephemeral DAO factory. Gitcoin launches Grants rounds
+(Ephemeral DAOs) and then round over round,
+tweaking the protocols they run on to launch progressively better and better Ephemeral DAOs.
+Ephemeral DAOs exemplify a transformative frontier
+in the realm of decentralized organizations, where
+the temporary nature of these entities not only
+promotes innovation but also allows for agile, purpose-driven engagements that dissolve upon goal
+completion.
+This design strategy minimizes long-term commitments and facilitates rapid experimentation and
+learning, offering a fresh perspective on collaborative efforts and governance.
+This design strategy relies on extituons (soft things
+like culture and relationships) over institutions (har
+things likesmart contracts) in some ways. Like other
+networked organisms, there is a symbiosis between
+the soft parts and the hard parts as the design
+space is traversed.
+As this underexplored space continues to evolve, it
+holds the promise of reshaping our understanding of
+collective action and organizational life cycles in the
+digital age.
+This chapter originally
+appeared on the Gitcoin
+gov forum. Read the whole
+thing @
+
+EPHEMERAL DAOS
+
+219
+
+220
+
+META
+
+EXPLORING
+THE DESIGN
+SPACE
+
+WITH THE DAO
+OF DAOS
+
+DAO OF DAOS
+
+221
+
+The DAO of DAOs is the structure
+that emerges as DAOs begin to interoperate with each other.
+
+AN EXAMPLE (2020)
+One example of DAO of DAOs is the structure of Gitcoin Grants Matching Pool sponsors from GR7-GR15.
+Each sponsorship of the matching pool that supports Ethereum public goods weaves the ecosystem
+together into a mesh network of relationships.
+
+THE DAO OF DAOS
+
+D_D
+
+DAO OF DAOS
+
+222
+
+DAO OF DAOS WILL
+BE A THING
+As DAOs begin to specialize and mature, there will
+be many opportunities for mutually beneficial DAO to
+DAO relationships to occur.
+1. Token Swaps
+2. Technology Swaps
+3. Marketing Relationships
+and so on..
+
+A RECENT EXAMPLE (2023)
+Another example of a DAO of DAOs is the network
+of public goods funding organizations that have
+evolved in order to fund public goods in the ethereum ecosystem. Together, these projects form a
+mesh network of different mechanisms, memes, and
+economics to support Ethereum ecosystem public
+goods. This is an example of “stacking mechanisms
+in practie!”
+Here’s how the funds flow between them:
+
+Public
+Goods
+
+Public
+Goods
+DAO
+Drops
+
+Public
+Goods
+
+Public
+Goods
+CLR.fund
+Public
+Goods
+
+Optimism
+Gitcoin
+
+Public
+Goods
+
+Giveth
+Public
+Goods
+
+RetroPGF
+Public
+Goods
+
+Public
+Goods
+Public
+Goods
+
+DAO OF DAOS
+
+223
+
+THESE PROJECTS
+COORDINATE TO SUPPORT
+THE ETHEREUM ECOSYSTEM
+Each of these DAOs has a way of funding public
+goods, and a different way of distributing those
+funds.
+
+Funding
+
+Funding
+
+Funding
+
+Distribution
+
+Distribution
+
+Distribution
+
+The diversity in mechanisms and funding sources
+creates a more anti-fragile and rich source of funding
+for projects within the ecosystem.
+
+Here is what the volume of these
+fund flows look like as of early 2024:
+$250k
+
+$100m
+
+$3m
+
+$50m
+
+$10m
+
+$3m
+
+DAO OF DAOS
+
+224
+
+THREE LAYERS TO A DAO
+TO DAO PARTNERSHIP
+There are three layers to a DAO to DAO partnership.
+In order from more casual to more serious (from less
+commitment to more commitment).
+
+1.SOCIAL
+INTEROPERABILITY
+In this stage, there are strong relationships being
+built between members of each DAO across DAO.
+A Gitcoin example: DAO members might be invited
+to speak at Gitcoin events like Schelling Point or
+our Public Goods are Good Twitter spaces, or DAO
+Vibes. This is the relationship/rapport/trust building
+stage of of a DAO-to-DAO partnership.
+
+2.PRODUCT/TECHNOLOGY
+INTEROPERABILITY
+The product/technology interop stage is when the
+DAOs start to invest resources into seriously building
+protocol and tooling interop between the products
+of each system.
+Examples of
+this I’ve seen at
+GitcoinDAO
+
+1. Gitcoin leverages Proof of
+Humanity, BrightID or Idena for
+Gitcoin Grants.
+
+2. Developers building on top
+of Allo Protocol or participating in the Capital Allocation
+Srategy Exchange.
+
+3. Gitcoin launches a podcast
+on the Bankless network.
+
+(I’m sure there are many
+others).
+
+DAO OF DAOS
+
+225
+
+3.ECONOMIC INTEROP
+Economic Interop occurs when DAOs begin to share
+economics with each other.
+This can occur as a rev share or as a token swap
+between the entities.
+Examples that we’ve
+seen or hope to see:
+
+1. Gitcoin and Radicle doing a
+token swap.
+
+2. Rev share agreements on
+Allo Protocol.
+
+3. Stablecoins that fund public
+goods like gtcUSD.
+
+IN CONCLUSION
+DAO to DAO partnerships are the atomic building
+block of a DAO of DAOS.
+The DAO of DAOs is the harbringer of the transition
+from single ceullar to multi-cellullar life for the web3
+ecosystem. By specializing and interoperating with
+others, we will build a mesh network of projects that
+rise and fall together - both by coordinating within
+themselves and between each other.
+
+This essay was originally
+published on the Gitcoin
+gov forum. It has been
+edited and condensed.
+Read the original @
+
+As Gitcoin evolves into becoming a capital allocation
+strategy exchange, the DAO of DAOs is an explicit
+part of the strategy. By allowing others to explore
+the design space and then finding a (3, 3) with them/
+Gitcoin, we strengthen Gitcoin as an attractor for the
+regen movement. This cycle could reflexively feed on
+itself and accelerate over time.
+
+226
+
+META
+
+EXPLORING
+THE DESIGN
+SPACE
+
+WITH ALLO PROTOCOL
+
+A LLO P R OTO C O L
+
+227
+
+As of June 2024, Gitcoin has run 20 rounds of its
+Quadratic Funding grants program, and has distributed over $60M to early-stage builders and other
+grantees.
+Gitcoin’s capital allocation protocol, Allo Protocol,
+launched in early 2023 and has powered the Gitcoin
+Grants program ever since. In this chapter, we go indepth into Allo, which marks a strategic cornerstone
+of Gitcoin’s approach to facilitating more dynamic,
+pluralistic, and inclusive funding models. Allo’s
+architecture is designed for extensibility, supporting
+a diverse array of allocation strategies such as Direct
+Grants, Retroactive Public Goods Funding, Quadratic
+Funding, and many future mechanisms.
+By leveraging Gitcoin’s momentum and by building
+and proliferating capital allocation strategies, we
+aim to surmount the limitations faced by traditional
+capital allocation practices - often hindered by a
+lack of transparency, democratic participation, and
+accessibility.
+As tokenization eats the world, our ambition is to
+enhance our collective capability to finance critical
+endeavors and create collective action across various fields. We envision Allo Protocol as an engine of
+exploration of this space. By stewarding a core repository of the best allocation strategies, rigorously
+audited and well-documented smart contracts, best
+practices, a social movement that leverages these
+tools, and other supporting collateral - we position
+Allo as a pivotal player in the decentralized capital
+allocation space.
+This chapter investigates the opportunities enabled
+by Allo, and articulates a pluralistic ecology of capital
+allocation tools, methodologies, and culture. We en-
+
+A LLO P R OTO C O L
+
+228
+
+vision a diversity of types of capital allocation which
+enable collective action for different combinations of
+peoples, cultures, and causes.
+For web3 developers and participants, the advancement of Gitcoin and the rollout of Allo represent new
+opportunities in the pursuit of more equitable and
+effective capital distribution mechanisms.
+We now have programmable money, so we can
+program our values into our money. We can build
+capital allocation systems that solve the problems
+of preciseness, scale, and remove gatekeepers. We
+can build democratic, accessible, transparent, and
+powerful capital allocation systems.
+Gitcoin 2.0 is well positioned to help facilitate this
+vision. Throughout the distribution of $60M to builders through the Gitcoin Grants program, we’ve witnessed the immense impact of capital allocation in
+action. Organizations that are able to make effective
+funding decisions to invest in their ecosystem see
+higher builder activity, user onboarding, and transaction volumes – in short: grants create growth.
+
+Driven by these learnings, we’ve recently launched Gitcoin 2.0. Gitcoin’s
+transformation from 1.0 to 2.0 breaks
+down as the following:
+Transformation from Ethereum-only to being deployed
+across many EVM-based
+networks (Optimism, Arbitrum,
+Base, Polygon, zkSync, Scroll,
+Avalanche, and more).
+
+Transformation from only
+Quadratic Funding to many
+types of capital allocation
+mechanisms (Quadratic Funding, Direct Grants, Retroactive
+Public Goods Funding, and
+more).
+
+Transformation from a centralized, Gitcoin-operated platform
+to a suite of modularized products and protocols that anyone
+can use and build on top of.
+
+A LLO P R OTO C O L
+
+Gitcoin 1.0
+
+Gitcoin 2.0
+
+229
+
+1
+
+centralized product
+
+2
+
+just QF
+
+3
+
+for Ethereum
+
+1
+
+decentralized / modular protocols
+
+2
+
+many mechanisms
+
+3
+
+for any EVM-based community
+
+DESIGN
+PHILOSOPHY
+Throughout the design and development of Gitcoin’s
+tech stack, we’ve adhered to a design philosophy
+grounded in key principles. These tenets are crucial
+for capturing our understanding of the broad spectrum of capital allocation design, yet they maintain
+the flexibility needed as we, along with others
+venturing into this domain, continue to learn and
+innovate.
+
+1. SECURITY FIRST
+Allo Protocol brings capital allocation onchain. We
+believe that this is a foundationally important step
+forward for the capital allocation ecosystem because
+it means we can now introduce credible neutrality,
+
+A LLO P R OTO C O L
+
+230
+
+censorship resistance, and democratic decision-making into capital allocation schemes.
+
+2. SIMPLE CORE, RICH
+PERIPHERY
+This tenant of the Allo design philosophy is how we
+express the Unix philosophy in the protocol. The core
+of the protocol (Allo.sol) creates and funds pools
+and assigns them an allocation strategy (“make each
+program do one thing well”).
+We expect (and hope) that the output of an allocation strategy will be used for a variety of things,
+including potentially funding other pools in Allo
+(“expect the output of every program to become the
+input to another, as yet unknown, program”).
+
+3. LAYERED APPROACH
+GITCOIN’S STACK IS SEPARATED INTO MULTIPLE LAYERS
+PROTOCOL LAYER
+INCUBATED BY
+GITCOIN
+
+APP LAYER
+
+PROGRAM LAYER
+
+Grant Stack
+
+Zuzalu Grants
+Program
+
+Nocode platform
+for running grant
+programs
+
+Allo Protocol
+Gitcoin’s Capital
+Allocation Protocol
+
+Allo Starter Kit
+Developer Starter Kit
+to get you up and
+running on Allo
+quicky
+
+Rounds 1 - 2
+
+Gitcoin Grants
+Program
+GR1 - GG20
+
+BUILT IN
+GITCOIN’S
+EXTENDED
+NETWORK
+MORE EXTENSIBLE
+
+MORE TARGETED
+
+A LLO P R OTO C O L
+
+231
+
+We have designed Allo to have
+a simple, stable, and secure, core of
+four modules.
+These modules follow the Unix Philosophy of doing
+one thing and doing it well, but being interoperable
+with each other. This has allowed us to effectively,
+precisely, and scalable allocate capital.
+
+THE BASIC MODULES
+OF ALLO’S SIMPLE
+CORE ARE:
+Strategy - how to distribute
+capital to the projects in the
+registry.
+
+Registry - list of projects
+that could be funded.
+
+Allo - the central nexus which
+coheres the above three
+elements together.
+
+Tokens being ingested
+into Allo.
+
+THE FLOW OF CAPITAL
+THROUGH ALLO
+Recipient
+Tokens
+
+Recipient
+Allo
+
+Registry
+
+Strategy
+Recipient
+Recipient
+
+A LLO P R OTO C O L
+
+232
+
+REGISTRY
+Allo serves as a protocol for capital allocation tailored for tokenized communities, featuring a novel
+concept of a registry of projects.
+The registry stands as a core foundation of data
+intelligence regarding the activities of projects, individuals involved, their reputation, and attestations
+about their impact.
+
+STRATEGY
+Capital allocation strategies decide where tokens
+should go - often with the help of outside data, especially voting data.
+The strategy is the core foundation of computation
+that takes data from the registry and other impact
+oracles, and computes a distribution of tokens.
+Which is then given to a seperate distribution contract.
+Each of these modules is overridable. From this
+simple core, a rich periphery is enabled. We hope
+Allo eventually supports (and provides off-the-shelf
+to builders) many possible permutations of capital
+allocation registries, tokens, and strategies.
+
+Recipient
+Aqueduct
+
+Tokens
+
+Recipient
+Allo
+
+Registry
+
+Strategy
+Recipient
+Recipient
+
+A LLO P R OTO C O L
+
+233
+
+It is our belief that all permutations of this possibility
+space = (sum of all possible aqueducts) x (sum of all
+possible onchain assets) x (sum of all possible registries) x (sum of all strategies).
+The design space here is vast. We anticipate that
+there will be many valuable configurations of Allo
+Protocol in the future.
+
+THIS DESIGN SPACE
+INCLUDES:
+All possible tokens.
+All possible project
+registries.
+All possible aqueducts.
+All possible strategies.
+
+INCLUDING..
+1. Strategies that Allo already supports (Direct
+Grants, RFPs, QF, RetroPGF).
+2. Strategies that Allo could support (many of which
+are detailed in this book!)
+
+Aqueduct
+Aqueduct
+Aqueduct
+Aqueduct
+Aqueduct
+
+Recipient
+Recipient
+Recipient
+
+Tokens
+Tokens
+Tokens
+Allo
+Registry
+Registry
+Registry
+
+Strategy
+Strategy
+Strategy
+Strategy
+Strategy
+
+Recipient
+Recipient
+Recipient
+Recipient
+
+A LLO P R OTO C O L
+
+234
+
+Exploring the design space through brute force–
+testing every possible model permutation– is inefficient.
+Instead, we refine our strategies by running Allo
+funding rounds and learning from the outcomes,
+employing an iterative OODA loop (Observe, Orient,
+Decide, Act) process that has previously matured
+Gitcoin Grants Stack and the Gitcoin Grants program.
+
+VALUE CREATION
+
+A BETTER DESIGN
+
+Round 5
+
+Round 4
+
+Round 3
+Round 2
+
+Round 1
+
+SEARCH SPACE
+
+A LLO P R OTO C O L
+
+This essay originally appeared in the Gitcoin 2.0
+Rainbowpaper. It has been
+edited and condensed to
+fit this book.
+Read the whole thing @
+
+235
+
+While we endeavour to find the optimal designs for
+capital allocation strategies, we are mindful that
+there is not global optimal design. Instead, it is our
+belief that the design space is pluralistic. There will
+be many different capital allocaiton strategies that
+are good at differnet things.
+
+VALUE CREATION MEASURE Z
+
+VALUE CREATION MEASURE Y
+
+VALUE CREATION MEASURE X
+
+We need a way to discover the most important
+capital allocation strategies, starting with the simpler
+ones and then progressing to the more complicated ones. This book is an early cartography of that
+design space.
+
+Allocation
+Strategy B
+good at Y
+
+Allocation
+Strategy A
+good at X
+
+Allocation
+Strategy C
+good at Z
+
+SEARCH SPACE
+
+236
+
+META
+
+EXPLORING
+THE DESIGN
+SPACE
+
+WITH GITCOIN 2.1:
+THE CAPITAL ALLOCATION STRATEGY
+EXCHANGE
+
+G I T C O I N : T H E C A P I TA L A L L O C AT I O N S T R AT E G Y E X C H A N G E
+
+237
+
+2023 was the year that Gitcoin fell to 3rd place in
+the ETH public goods funding space. Measured by
+volume, Gitcoin’s distribution ($7m) was surpassed
+by Protocol Guild ($10m) and Optimism ($100m).
+In 2019-2020, Gitcoin was a darling of the Ethereum
+ecosystem. Powered by Quadratic Funding—a novel
+mechanism at the time—Gitcoin gained prominence
+as one of the top crowdfunding platforms in the
+Ethereum ecosystem.
+But it was not meant to last. Gitcoin transitioned
+slowly from company to DAO, and the market moved
+on from QF to RetroPGF, Self Curated Registries,
+and more.
+
+NETWORK
+
+MECHANISM
+
+GMV (2023)
+
+Optimism
+
+RetroPGF
+
+$100m
+
+Protocol Guild
+
+Self Curated Registry
+
+$10m
+
+Gitcoin
+
+QF (mostly)
+
+$7m
+
+(To be clear, we <3 Protocol Guild and Optimism.
+Not only for their impact, but for their leadership in
+designing allocation strategies. They are our friends.
+This chapter is not about competing with them in a
+zero sum way, but learning from them and developing positive sum relationships with them).
+About Making Gitcoin Lead Again: in this chapter,
+I propose a path towards catching up (and making
+sure we are uniquely positioned in a strategic way to
+deal with future competition). I propose that Gitcoin
+2.0 facilitates a capital allocation strategy exchange.
+
+G I T C O I N : T H E C A P I TA L A L L O C AT I O N S T R AT E G Y E X C H A N G E
+
+238
+
+A Capital Allocation Strategy Exchange (CASE) is a place
+where capital allocation strategies (CAS) are exchanged.
+It has three primary personas it attracts with distinct jobs
+to be done. I think that Gitcoin can add value to all three
+of these personas by giving each of them what they want.
+
+PERSONA
+
+HAS
+
+JOB TO BE DONE
+
+EXAMPLES
+
+Mechanism
+Innovator
+
+Innovative
+Mechanism
+
+Get distribution for
+mechanism
+
+Glen Weyl & Vitalik
+(QF)
+
+Advance mechanism
+design
+
+Glen Weyl + Vitalik
+(RetroPGF)
+Tim Beiko & Trent Van
+Epps (Protocol Guild)
+Superfluid / Geoweb
+(Streaming QF)
+1Hive (Conviction
+Voting)
+Many more.
+
+Program Manager
+
+$$$$, Community,
+Roadmap
+
+Wants to fund what
+matters in their
+community
+
+Any of Gitcoin’s
+current partners
+
+Wants growth
+
+Mechanism
+Developer
+
+Development
+Skills
+
+Often an app of their
+own
+
+Giveth
+Wants to deploy
+the coolest new
+mechanisms in their
+community
+
+Endaoment
+IDriss
+Gitcoin Grants Stack
+
+G I T C O I N : T H E C A P I TA L A L L O C AT I O N S T R AT E G Y E X C H A N G E
+
+239
+
+Gitcoin is an attractor through its
+social layer, tech layer, and economic
+layer.
+
+NEW OPPORTUNITY
+
+Social Layer
+Value Prop: Be a part of the
+movement. Bring these tools to
+your DAO & help your DAO to
+fund what matters.
+
+Tech Layer
+Value Prop: Leverage Well
+Documented
++ Audited Strategies
++ Ecosystem of tools
+
+Economic Layer
+Value Prop: Token Swaps
++ Rev Share
+
+THE ATTRACTOR OPERATES ON 3 LEVELS
+
+G I T C O I N : T H E C A P I TA L A L L O C AT I O N S T R AT E G Y E X C H A N G E
+
+240
+
+The weight of Gitcoin’s intermingled social, technology, and economic layer provide a schelling point
+for Mechanism Innovators, Mechanism Devs, and
+Program Managers to rally around.
+
+Within the Capital Allocation Strategy Exchange, each actor gets what
+they want
+Mechanism Innovators
+
+Program Managers
+
+Get distribution of their mechanisms, and data about how
+their mechanisms operate in
+the wild. If all goes well, maybe
+even a rev share.
+
+Get access to the latest
+capital allocation mechanisms,
+education training programs,
+and pilot cohorts about how
+they work.
+
+Mechanism Devs
+Get access to well documented, audited contracts, that do
+capital allocation well out of
+the box.
+
+To juice the wheels, Gitcoin could
+provide value-add services, including:
+Well-documented, consumable, audited contracts, integrated into Allo Protocol
+
+Marketing/distribution for new
+mechanisms
+
+Education and training programs
+
+Pilot cohort operations
+
+G I T C O I N : T H E C A P I TA L A L L O C AT I O N S T R AT E G Y E X C H A N G E
+
+Gitcoin Value
+Add:
+1. Distribution
+2. Education and
+training
+programs
+3. Pilot cohorts
+4. Well documented,
+consumable, audited
+contracts
+5. Weaving
+
+NEW MECHANISMS
+
+Program
+Managers
+
+Mechanism
+Dev
+
+Mechanism
+Innovators
+
+Social Layer
+Be a part of the movement.
+Bring these tools to your DAO
+& help your DAO fund what
+matters.
+
+Tech Layer
+Leverage Well Documented
++ Audited Strategies
++ Ecosystem of tools
+
+Economic Layer
+Token Swaps + Rev Share
+
+241
+
+G I T C O I N : T H E C A P I TA L A L L O C AT I O N S T R AT E G Y E X C H A N G E
+
+242
+
+An example of this in practice is
+EasyRetroPGF. Here’s how
+EasyRetroPGF went:
+1. We identified a Mechanism
+Innovator and began building
+a relationship with them
+(Optimism)
+
+2. We forked their software
+and created a well-documented, audited, tool for other
+people to use.
+
+3. We ran educational and
+training programs and invited
+program managers.
+
+4. We get $$$millions in Allo
+GMV
+
+4. Devs built on top of it.
+
+Other examples of mechanisms being
+built by 3rd parties in the ecosystem.
+Other examples:
+
+Another example is Endaoment. They took our QF
+strategy off the shelf and built
+it into their app.
+
+Another example is Impact
+Stream. They took Allo off the
+shelf and built it into their app
+and then ran a pilot.
+
+Another example is GeoWeb/
+Superfluid Streaming Quadratic Funding.
+
+Examples in the works
+right now:
+
+Another example is 1Hive/Conviction Voting (currently being
+built on Allo).
+
+Another example I’ve got coming up is REDACTED, which will
+be announced soon.
+
+G I T C O I N : T H E C A P I TA L A L L O C AT I O N S T R AT E G Y E X C H A N G E
+
+Why do this?
+
+As more and more
+people build on Allo,
+more network value
+accrues, in the
+form of:
+
+243
+
+Relieve the burden of exploring
+the design space alone. Enable
+our network of citizens to do it
+with us.
+
+Repent for the past loss of
+market share, and create a
+path to making up that ground.
+
+Build (3,3)s with other
+ecosystems.
+
+Create exponential network
+utility.
+
+Documented and audited
+strategies on the Allo
+Awesome List.
+
+Social Momentum
+
+Allo GMV
+
+… which reflectively creates more demand for mechanisms.
+
+This essay originally appeared on the Gitcoin Gov
+forum. It has been edited
+and condensed. Read the
+original @
+
+NETWORK UTILITY
+
+The coolest thing about this strategy
+is that it is reflective. Momentum begets momentum - and Metcalfe’s Law
+kicks in. Reflexive growth cycles like
+this can create exponential growth in
+network utility due to Metcalfe’s Law:
+
+Devs
+
+Mechanisms
+based upon Solid
+Game Theory
+
+Products
+with great
+UX
+
+Exchange
+Program
+Managers
+
+Innovators
+$$$ & Data
+
+INTEGRATIONS
+
+META
+
+244
+
+EXPLORING
+THE DESIGN
+SPACE
+
+WITH PRACTICAL
+PLURALISM
+
+P R ACTI CA L P LU R A LI S M
+
+245
+
+AN ESSAY BY AURYN
+MACMILLAN (CLRFUND)
+& KEVIN OWOCKI (GITCOIN)
+The Ethereum network is secured by block producers (currently miners, soon to be replaced by validators). They are the foundation of consensus in the
+Ethereum network, upon which there are trillions of
+dollars of assets and untold untapped potential for
+human coordination.
+Having well-designed, secure, and dependable block
+producers to protect this value is a great strategy to
+defend the network.
+One of the key strategies employed by the Ethereum community to ensure secure and reliable block
+production is client diversity. This means, more than
+one implementation of the specification — they can
+be differentiated by language, architecture, features
+or which part of the network they specialize in. If a
+single client were used by 2/3rds (66%) of validators and it experienced a serious bug, there’s a very
+real risk this could lead to chain instability for users
+and monetary loss for node operators. By treating
+client diversity as a public good and fostering an
+environment where many independent client teams
+are incentivized to implement the Ethereum protocol
+in disparate code bases, the Ethereum community
+bakes in a measure of anti-fragility and resilience
+against bugs in any one implementation.
+
+P R ACTI CA L P LU R A LI S M
+
+246
+
+Client Diversity is pluralism in practice (x axis — time, y axis — resource
+availability)
+
+1
+2
+4
+3
+1. ANTIFRAGILE 2. RESILIENT 3. ROBUST 4. FRAGILE
+
+Pluralism — the understanding that diversity of
+people, beliefs, opinions, mechanisms, approaches,
+implementations, etc., within a given context generally results in better outcomes than in the absence
+of such diversity. Nowhere is this more evident than
+in ecosystems with rich biodiversity; ecosystems
+where radically different flora and fauna work in a
+harmoniously competitive act of mutual regulation
+and perpetuation. This can be seen in how the
+success of one species feeds and is kept in check by
+the success of another species, and so on.
+Pluralism itself is a primitive for antifragile, resilient,
+and regenerative systems. As an ecosystem, Ethereum has done a great job fostering diversity in its mining and validating clients. Similarly, we should insist
+on pluralism across the full stack of web3 technologies and culture. This includes discrete products like
+wallets, RPC nodes, DAO tooling, public goods funding mechanisms, AMMs, stablecoins, and developer
+tooling, as well as the intangibles influences like the
+people, groups, communities, and opinions which
+participate in and hold sway over our ecosystem.
+
+P R ACTI CA L P LU R A LI S M
+
+247
+
+P R ACTI CA L P LU R A LI S M
+
+248
+
+We are writing this essay because we believe in
+client diversity. We believe in pluralism as a primitive.
+And we want you to join us in extending the ethos
+of client diversity and pluralism to other layers of the
+stack. By having pluralism as a core value of each
+vertical, we make it more likely the space tends towards capture-resistance — not fragility. Participants
+should be able to choose to use or not use any one
+of a number of options for any given need.
+By having pluralism at the heart of each niche, we
+ensure the space is antifragile. If there is a major bug
+discovered in one system, the resulting cascading
+harm can only go so far because there will always be
+another dApp ready to pick up the slack. For web3
+to truly express itself, diversity and pluralism must be
+core values.
+To all those who would seek to build, enshrine, and
+defend moats in our shared virtual machine, to build
+systems incapable of composition, incapable of componentization, incapable of being permissionlessly
+replaced by some alternative:
+We say this is a pattern of the past, an antipattern in
+web3. It’s a pattern enabled by permissioned access
+to, and control of, data.
+This pattern will be made redundant in our version of
+the internet, made redundant by our shared virtual
+machine.
+The future will be dominated by much more emergent systems; organic compositions of many
+discrete and interchangeable components, built by
+disparate people, in combinations never dreamt of by
+their creators.
+
+P R ACTI CA L P LU R A LI S M
+
+249
+
+The future will be dominated by much more emergent systems; organic compositions of many
+discrete and interchangeable components, built by
+disparate people, in combinations never dreamt of by
+their creators.
+It is through this diversity that we build anti-fragility,
+and a resilience to capture, censorship, and stagnation.
+We challenge the protocols at the center of the NFT,
+DeFi, DAO Tooling ecosystems to adopt practical
+pluralism as part of their design philosophy & broader Ethos.
+
+Special thanks to TJ Rush,
+Trent Van Epps, and members of
+GitcoinDAO, for reviewing drafts of
+this essay.
+
+This essay was originally
+published in 2022. It has been
+edited and condensed. Read
+the original @
+
+META
+
+PARTING
+THOUGHTS
+
+250
+
+PA R T I N G T H O U G H T S
+
+251
+
+IT’S ALL
+COORDINATION
+The Prisoner’s Dilemma is a classic problem in game
+theory, illustrating why two rational individuals might
+not coordinate, even if it seems to be in their best
+interest. In the scenario, two prisoners are accused
+of a crime and must decide independently whether
+to confess or remain silent. If both remain silent, they
+receive light sentences. If one confesses while the
+other remains silent, the confessor gets a lenient
+sentence while the silent one gets a harsh sentence.
+If both confess, they receive moderate sentences.
+The dilemma highlights how individual incentives
+can lead to a worse collective outcome.
+
+A/B
+
+B STAYS SILENT
+
+B BETRAYS
+
+A stays silent
+
+-1
+
+-1
+
+-3
+
+0
+
+A betrays
+
+0
+
+-3
+
+-2
+
+-2
+
+If we could solve the Prisoner’s Dilemma by ensuring
+cooperation over self-interest, it could profoundly impact society by fostering greater trust and
+collaboration. This would lead to more efficient and
+mutually beneficial outcomes in various fields such
+as economics, politics, and social interactions. Enhanced cooperation could reduce conflicts, increase
+collective problem-solving, and create more equitable and sustainable systems, ultimately improving
+overall societal welfare and stability.
+
+252
+
+PA R T I N G T H O U G H T S
+
+I think that each of the onchain coordination mechanisms in this book create new ways of solving the
+Prisoners Dilemna. Used together, they could provide
+overwhelming momentum for coordination and collective action (but without sacrificing sovereignty).
+
+The capital allocation strategies denoted in this book are all working in
+the tradeoff space of:
+
+Principal vs agent
+(as in principal agent
+problem)
+
+Mutualism vs
+elitism
+
+Coordination vs defection
+(as in Prisoner’s Dilemma)
+
+Individualism vs
+collectivism
+
+Centralization vs
+decentralization
+
+Commons vs
+private
+
+253
+
+PA R T I N G T H O U G H T S
+
+This tradeoff space is active at many
+levels of the universe at different
+scales (cells, organs, organisms, families, organizations, companies, etc.),
+and in some spots it veers into coordination failure.
+
+Strings
+
+Quarks & Gluons
+
+Hadrons & Electrons
+
+Atom
+Molecule
+Organelle
+
+Cell Cancer
+
+Tissue
+Organ
+
+City, town, village
+
+Organ system
+
+Person
+
+Family
+
+Local community Crime
+State or province
+Country Corruption
+
+Continent
+
+Planet
+
+Galaxy cluster
+Star System
+
+Climate change
+
+Galaxy
+
+Galactic supercluster
+Supercluster complex
+Universe
+Multiverse
+
+PA R T I N G T H O U G H T S
+
+254
+
+Let’s reason about these varying
+levels of scale. But first, some vocabulary:
+A holon is a system or entity that is both a whole
+in itself and a part of a larger system. Each of the
+capital allocation strategies that we’ve discussed in
+these pages are a way of ordering the relationship
+between holons - up and down the holarchy. A holarchy is a hierarchical structure where each level is
+composed of holons that are both whole entities and
+parts of a larger system.
+Now that we’ve got blockchains - a better substrate
+for human coordination - will we be able to create
+better systems for human coordination? Can we
+solve coordination failures in human families, communities, cities, states, countries, or globally?
+This is my theory of change: blockchains offer an
+unprecedently effective medium for navigating
+coordination failures and experimenting in new ways
+to harmonize the individual within their collective
+and vice versa, between individual humans (and their
+bots), all of humanity, and every level of the stack
+between them.
+What if we could offer better ways of coordinating
+groups, whilst still respecting the sovereignty of
+the individual? What if we could solve for these
+tradeoffs in one part of the stack and easily proliferate that to other parts of the stack? If we can’t
+solve it, we could at least make forward progress to
+align incentives, rights, and privileges in new, more
+elegant ways.
+
+PA R T I N G T H O U G H T S
+
+255
+
+If you consider all of the different holons you are a
+part of, you may notice how much of your relations
+between other humans are mediated by ineffective
+coordination.
+
+INTERSECTIONAL
+IDENTITY
+Ethereum ecosystem
+
+GitcoinDAO
+
+You
+Your DAO
+
+Readers of this book
+
+Owocki
+
+IN CLOSING
+The greatest pleasure of writing this book was to
+showcase all of the powerful ways we are provoking
+a new social contract between the individual and the
+collective. Each of the onchain coordination networks in this book are embodiments of this potential.
+At the same time as we recognize this tradeoff
+space and work to solve for it, we must realize also
+individualism vs collectivism are a false dualism.
+You are both an individual human and a collective
+(of cells). When you realize that cancer and climate
+change are driven by the same phenomena—coordination failures (Moloch)—just at different parts of the
+stack, you will see this false dualism at work.
+
+PA R T I N G T H O U G H T S
+
+256
+
+Our task is to integrate globally shared knowledge
+(like the mechanisms we invent in the Ethereum
+space) with localized trust networks (like our communities) to create sustainable and resilient communities. This is the vision of Cosmolocalism - a new
+movement that recognizes where globalization has
+failed and aims to combine the best parts of the
+global with the local.
+
+Culture
+
+GEOGRAPHIC COMMUNITIES
+
+DIGITAL COMMUNITIES
+
+What if we could cross-pollinate world-class capital allocation strategies (globalism) with the deep
+legitimacy, high lindy, and rich relationality of local
+communities (localism)?
+
+Learnings
+Mechanisms
+
+Digital BioRegion- Localized Digital
+al Governance
+Communities
+
+We are only in the beginning of the pre-transition era
+to a more coordinated world. This is our moment to
+accelerate the transition to a world that has solved
+coordination failures at scale.
+
+PRE-TRANSACTION
+
+MID-TRANSACTION
+
+END-STATE
+
+Current
+
+2025 - 2035
+
+2040+?
+
+PA R T I N G T H O U G H T S
+
+257
+
+STAY BASED,
+STAY GREENPILLED.
+OWOCKI
+
+258
+
+Wait it’s
+
+259
+
+Always has been
+
+all Coordination?
+
+META
+
+CALL
+TO ACTION
+
+260
+
+CALL TO ACTI O N
+
+261
+
+USE THESE
+MECHANISMS
+Many of these mechanisms featured in this book
+are either available to use via Gitcoin, available via
+another organization, available via open source
+software, or on a roadmap somewhere within the
+Ethereum ecosystem.
+
+WE’D LOVE TO HELP
+YOU GET ONBOARDED
+Mechanism designer?
+
+Developer?
+
+Get distribution for your latest
+mechanism via Gitcoin.
+
+Fork the mechanism and extend it, or build it into your app.
+
+Grants program
+manager?
+DM Owocki
+
+Join the telegram
+group to git
+involved.
+
+Use the latest and greatest
+coordination tech in your
+ecosystem.
+
+CALL TO ACTI O N
+
+262
+
+FEEDBACK
+WELCOME
+Notice a typo?
+Did I forget a mechanism?
+Did I miss something?
+Are you an individualist who thinks collectivism
+is always bad?
+Are you an collectivist who thinks individualism
+is always bad?
+Got an idea to accelerate the regen movement?
+Did I do something differently than you would, and
+did it ruin your whole day?
+
+Let me know
+DM Owocki
+
+Join the telegram
+group to git
+involved.
+
+CALL TO ACTI O N
+
+263
+
+264
+
+META
+
+SHILL ZONE
+
+YOU ARE NOW ENTERING
+A SHILL ZONE
+
+SPONSORED BY
+GITCOIN 2.1
+
+SHILL ZONE
+
+265
+
+SHOULDA,
+COULDA,
+WOULDA...
+
+easyretropgf.xyz
+
+NOW YOU CAN
+UNLOCK THE POWER
+OF RETROACTIVE
+FUNDING
+
+SHILL ZONE
+
+266
+
+GITCOIN IS A
+STRANGE LOOP
+Build Gitcoin
+
+Build on
+Ethereum
+
+GTC TREASURY
+
+Use Ethereum to
+Build Ethereum
+
+Use Gitcoin
+to Build Gitcoin
+
+SHILL ZONE
+
+267
+
+It’s so over
+
+DON’T GIVE UP
+
+We are so back soon
+
+This BOOK is your invitation to build
+this vision & help shape/accelerate
+Gitcoin 2.1
+
+by
+
+NICE PLAN,
+NOW WHAT?
+
+268
+
+269
+
+A.
+
+A.
+
+LET YOUR PLAN
+GATHER DUST
+
+BUILD YOUR PROGRAM
+WITH GITCOIN GRANTS
+STACK
+
+Book a demo
+
+270
+
+
